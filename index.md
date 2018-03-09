@@ -1,6 +1,6 @@
 ---
 title: Web Content Accessibility Guidelines (WCAG) Overview
-permalink: /standards/wcag/
+permalink: /standards-guidelines/wcag/
 layout: default
 ---
 
