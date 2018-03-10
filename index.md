@@ -142,7 +142,7 @@ FAQ](http://www.w3.org/2010/04/pasfaq).
 WCAG is part of a series of accessibility guidelines, including the
 Authoring Tool Accessibility Guidelines (ATAG) and the User Agent
 Accessibility Guidelines (UAAG). [Essential Components of Web
-Accessibility](http://www.w3.org/WAI/intro/components.php) explains the
+Accessibility]({{ "/fundamentals/components/" | relative_url }}) explains the
 relationship between the different guidelines.
 
 # Who develops WCAG {#wg}
