@@ -2,6 +2,8 @@
 title: Web Content Accessibility Guidelines (WCAG) Overview
 permalink: /standards-guidelines/wcag/
 layout: default
+github:
+  repository: w3c/wai-intro-wcag
 ---
 
 {::nomarkdown}
