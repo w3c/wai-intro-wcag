@@ -38,7 +38,7 @@ github:
 Web Content Accessibility Guidelines (WCAG) is developed through the
 [W3C process](http://www.w3.org/WAI/intro/w3c-process.php) in
 cooperation with individuals and organizations around the world, with a
-goal of proving a single shared standard for web content accessibility
+goal of providing a single shared standard for web content accessibility
 that meets the needs of individuals, organizations, and governments
 internationally.
 
@@ -56,7 +56,7 @@ WCAG is primarily intended for:
 -   Web content developers (page authors, site designers, etc.)
 -   Web authoring tool developers
 -   Web accessibility evaluation tool developers
--   Others who want or need a standard for web accessibility
+-   Others who want or need a standard for web accessibility, including for mobile accessibility
 
 Related resources are intended to meet the needs of many different
 people, including policy makers, managers, researchers, and others.
@@ -65,7 +65,7 @@ WCAG is a technical standard, not an introduction to accessibility. For
 introductory material, see [Where should I start? in the
 FAQ](http://www.w3.org/WAI/WCAG20/wcag2faq.html#start).
 
-## What is in WCAG 2.0 {#whatis2}
+## What is in the WCAG 2.0 Documents {#whatis2}
 
 **[WCAG 2.0](/TR/WCAG20)** is a stable, referenceable technical
 standard. It has 12 guidelines that are organized under [4 principles:
@@ -107,21 +107,19 @@ For more details on how these document are related and how they are
 linked, see [**The WCAG 2.0
 Documents**](http://www.w3.org/WAI/intro/wcag20).
 
+### Translations
+
+Authorized Translations and unofficial translations of WCAG 2.0 are listed in [WCAG 2.0 Translations](http://www.w3.org/WAI/WCAG20/translations.html).
+
 ### Technical document format
 
 The WCAG, Techniques, and Understanding documents follow the W3C format
 for technical reports, which has several sections at the beginning,
 including links to different versions, editors, abstract, and status.
 
-### Additional support material in progress {#related}
+### Supplemental guidance {#supplement}
 
-WAI is planning additional material to help web developers develop
-accessible web content that conforms to WCAG 2.0. In 2012 we plan to
-develop "Application Notes" (working title) to provide guidance for
-specific topics, such as images, links, or tables. For example, an
-Application Note on forms would start with simple examples and include
-the WCAG 2.0 success criteria, techniques, and strategies for developing
-accessible forms.
+Supplement guidance provides additional information on making the web more accessible. It goes beyond what is covered in WCAG 2.0 and 2.1. Links to supplemental guidance will be  added to this section in April 2018.
 
 ## WCAG 2.0 is ISO/IEC 40500 {#iso}
 
@@ -139,7 +137,9 @@ FAQ](http://www.w3.org/WAI/WCAG20/wcag2faq#iso). More information on W3C
 and the ISO process is in the [W3C PAS
 FAQ](http://www.w3.org/2010/04/pasfaq).
 
-## WCAG with other guidelines {#components}
+## WCAG 2.1 and other guidelines {#components}
+
+**WCAG 2.1 is currently in development and is scheduled to be published as a standard in June 2018. See [What about WCAG 2.1?](http://www.w3.org/WAI/WCAG20/wcag2faq#v21) in the WCAG 2 FAQ for more information.**
 
 WCAG is part of a series of accessibility guidelines, including the
 Authoring Tool Accessibility Guidelines (ATAG) and the User Agent
@@ -149,8 +149,8 @@ relationship between the different guidelines.
 
 # Who develops WCAG {#wg}
 
-The WCAG technical documents are developed by the Web Content
-Accessibility Guidelines Working Group ([WCAG WG](/WAI/GL/)), which is
+The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](/WAI/GL/)) *(formerly the Web Content
+Accessibility Guidelines Working Group)*, which is
 part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web
 Accessibility Initiative ([WAI](/WAI/)).
 
@@ -167,12 +167,12 @@ in [Participating in WAI](/WAI/participation).
 See the [WCAG 2 FAQ](http://www.w3.org/WAI/WCAG20/wcag2faq) for more
 information on:
 
--   [Translations](http://www.w3.org/WAI/WCAG20/wcag2faq#languages) into
-    other languages
--   WCAG 2.0 coverage of [mobile
-    accessibility](http://www.w3.org/WAI/WCAG20/wcag2faq#mobile)
--   WCAG 2.0 applicability to [non-W3C
-    technologies](http://www.w3.org/WAI/WCAG20/wcag2faq#othertechs)
--   How WCAG 2.0 is [different from WCAG
-    1.0](http://www.w3.org/WAI/WCAG20/wcag2faq#different)
+-   **[Translations](http://www.w3.org/WAI/WCAG20/wcag2faq#languages) into
+    other languages**
+-   **WCAG 2.0 coverage of [mobile
+    accessibility](http://www.w3.org/WAI/WCAG20/wcag2faq#mobile)**
+-   **WCAG 2.0 applicability to [non-W3C
+    technologies](http://www.w3.org/WAI/WCAG20/wcag2faq#othertechs)**
+-   **How WCAG 2.0 is [different from WCAG
+    1.0](http://www.w3.org/WAI/WCAG20/wcag2faq#different)**
 -   and more...
