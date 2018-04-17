@@ -147,7 +147,7 @@ Accessibility Guidelines (UAAG). [Essential Components of Web
 Accessibility]({{ "/fundamentals/components/" | relative_url }}) explains the
 relationship between the different guidelines.
 
-# Who develops WCAG {#wg}
+## Who develops WCAG {#wg}
 
 The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](/WAI/GL/)) *(formerly the Web Content
 Accessibility Guidelines Working Group)*, which is
