@@ -12,10 +12,15 @@ github:
 
 This page introduces the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
 
+Quick links to resources:
+* [How to Meet WCAG 2.0 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
+* [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
+* [WCAG 2.0 at a Glance](http://www.w3.org/WAI/WCAG20/glance/)
+* [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
