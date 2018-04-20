@@ -119,7 +119,7 @@ including links to different versions, editors, abstract, and status.
 
 ### Supplemental guidance {#supplement}
 
-Supplement guidance provides additional information on making the web more accessible. It goes beyond what is covered in WCAG 2.0 and 2.1. Links to supplemental guidance will be  added to this section in April 2018.
+Supplemental guidance provides additional information beyond what is required in WCAG 2.0 and 2.1. It addresses improving accessibility for people with cognitive disabilities and people with low vision. Links to supplemental guidance will be added to this section in 2018.
 
 ## WCAG 2.0 is ISO/IEC 40500 {#iso}
 
