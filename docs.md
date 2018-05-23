@@ -16,8 +16,10 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page describes the different Web Content Accessibility Guidelines (WCAG) 2 technical documents, to help you know where to go for which type of information. **For background and an introduction to WCAG, see [Web Content Accessibility Guidelines (WCAG)
-Overview](http://www.w3.org/WAI/intro/wcag.php).**
+This page describes the different Web Content Accessibility Guidelines (WCAG) 2 technical documents. It helps you know where to go for which type of information.
+
+For background and an introduction to WCAG, see [Web Content Accessibility Guidelines (WCAG)
+Overview](http://www.w3.org/WAI/intro/wcag.php).
 
 {::nomarkdown}
 {% include box.html type="end" %}
