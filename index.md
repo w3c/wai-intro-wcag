@@ -38,19 +38,6 @@ Quick links to resources:
 ## Introduction {#intro}
 {:.no_toc}
 
-{::nomarkdown}
-{% include box.html type="start" h="2" title="Quick links" class="full" %}
-{:/}
-
--   [How to Meet WCAG 2.0 (Quick
-    Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
--   [WCAG 2.0 Technical Standard](http://www.w3.org/TR/WCAG20/)
--   [WCAG 2.0 at a Glance](http://www.w3.org/WAI/WCAG20/glance/)
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
 Web Content Accessibility Guidelines (WCAG) is developed through the
 [W3C process](http://www.w3.org/WAI/intro/w3c-process.php) in
 cooperation with individuals and organizations around the world, with a
