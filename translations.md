@@ -42,7 +42,7 @@ W3C provides two types of translations:
 -   [Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a formal review process and are endorsed by W3C.
 -   [Unofficial translations](http://www.w3.org/Consortium/Translation/#auth) are not reviewed and are not endorsed by W3C.
 
-## 2.1 Completed and Planned Translations {#progress}
+## WCAG 2.1 Completed and Planned Translations {#progress}
 
 <table class="langstable">
   <thead>
@@ -54,7 +54,7 @@ W3C provides two types of translations:
   </thead>
   <tbody>
      <tr>
-        <th id="zh21">Chinese (Simplified)</a></th>
+        <th id="zh21">Chinese (Simplified)</th>
         <td></td>
         <td>Translation in progress</td>
      </tr>
@@ -62,7 +62,7 @@ W3C provides two types of translations:
 	</table>
 
 
-## 2.0 Completed and Planned Translations
+## WCAG 2.0 Completed and Planned Translations
 
 <table class="langstable">
   <thead>
