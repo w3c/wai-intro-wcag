@@ -5,6 +5,7 @@ layout: default
 github:
   path: 'docs.md'
 footer: >
+  <p><strong>Date:</strong> Updated 23 May 2018. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
@@ -38,7 +39,7 @@ Overview](http://www.w3.org/WAI/intro/wcag.php).**
 
 ## Different documents for different purposes
 
-![diagram of documents described in the text]({{ "/content-images/wai-intro-wcag/wcag20docs.png" | relative_url }})<br>Figure 1: WCAG 2 documents
+![diagram of documents described in the text]({{ "/content-images/wai-intro-wcag/wcag20docs.png" | relative_url }})<br>Figure 1: WCAG 2.0 documents. WCAG 2.1 has the same type of documents.
 
 ### WCAG 2
 
