@@ -18,43 +18,6 @@ footer: >
 This page introduces the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
 
 Quick links to resources:
-* [How to Meet WCAG 2.0 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
-* [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
-* [WCAG 2.0 at a Glance](http://www.w3.org/WAI/WCAG20/glance/)
-* [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-{::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
-{:/}
-
-{::options toc_levels="2" /}
-
--   This text will be replaced by the TOC.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
----
-title: Web Content Accessibility Guidelines (WCAG) Overview
-permalink: /standards-guidelines/wcag/
-layout: default
-github:
-  repository: w3c/wai-intro-wcag
----
-
-{::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
-{:/}
-
-This page introduces the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
-
-Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
 * [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
 * [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
