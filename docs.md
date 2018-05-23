@@ -50,7 +50,7 @@ designed to be a stable, referenceable technical standard. Most people
 will use the supporting documents when developing Web content and Web
 tools, instead of the actual technical standards document.
 
-### How to Meet Customizable Quick Reference
+### How to Meet WCAG 2 (Quick Reference)
 
 [How to Meet WCAG 2: A customizable quick reference to WCAG 2
 requirements (Success Criteria) and
