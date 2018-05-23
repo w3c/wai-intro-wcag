@@ -4,37 +4,65 @@ permalink: /standards-guidelines/wcag/translations/
 layout: default
 github:
   path: 'translations.md'
-footer: '<p>Editors: Shadi Abou-Zahra and Shawn Lawton Henry. Developed with the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>'
+footer: >
+  <p><strong>Date:</strong> Updated 23 May 2018. First published 2 March 2009.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
+
 ---
 
-**Status:** Updated 14 March 2017
 
-This page lists translations of [Web Content Accessibility Guidelines
-(WCAG) 2.0](http://www.w3.org/WAI/intro/wcag.php). Other pages provide
-[Translations of all W3C
-Documents](http://www.w3.org/2005/11/Translations/Lists/OverviewLang),
-[Translations of WAI
-Documents](http://www.w3.org/2005/11/Translations/Query?wai=any),
-[Search for all W3C
-Translations](http://www.w3.org/2005/11/Translations/TranslationSearch).
-Information about translating W3C resources is provided in [W3C
-Translations](http://www.w3.org/Consortium/Translation/) and
-[Translating WAI Documents](http://www.w3.org/WAI/translation).
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
 
-Completed and Planned WCAG 2.0 Translations {#progress}
---------------------------------------------------------
+This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{:/}
+
+{::options toc_levels="2" /}
+
+-   This text will be replaced by the TOC.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
+
+## Types of Translations
 
 W3C provides two types of translations:
 
--   [Authorized
-    Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a
-    formal review process and are endorsed by W3C.
--   [Unofficial
-    translations](http://www.w3.org/Consortium/Translation/#auth) are
-    not reviewed and are not endorsed by W3C.
+-   [Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a formal review process and are endorsed by W3C.
+-   [Unofficial translations](http://www.w3.org/Consortium/Translation/#auth) are not reviewed and are not endorsed by W3C.
 
-The "Translation status" in the table below links to completed
-translations and indicates the status of active translations.
+## 2.1 Completed and Planned Translations {#progress}
+
+<table class="langstable">
+  <thead>
+     <tr>
+        <th scope="col">Language</th>
+        <th scope="col">Translations available</th>
+        <th scope="col">Notes and e-mail notifications</th>
+     </tr>
+  </thead>
+  <tbody>
+     <tr>
+        <th id="zh21">Chinese (Simplified)</a></th>
+        <td></td>
+        <td>Translation in progress</td>
+     </tr>
+	</tbody>
+	</table>
+
+
+## 2.0 Completed and Planned Translations
 
 <table class="langstable">
   <thead>
@@ -205,13 +233,27 @@ translations and indicates the status of active translations.
   </tbody>
 </table>
 
-Additional Contact
-------------------
+## More Information
+
+For more information on WCAG, see the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+
+Lists of other translsations are available: [Translations of all W3C
+Documents](http://www.w3.org/2005/11/Translations/Lists/OverviewLang),
+[Translations of WAI
+Documents](http://www.w3.org/2005/11/Translations/Query?wai=any),
+[Search for all W3C
+Translations](http://www.w3.org/2005/11/Translations/TranslationSearch).
+
+Information about translating W3C resources is provided in [W3C
+Translations](http://www.w3.org/Consortium/Translation/) and
+[Translating WAI Documents](http://www.w3.org/WAI/translation).
 
 All W3C translations, including translations of WCAG 2.0, should be
 announced to the [W3C Translators
 List](http://www.w3.org/Consortium/Translation/#discussions) ([public
 archive](http://lists.w3.org/Archives/Public/w3c-translators/)) to
-facilitate collaboration and to avoid duplication of effort. For
-additional information about WCAG 2.0 translations, contact Shadi
+facilitate collaboration and to avoid duplication of effort.
+
+For
+additional information about WCAG translations, contact Shadi
 Abou-Zahra <shadi@w3.org>.
