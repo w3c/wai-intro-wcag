@@ -58,8 +58,7 @@ footer: >
   <h2 id="v21">What about WCAG 2.1?</h2>
   <p>WCAG 2.1 is currently in development and is scheduled to be published as a standard in June 2018. The primary focus for WCAG 2.1 is accessibility requirements for mobile accessibility, people with low vision, and people with cognitive and learning disabilities.</p>
   <p><strong>Content that conforms to WCAG 2.1 also conforms to WCAG 2.0</strong>. (This is often called &quot;backwards compatible&quot;.) Therefore, a website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.</p>
-  <p>WCAG 2.1 will not deprecate or supersede WCAG 2.0. Both will be existing standards.</p>
-  <p>W3C advises that content and policies use WCAG 2.1.</p>
+  <p>WCAG 2.1 will not deprecate or supersede WCAG 2.0. Both will be existing standards.<br/>W3C encourages you to use the most recent version of WCAG when developing or updating accessibility policies.</p>
   <h2 id="next">What's next after WCAG 2.1?</h2>
   <p>The Accessibility Guidelines Working Group is also exploring future accessibility guidelines through the <a href="https://www.w3.org/WAI/GL/task-forces/silver/">Silver Task Force</a>. Additional information is available in a <a href="https://docs.google.com/presentation/d/1YjaxD3qNAUV0dcx485AyEpq5RY_WpXgFk27TozDbPM8/edit#slide=id.p">Silver presentation</a>. This project will take several years.</p>
   <p>In the interim, the Working Group might decide to develop WCAG 2.2 to provide additional updates to address current accessibility requirements.</p>
