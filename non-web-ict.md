@@ -6,16 +6,18 @@ github:
   repository: w3c/wai-intro-wcag
   path: 'non-web-ict.md'
 footer: >
-  <p><strong>Status: Draft</strong> updated $Date: 2016/05/18 00:51:56 $<br> 
-  <!-- Editor: <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. -->
-  Editors: Shawn Lawton Henry and Judy Brewer. Developed with the <a href="http://www.w3.org/WAI/GL/WCAG2ICT-TF/">WCAG2ICT Task Force</a> and the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date:</strong> Updated 24 May 2018.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
+  <p>Developed with input from the <a href="http://www.w3.org/WAI/GL/WCAG2ICT-TF/">WCAG2ICT Task Force</a> and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-**Quick link: [WCAG2ICT Note](http://www.w3.org/TR/wcag2ict/)**
+This page introduces the document: "Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)".
+
+Quick link: [WCAG2ICT Note](http://www.w3.org/TR/wcag2ict/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
