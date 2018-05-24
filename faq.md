@@ -54,11 +54,11 @@ footer: >
   <p><a href="http://www.w3.org/TR/WCAG20/">WCAG 2.0</a> was published as a final W3C Recommendation Web Standard on 11 December 2008. It will not change.</p>
   <p>WCAG 2.1 is expected to be published in June 2018. Once published, it will not change.</p>
   <p>The supporting resources &mdash; Techniques for WCAG 2 and Understanding WCAG 2  &mdash; are updated periodically to reflect updates in technologies and best practices.</p>
-  <p><em>See also  important information in the next answer about WCAG 2.1:</em></p>
+  <p><em>See also important information in the next answer about WCAG 2.1:</em></p>
   <h2 id="v21">What about WCAG 2.1?</h2>
   <p>WCAG 2.1 is currently in development and is scheduled to be published as a standard in June 2018. The primary focus for WCAG 2.1 is accessibility requirements for mobile accessibility, people with low vision, and people with cognitive and learning disabilities.</p>
-  <p><strong>Content that conforms to WCAG 2.1  also conforms to WCAG 2.0</strong>. (This is often called &quot;backwards compatible&quot;.) Therefore, a website that meets WCAG 2.1 should meet the  requirements of policies that reference WCAG 2.0.</p>
-  <p>WCAG 2.1 does not deprecate or supersede  WCAG 2.0. Both are existing standards.</p>
+  <p><strong>Content that conforms to WCAG 2.1 also conforms to WCAG 2.0</strong>. (This is often called &quot;backwards compatible&quot;.) Therefore, a website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.</p>
+  <p>WCAG 2.1 will not deprecate or supersede WCAG 2.0. Both will be existing standards.</p>
   <p>W3C advises that content and policies use WCAG 2.1.</p>
   <h2 id="next">What's next after WCAG 2.1?</h2>
   <p>The Accessibility Guidelines Working Group is also exploring future accessibility guidelines through the <a href="https://www.w3.org/WAI/GL/task-forces/silver/">Silver Task Force</a>. Additional information is available in a <a href="https://docs.google.com/presentation/d/1YjaxD3qNAUV0dcx485AyEpq5RY_WpXgFk27TozDbPM8/edit#slide=id.p">Silver presentation</a>. This project will take several years.</p>
@@ -69,7 +69,7 @@ footer: >
   <p class="listintro">If you want a really short introduction to 3 web accessibility issues (alternative text for images, keyboard input, and transcripts), see <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/#examples">Examples of Web Accessibility</a>.</p>
   <p class="listintro">To learn about web accessibility principles and guidelines, see <a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a>.</p>
   <p><strong>To learn about WCAG 2 specifically, start with the <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG Overview</a>.</strong> It provides an important foundation for understanding the different WCAG 2 documents, and points to several resources for using WCAG 2.</p>
-  <p><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2.0: A customizable quick reference</a> is the primary resource for developers using WCAG 2.0.<!-- @@ 2.0?2.1?--></p>
+  <p><a href="http://www.w3.org/WAI/WCAG20/quickref/">How to Meet WCAG 2: A customizable quick reference</a> is the primary resource for developers using WCAG 2.</p>
   <h2 id="docs">What are the different WCAG 2 documents?</h2>
   <p>To learn how the different WCAG 2 technical documents are related and linked, see <a href="http://www.w3.org/WAI/intro/wcag20">The WCAG 2 Documents</a>.</p>
   <p>Here's a little more perspective on the different technical documents. When web content and web software developers were using WCAG <em><strong>1.0</strong></em>, they had many questions on how to implement it, how to evaluate for it, and the reasons behind its requirements. WAI wanted to provide this information with WCAG 2, and since those details don't fit well in a technical standard, they are in the supporting documents.</p>
@@ -78,7 +78,7 @@ footer: >
   <p><strong>No</strong>, you do not have to use the   techniques in W3C's <cite>Techniques for WCAG 2</cite> document.</p>
   <p>The techniques are informative; that means they are not required. The basis for determining conformance to WCAG 2 is the success criteria from the WCAG 2 standard — not the techniques.</p>
   <p>While many authors find W3C-documented techniques useful, there may be other ways to meet WCAG success criteria. You can use other techniques. Web content could even fail a particular technique test, yet still meet WCAG in a different way. Also, content that uses some of the  Techniques does not necessarily meet all WCAG success criteria.</p>
-  <p><strong>For important additional information, see the <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/understanding-techniques.html">Understanding Techniques for WCAG Success Criteria section</a></strong><em>[@@ change link to 2.1 doc]</em><strong> of Understanding WCAG 2.1</strong>.</p>
+  <p><strong>For important additional information, see the <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/understanding-techniques.html">Understanding Techniques for WCAG Success Criteria section</a> of Understanding WCAG 2.1</strong>.</p>
   <h2 id="techsnot">What would be the negative consequences of allowing <em>only</em> W3C's published techniques to be used for conformance to WCAG 2?</h2>
   <p>Background:  Some organizations have considered requiring all web content to use  W3C's published techniques.</p>
   <p><strong>W3C recommends that the only thing that is required is meeting the WCAG 2 success criteria. </strong>The basis for determining conformance to WCAG 2 is the success criteria from the WCAG 2 standard — not the techniques. <span class="prefix">W3C's <cite>Techniques for WCAG 2</cite> document is informative (that is, not required, non-normative).</span></p>
@@ -92,8 +92,7 @@ footer: >
     <li>It would prevent the use of new techniques and best practices until W3C published them.</li>
   </ul>
   <p><strong>Therefore, W3C's published techniques should not be required as the only way to meet WCAG 2 success criteria  unless the  limitations and consequences above are understood and acceptable.</strong></p>
-  <p>For  additional information, see: <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/understanding-techniques.html">Understanding Techniques for WCAG Success Criteria<em>[@@ change link to 2.1 doc]</em></a> section of Understanding WCAG 2.1.</p>
-  <!--[<em>future link</em> (Ian asks that we not point to this for now.) probably will add the link back in after the doc is done.] <a href="http://www.w3.org/2013/02/stdref">Normative References to W3C Standards</a></span>-->
+  <p>For additional information, see: <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/understanding-techniques.html">Understanding Techniques for WCAG Success Criteria</a> section of Understanding WCAG 2.1.</p>
   <h2 id="iso">Is ISO/IEC 40500 the same as WCAG 2.0?</h2>
   <p><strong>Yes.</strong> WCAG 2.0 is  approved as an ISO standard: ISO/IEC 40500:2012. ISO/IEC 40500 is exactly the same as the original Web Content Accessibility Guidelines (WCAG) 2.0 from the <a href="http://www.w3.org/">W3C</a> Web Accessibility Initiative (<a href="http://www.w3.org/WAI/">WAI</a>).</p>
   <p>The content of ISO/IEC 40500 is freely available from <a href="http://www.w3.org/TR/WCAG20/">www.w3.org/TR/WCAG20</a>;  it is available for purchase from the <a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625">ISO catalogue</a>.</p>
@@ -110,7 +109,7 @@ footer: >
   <p>For  more information on how you can contribute to WAI translations, see <a href="http://www.w3.org/WAI/translation">Translating WAI Documents.</a></p>
   <h2 id="othertechs">Can I meet WCAG 2 with Javascript/Ajax, Flash, PDF, Silverlight, and other technologies?</h2>
   <p>WCAG 2 is designed to apply to a broad range of web technologies.</p>
-  <p><a href="http://www.w3.org/TR/WCAG20-TECHS/">Techniques for WCAG 2</a><em>[@@ change link to 2.1 doc]</em> has  techniques for several different web technologies. <em>Note that publication of techniques for a specific technology does not imply that the technology can be used in all cases to create accessible content that meets WCAG 2.</em> Developers need to be aware of the limitations of specific technologies and ensure that they create content in a way that is accessible to all their potential users. 
+  <p><a href="http://www.w3.org/TR/WCAG20-TECHS/">Techniques for WCAG 2</a> has  techniques for several different web technologies. <em>Note that publication of techniques for a specific technology does not imply that the technology can be used in all cases to create accessible content that meets WCAG 2.</em> Developers need to be aware of the limitations of specific technologies and ensure that they create content in a way that is accessible to all their potential users. 
   </p>
   <p>WAI is also developing guidance on <a href="http://www.w3.org/TR/wcag2ict/">Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)</a>.</p>
   <h2 id="more">Where can I find answers to more of my questions?</h2>
