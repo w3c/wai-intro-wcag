@@ -1,21 +1,21 @@
 ---
-title: Instructions for Commenting on WCAG 2.0 Documents
+title: Instructions for Commenting on WCAG 2 Documents
 permalink: /standards-guidelines/wcag/commenting/
 layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'commenting.md'
 footer: >
-  <p><strong>Status: Draft</strong> updated $Date: 2016/05/18 00:51:56 $<br> 
-  <!-- Editor: <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. -->
-  Editors: Shawn Lawton Henry and Judy Brewer. Developed with the <a href="http://www.w3.org/WAI/GL/WCAG2ICT-TF/">WCAG2ICT Task Force</a> and the Education and Outreach Working Group (<a href="/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date:</strong> Updated 24 May 2018.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Cooper/">Michael Cooper</a></p>
+
 ---
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-
+This page tells you how you can comment on WCAG 2 documents and submit Techniques.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -38,31 +38,26 @@ footer: >
 ## Introduction {#intro}
 
 Please read this page for important information about commenting on Web
-Content Accessibility Guidelines (WCAG) 2.0.
+Content Accessibility Guidelines (WCAG) 2.
 
-**Note that comments on WCAG 2.0 cannot impact the specification since
+**Note that comments on WCAG 2 cannot impact the standard since
 it is no longer in development, although we will still take them into
 consideration as described below.**
 
-**WCAG 2.0 itself is a stable Web Standard that will not change.** Your
-comments on WCAG 2.0 maybe be used for an errata (documenting errors),
-for updating [Understanding WCAG
-2.0](http://www.w3.org/TR/2010/NOTE-UNDERSTANDING-WCAG20-20101014/) and
-[Techniques for WCAG
-2.0](http://www.w3.org/TR/2010/NOTE-WCAG20-TECHS-20101014/), or for
+**WCAG 2.0 and WCAG 2.1 are stable Web Standards that will not change.** Your
+comments on WCAG 2 maybe be used for an errata (documenting errors),
+for updating Understanding WCAG 2 and Techniques for WCAG
+2, or for
 informing the next generation of accessibility standards and guidelines.
 
-**[Understanding WCAG
-2.0](http://www.w3.org/TR/2010/NOTE-UNDERSTANDING-WCAG20-20101014/) and
-[Techniques for WCAG
-2.0](http://www.w3.org/TR/2010/NOTE-WCAG20-TECHS-20101014/) will be
+**Understanding WCAG2 and Techniques for WCAG 2 will be
 updated periodically.** Your comments will help inform the updates.
 
 Before commenting, please read WCAG introductory and education material,
 including:
 
 -   [Web Content Accessibility Guidelines (WCAG)
-    Overview](http://www.w3.org/WAI/intro/wcag)
+    Overview]( https://www.w3.org/WAI/standards-guidelines/wcag/)
 -   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20)
 
 ## How to Comment {#how}
@@ -170,7 +165,7 @@ list](http://lists.w3.org/Archives/Public/public-comments-wcag20/).
 ## Submitting Techniques {#techs}
 
 To submit techniques for consideration by the WCAG Working Group, please
-use the [**Techniques for WCAG 2.0 submission
+use the [**Techniques for WCAG 2 submission
 form**](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
 
 ## For more info {#QandA}
