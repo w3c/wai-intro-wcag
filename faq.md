@@ -5,7 +5,7 @@ layout: default
 github:
   path: 'faq.md'
 footer: >
-    <p><strong>Date:</strong> Updated 5 June 2018. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 24 May 2018. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 
@@ -16,7 +16,7 @@ footer: >
 {:/}
 
   <p>This page answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG). Let us know what <a href="#more">other questions</a> you have. <br/>
-    ~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 5 June 2018</em></p>
+    ~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 24 May 2018</em></p>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -39,7 +39,7 @@ footer: >
     <li><a href="#techsnot">What would be the negative consequences of allowing <em>only</em> W3C's published techniques to be used for conformance to WCAG 2?</a></li>
     <li><a href="#iso">Is ISO/IEC 40500 the same as WCAG 2.0?</a></li>
     <li><a href="#languages">Is WCAG 2 available in other languages?</a></li>
-    <li><a href="#othertechs">Can I meet WCAG 2 with Javascript/Ajax, Flash, PDF, and other technologies?</a></li>
+    <li><a href="#othertechs">Can I meet WCAG 2 with Javascript/Ajax, Silverlight, and other technologies?</a></li>
     <li><a href="#more">Where can I find answers to more of my questions?</a></li>
   </ul>
 
@@ -107,7 +107,7 @@ footer: >
   <p><strong>Yes.</strong> Authorized Translations and unofficial translations of the technical documents WCAG 2, Techniques for WCAG 2, and Understanding WCAG 2 are listed in <a href="http://www.w3.org/WAI/WCAG20/translations.html">WCAG 2 Translations</a>.</p>
   <p>Unofficial translations of other WAI documents are listed at <a href="http://www.w3.org/2005/11/Translations/Query?lang=any&amp;translator=any&amp;date=any&amp;docSelection=choose&amp;rec=none&amp;note=none&amp;xg=none&amp;tut=none&amp;wai=any&amp;i18n=none&amp;qa=none&amp;misc=none&amp;sorting=byLanguage&amp;output=FullHTML&amp;submit=Submit">Translations of W3C Documents - WAI documents - listed by languages</a> and <a href="http://www.w3.org/2005/11/Translations/Query?lang=any&amp;translator=any&amp;date=any&amp;docSelection=choose&amp;rec=none&amp;note=none&amp;xg=none&amp;tut=none&amp;wai=any&amp;i18n=none&amp;qa=none&amp;misc=none&amp;sorting=byTechnology&amp;output=FullHTML&amp;submit=Submit">Translations of W3C Documents - WAI documents - listed by document</a>.</p>
   <p>For  more information on how you can contribute to WAI translations, see <a href="http://www.w3.org/WAI/translation">Translating WAI Documents.</a></p>
-  <h2 id="othertechs">Can I meet WCAG 2 with Javascript/Ajax, Flash, PDF, Silverlight, and other technologies?</h2>
+  <h2 id="othertechs">Can I meet WCAG 2 with Javascript/Ajax, Silverlight, and other technologies?</h2>
   <p>WCAG 2 is designed to apply to a broad range of web technologies.</p>
   <p><a href="http://www.w3.org/TR/WCAG20-TECHS/">Techniques for WCAG 2</a> has  techniques for several different web technologies. <em>Note that publication of techniques for a specific technology does not imply that the technology can be used in all cases to create accessible content that meets WCAG 2.</em> Developers need to be aware of the limitations of specific technologies and ensure that they create content in a way that is accessible to all their potential users. 
   </p>
