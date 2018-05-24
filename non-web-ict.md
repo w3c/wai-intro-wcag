@@ -63,7 +63,7 @@ developed to provide an authoritative interpretation of how WCAG 2.0 can
 apply in different contexts. For information on the scope of WCAG2ICT,
 see the [WCAG2ICT Introduction](http://www.w3.org/TR/wcag2ict/#intro).
 
-*Note:* **WCAG2ICT** is still relevant for future versions of WCAG 2. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. W3C does not currently plan to update WCAG2ICT for future versions of WCAG 2.
+*Note:* **WCAG2ICT is still relevant for future versions of WCAG 2**. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. W3C does not currently plan to update WCAG2ICT for future versions of WCAG 2.
 
 ## Who WCAG2ICT is for {#for}
 
