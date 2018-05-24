@@ -52,11 +52,9 @@ The WCAG documents explain how to make web content more accessible to people wit
 
 WCAG 2.0 was published in December 2008. WCAG 2.1 is expected to be published in June 2018.
 
-Both will be existing standards. WCAG 2.1 will not deprecate or supersede WCAG 2.0.
+'''Content that conforms to WCAG 2.1 also conforms to WCAG 2.0'''. (This is often called "backwards compatible".) Therefore, a website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
 
-Content that conforms to WCAG 2.1 will also conform to WCAG 2.0. (This is often called "backwards compatible".) Therefore, a website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
-
-W3C advises that content and policies use WCAG 2.1.
+WCAG 2.1 will not deprecate or supersede WCAG 2.0. Both will be existing standards. W3C encourages you to use the most recent version of WCAG when developing or updating accessibility policies.
 
 ## Who WCAG is for {#for}
 
