@@ -114,3 +114,14 @@ The WCAG 2 documents are interlinked. For example:
 
 ![diagram of documents described in the text]({{ "/content-images/wai-intro-wcag/wcag20links-docs.png" | relative_url }})<br>
 Figure 3: Example of links between documents
+
+## Additional Resources
+
+There is additional educational material related to WCAG 2, including:
+
+- [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
+- [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+- [Essential Components of Web Accessibility]( https://www.w3.org/WAI/fundamentals/components/) provides the foundation for understanding the different accessibility standards.
+
+We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
+
