@@ -18,7 +18,7 @@ blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote d
 blockquote.sc {padding: 0 10px 15px 20px; border: solid #ccc 1px; background: #f0f0f0; color: #000;}
 blockquote.quotes p {text-indent: -5em; padding-left: 5em;}
 .persona {font-style: italic;}
-.qnote {@@ no space before @@}
+.qnote {margin-top: -15px}
 </style>
 
 {::nomarkdown}
