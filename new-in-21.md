@@ -16,7 +16,8 @@ footer: >
 blockquote {
 font-style:normal !important;
 }
-blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content:'' !important;}
+blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content:'' !important; margin-left: 0 !important;}
+
 blockquote.sc {
 	padding-left: 15px;
 	padding-right: 5px;
