@@ -6,8 +6,8 @@ layout: default
 github:
   path: 'new-in-21.md'
 footer: >
-  <p><strong>Date: DRAFT</strong> Updated 00 Month 2000.</p>
-  <p><strong>Editors:</strong> ...</p>
+  <p><strong>Date: DRAFT</strong> Updated @@ June 2018.</p>
+  <p><strong>Editors:</strong> @@...</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 
 ---
