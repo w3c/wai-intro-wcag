@@ -339,6 +339,6 @@ Maximize compatibility with current and future user agents, including assistive 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Understanding Status Messages</a></p>
 
 ## About the Personas Quotes
-<p>The linked personas names are from <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. For the quotes above, we haven't included a persona name if we don't have a persona in those user stories that fits the quote. We might update that in the future.</p>
-<p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents. p>
+<p>The linked personas names go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. For the quotes above, if we don't have a relevant user story, they don't include a name. We might update that in the future.</p>
+<p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
 
