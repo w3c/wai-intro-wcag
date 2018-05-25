@@ -44,7 +44,7 @@ W3C provides two types of translations:
 
 ## WCAG 2.1 Completed and Planned Translations {#progress}
 
-<table class="langstable">
+<table class="langstable" style="width:100%">
   <thead>
      <tr>
         <th scope="col">Language</th>
