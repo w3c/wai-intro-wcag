@@ -24,9 +24,11 @@ blockquote.quotes p {text-indent: -5em; padding-left: 5em;}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the new success criteria in WCAG 2.1.
+This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1.
 
 It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
+
+For information about WCAG 2.0 and WCAG 2.1, see the [WCAG Overview](https://w3c.github.io/wai-intro-wcag/standards-guidelines/wcag/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
