@@ -18,6 +18,7 @@ blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote d
 blockquote.sc {padding: 0 10px 15px 20px; border: solid #ccc 1px; background: #f0f0f0; color: #000;}
 blockquote.quotes p {text-indent: -5em; padding-left: 5em;}
 .persona {font-style: italic;}
+.qnote {@@ no space before @@}
 </style>
 
 {::nomarkdown}
@@ -74,7 +75,7 @@ Create content that can be presented in different ways (for example simpler layo
 <blockquote class="quotes">
   <p>Problem: &quot;My address is so complicated. There's lots of numbers and long words. It's  hard to type it all without making mistakes.&quot;</p>
   <p>Works well: &quot;I love websites that can  automatically fill it all in for me. Then I don't have work so hard to get the  numbers and spelling right.&quot;</p>
-  <p>Note: This works because the fields use  autocomplete.</p>
+  <p class="qnote">Note: This works because the fields use autocomplete.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a> </p>
 
@@ -182,8 +183,8 @@ Make all functionality available from a keyboard.
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Alex</a>, reporter with repetitive stress injury who uses voice recognition software:</p>
 <blockquote class="quotes">
-  <p>Problem: &quot;When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.&quot;<br>
-    Note: There was a shortcut key for delete that was  triggered by something he was saying, and no way to turn off the shortcut  keys.</p>
+  <p>Problem: &quot;When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.&quot;</p>
+<p class="qnote">Note: There was a shortcut key for delete that was  triggered by something he was saying, and no way to turn off the shortcut  keys.</p>
   <p>Works well: &quot;In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.&quot;</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Understanding Character Key Shortcuts</a></p>
@@ -283,7 +284,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p><span class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Alex</a>, reporter with repetitive stress injury who uses voice recognition software:</span></p>
 <blockquote class="quotes">
   <p>Problem: &quot;It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't  work.&quot;</p>
-  <p>Note: It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</p>
+  <p class="qnote">Note: It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
 
@@ -333,7 +334,7 @@ Maximize compatibility with current and future user agents, including assistive 
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Understanding Status Messages</a></p>
 
-## Persona Notes
-<p>The linked  personas names are from <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. If we don't  have a persona in those user stories that fits the quote, we haven't included a persona name. We may update that in the future.</p>
-<p>After we have reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents. We also plan to add persona quotes to the Understanding documents for the WCAG 2.0 success criteria.</p>
+## About Personas
+<p>The linked personas names are from <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. For the quotes above, we haven't included a persona name if we don't have a persona in those user stories that fits the quote. We might update that in the future.</p>
+<p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents. We also plan to add persona quotes to the Understanding documents for the WCAG 2.0 success criteria.</p>
 
