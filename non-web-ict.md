@@ -51,9 +51,8 @@ Recommendation and an ISO International Standard ([ISO/IEC
 dynamic web applications, etc.) more accessible to people with
 disabilities. The [WCAG Overview](http://www.w3.org/wai/intro/wcag)
 introduces the WCAG documents and links to supporting resources such as
-[WCAG 2.0 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) and [How to
-Meet WCAG 2.0: A customizable quick
-reference](http://www.w3.org/WAI/WCAG20/quickref/).
+[WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) and [How to
+Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/).
 
 *This document:* **WCAG2ICT** is a W3C Working Group Note that is
 informative — it is not normative and does not set requirements. It
@@ -63,7 +62,7 @@ developed to provide an authoritative interpretation of how WCAG 2.0 can
 apply in different contexts. For information on the scope of WCAG2ICT,
 see the [WCAG2ICT Introduction](http://www.w3.org/TR/wcag2ict/#intro).
 
-*Note:* **WCAG2ICT is still relevant for future versions of WCAG 2**. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. W3C does not currently plan to update WCAG2ICT for future versions of WCAG 2.
+*Note:* **WCAG2ICT is still relevant for later versions of WCAG 2**. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. W3C is currently not planning to update WCAG2ICT to add the additional requiremtns from future versions of WCAG 2.
 
 ## Who WCAG2ICT is for {#for}
 
