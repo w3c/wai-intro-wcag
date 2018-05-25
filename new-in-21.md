@@ -24,7 +24,9 @@ blockquote.quotes p {text-indent: -5em; padding-left: 5em;}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the new success criteria in WCAG 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria. Some of the persona names link to more details about that persona. There are also links to Understanding documents that explain the success criteria in detail and provide more examples.
+This page lists the new success criteria in WCAG 2.1.
+
+It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -160,6 +162,30 @@ Make it easier for users to see and hear content including separating foreground
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Understanding Content on Hover or Focus</a> </p>
 
+## Guideline 2.1 Keyboard Accessible
+
+Make all functionality available from a keyboard.
+
+### 2.1.4 Character Key Shortcuts (A)
+<blockquote class="sc">
+  <p>If a <a href="https://www.w3.org/TR/WCAG21/#dfn-keyboard-shortcuts" data-link-type="dfn">keyboard shortcut</a> is implemented in content using only letter (including upper- and lower-case letters), punctuation, number, or symbol characters, then at least one of the following is true:</p>
+  <dl>
+    <dt>Turn off</dt>
+    <dd>A <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to turn the shortcut off;</dd>
+    <dt>Remap</dt>
+    <dd>A mechanism is available to remap the shortcut to use one or more non-printable keyboard characters (e.g. Ctrl, Alt, etc).</dd>
+    <dt>Active only on focus</dt>
+    <dd>The keyboard shortcut for a <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface component</a> is only active when that component has focus.</dd>
+  </dl>
+</blockquote>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Alex</a>, reporter with repetitive stress injury who uses voice recognition software:</p>
+<blockquote class="quotes">
+  <p>Problem: &quot;When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.&quot;<br>
+    Note: There was a shortcut key for delete that was  triggered by something he was saying, and no way to turn off the shortcut  keys.</p>
+  <p>Works well: &quot;In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.&quot;</p>
+</blockquote>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Understanding Character Key Shortcuts</a></p>
+
 ## Guideline 2.2 Enough Time
 
 Provide users enough time to read and use content.
@@ -190,9 +216,31 @@ Do not design content in a way that is known to cause seizures or physical react
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html">Understanding Animation from Interactions</a></p>
 
+
+## Guideline 2.4 Navigable
+
+Provide ways to help users navigate, find content, and determine where they are.
+
+### 2.4.1 Motion Actuation (A)
+<blockquote class="sc">
+  <p><a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">Functionality</a> that can be operated by device motion or user motion can also be operated by <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> and responding to the motion can be disabled to prevent accidental actuation, except when:</p>
+  <dl>
+    <dt>Supported Interface</dt>
+    <dd>The motion is used to operate functionality through an <a href="https://www.w3.org/TR/WCAG21/#dfn-accessibility-supported" data-link-type="dfn">accessibility supported</a>interface;</dd>
+    <dt>Essential</dt>
+    <dd>The motion is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> for the function and doing so would invalidate the activity.</dd>
+  </dl>
+</blockquote>
+<p class="persona">Person with cerbal palsy who uses a wheelchair: </p>
+<blockquote class="quotes">
+  <p>Problem: &quot;I can't shake my phone; it's  connected to my wheelchair. So there needs to be another way to activate that  feature, like a button.&quot;</p>
+  <p>Problem: &quot;I have tremors, so I need to turn  off motion activation -- and then be able to do stuff without motion  actuation.&quot;</p>
+  <p>Works well: &quot;My friend has this cool application that looks like a physical spin lock. She rotates the phone to turn to the combination. I can use the same application by typing the numbers directly.&quot;</p>
+</blockquote>
+
 ## Guideline 2.5 Input Modalities
 
-Make it easier for users to operate functionality through various inputs beyond keyboard
+Make it easier for users to operate functionality through various inputs beyond keyboard.
 
 ### 2.5.1 Pointer Gestures (A)
 <blockquote class="sc">
@@ -225,33 +273,6 @@ Make it easier for users to operate functionality through various inputs beyond 
   <p>Works well: &quot;In another web conferencing  application, if I accidentally touch the &quot;End Call&quot; button, I can just slide my  finger off the &quot;End Call&quot; button and it won't end the call.&quot;</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html">Understanding Pointer Cancellation</a></p>
-
-## Guideline 2.1 Keyboard Accessible
-
-Make all functionality available from a keyboard.
-
-### 2.1.4 Character Key Shortcuts (A)
-<blockquote class="sc">
-  <p>If a <a href="https://www.w3.org/TR/WCAG21/#dfn-keyboard-shortcuts" data-link-type="dfn">keyboard shortcut</a> is implemented in content using only letter (including upper- and lower-case letters), punctuation, number, or symbol characters, then at least one of the following is true:</p>
-  <dl>
-    <dt>Turn off</dt>
-    <dd>A <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to turn the shortcut off;</dd>
-    <dt>Remap</dt>
-    <dd>A mechanism is available to remap the shortcut to use one or more non-printable keyboard characters (e.g. Ctrl, Alt, etc).</dd>
-    <dt>Active only on focus</dt>
-    <dd>The keyboard shortcut for a <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface component</a> is only active when that component has focus.</dd>
-  </dl>
-</blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Alex</a>, reporter with repetitive stress injury who uses voice recognition software:</p>
-<blockquote class="quotes">
-  <p>Problem: &quot;When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.&quot;<br>
-    Note: There was a shortcut key for delete that was  triggered by something he was saying, and no way to turn off the shortcut  keys.</p>
-  <p>Works well: &quot;In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.&quot;</p>
-</blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Understanding Character Key Shortcuts</a></p>
-
-## Guideline 2.5 Input Modalities
-Make it easier for users to operate functionality through various inputs beyond keyboard
 
 ### 2.5.3 Label in Name (A)
 <blockquote class="sc">
@@ -295,27 +316,6 @@ Make it easier for users to operate functionality through various inputs beyond 
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html">Understanding Concurrent Input Mechanisms</a></p>
 
-## Guideline 2.4 Navigable
-
-Provide ways to help users navigate, find content, and determine where they are.
-
-### 2.4.1 Motion Actuation (A)
-<blockquote class="sc">
-  <p><a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">Functionality</a> that can be operated by device motion or user motion can also be operated by <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> and responding to the motion can be disabled to prevent accidental actuation, except when:</p>
-  <dl>
-    <dt>Supported Interface</dt>
-    <dd>The motion is used to operate functionality through an <a href="https://www.w3.org/TR/WCAG21/#dfn-accessibility-supported" data-link-type="dfn">accessibility supported</a>interface;</dd>
-    <dt>Essential</dt>
-    <dd>The motion is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> for the function and doing so would invalidate the activity.</dd>
-  </dl>
-</blockquote>
-<p class="persona">Person with cerbal palsy who uses a wheelchair: </p>
-<blockquote class="quotes">
-  <p>Problem: &quot;I can't shake my phone; it's  connected to my wheelchair. So there needs to be another way to activate that  feature, like a button.&quot;</p>
-  <p>Problem: &quot;I have tremors, so I need to turn  off motion activation -- and then be able to do stuff without motion  actuation.&quot;</p>
-  <p>Works well: &quot;My friend has this cool application that looks like a physical spin lock. She rotates the phone to turn to the combination. I can use the same application by typing the numbers directly.&quot;</p>
-</blockquote>
-
 ## Guideline 4.1 Compatible
 
 Maximize compatibility with current and future user agents, including assistive technologies.
@@ -334,4 +334,3 @@ Maximize compatibility with current and future user agents, including assistive 
 ## Persona Notes
 <p>The linked  personas names are from <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. If we don't  have a persona in those user stories that fits the quote, we haven't included a persona name. We may update that in the future.</p>
 <p>After we have reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents. We also plan to add persona quotes to the Understanding documents for the WCAG 2.0 success criteria.</p>
-
