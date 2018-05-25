@@ -29,8 +29,6 @@ This page lists the new success criteria in Web Content Accessibility Guidelines
 
 It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
-For information about WCAG 2.0 and WCAG 2.1, see the [WCAG Overview](https://w3c.github.io/wai-intro-wcag/standards-guidelines/wcag/).
-
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -47,6 +45,12 @@ For information about WCAG 2.0 and WCAG 2.1, see the [WCAG Overview](https://w3c
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
+
+## Introduction
+
+WCAG 2.1 provides additional accessibility requirements for [mobile accessibility](https://www.w3.org/WAI/standards-guidelines/mobile/#intro), people with low vision, and people with cognitive and learning disabilities.
+
+For information about WCAG 2.0 and WCAG 2.1, see the [WCAG Overview](https://w3c.github.io/wai-intro-wcag/standards-guidelines/wcag/).
 
 ## Guideline 1.3 Adaptable
 
