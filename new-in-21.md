@@ -77,8 +77,8 @@ Create content that can be presented in different ways (for example simpler layo
 </blockquote>
 <p class="persona">Person who has dyslexia and  dyscalculia:</p>
 <blockquote class="quotes">
-  <p>Problem: &quot;My address is so complicated. There's lots of numbers and long words. It's  hard to type it all without making mistakes.&quot;</p>
-  <p>Works well: &quot;I love websites that can  automatically fill it all in for me. Then I don't have work so hard to get the  numbers and spelling right.&quot;</p>
+  <p>Problem: &quot;My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.&quot;</p>
+  <p>Works well: &quot;I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the  numbers and spelling right.&quot;</p>
   <p class="qnote">Note: This works because the fields use autocomplete.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a> </p>
