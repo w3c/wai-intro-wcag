@@ -6,14 +6,15 @@ github:
   repository: w3c/wai-intro-wcag
   path: 'conformance-logos.md'
 footer: >
-  <p><strong>Version: 2.0</strong></p>
+  <p><strong>Date:</strong> Updated $Date$..</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Cooper">Michael Cooper.
 ---
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-
+This page provides information about conformance logos for WCAG 2.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -32,12 +33,6 @@ footer: >
 {% include_cached toc.html type="end" %}
 {:/}
 
-
-Please send comments about this page to:
-:   <wai-wcag-editor@w3.org>
-
-Last modified:
-:   \$Date: 2016/10/20 11:47:19 \$
 
 To further promote accessibility on the Web, W3C provides conformance
 logos for Web Content Accessibility Guidelines (WCAG) 2.0. Content
@@ -183,3 +178,7 @@ by the author of a page, not a machine-validated conformance. In spite
 of these issues with machine testing, it is an important component of
 ensuring that a site conforms to WCAG 2.0, as long as it is not the only
 component.
+
+## Comments
+Please send comments about this page to:
+:   <wai-wcag-editor@w3.org>
