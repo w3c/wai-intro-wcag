@@ -15,7 +15,7 @@ footer: >
 <style>
 blockquote {font-style:normal !important;}
 blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content:'' !important; margin-left: 0 !important;}
-blockquote.sc {padding: 0 15px 15px 15px; border: solid #ccc 1px; background: #f0f0f0; color: #000;}
+blockquote.sc {padding: 0 10px 15px 20px; border: solid #ccc 1px; background: #f0f0f0; color: #000;}
 blockquote.quotes p {text-indent: -5em; padding-left: 5em;}
 .persona {font-style: italic;}
 </style>
