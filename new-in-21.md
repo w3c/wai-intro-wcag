@@ -40,11 +40,14 @@ This page lists the new success criteria in WCAG 2.1. It includes quotes from pe
 {:/}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="full" %}
+{% include toc.html type="start" title="Page Contents" %}
 {:/}
 
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{:toc}
+
 {::nomarkdown}
-{% include_cached toc.html type="end" %}
+{% include toc.html type="end" %}
 {:/}
 
 
