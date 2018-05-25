@@ -15,7 +15,7 @@ footer: >
 <style>
 blockquote {font-style:normal !important;}
 blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content:'' !important; margin-left: 0 !important;}
-blockquote.sc {padding: 15px; border: solid #ccc 1px; background: #f0f0f0; color: #000;}
+blockquote.sc {padding: 0 15px 15px 15px; border: solid #ccc 1px; background: #f0f0f0; color: #000;}
 blockquote.quotes p {text-indent: -5em; padding-left: 5em;}
 .persona {font-style: italic;}
 </style>
@@ -334,3 +334,4 @@ Maximize compatibility with current and future user agents, including assistive 
 ## Persona Notes
 <p>The linked  personas names are from <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. If we don't  have a persona in those user stories that fits the quote, we haven't included a persona name. We may update that in the future.</p>
 <p>After we have reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents. We also plan to add persona quotes to the Understanding documents for the WCAG 2.0 success criteria.</p>
+
