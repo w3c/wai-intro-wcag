@@ -13,6 +13,7 @@ footer: >
 blockquote {
 font-style:normal !important;
 }
+ blockquote p:before, blockquote p:after {content:'';}
 </style>
 
 <blockquote>
