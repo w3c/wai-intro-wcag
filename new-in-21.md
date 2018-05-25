@@ -55,7 +55,7 @@ Create content that can be presented in different ways (for example simpler layo
 </blockquote>
 <p class="persona">Person who uses a wheelchair:</p>
 <blockquote class="quotes">
-  <p>Problem: &quot;I can't rotate my tablet --  it's attached to my wheelchair.&quot;</p>
+  <p>Problem: &quot;I can't rotate my tablet &mdash;  it's attached to my wheelchair.&quot;</p>
   <p>Works well: &quot;The application works whether I  attach my tablet horizontally or vertically.&quot;</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a></p>
@@ -118,8 +118,8 @@ Make it easier for users to see and hear content including separating foreground
 </blockquote>
 <p class="persona"><a hr><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Yan</a></a>, retiree with low contrast sensitivity:</p>
 <blockquote class="quotes">
-  <p>Problem: &quot;I couldn't use the &quot;Order Form&quot;  -- there were no text boxes. After a long call with customer service, I learned  there were text box borders that were too light for me to see.</p>
-  <p>Works well: &quot;It's easy for me to see all the  icons and buttons and everything -- even in the sunlight.&quot;</p>
+  <p>Problem: &quot;I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned  there were text box borders that were too light for me to see.</p>
+  <p>Works well: &quot;It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.&quot;</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Understanding Non-text Contrast</a></p>
 
@@ -234,7 +234,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p class="persona">Person with cerbal palsy who uses a wheelchair: </p>
 <blockquote class="quotes">
   <p>Problem: &quot;I can't shake my phone; it's  connected to my wheelchair. So there needs to be another way to activate that  feature, like a button.&quot;</p>
-  <p>Problem: &quot;I have tremors, so I need to turn  off motion activation -- and then be able to do stuff without motion  actuation.&quot;</p>
+  <p>Problem: &quot;I have tremors, so I need to turn  off motion activation &mdash; and then be able to do stuff without motion  actuation.&quot;</p>
   <p>Works well: &quot;My friend has this cool application that looks like a physical spin lock. She rotates the phone to turn to the combination. I can use the same application by typing the numbers directly.&quot;</p>
 </blockquote>
 
