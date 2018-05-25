@@ -59,7 +59,7 @@ Please see the following key resources for learning and using WCAG 2.0:
 {% include box.html type="start" title="Robust" h=2 class="large" %}
 {:/}
 
--   Maximize**[compatibility](http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat)** with current and future user tools.
+-   Maximize **[compatibility](http://www.w3.org/WAI/WCAG20/quickref/#ensure-compat)** with current and future user tools.
 
 {::nomarkdown}
 {% include box.html type="end" %}
