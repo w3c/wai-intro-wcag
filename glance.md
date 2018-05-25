@@ -5,8 +5,10 @@ layout: default
 github:
   path: 'glance.md'
 footer: >
-  <p><strong>Status:</strong> Updated 6 December 2011 (preface wording updated 22 February 2012, first published July 2008)<br>
-  Editors: Shawn Lawton Henry and Wayne Dick. Developed with the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) and Web Content Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">WCAG WG</a>).</p>
+  <p><strong>Date:</strong> Updated 22 February 2012. First published July 2008.</p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> and Wayne Dick.</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
+
 ---
 
 This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.0. For the normative technical specification, see [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/).
