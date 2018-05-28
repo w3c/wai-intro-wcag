@@ -1,5 +1,5 @@
 ---
-title: WCAG 2 at a Glance
+title: WCAG 2.0 at a Glance
 permalink: /standards-guidelines/wcag/glance/
 layout: default
 github:
