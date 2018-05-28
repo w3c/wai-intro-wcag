@@ -244,6 +244,7 @@ Provide ways to help users navigate, find content, and determine where they are.
   <p>Problem: &quot;I have tremors, so I need to turn  off motion activation &mdash; and then be able to do stuff without motion  actuation.&quot;</p>
   <p>Works well: &quot;My friend has this cool application that looks like a physical spin lock. She rotates the phone to turn to the combination. I can use the same application by typing the numbers directly.&quot;</p>
 </blockquote>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html">Understanding Motion Actuation</a></p>
 
 ## Guideline 2.5 Input Modalities
 
