@@ -3,6 +3,7 @@ title: WCAG 2 at a Glance
 permalink: /standards-guidelines/wcag/glance/
 layout: default
 github:
+  repository: wai-intro-wcag
   path: 'glance.md'
 footer: >
   <p><strong>Date:</strong> Updated 22 February 2012. First published July 2008.</p>
