@@ -238,7 +238,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     <dd>The motion is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> for the function and doing so would invalidate the activity.</dd>
   </dl>
 </blockquote>
-<p class="persona">Person with cerbal palsy who uses a wheelchair: </p>
+<p class="persona">Person with cerebral palsy who uses a wheelchair: </p>
 <blockquote class="quotes">
   <p>Problem: &quot;I can't shake my phone; it's  connected to my wheelchair. So there needs to be another way to activate that  feature, like a button.&quot;</p>
   <p>Problem: &quot;I have tremors, so I need to turn  off motion activation &mdash; and then be able to do stuff without motion  actuation.&quot;</p>
