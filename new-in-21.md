@@ -60,7 +60,7 @@ Create content that can be presented in different ways (for example simpler layo
 <blockquote class="sc">
   <p>Content does not restrict its view and  operation to a single display orientation, such as portrait or landscape,  unless a specific display orientation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
 </blockquote>
-<p class="persona">Person who uses a wheelchair:</p>
+<p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I can't rotate my tablet &mdash;  it's attached to my wheelchair.&quot;</p>
   <p>Works well: &quot;The application works whether I  attach my tablet horizontally or vertically.&quot;</p>
@@ -75,7 +75,7 @@ Create content that can be presented in different ways (for example simpler layo
     <li>The content is implemented using technologies with support for identifying the expected meaning for form input data.</li>
   </ul>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Luis</a>, supermarket assistant with dyslexia and dyscalculia:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with dyslexia and dyscalculia:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.&quot;</p>
   <p>Works well: &quot;I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the  numbers and spelling right.&quot;</p>
@@ -87,7 +87,7 @@ Create content that can be presented in different ways (for example simpler layo
 <blockquote class="sc">
   <p>In content implemented using markup languages, the purpose of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">User Interface Components</a>, icons, and <a href="https://www.w3.org/TR/WCAG21/#dfn-regions" data-link-type="dfn">regions</a> can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a>.</p>
 </blockquote>
-<p class="persona">Person with cognitive disability:</p>
+<p class="persona">Gamer with language processing disability:</p>
 <blockquote class="quotes">
   <p>Problem and Works well: &quot;I have software that  changes the words in the navigation into symbols. It works pretty good with  some websites, and not at all with other websites.&quot;</p>
 </blockquote>
@@ -106,7 +106,7 @@ Make it easier for users to see and hear content including separating foreground
   </ul>
   <p>Except for parts of the content which require two-dimensional layout for usage or meaning.</p>
 </blockquote>
-<p class="persona">Person with low vision:</p>
+<p class="persona">Parent with low vision – 20/500:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;It's nearly impossible to read  text if I have to scroll right and left to read each line. It's disorienting  and I lose my place. It makes it hard to understand what I'm reading.&quot;</p>
   <p>Works well: &quot;I increase the text size 400% and  it reflowed within the width of the window. I can read it easily without  scrolling back and forth.&quot;</p>
@@ -123,7 +123,7 @@ Make it easier for users to see and hear content including separating foreground
     <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
   </dl>
 </blockquote>
-<p class="persona"><a hr><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Yun</a></a>, retiree with low contrast sensitivity:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned  there were text box borders that were too light for me to see.</p>
   <p>Works well: &quot;It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.&quot;</p>
@@ -141,8 +141,8 @@ Make it easier for users to see and hear content including separating foreground
   </ul>
   <p>Exception: Human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Preety</a>, student with attention deficit hyperactivity disorder and dyslexia:<br/>
-  <span class="persona">and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Yun</a>, retiree with low </span>vision:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Student</a> with attention deficit hyperactivity disorder and dyslexia:<br/>
+and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
 <blockquote class="quotes">
   <p>Problem:  &quot;Most text is hard to read. It's so cluttered  I can't keep my focus. Just increasing the space between lines makes all the  difference. When I'm really tired, I also increase the space between  words.&quot;</p>
   <p>Works well: &quot;OK, I know I'm a bit of a geek, but  I've perfected a user style sheet to make text spacing just right for me. It's  a relief when websites work with my CSS.&quot;</p>
@@ -162,7 +162,7 @@ Make it easier for users to see and hear content including separating foreground
   </dl>
   <p>Exception: The visual presentation of the additional content is controlled by the user agent and is not modified by the author.</p>
 </blockquote>
-<p class="persona">Person with low vision who uses screen magnification software:</p>
+<p class="persona">Teacher with low vision who uses screen magnification software:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I was moving my mouse around to  track what I was looking at on a web page. It helps me keep focused. Then  -boom- this little box popped up. It covered what I was trying to read and I  couldn't get it to go away.&quot;</p>
   <p>Works well: &quot;I hovered over a word and a box popped up with the definition, but it was mostly off the screen with my magnification. I moved my mouse pointer  to the definition box and scrolled the magnified area over to  the definition box and it stayed popped up so I could read it.&quot;</p>
@@ -185,7 +185,7 @@ Make all functionality available from a keyboard.
     <dd>The keyboard shortcut for a <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface component</a> is only active when that component has focus.</dd>
   </dl>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Alex</a>, reporter with repetitive stress injury who uses voice recognition software:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.&quot;</p>
 <p class="qnote">Note: There was a shortcut key for delete that was  triggered by something he was saying, and no way to turn off the shortcut  keys.</p>
@@ -201,7 +201,7 @@ Provide users enough time to read and use content.
 <blockquote class="sc">
   <p>Users are warned of the duration of any <a href="https://www.w3.org/TR/WCAG21/#dfn-user-inactivity" data-link-type="dfn">user inactivity</a> that could cause data loss, unless the data is preserved for more than 20 hours when the user does not take any actions.</p>
 </blockquote>
-<p class="persona">Person with cognitive disabilities who takes frequent breaks when completing complex forms:</p>
+<p class="persona">School playground aide with cognitive disabilities:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I was selecting my Employee Benefits  and was comparing the different plans. When I went back to select the Health  Plan, it had timed out and lost all the information I had already entered.&quot;</p>
   <p>Works well: &quot;When I started the Employee  Benefits app, it told me how many minutes I had to complete the forms.&quot;</p>
@@ -216,7 +216,7 @@ Do not design content in a way that is known to cause seizures or physical react
 <blockquote class="sc">
   <p><a href="https://www.w3.org/TR/WCAG21/#dfn-motion-animation" data-link-type="dfn">Motion animation</a> triggered by interaction can be disabled, unless the animation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the functionality or the information being conveyed.</p>
 </blockquote>
-<p class="persona">Person with vestibular disorder:</p>
+<p class="persona">Artist with vestibular disorder:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;In the online tax app, as I move my  mouse around or tab to different fields, this little bubble with the current  balance follows me around the screen. Makes me dizzy and nauseous.&quot;</p>
   <p>Works well: &quot;I was so glad there was an option  to turn off animations.&quot;</p>
@@ -238,7 +238,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     <dd>The motion is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> for the function and doing so would invalidate the activity.</dd>
   </dl>
 </blockquote>
-<p class="persona">Person with cerebral palsy who uses a wheelchair: </p>
+<p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I can't shake my phone; it's  connected to my wheelchair. So there needs to be another way to activate that  feature, like a button.&quot;</p>
   <p>Problem: &quot;I have tremors, so I need to turn  off motion activation &mdash; and then be able to do stuff without motion  actuation.&quot;</p>
@@ -254,7 +254,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <blockquote class="sc">
   <p>All <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">functionality</a> that uses multipoint or path-based gestures for operation can be operated with a <a href="https://www.w3.org/TR/WCAG21/#dfn-single-pointer" data-link-type="dfn">single pointer</a> without a path-based gesture, unless a multipoint or path-based gesture is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
 </blockquote>
-<p class="persona">Person with limited movement in fingers:</p>
+<p class="persona">Comic with cerebral palsy who has limited movement in fingers:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I can't move my fingers like that. I  need another way to zoom in the map.&quot;</p>
   <p>Works well: &quot;Good thing there are buttons to  zoom in and out.&quot;</p>
@@ -275,7 +275,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     <dd>Completing the function on the down-event is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</dd>
   </dl>
 </blockquote>
-<p class="persona">Person with motor disabilities and low vision:</p>
+<p class="persona"> Politician with motor disabilities and low vision:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I went to hit the &quot;Mute&quot; button and  accidentally touched the &quot;End Call&quot; button instead. It hung up immediately.&quot;</p>
   <p>Works well: &quot;In another web conferencing  application, if I accidentally touch the &quot;End Call&quot; button, I can just slide my  finger off the &quot;End Call&quot; button and it won't end the call.&quot;</p>
@@ -286,7 +286,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <blockquote class="sc">
   <p>For <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> with <a href="https://www.w3.org/TR/WCAG21/#dfn-labels" data-link-type="dfn">labels</a> that include <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">text</a> or <a href="https://www.w3.org/TR/WCAG21/#dfn-images-of-text" data-link-type="dfn">images of text</a>, the <a href="https://www.w3.org/TR/WCAG21/#dfn-name" data-link-type="dfn">name</a> contains the text that is presented visually.</p>
 </blockquote>
-<p><span class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Alex</a>, reporter with repetitive stress injury who uses voice recognition software:</span></p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't  work.&quot;</p>
   <p class="qnote">Note: It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</p>
@@ -307,7 +307,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     <dd>A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
   </dl>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Yun</a>, retiree with hand tremor (and big fingers):</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor (and big fingers):</p>
 <blockquote class="quotes">
   <p>Problem: &quot;The buttons are so small, I hit  &quot;Cancel&quot; when going for &quot;Submit&quot;. Then I have to start all over again.&quot;</p>
   <p>Works well: &quot;This website buttons are big enough  that I don't hit the wrong button even when I'm riding on the bumpy bus.&quot;</p>
@@ -318,8 +318,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <blockquote class="sc">
   <p>Web content does not restrict use of input modalities available on a platform except where the restriction is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>, required to ensure the security of the content, or required to respect user settings.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Alex</a>, reporter with repetitive stress injury (RSI):</p>
-<blockquote class="quotes">
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
   <p>Problem: &quot;When my RSI acts up, I switch back and forth a lot between keyboard, mouse,  stylus, voice. This application doesn't let me use the stylus when I have a  keyboard plugged in.&quot;</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html">Understanding Concurrent Input Mechanisms</a></p>
@@ -332,7 +331,7 @@ Maximize compatibility with current and future user agents, including assistive 
 <blockquote class="sc">
   <p>In content implemented using markup languages, <a href="https://www.w3.org/TR/WCAG21/#dfn-status-messages" data-link-type="dfn">status messages</a> can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a> through <a href="https://www.w3.org/TR/WCAG21/#dfn-role" data-link-type="dfn">role</a> or properties such that they can be presented to the user by <a href="https://www.w3.org/TR/WCAG21/#dfn-assistive-technologies" data-link-type="dfn">assistive technologies</a> without receiving focus.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#ilya-senior-staff-member-who-is-blind">Ilya</a>, who is blind and uses a screen reader:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#ilya-senior-staff-member-who-is-blind">Accountant</a> who is blind and uses a screen reader:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I selected a class for the conference, but I can't tell if it got added to my  schedule.&quot;</p>
   <p>Works well: &quot;When I add a meeting to my calendar,  I hear a confirmation.&quot;</p>
@@ -340,6 +339,5 @@ Maximize compatibility with current and future user agents, including assistive 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Understanding Status Messages</a></p>
 
 ## About the Personas Quotes
-<p>The linked personas names go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. For the quotes above, if we don't have a relevant user story, they don't include a name. We might update that in the future.</p>
+<p>The linked persona roles go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. That page has other personas with different disabilities. We might add more in the future.</p>
 <p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
-
