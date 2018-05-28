@@ -6,7 +6,7 @@ layout: default
 github:
   path: 'new-in-21.md'
 footer: >
-  <p><strong>Date: DRAFT</strong> Updated @@ June 2018.</p>
+  <p><strong>Date: DRAFT</strong> Updated 28 May 2018.</p>
   <p><strong>Editors:</strong> @@...</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 
@@ -233,7 +233,7 @@ Provide ways to help users navigate, find content, and determine where they are.
   <p><a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">Functionality</a> that can be operated by device motion or user motion can also be operated by <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> and responding to the motion can be disabled to prevent accidental actuation, except when:</p>
   <dl>
     <dt>Supported Interface</dt>
-    <dd>The motion is used to operate functionality through an <a href="https://www.w3.org/TR/WCAG21/#dfn-accessibility-supported" data-link-type="dfn">accessibility supported</a>interface;</dd>
+    <dd>The motion is used to operate functionality through an <a href="https://www.w3.org/TR/WCAG21/#dfn-accessibility-supported" data-link-type="dfn">accessibility supported</a> interface;</dd>
     <dt>Essential</dt>
     <dd>The motion is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> for the function and doing so would invalidate the activity.</dd>
   </dl>
@@ -275,7 +275,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     <dd>Completing the function on the down-event is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</dd>
   </dl>
 </blockquote>
-<p class="persona">Person with motor disabilties and low vision:</p>
+<p class="persona">Person with motor disabilities and low vision:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I went to hit the &quot;Mute&quot; button and  accidentally touched the &quot;End Call&quot; button instead. It hung up immediately.&quot;</p>
   <p>Works well: &quot;In another web conferencing  application, if I accidentally touch the &quot;End Call&quot; button, I can just slide my  finger off the &quot;End Call&quot; button and it won't end the call.&quot;</p>
