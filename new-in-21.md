@@ -75,7 +75,7 @@ Create content that can be presented in different ways (for example simpler layo
     <li>The content is implemented using technologies with support for identifying the expected meaning for form input data.</li>
   </ul>
 </blockquote>
-<p class="persona">[Luis](https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant), supermarket assistant with  dyslexia and dyscalculia:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Luis</a>, supermarket assistant with dyslexia and dyscalculia:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.&quot;</p>
   <p>Works well: &quot;I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the  numbers and spelling right.&quot;</p>
