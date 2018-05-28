@@ -123,7 +123,7 @@ Make it easier for users to see and hear content including separating foreground
     <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
   </dl>
 </blockquote>
-<p class="persona"><a hr><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Yan</a></a>, retiree with low contrast sensitivity:</p>
+<p class="persona"><a hr><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Yun</a></a>, retiree with low contrast sensitivity:</p>
 <blockquote class="quotes">
   <p>Problem: &quot;I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned  there were text box borders that were too light for me to see.</p>
   <p>Works well: &quot;It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.&quot;</p>
@@ -142,7 +142,7 @@ Make it easier for users to see and hear content including separating foreground
   <p>Exception: Human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script.</p>
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Preety</a>, student with attention deficit hyperactivity disorder and dyslexia:<br/>
-  <span class="persona">and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Yan</a>, retiree with low </span>vision:</p>
+  <span class="persona">and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Yun</a>, retiree with low </span>vision:</p>
 <blockquote class="quotes">
   <p>Problem:  &quot;Most text is hard to read. It's so cluttered  I can't keep my focus. Just increasing the space between lines makes all the  difference. When I'm really tired, I also increase the space between  words.&quot;</p>
   <p>Works well: &quot;OK, I know I'm a bit of a geek, but  I've perfected a user style sheet to make text spacing just right for me. It's  a relief when websites work with my CSS.&quot;</p>
