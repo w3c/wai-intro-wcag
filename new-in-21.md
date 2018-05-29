@@ -141,7 +141,7 @@ Make it easier for users to see and hear content including separating foreground
   </ul>
   <p>Exception: Human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Student</a> with attention deficit hyperactivity disorder and dyslexia:<br/>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Student</a> with dyslexia:<br/>
 and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
 <blockquote class="quotes">
   <p>Problem:  &quot;Most text is hard to read. It's so cluttered  I can't keep my focus. Just increasing the space between lines makes all the  difference. When I'm really tired, I also increase the space between  words.&quot;</p>
