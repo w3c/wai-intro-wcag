@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1 - Updates in Progress – please check back later today.
+title: What's New in WCAG 2.1 - Updates in Progress – please check back in a few minutes.
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -129,7 +129,7 @@ Make it easier for users to see and hear content including separating foreground
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Understanding Reflow</a></p>
 
-### 1.4.11 Non-Text  Contrast (AA)
+### 1.4.11 Non-Text Contrast (AA)
 
 <blockquote class="sc">
   <p>The visual <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentation</a> of the following have a <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">contrast ratio</a> of at least 3:1 against adjacent color(s):</p>
@@ -140,8 +140,14 @@ Make it easier for users to see and hear content including separating foreground
     <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
   </dl>
 </blockquote>
-
-<p>@@HERE</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
+<div class="quotes">
+  <ul>
+    <li><span class="issue">Problem:</span><span><q>I couldn't use the Order Form &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></li>
+    <li><span class="issue">Works well:</span><span><q>It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.</q></span></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Understanding Non-text Contrast</a></p>
 
 ### 1.4.12 Text Spacing (AA)
 
@@ -388,4 +394,3 @@ Maximize compatibility with current and future user agents, including assistive 
 ## About the Personas Quotes
 <p>The linked persona roles go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. That page has other personas with different disabilities. We might add more in the future.</p>
 <p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
-
