@@ -80,7 +80,7 @@ Create content that can be presented in different ways (for example simpler layo
 <blockquote class="quotes">
   <p><span class="issue">Problem: &quot;</span>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.&quot;</p>
   <p><span class="issue">Works well: &quot;</span>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the  numbers and spelling right.&quot;</p>
-  <p class="qnote"><span class="issue">Note: </span>This works because the fields use autocomplete.</p>
+  <p class="qnote"><span class="note">Note: </span>This works because the fields use autocomplete.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a> </p>
 
@@ -189,7 +189,7 @@ Make all functionality available from a keyboard.
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <blockquote class="quotes">
   <p><span class="issue">Problem: &quot;</span>When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.&quot;</p>
-<p class="qnote"><span class="issue">Note: </span>There was a shortcut key for delete that was  triggered by something he was saying, and no way to turn off the shortcut  keys.</p>
+<p class="qnote"><span class="note">Note: </span>There was a shortcut key for delete that was  triggered by something he was saying, and no way to turn off the shortcut  keys.</p>
   <p><span class="issue">Works well: &quot;</span>In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.&quot;</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Understanding Character Key Shortcuts</a></p>
@@ -267,7 +267,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <blockquote class="quotes">
   <p><span class="issue">Problem: &quot;</span>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't  work.&quot;</p>
-  <p class="qnote"><span class="issue">Note: </span> It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</p>
+  <p class="qnote"><span class="note">Note: </span> It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
 
