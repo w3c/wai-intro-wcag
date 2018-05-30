@@ -163,7 +163,9 @@ Make it easier for users to see and hear content including separating foreground
     <li><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but  I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work with my CSS.</q></span></li>
   </ul>
 </div>
-<a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Understanding Text Spacing</a> ### 1.4.13 Content on Hover or Focus (AA)
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Understanding Text Spacing</a>
+
+### 1.4.13 Content on Hover or Focus (AA)
 <blockquote class="sc">
   <p>Where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden, the following are true:</p>
   <dl>
@@ -226,7 +228,9 @@ Provide users enough time to read and use content.
     <li><span class="issue">Works well:</span><span><q>When I started the Employee  Benefits app, it told me how many minutes I had to complete the forms.</q></span></li>
   </ul>
 </div>
-<a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Understanding Timeouts</a> ## Guideline 2.3 Seizures and Physical Reactions
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Understanding Timeouts</a>
+
+## Guideline 2.3 Seizures and Physical Reactions
 
 Do not design content in a way that is known to cause seizures or physical reactions.
 
