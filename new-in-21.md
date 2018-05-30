@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1 - Updates in Progress – please check back in a few minutes.
+title: What's New in WCAG 2.1 - Updates in Progress – please check back later
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -133,12 +133,7 @@ Make it easier for users to see and hear content including separating foreground
 
 <blockquote class="sc">
   <p>The visual <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentation</a> of the following have a <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">contrast ratio</a> of at least 3:1 against adjacent color(s):</p>
-  <dl>
-    <dt>User Interface Components</dt>
-    <dd>Visual information used to indicate <a href="https://www.w3.org/TR/WCAG21/#dfn-states" data-link-type="dfn">states</a> and boundaries of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a>, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;</dd>
-    <dt>Graphical Objects</dt>
-    <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
-  </dl>
+<p>@@ HERE 1 </p>
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
@@ -175,14 +170,7 @@ Make it easier for users to see and hear content including separating foreground
 
 <blockquote class="sc">
   <p>Where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden, the following are true:</p>
-  <dl>
-    <dt>Dismissable</dt>
-    <dd>A <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to dismiss the additional content without moving pointer hover or keyboard focus, unless the additional content communicates an <a href="https://www.w3.org/TR/WCAG21/#dfn-input-error" data-link-type="dfn">input error</a> or does not obscure or replace other content;</dd>
-    <dt>Hoverable</dt>
-    <dd>If pointer hover can trigger the additional content, then the pointer can be moved over the additional content without the additional content disappearing;</dd>
-    <dt>Persistent</dt>
-    <dd>The additional content remains visible until the hover or focus trigger is removed, the user dismisses it, or its information is no longer valid.</dd>
-  </dl>
+<p> @@ HERE 2 </p>
   <p>Exception: The visual presentation of the additional content is controlled by the user agent and is not modified by the author.</p>
 </blockquote>
 <p class="persona">Teacher with low vision who uses screen magnification software:</p>
@@ -394,4 +382,3 @@ Maximize compatibility with current and future user agents, including assistive 
 ## About the Personas Quotes
 <p>The linked persona roles go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. That page has other personas with different disabilities. We might add more in the future.</p>
 <p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
-
