@@ -19,7 +19,7 @@ blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f
 .quotes ul {list-style-type: none;}
 .quotes li {display:table-row;}
 .quotes li span {display:table-cell;}
-.issue {font-weight: bold; display:table-cell; width: 5.5em; text-align: right; padding-right: 7px;}
+.issue {font-weight: bold; display:table-cell; width: 6em; text-align: right; padding-right: 7px;}
 q:before {content: open-quote;color: #005a6a;font-weight: bold;}
 q:after {content: close-quote;color: #005a6a;font-weight: bold;}
 </style>
@@ -124,6 +124,7 @@ Make it easier for users to see and hear content including separating foreground
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Understanding Reflow</a></p>
+
 ### 1.4.11 Non-Text  Contrast (AA)
 <blockquote class="sc">
   <p>The visual <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentation</a> of the following have a <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">contrast ratio</a> of at least 3:1 against adjacent color(s):</p>
@@ -137,11 +138,12 @@ Make it easier for users to see and hear content including separating foreground
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</li>
+    <li><span class="issue">Problem:</span><span><q>I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></li>
     <li><span class="issue">Works well:</span><span><q>It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.</q></span></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Understanding Non-text Contrast</a></p>
+
 ### 1.4.12 Text Spacing (AA)
 <blockquote class="sc">
   <p>In content implemented using markup languages that support the following <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">text</a> <a href="https://www.w3.org/TR/WCAG21/#dfn-style-properties" data-link-type="dfn">style properties</a>, no loss of content or functionality occurs by setting all of the following and by changing no other style property:</p>
@@ -182,6 +184,7 @@ Make it easier for users to see and hear content including separating foreground
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Understanding Content on Hover or Focus</a> </p>
+
 ## Guideline 2.1 Keyboard Accessible
 
 Make all functionality available from a keyboard.
@@ -256,6 +259,7 @@ Make it easier for users to operate functionality through various inputs beyond 
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html">Understanding Pointer Gestures</a></p>
+
 ### 2.5.2 Pointer Cancellation (A)
 <blockquote class="sc">
   <p>For <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">functionality</a> that can be operated using a <a href="https://www.w3.org/TR/WCAG21/#dfn-single-pointer" data-link-type="dfn">single pointer</a>, at least one of the following is true:</p>
@@ -278,6 +282,7 @@ Make it easier for users to operate functionality through various inputs beyond 
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html">Understanding Pointer Cancellation</a></p>
+
 ### 2.5.3 Label in Name (A)
 <blockquote class="sc">
   <p>For <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> with <a href="https://www.w3.org/TR/WCAG21/#dfn-labels" data-link-type="dfn">labels</a> that include <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">text</a> or <a href="https://www.w3.org/TR/WCAG21/#dfn-images-of-text" data-link-type="dfn">images of text</a>, the <a href="https://www.w3.org/TR/WCAG21/#dfn-name" data-link-type="dfn">name</a> contains the text that is presented visually.</p>
