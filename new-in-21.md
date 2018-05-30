@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1
+title: What's New in WCAG 2.1 - Updates in Progress – please check back later.
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -23,8 +23,6 @@ blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f
 q:before {content: open-quote;color: #005a6a;font-weight: bold;}
 q:after {content: close-quote;color: #005a6a;font-weight: bold;}
 </style>
-
-<blockquote style="background:yellow"><p><strong>Updates in Progress – please check back later.</p></strong></blockquote>
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
