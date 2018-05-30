@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1 - Updates in Progress – please check back in a few minutes.
+title: What's New in WCAG 2.1 - Updates in Progress – please check back in a bit.
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -143,7 +143,7 @@ Make it easier for users to see and hear content including separating foreground
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I couldn't use the Order Form &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></li>
+    <li><span class="issue">Problem:</span><span><q>I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></span></li>
     <li><span class="issue">Works well:</span><span><q>It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.</q></span></li>
   </ul>
 </div>
