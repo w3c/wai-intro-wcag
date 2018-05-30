@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1 - Updates in Progress – please check back later.
+title: What's New in WCAG 2.1 - Updates in Progress – please check back in a few minutes.
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -60,6 +60,7 @@ For information about WCAG 2.0 and WCAG 2.1, see the [WCAG Overview](https://w3c
 Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
 
 ### 1.3.4 Orientation (Level AA)
+
 <blockquote class="sc">
   <p>Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
 </blockquote>
@@ -73,6 +74,7 @@ Create content that can be presented in different ways (for example simpler layo
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a></p>
 
 ### 1.3.5 Identify Input Purpose (AA)
+
 <blockquote class="sc">
   <p>The purpose of each input field collecting information about the user can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a> when:</p>
   <ul>
@@ -91,6 +93,7 @@ Create content that can be presented in different ways (for example simpler layo
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a> </p>
 
 ### 1.3.6 Identify Purpose (AAA)
+
 <blockquote class="sc">
   <p>In content implemented using markup languages, the purpose of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">User Interface Components</a>, icons, and <a href="https://www.w3.org/TR/WCAG21/#dfn-regions" data-link-type="dfn">regions</a> can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a>.</p>
 </blockquote>
@@ -108,6 +111,7 @@ Create content that can be presented in different ways (for example simpler layo
 Make it easier for users to see and hear content including separating foreground from background.
 
 ### 1.4.10 Reflow (AA)
+
 <blockquote class="sc">
   <p>Content can be presented without loss of information or functionality, and without requiring scrolling in two dimensions for:</p>
   <ul>
@@ -126,16 +130,15 @@ Make it easier for users to see and hear content including separating foreground
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Understanding Reflow</a></p>
 
 ### 1.4.11 Non-Text  Contrast (AA)
+
 <blockquote class="sc">
   <p>The visual <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentation</a> of the following have a <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">contrast ratio</a> of at least 3:1 against adjacent color(s):</p>
-<!--
   <dl>
     <dt>User Interface Components</dt>
     <dd>Visual information used to indicate <a href="https://www.w3.org/TR/WCAG21/#dfn-states" data-link-type="dfn">states</a> and boundaries of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a>, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;</dd>
     <dt>Graphical Objects</dt>
     <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
   </dl>
--->
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
@@ -147,6 +150,7 @@ Make it easier for users to see and hear content including separating foreground
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Understanding Non-text Contrast</a></p>
 
 ### 1.4.12 Text Spacing (AA)
+
 <blockquote class="sc">
   <p>In content implemented using markup languages that support the following <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">text</a> <a href="https://www.w3.org/TR/WCAG21/#dfn-style-properties" data-link-type="dfn">style properties</a>, no loss of content or functionality occurs by setting all of the following and by changing no other style property:</p>
   <ul>
@@ -168,9 +172,9 @@ Make it easier for users to see and hear content including separating foreground
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Understanding Text Spacing</a>
 
 ### 1.4.13 Content on Hover or Focus (AA)
+
 <blockquote class="sc">
   <p>Where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden, the following are true:</p>
-<!--
   <dl>
     <dt>Dismissable</dt>
     <dd>A <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to dismiss the additional content without moving pointer hover or keyboard focus, unless the additional content communicates an <a href="https://www.w3.org/TR/WCAG21/#dfn-input-error" data-link-type="dfn">input error</a> or does not obscure or replace other content;</dd>
@@ -179,7 +183,6 @@ Make it easier for users to see and hear content including separating foreground
     <dt>Persistent</dt>
     <dd>The additional content remains visible until the hover or focus trigger is removed, the user dismisses it, or its information is no longer valid.</dd>
   </dl>
--->
   <p>Exception: The visual presentation of the additional content is controlled by the user agent and is not modified by the author.</p>
 </blockquote>
 <p class="persona">Teacher with low vision who uses screen magnification software:</p>
@@ -196,9 +199,9 @@ Make it easier for users to see and hear content including separating foreground
 Make all functionality available from a keyboard.
 
 ### 2.1.4 Character Key Shortcuts (A)
+
 <blockquote class="sc">
   <p>If a <a href="https://www.w3.org/TR/WCAG21/#dfn-keyboard-shortcuts" data-link-type="dfn">keyboard shortcut</a> is implemented in content using only letter (including upper- and lower-case letters), punctuation, number, or symbol characters, then at least one of the following is true:</p>
-<!--
   <dl>
     <dt>Turn off</dt>
     <dd>A <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to turn the shortcut off;</dd>
@@ -207,7 +210,6 @@ Make all functionality available from a keyboard.
     <dt>Active only on focus</dt>
     <dd>The keyboard shortcut for a <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface component</a> is only active when that component has focus.</dd>
   </dl>
--->
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <div class="quotes">
@@ -224,6 +226,7 @@ Make all functionality available from a keyboard.
 Provide users enough time to read and use content.
 
 ### 2.2.6 Timeouts (AAA)
+
 <blockquote class="sc">
   <p>Users are warned of the duration of any <a href="https://www.w3.org/TR/WCAG21/#dfn-user-inactivity" data-link-type="dfn">user inactivity</a> that could cause data loss, unless the data is preserved for more than 20 hours when the user does not take any actions.</p>
 </blockquote>
@@ -241,6 +244,7 @@ Provide users enough time to read and use content.
 Do not design content in a way that is known to cause seizures or physical reactions.
 
 ### 2.3.3 Animation from Interactions (AAA)
+
 <blockquote class="sc">
   <p><a href="https://www.w3.org/TR/WCAG21/#dfn-motion-animation" data-link-type="dfn">Motion animation</a> triggered by interaction can be disabled, unless the animation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the functionality or the information being conveyed.</p>
 </blockquote>
@@ -258,6 +262,7 @@ Do not design content in a way that is known to cause seizures or physical react
 Make it easier for users to operate functionality through various inputs beyond keyboard.
 
 ### 2.5.1 Pointer Gestures (A)
+
 <blockquote class="sc">
   <p>All <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">functionality</a> that uses multipoint or path-based gestures for operation can be operated with a <a href="https://www.w3.org/TR/WCAG21/#dfn-single-pointer" data-link-type="dfn">single pointer</a> without a path-based gesture, unless a multipoint or path-based gesture is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
 </blockquote>
@@ -271,9 +276,9 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html">Understanding Pointer Gestures</a></p>
 
 ### 2.5.2 Pointer Cancellation (A)
+
 <blockquote class="sc">
   <p>For <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">functionality</a> that can be operated using a <a href="https://www.w3.org/TR/WCAG21/#dfn-single-pointer" data-link-type="dfn">single pointer</a>, at least one of the following is true:</p>
-<!--
   <dl>
     <dt>No Down-Event</dt>
     <dd>The <a href="https://www.w3.org/TR/WCAG21/#dfn-down-event" data-link-type="dfn">down-event</a> of the pointer is not used to execute any part of the function;</dd>
@@ -284,7 +289,6 @@ Make it easier for users to operate functionality through various inputs beyond 
     <dt>Essential</dt>
     <dd>Completing the function on the down-event is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</dd>
   </dl>
--->
 </blockquote>
 <p class="persona"> Politician with motor disabilities and low vision:</p>
 <div class="quotes">
@@ -296,6 +300,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html">Understanding Pointer Cancellation</a></p>
 
 ### 2.5.3 Label in Name (A)
+
 <blockquote class="sc">
   <p>For <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> with <a href="https://www.w3.org/TR/WCAG21/#dfn-labels" data-link-type="dfn">labels</a> that include <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">text</a> or <a href="https://www.w3.org/TR/WCAG21/#dfn-images-of-text" data-link-type="dfn">images of text</a>, the <a href="https://www.w3.org/TR/WCAG21/#dfn-name" data-link-type="dfn">name</a> contains the text that is presented visually.</p>
 </blockquote>
@@ -311,16 +316,15 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
 
 ### 2.5.4 Motion Actuation (A)
+
 <blockquote class="sc">
   <p><a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">Functionality</a> that can be operated by device motion or user motion can also be operated by <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> and responding to the motion can be disabled to prevent accidental actuation, except when:</p>
-<!--
   <dl>
     <dt>Supported Interface</dt>
     <dd>The motion is used to operate functionality through an <a href="https://www.w3.org/TR/WCAG21/#dfn-accessibility-supported" data-link-type="dfn">accessibility supported</a> interface;</dd>
     <dt>Essential</dt>
     <dd>The motion is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> for the function and doing so would invalidate the activity.</dd>
   </dl>
--->
 </blockquote>
 <p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
 <div class="quotes">
@@ -333,9 +337,9 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html">Understanding Motion Actuation</a></p>
 
 ### 2.5.5 Target Size (AAA)
+
 <blockquote class="sc">
   <p>The size of the <a href="https://www.w3.org/TR/WCAG21/#dfn-target" data-link-type="dfn">target</a> for <a href="https://www.w3.org/TR/WCAG21/#dfn-pointer-inputs" data-link-type="dfn">pointer inputs</a> is at least 44 by 44 <a href="https://www.w3.org/TR/WCAG21/#dfn-css-pixels" data-link-type="dfn">CSS pixels</a> except when:</p>
-<!--
   <dl>
     <dt>Equivalent</dt>
     <dd>The target is available through an equivalent link or control on the same page that is at least 44 by 44 CSS pixels;</dd>
@@ -346,7 +350,6 @@ Make it easier for users to operate functionality through various inputs beyond 
     <dt>Essential</dt>
     <dd>A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
   </dl>
--->
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor (and big fingers):</p>
 <div class="quotes">
@@ -358,6 +361,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/target-size.html">Understanding Target Size</a></p>
 
 ### 2.5.6 Concurrent Input Mechanisms (AAA)
+
 <blockquote class="sc">
   <p>Web content does not restrict use of input modalities available on a platform except where the restriction is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>, required to ensure the security of the content, or required to respect user settings.</p>
 </blockquote>
@@ -374,6 +378,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 Maximize compatibility with current and future user agents, including assistive technologies.
 
 ### 4.1.3 Status Messages (AA)
+
 <blockquote class="sc">
   <p>In content implemented using markup languages, <a href="https://www.w3.org/TR/WCAG21/#dfn-status-messages" data-link-type="dfn">status messages</a> can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a> through <a href="https://www.w3.org/TR/WCAG21/#dfn-role" data-link-type="dfn">role</a> or properties such that they can be presented to the user by <a href="https://www.w3.org/TR/WCAG21/#dfn-assistive-technologies" data-link-type="dfn">assistive technologies</a> without receiving focus.</p>
 </blockquote>
@@ -389,3 +394,4 @@ Maximize compatibility with current and future user agents, including assistive 
 ## About the Personas Quotes
 <p>The linked persona roles go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. That page has other personas with different disabilities. We might add more in the future.</p>
 <p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
+
