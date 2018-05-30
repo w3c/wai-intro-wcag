@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1 - Updates in Progress – please check back in a just a few mins.
+title: What's New in WCAG 2.1 - Updates in Progress – please check back in a blink.
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -22,8 +22,6 @@ blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f
 .issue {font-weight: bold; display:table-cell; width: 6em;}
 q:before {content: open-quote;color: #005a6a;font-weight: bold;}
 q:after {content: close-quote;color: #005a6a;font-weight: bold;}
-.persona {margin-bottom: 0; padding-bottom: 0;}	
-.quote {margin-top: 0; padding-top: 0;}
 </style>
 
 {::nomarkdown}
@@ -69,7 +67,7 @@ Create content that can be presented in different ways (for example simpler layo
 <p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I can't rotate my tablet &mdash;  it's attached to my wheelchair.</q></span><p>&nbsp;</p></li>
+    <li><span class="issue">Problem:</span><span><q>I can't rotate my tablet &mdash;  it's attached to my wheelchair.</q></span><br><br></li>
     <li><span class="issue">Works well:</span><span><q>The application works whether I  attach my tablet horizontally or vertically.</q></span></li>
   </ul>
 </div>
@@ -87,7 +85,7 @@ Create content that can be presented in different ways (for example simpler layo
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with dyslexia and dyscalculia:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span><p>&nbsp;</p></li>
+    <li><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span></li>
     <li><span class="issue">Works well:</span><span><q>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the numbers and spelling right.</q><br/>
       <em>Note: This works because the fields use autocomplete.</em></span></li>
   </ul>
@@ -271,7 +269,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona">Comic with cerebral palsy who has limited movement in fingers:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I can't move my fingers like that. I  need another way to zoom in the map.</q></span></li>
+    <li><span class="issue">Problem:</span><span><q>I can't move my fingers like that. I need another way to zoom in the map.</q></span></li>
     <li><span class="issue">Works well:</span><span><q>Good thing there are buttons to  zoom in and out.</q></span></li>
   </ul>
 </div>
