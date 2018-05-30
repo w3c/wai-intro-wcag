@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1 - Updates in Progress – please check back in time.
+title: What's New in WCAG 2.1 - Updates in Progress – please check back in a good time.
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -307,11 +307,9 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q></span><br/>
+    <li><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q><br/>
       <em>Note:  It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</em></span></li>
   </ul>
-  <li>
-    <p class="qnote"></p>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
 
@@ -394,3 +392,4 @@ Maximize compatibility with current and future user agents, including assistive 
 ## About the Personas Quotes
 <p>The linked persona roles go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. That page has other personas with different disabilities. We might add more in the future.</p>
 <p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
+
