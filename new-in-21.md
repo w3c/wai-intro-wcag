@@ -53,7 +53,7 @@ This page lists the new success criteria in Web Content Accessibility Guidelines
 
 WCAG 2.1 provides additional accessibility requirements for:
 
-- [mobile accessibility](https://www.w3.org/WAI/standards-guidelines/mobile/#intro)\
+- [mobile accessibility](https://www.w3.org/WAI/standards-guidelines/mobile/#intro)
 - people with low vision
 - people with cognitive and learning disabilities
 
