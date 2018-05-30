@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1 - Updates in Progress – please check back in a bit.
+title: What's New in WCAG 2.1 - Updates in Progress – please check back in time.
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -307,7 +307,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q><br/>
+    <li><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q></span><br/>
       <em>Note:  It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</em></span></li>
   </ul>
   <li>
