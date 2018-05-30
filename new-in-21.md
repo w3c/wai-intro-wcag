@@ -1,5 +1,5 @@
 ---
-title: What's New in WCAG 2.1 - Updates in Progress – please check back in a good time.
+title: What's New in WCAG 2.1 - Updates in Progress – please check back in a just a few mins.
 nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
@@ -17,11 +17,13 @@ blockquote {font-style: normal !important;}
 blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
 blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000;}
 .quotes ul {list-style-type: none;}
-.quotes li {display:table-row;}
+.quotes li {display:table-row; padding-bottom:}
 .quotes li span {display:table-cell;}
-.issue {font-weight: bold; display:table-cell; width: 6em; text-align: right; padding-right: 7px;}
+.issue {font-weight: bold; display:table-cell; width: 6em;}
 q:before {content: open-quote;color: #005a6a;font-weight: bold;}
 q:after {content: close-quote;color: #005a6a;font-weight: bold;}
+.persona {margin-bottom: 0; padding-bottom: 0;}	
+.quote {margin-top: 0; padding-top: 0;}
 </style>
 
 {::nomarkdown}
@@ -67,7 +69,7 @@ Create content that can be presented in different ways (for example simpler layo
 <p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I can't rotate my tablet &mdash;  it's attached to my wheelchair.</q></span></li>
+    <li><span class="issue">Problem:</span><span><q>I can't rotate my tablet &mdash;  it's attached to my wheelchair.</q></span><p>&nbsp;</p></li>
     <li><span class="issue">Works well:</span><span><q>The application works whether I  attach my tablet horizontally or vertically.</q></span></li>
   </ul>
 </div>
@@ -85,7 +87,7 @@ Create content that can be presented in different ways (for example simpler layo
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with dyslexia and dyscalculia:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span></li>
+    <li><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span><p>&nbsp;</p></li>
     <li><span class="issue">Works well:</span><span><q>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the numbers and spelling right.</q><br/>
       <em>Note: This works because the fields use autocomplete.</em></span></li>
   </ul>
@@ -392,4 +394,3 @@ Maximize compatibility with current and future user agents, including assistive 
 ## About the Personas Quotes
 <p>The linked persona roles go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. That page has other personas with different disabilities. We might add more in the future.</p>
 <p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
-
