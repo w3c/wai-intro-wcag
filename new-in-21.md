@@ -7,7 +7,7 @@ github:
   path: 'new-in-21.md'
 footer: >
   <p><strong>Date: DRAFT</strong> Updated 1 June 2018.</p>
-  <p><strong>Editors:</strong> @@...</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 
 ---
@@ -93,7 +93,7 @@ Create content that can be presented in different ways (for example simpler layo
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span></p></li>
     <li><p><span class="issue">Works well:</span><span><q>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the numbers and spelling right.</q><br/>
-      <em>Note: This works because the fields use autocomplete.</em></span></p></li>
+      <em>Note: </em>This works because the fields use autocomplete. </span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a> </p>
@@ -221,7 +221,7 @@ Make all functionality available from a keyboard.
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.</q><br/>
-      <em>Note: There was a shortcut key for delete that was triggered by something he was saying, and no way to turn off the shortcut  keys.</em></span></p></li>
+      <em>Note: </em>There was a shortcut key for delete that was triggered by something he was saying, and no way to turn off the shortcut  keys.</span></p></li>
     <li><p><span class="issue">Works well:</span><span><q>In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.</q></span></p></li>
   </ul>
 </div>
@@ -314,7 +314,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q><br/>
-      <em>Note:  It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</em></span></p></li>
+      <em>Note:  </em>It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
