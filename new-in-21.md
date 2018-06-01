@@ -15,10 +15,10 @@ footer: >
 <style>
 blockquote {font-style: normal !important;}
 blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
-blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000;}
+blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin-right: 0;}
 .quotes ul {list-style-type: none;}
-.quotes li {display:table-row; padding-bottom:}
-.quotes li span {display:table-cell;}
+.quotes li>p {display:table-row; padding-bottom:}
+.quotes li>p span {display:table-cell;}
 .issue {font-weight: bold; display:table-cell; width: 6em;}
 q:before {content: open-quote;color: #005a6a;font-weight: bold;}
 q:after {content: close-quote;color: #005a6a;font-weight: bold;}
@@ -73,8 +73,8 @@ Create content that can be presented in different ways (for example simpler layo
 <p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I can't rotate my tablet &mdash;  it's attached to my wheelchair.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>The application works whether I  attach my tablet horizontally or vertically.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I can't rotate my tablet &mdash;  it's attached to my wheelchair.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>The application works whether I  attach my tablet horizontally or vertically.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a></p>
@@ -91,9 +91,9 @@ Create content that can be presented in different ways (for example simpler layo
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with dyslexia and dyscalculia:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the numbers and spelling right.</q><br/>
-      <em>Note: This works because the fields use autocomplete.</em></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the numbers and spelling right.</q><br/>
+      <em>Note: This works because the fields use autocomplete.</em></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a> </p>
@@ -106,8 +106,8 @@ Create content that can be presented in different ways (for example simpler layo
 <p class="persona">Gamer with language processing disability:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I have software that changes the words in the navigation into symbols. It doesn't work at all with some websites.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>It works pretty good with some websites.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I have software that changes the words in the navigation into symbols. It doesn't work at all with some websites.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>It works pretty good with some websites.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose.html">Understanding Identify Purpose</a></p>
@@ -129,8 +129,8 @@ Make it easier for users to see and hear content including separating foreground
 <p class="persona">Parent with low vision – 20/400:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>It's nearly impossible to read  text if I have to scroll right and left to read each line. It's disorienting and I lose my place. It makes it hard to understand what I'm reading.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>I increase the text size 400% and  it reflowed within the width of the window. I can read it easily without scrolling back and forth.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>It's nearly impossible to read  text if I have to scroll right and left to read each line. It's disorienting and I lose my place. It makes it hard to understand what I'm reading.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I increase the text size 400% and  it reflowed within the width of the window. I can read it easily without scrolling back and forth.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Understanding Reflow</a></p>
@@ -149,8 +149,8 @@ Make it easier for users to see and hear content including separating foreground
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Understanding Non-text Contrast</a></p>
@@ -171,8 +171,8 @@ Make it easier for users to see and hear content including separating foreground
   and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but  I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work with my CSS.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but  I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work with my CSS.</q></span></p></li>
   </ul>
 </div>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Understanding Text Spacing</a>
@@ -194,8 +194,8 @@ Make it easier for users to see and hear content including separating foreground
 <p class="persona">Teacher with low vision who uses screen magnification software:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I was moving my mouse around to  track what I was looking at on a web page. It helps me keep focused. Then -boom- this little box popped up. It covered what I was trying to read and I couldn't get it to go away.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>I hovered over a word and a box popped up with the definition, but it was mostly off the screen with my magnification. I moved my mouse pointer to the definition box and scrolled the magnified area over to  the definition box and it stayed popped up so I could read it.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I was moving my mouse around to  track what I was looking at on a web page. It helps me keep focused. Then -boom- this little box popped up. It covered what I was trying to read and I couldn't get it to go away.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I hovered over a word and a box popped up with the definition, but it was mostly off the screen with my magnification. I moved my mouse pointer to the definition box and scrolled the magnified area over to  the definition box and it stayed popped up so I could read it.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Understanding Content on Hover or Focus</a> </p>
@@ -220,9 +220,9 @@ Make all functionality available from a keyboard.
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.</q><br/>
-      <em>Note: There was a shortcut key for delete that was triggered by something he was saying, and no way to turn off the shortcut  keys.</em></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.</q><br/>
+      <em>Note: There was a shortcut key for delete that was triggered by something he was saying, and no way to turn off the shortcut  keys.</em></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Understanding Character Key Shortcuts</a></p>
@@ -239,8 +239,8 @@ Provide users enough time to read and use content.
 <p class="persona">School playground aide with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I was selecting my Employee Benefits  and was comparing the different plans. When I went back to select the Health Plan, it had timed out and lost all the information I had already entered.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>When I started the Employee  Benefits app, it told me how many minutes I had to complete the forms.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I was selecting my Employee Benefits  and was comparing the different plans. When I went back to select the Health Plan, it had timed out and lost all the information I had already entered.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>When I started the Employee  Benefits app, it told me how many minutes I had to complete the forms.</q></span></p></li>
   </ul>
 </div>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Understanding Timeouts</a>
@@ -257,8 +257,8 @@ Do not design content in a way that is known to cause seizures or physical react
 <p class="persona">Artist with vestibular disorder:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>In the online tax app, as I move my  mouse around or tab to different fields, this little bubble with the current  balance follows me around the screen. Makes me dizzy and nauseous.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>I was so glad there was an option  to turn off animations.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>In the online tax app, as I move my  mouse around or tab to different fields, this little bubble with the current  balance follows me around the screen. Makes me dizzy and nauseous.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I was so glad there was an option  to turn off animations.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html">Understanding Animation from Interactions</a></p>
@@ -275,8 +275,8 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona">Comic with cerebral palsy who has limited movement in fingers:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I can't move my fingers like that. I need another way to zoom in the map.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>Good thing there are buttons to  zoom in and out.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I can't move my fingers like that. I need another way to zoom in the map.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>Good thing there are buttons to  zoom in and out.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html">Understanding Pointer Gestures</a></p>
@@ -299,8 +299,8 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona"> Politician with motor disabilities and low vision:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I went to hit the &quot;Mute&quot; button and  accidentally touched the &quot;End Call&quot; button instead. It hung up immediately.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>In another web conferencing  application, if I accidentally touch the &quot;End Call&quot; button, I can just slide my  finger off the &quot;End Call&quot; button and it won't end the call.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I went to hit the &quot;Mute&quot; button and  accidentally touched the &quot;End Call&quot; button instead. It hung up immediately.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>In another web conferencing  application, if I accidentally touch the &quot;End Call&quot; button, I can just slide my  finger off the &quot;End Call&quot; button and it won't end the call.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html">Understanding Pointer Cancellation</a></p>
@@ -313,8 +313,8 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q><br/>
-      <em>Note:  It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</em></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q><br/>
+      <em>Note:  It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</em></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
@@ -333,9 +333,9 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I can't shake my phone; it's  connected to my wheelchair. So there needs to be another way to activate that feature, like a button.</q></span><br><br></li>
-    <li><span class="issue">Problem:</span><span><q>I have tremors, so I need to turn  off motion activation &mdash; and then be able to do stuff without motion  actuation.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>My friend has this cool application that looks like a physical spin lock. She rotates the phone to turn to the combination. I can use the same application by typing the numbers directly.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I can't shake my phone; it's  connected to my wheelchair. So there needs to be another way to activate that feature, like a button.</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>I have tremors, so I need to turn  off motion activation &mdash; and then be able to do stuff without motion  actuation.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>My friend has this cool application that looks like a physical spin lock. She rotates the phone to turn to the combination. I can use the same application by typing the numbers directly.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html">Understanding Motion Actuation</a></p>
@@ -358,8 +358,8 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor (and big fingers):</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>The buttons are so small, I hit  &quot;Cancel&quot; when going for &quot;Submit&quot;. Then I have to start all over again.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>This website buttons are big enough  that I don't hit the wrong button even when I'm riding on the bumpy bus.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>The buttons are so small, I hit  &quot;Cancel&quot; when going for &quot;Submit&quot;. Then I have to start all over again.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>This website buttons are big enough  that I don't hit the wrong button even when I'm riding on the bumpy bus.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/target-size.html">Understanding Target Size</a></p>
@@ -372,7 +372,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>When my RSI acts up, I switch back and forth a lot between keyboard, mouse,  stylus, voice. This application doesn't let me use the stylus when I have a keyboard plugged in.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>When my RSI acts up, I switch back and forth a lot between keyboard, mouse,  stylus, voice. This application doesn't let me use the stylus when I have a keyboard plugged in.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html">Understanding Concurrent Input Mechanisms</a></p>
@@ -389,8 +389,8 @@ Maximize compatibility with current and future user agents, including assistive 
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#ilya-senior-staff-member-who-is-blind">Accountant</a> who is blind and uses a screen reader:</p>
 <div class="quotes">
   <ul>
-    <li><span class="issue">Problem:</span><span><q>I selected a class for the conference, but I can't tell if it got added to my  schedule.</q></span><br><br></li>
-    <li><span class="issue">Works well:</span><span><q>When I add a meeting to my calendar,  I hear a confirmation.</q></span></li>
+    <li><p><span class="issue">Problem:</span><span><q>I selected a class for the conference, but I can't tell if it got added to my  schedule.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>When I add a meeting to my calendar,  I hear a confirmation.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Understanding Status Messages</a></p>
