@@ -6,7 +6,7 @@ layout: default
 github:
   path: 'new-in-21.md'
 footer: >
-  <p><strong>Date: DRAFT</strong> Updated 30 May 2018.</p>
+  <p><strong>Date: DRAFT</strong> Updated 1 June 2018.</p>
   <p><strong>Editors:</strong> @@...</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 
@@ -51,13 +51,15 @@ This page lists the new success criteria in Web Content Accessibility Guidelines
 
 ## Introduction
 
-WCAG 2.1 provides additional accessibility requirements for:
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](https://w3c.github.io/wai-intro-wcag/standards-guidelines/wcag/).
+
+All success criteria from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
+
+WCAG 2.1 provides 17 additional success criteria to address:
 
 - [mobile accessibility](https://www.w3.org/WAI/standards-guidelines/mobile/#intro)
 - people with low vision
 - people with cognitive and learning disabilities
-
-For information about WCAG 2.0 and WCAG 2.1, see the [WCAG Overview](https://w3c.github.io/wai-intro-wcag/standards-guidelines/wcag/).
 
 ## Guideline 1.3 Adaptable
 
