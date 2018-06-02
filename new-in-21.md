@@ -15,7 +15,8 @@ footer: >
 <style>
 blockquote {font-style: normal !important;}
 blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
-blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin-right: 0;}
+blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin-right: 0; margin-bottom:40px;}
+.quotes {margin-bottom:40px;}
 .quotes ul {list-style-type: none;}
 .quotes li>p {display:table-row; padding-bottom:}
 .quotes li>p span {display:table-cell;}
