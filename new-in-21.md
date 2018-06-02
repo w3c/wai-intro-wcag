@@ -94,7 +94,7 @@ Create content that can be presented in different ways (for example simpler layo
       <em>Note: </em>This works because the fields use autocomplete. </span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a> </p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html">Understanding Identify Input Purpose</a> </p>
 
 ### 1.3.6 Identify Purpose (AAA)
 
