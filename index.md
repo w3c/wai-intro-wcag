@@ -56,7 +56,7 @@ All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 succ
 
 There are additional success criteria in 2.1 that are not in 2.0. They will be introduced in "What's New in WCAG 2.1".
 
-**Content that conforms to WCAG 2.1 also conforms to WCAG 2.0** (This is often called “backwards compatible”.) A website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
+**Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
 
 To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.
 
