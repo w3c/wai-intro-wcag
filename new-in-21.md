@@ -9,21 +9,18 @@ footer: >
   <p><strong>Date:</strong> Updated 1 June 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
-
+inline_css: |
+  blockquote {font-style: normal !important;}
+  blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
+  blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin-right: 0; margin-bottom:40px;}
+  .quotes {margin-bottom:40px;}
+  .quotes ul {list-style-type: none;}
+  .quotes li>p {display:table-row; padding-bottom:}
+  .quotes li>p span {display:table-cell;}
+  .issue {font-weight: bold; display:table-cell; width: 6em;}
+  q:before {content: open-quote;color: #005a6a;font-weight: bold;}
+  q:after {content: close-quote;color: #005a6a;font-weight: bold;}
 ---
-
-<style>
-blockquote {font-style: normal !important;}
-blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
-blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin-right: 0; margin-bottom:40px;}
-.quotes {margin-bottom:40px;}
-.quotes ul {list-style-type: none;}
-.quotes li>p {display:table-row; padding-bottom:}
-.quotes li>p span {display:table-cell;}
-.issue {font-weight: bold; display:table-cell; width: 6em;}
-q:before {content: open-quote;color: #005a6a;font-weight: bold;}
-q:after {content: close-quote;color: #005a6a;font-weight: bold;}
-</style>
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
