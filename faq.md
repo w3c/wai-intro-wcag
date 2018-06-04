@@ -5,7 +5,7 @@ layout: default
 github:
   path: 'faq.md'
 footer: >
-    <p><strong>Date:</strong> Updated 1 June 2018. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 5 June 2018. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 
@@ -51,25 +51,27 @@ footer: >
 
   <h2 id="done">Is WCAG 2 stable?</h2>
   <p>Yes. WCAG standards (called &quot;W3C Recommendations&quot;) are a stable, referenceable standards that do not change. There may be later versions published.</p>
-  <p><a href="http://www.w3.org/TR/WCAG20/">WCAG 2.0</a> was published as a final W3C Recommendation Web Standard on 11 December 2008. It will not change.</p>
-  <p>WCAG 2.1 is expected to be published in June 2018. Once published, it will not change.</p>
-  <p>The supporting resources &mdash; Techniques for WCAG 2 and Understanding WCAG 2  &mdash; are updated periodically to reflect updates in technologies and best practices.</p>
+  <p><a href="http://www.w3.org/TR/WCAG20/">WCAG 2.0</a> was published as a final W3C Recommendation Web Standard on 11 December 2008. <a href="http://www.w3.org/TR/WCAG21/">WCAG 2.1</a> was published on 5 June 2018. They will not change.</p>
+  <p>The supporting resources &mdash; Techniques for WCAG 2 and Understanding WCAG 2 &mdash; are updated periodically to reflect updates in technologies and best practices.</p>
   <p><em>See also important information in the next answer about WCAG 2.1:</em></p>
   <h2 id="v21">What about WCAG 2.1?</h2>
 
-WCAG 2.1 is currently in development and is scheduled to be published as a standard in June 2018. The primary focus for WCAG 2.1 is accessibility requirements for mobile accessibility, people with low vision, and people with cognitive and learning disabilities.
+WCAG 2.0 was published on 11 December 2008. WCAG 2.1 was published on 5 June 2018. The primary focus for WCAG 2.1 is accessibility requirements for:
+* [mobile accessibility](https://www.w3.org/WAI/standards-guidelines/mobile/#intro)
+* people with low vision,
+* people with cognitive and learning disabilities
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
 
-There are additional success criteria in 2.1 that are not in 2.0. They will be introduced in "What's New in WCAG 2.1".
+There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [What's New in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
 
 **Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
 
 To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.
 
-WCAG 2.1 will not deprecate or supersede WCAG 2.0. Both will be existing standards. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
+WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
 
-  <h2 id="next">What's next after WCAG 2.1?</h2>
+<h2 id="next">What's next after WCAG 2.1?</h2>
   <p>The Accessibility Guidelines Working Group is also exploring future accessibility guidelines through the <a href="https://www.w3.org/WAI/GL/task-forces/silver/">Silver Task Force</a>. Additional information is available in a <a href="https://docs.google.com/presentation/d/1YjaxD3qNAUV0dcx485AyEpq5RY_WpXgFk27TozDbPM8/edit#slide=id.p">Silver presentation</a>. This project will take several years.</p>
   <p>In the interim, the Working Group might decide to develop WCAG 2.2 to provide additional updates to address current accessibility requirements.</p>
   <h2><a id="mobile"></a>Does WCAG 2 address mobile accessibility?</h2>
@@ -84,7 +86,7 @@ WCAG 2.1 will not deprecate or supersede WCAG 2.0. Both will be existing standar
   <p>Here's a little more perspective on the different technical documents. When web content and web software developers were using WCAG <em><strong>1.0</strong></em>, they had many questions on how to implement it, how to evaluate for it, and the reasons behind its requirements. WAI wanted to provide this information with WCAG 2, and since those details don't fit well in a technical standard, they are in the supporting documents.</p>
   <p>Thus with WCAG 2, there are extensive supporting materials, which are advisory documents. The WCAG 2 guidelines document  itself is the only document that is a web standard, and it is fairly short.</p>
   <h2 id="techs">Do content authors (developers, designers, etc.) have to follow W3C's techniques to meet WCAG?</h2>
-  <p><strong>No</strong>, you do not have to use the   techniques in W3C's <cite>Techniques for WCAG 2</cite> document.</p>
+  <p><strong>No</strong>, you do not have to use the techniques in W3C's <cite>Techniques for WCAG 2</cite> document.</p>
   <p>The techniques are informative; that means they are not required. The basis for determining conformance to WCAG 2 is the success criteria from the WCAG 2 standard — not the techniques.</p>
   <p>While many authors find W3C-documented techniques useful, there may be other ways to meet WCAG success criteria. You can use other techniques. Web content could even fail a particular technique test, yet still meet WCAG in a different way. Also, content that uses some of the  Techniques does not necessarily meet all WCAG success criteria.</p>
   <p><strong>For important additional information, see the <a href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/understanding-techniques.html">Understanding Techniques for WCAG Success Criteria section</a> of Understanding WCAG 2.1</strong>.</p>
