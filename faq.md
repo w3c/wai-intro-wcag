@@ -51,19 +51,19 @@ footer: >
 
   <h2 id="done">Is WCAG 2 stable?</h2>
   <p>Yes. WCAG standards (called &quot;W3C Recommendations&quot;) are a stable, referenceable standards that do not change. There may be later versions published.</p>
-  <p><a href="http://www.w3.org/TR/WCAG20/">WCAG 2.0</a> was published as a final W3C Recommendation Web Standard on 11 December 2008. <a href="http://www.w3.org/TR/WCAG21/">WCAG 2.1</a> was published on 5 June 2018. They will not change.</p>
+  <p><a href="http://www.w3.org/TR/WCAG20/">WCAG 2.0</a> was published as a final W3C Recommendation Web Standard on 11 December 2008. <a href="http://www.w3.org/TR/WCAG21/">WCAG 2.1</a> was published as a final W3C Recommendation Web Standard on 5 June 2018. <strong>They will not change.</strong></p>
   <p>The supporting resources &mdash; Techniques for WCAG 2 and Understanding WCAG 2 &mdash; are updated periodically to reflect updates in technologies and best practices.</p>
   <p><em>See also important information in the next answer about WCAG 2.1:</em></p>
   <h2 id="v21">What about WCAG 2.1?</h2>
 
-WCAG 2.0 was published on 11 December 2008. WCAG 2.1 was published on 5 June 2018. The primary focus for WCAG 2.1 is accessibility requirements for:
+All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
+
+The primary focus for WCAG 2.1 is additional accessibility requirements for:
 * [mobile accessibility](https://www.w3.org/WAI/standards-guidelines/mobile/#intro)
 * people with low vision,
 * people with cognitive and learning disabilities
 
-All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
-
-There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [What's New in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
+There are 17 additional success criteria in 2.1 that are not in 2.0. They are introduced in [What's New in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
 
 **Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
 
