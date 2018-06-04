@@ -5,7 +5,7 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
 footer: >
-  <p><strong>Date:</strong> Updated 1 June 2018. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 5 June 2018. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
   
@@ -20,7 +20,7 @@ This page introduces the Web Content Accessibility Guidelines (WCAG), including 
 Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
 * [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
-* [WCAG 2.1](http://www.w3.org/TR/WCAG21/)
+* [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -50,17 +50,17 @@ The WCAG documents explain how to make web content more accessible to people wit
 
 ## WCAG 2.0 and 2.1 {#versions}
 
-WCAG 2.0 was published in December 2008. WCAG 2.1 is expected to be published in June 2018.
+WCAG 2.0 was published on 11 December 2008. WCAG 2.1 was published on 5 June 2018.
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
 
-There are additional success criteria in 2.1 that are not in 2.0. They will be introduced in "What's New in WCAG 2.1".
+There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [What's New in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
 
 **Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
 
 To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.
 
-WCAG 2.1 will not deprecate or supersede WCAG 2.0. Both will be existing standards. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
+WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
 
 ## Who WCAG is for {#for}
 
