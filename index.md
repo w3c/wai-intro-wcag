@@ -79,7 +79,7 @@ WCAG is a technical standard, not an introduction to accessibility. For introduc
 
 **[WCAG 2.0](/TR/WCAG20)** and **[WCAG 2.1](/TR/WCAG21)** and are stable, referenceable technical standards. They have 12-13 guidelines that are organized under [4 principles: perceivable, operable, understandable, and robust](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head). For each guideline, there are testable *success criteria*, which are at [three levels: A, AA, and AAA](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#uc-levels-head).
 
-For a short summary of the WCAG 2 guidelines, see **[WCAG 2 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/>)**.
+For a short summary of the WCAG 2 guidelines, see **[WCAG 2 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)**.
 
 To learn about web accessibility principles and guidelines, see **[Accessibility Principles](http://www.w3.org/WAI/intro/people-use-web/principles)**.
 
