@@ -71,6 +71,6 @@ Please see the following key resources for learning and using WCAG 2.1:
 
 ## Other Versions
 
-* [WCAG 2.0 at a Glance ]({{ "/standards-guidelines/wcag/20/glance/" | relative_url}}) has two differences from above:
+* [WCAG 2.0 at a Glance]({{ "/standards-guidelines/wcag/20/glance/" | relative_url}}) has two differences from above:
     * "Do not use content that causes seizures or physical reactions." does not include "or physical reactions".
     * It does not include "Make it easier to use inputs other than keyboard."
