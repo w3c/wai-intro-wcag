@@ -4,7 +4,7 @@ nav title: At a Glance
 permalink: /standards-guidelines/wcag/glance/
 layout: default
 github:
-  repository: wai-intro-wcag
+  repository: w3c/wai-intro-wcag
   path: 'glance.md'
 footer: >
   <p><strong>Date:</strong> Updated 5 June 2018. First published July 2008.</p>
