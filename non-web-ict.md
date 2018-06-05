@@ -51,7 +51,7 @@ Recommendation and an ISO International Standard ([ISO/IEC
 dynamic web applications, etc.) more accessible to people with
 disabilities. The [WCAG Overview](http://www.w3.org/wai/intro/wcag)
 introduces the WCAG documents and links to supporting resources such as
-[WCAG 2 at a Glance](http://www.w3.org/WAI/WCAG20/glance/) and [How to
+[WCAG 2.0 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/20/glance/) and [How to
 Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/).
 
 *This document:* **WCAG2ICT** is a W3C Working Group Note that is
