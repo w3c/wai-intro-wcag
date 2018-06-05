@@ -3,6 +3,7 @@ title: WCAG 2 Translations
 permalink: /standards-guidelines/wcag/translations/
 layout: default
 github:
+  repository: wai-intro-wcag
   path: 'translations.md'
 footer: >
   <p><strong>Date:</strong> Updated 23 May 2018. First published 2 March 2009.</p>

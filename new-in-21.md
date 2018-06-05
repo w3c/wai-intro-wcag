@@ -4,6 +4,7 @@ nav: New in 2.1
 permalink: /standards-guidelines/wcag/new-in-21/
 layout: default
 github:
+  repository: wai-intro-wcag
   path: 'new-in-21.md'
 footer: >
   <p><strong>Date:</strong> Updated 1 June 2018.</p>
