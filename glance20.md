@@ -1,23 +1,25 @@
 ---
-title: WCAG 2.1 at a Glance
-nav title: At a Glance
-permalink: /standards-guidelines/wcag/glance/
+title: WCAG 2.0 at a Glance
+permalink: /standards-guidelines/wcag/20/glance/
 layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'glance.md'
 footer: >
-  <p><strong>Date:</strong> Updated 5 June 2018. First published July 2008.</p>
+  <p><strong>Date:</strong> Updated 22 February 2012. First published July 2008.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> and Wayne Dick.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
-
+doc-note-type: archived
+doc-note-message-md: >
+  [A new version of this document, for WCAG 2.1, is available.](https://www.w3.org/WAI/standards-guidelines/wcag/20/glance/)
 ---
 
-This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.1. For the normative technical specification, see [www.w3.org/TR/WCAG21](http://www.w3.org/TR/WCAG21/).
+This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.0. For the normative technical specification, see [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/).
 
-Please see the following key resources for learning and using WCAG 2.1:
+Please see the following key resources for learning and using WCAG 2.0:
+
 -   **[WCAG Overview](http://www.w3.org/WAI/intro/wcag.php)**
--   **[How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)** &mdash; A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (success criteria) and techniques
+-   **[How to Meet WCAG 2.0: A customizable quick reference](http://www.w3.org/WAI/WCAG20/quickref/) to WCAG 2.0 requirements (Success Criteria) and techniques**
 
 {::nomarkdown}
 {% include box.html type="start" title="Perceivable" h=2 class="large" %}
@@ -39,9 +41,8 @@ Please see the following key resources for learning and using WCAG 2.1:
 
 -   Make all functionality available from a **[keyboard](http://www.w3.org/WAI/WCAG20/quickref/#keyboard-operation)**.
 -   Give users **[enough time](http://www.w3.org/WAI/WCAG20/quickref/#time-limits)** to read and use content.
--   Do not use content that causes **[seizures](http://www.w3.org/WAI/WCAG20/quickref/#seizure)** or physical reactions.
+-   Do not use content that causes **[seizures](http://www.w3.org/WAI/WCAG20/quickref/#seizure)**.
 -   Help users **[navigate and find content](http://www.w3.org/WAI/WCAG20/quickref/#navigation-mechanisms)**.
--   Make it easier to use **[inputs other than keyboard](@@)**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -69,8 +70,10 @@ Please see the following key resources for learning and using WCAG 2.1:
 {% include box.html type="end" %}
 {:/}
 
-## Other Versions
+## Print Version
 
-* [WCAG 2.0 at a Glance ]({{ "/standards-guidelines/wcag/20/glance/" | relative_url}}) has two differences from above:
-    * "Do not use content that causes seizures or physical reactions." does not include "or physical reactions".
-    * It does not include "Make it easier to use inputs other than keyboard."
+This page is formatted for printing (without the navigation) as PDF
+files for A4 and 8.5" x 11" paper:
+
+-   [WCAG 2 at a Glance (PDF) A4](https://www.w3.org/WAI/WCAG20/glance/WCAG2-at-a-Glance-a4.pdf)
+-   [WCAG 2 at a Glance (PDF) 8.5x11](https://www.w3.org/WAI/WCAG20/glance/WCAG2-at-a-Glance.pdf)
