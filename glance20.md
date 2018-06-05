@@ -11,7 +11,7 @@ footer: >
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
 doc-note-type: archived
 doc-note-message-md: >
-  [A new version of this document, for WCAG 2.1, is available.](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
+  Updated document: [WCAG 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 ---
 
 This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.0. For the normative technical specification, see [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/).
