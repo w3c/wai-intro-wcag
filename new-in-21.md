@@ -21,6 +21,18 @@ inline_css: |
   .issue {font-weight: bold; display:table-cell; width: 6em;}
   q:before {content: open-quote;color: #005a6a;font-weight: bold;}
   q:after {content: close-quote;color: #005a6a;font-weight: bold;}
+  .sc dt {
+	  display: list-item;
+	  list-style-type: disc;
+	  float: left;
+	  font-weight: bold;
+	  margin-left: 2em;
+	  margin-right: 1ex;
+	  line-height: 1.5;
+  }
+  .sc dt:after {
+	  content: ":";
+  }
 ---
 
 {::nomarkdown}
