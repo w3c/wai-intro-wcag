@@ -33,6 +33,8 @@ inline_css: |
   .sc dt:after {
     content: ":";
   }
+  .sc p:last-of-type {margin-bottom: 1em}
+  .sc p:last-child, .sc *:last-child {margin-bottom: 0}
 ---
 
 {::nomarkdown}
