@@ -2,6 +2,7 @@
 title: WCAG 2.0 at a Glance
 permalink: /standards-guidelines/wcag/20/glance/
 layout: default
+parent: '/standards-guidelines/wcag/'
 github:
   repository: w3c/wai-intro-wcag
   path: 'glance.md'
