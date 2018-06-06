@@ -22,16 +22,16 @@ inline_css: |
   q:before {content: open-quote;color: #005a6a;font-weight: bold;}
   q:after {content: close-quote;color: #005a6a;font-weight: bold;}
   .sc dt {
-	  display: list-item;
-	  list-style-type: disc;
-	  float: left;
-	  font-weight: bold;
-	  margin-left: 2em;
-	  margin-right: 1ex;
-	  line-height: 1.5;
+    display: list-item;
+    list-style-type: disc;
+    float: left;
+    font-weight: bold;
+    margin-left: 2em;
+    margin-right: 1ex;
+    margin-top: 0;
   }
   .sc dt:after {
-	  content: ":";
+    content: ":";
   }
 ---
 
