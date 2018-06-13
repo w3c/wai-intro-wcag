@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-intro-wcag
   path: 'translations.md'
 footer: >
-  <p><strong>Date:</strong> Updated 23 May 2018. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 13 June 2018. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
@@ -43,7 +43,7 @@ W3C provides two types of translations:
 -   [Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a formal review process and are endorsed by W3C.
 -   [Unofficial translations](http://www.w3.org/Consortium/Translation/#auth) are not reviewed and are not endorsed by W3C.
 
-## WCAG 2.1 Completed and Planned Translations {#progress}
+## WCAG 2.1 Completed and Planned Translations
 
 <table class="langstable" style="width:100%">
   <thead>
