@@ -5,7 +5,7 @@ layout: default
 github:
   path: 'faq.md'
 footer: >
-    <p><strong>Date:</strong> Updated 5 June 2018. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 22 June 2018. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 
@@ -16,7 +16,7 @@ footer: >
 {:/}
 
   <p>This page answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG). Let us know what <a href="#more">other questions</a> you have. <br/>
-    ~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 5 June 2018</em></p>
+    ~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 22 June 2018</em></p>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -32,6 +32,7 @@ footer: >
     <li><a href="#done">Is WCAG 2 stable?</a></li>
     <li><a href="#v21">What about WCAG 2.1?</a></li>
     <li><a href="#next">What's next after WCAG 2.1?</a></li>
+    <li><a href="#vpat21">Does VPAT 2.1 include WCAG 2.1?</a></li> 
     <li><a href="#mobile">Does WCAG address mobile accessibility?</a></li>
     <li><a href="#start">Where should I start?</a></li>
     <li><a href="#docs">What are the different WCAG 2 documents?</a></li>
@@ -76,6 +77,10 @@ WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate o
   <p>In the interim, the Working Group might decide to develop WCAG 2.2 to provide additional updates to address current accessibility requirements.</p>
   <h2><a id="mobile"></a>Does WCAG 2 address mobile accessibility?</h2>
   <p><strong>Yes.</strong> See the <a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a> page.</p>
+  
+    <h2 id="vpat21">Does VPAT 2.1 include WCAG 2.1?</h2>
+<p>No. Voluntary Product Accessibility Template (VPAT) 2.1 includes information from WCAG 2.0. VPAT 2.1 does not include information from WCAG 2.1. (VPAT is not developed by W3C.)</p>
+  
   <h2 id="start">Where should I start?</h2>
   <p class="listintro">If you want a really short introduction to 3 web accessibility issues (alternative text for images, keyboard input, and transcripts), see <a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/#examples">Examples of Web Accessibility</a>.</p>
   <p class="listintro">To learn about web accessibility principles and guidelines, see <a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a>.</p>
