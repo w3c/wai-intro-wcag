@@ -5,7 +5,7 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
 footer: >
-  <p><strong>Date:</strong> Updated 5 June 2018. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 22 June 2018. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
   
@@ -77,7 +77,7 @@ WCAG is a technical standard, not an introduction to accessibility. For introduc
 
 ## What is in the WCAG 2 Documents {#whatis2}
 
-**[WCAG 2.0](/TR/WCAG20)** and **[WCAG 2.1](/TR/WCAG21)** and are stable, referenceable technical standards. They have 12-13 guidelines that are organized under [4 principles: perceivable, operable, understandable, and robust](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head). For each guideline, there are testable *success criteria*, which are at [three levels: A, AA, and AAA](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#uc-levels-head).
+**[WCAG 2.0](/TR/WCAG20)** and **[WCAG 2.1](/TR/WCAG21)** are stable, referenceable technical standards. They have 12-13 guidelines that are organized under [4 principles: perceivable, operable, understandable, and robust](http://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html#introduction-fourprincs-head). For each guideline, there are testable *success criteria*, which are at [three levels: A, AA, and AAA](http://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html#uc-levels-head).
 
 For a short summary of the WCAG 2 guidelines, see **[WCAG 2 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)**.
 
