@@ -77,8 +77,7 @@ WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate o
   <p>In the interim, the Working Group might decide to develop WCAG 2.2 to provide additional updates to address current accessibility requirements.</p>
   <h2><a id="mobile"></a>Does WCAG 2 address mobile accessibility?</h2>
   <p><strong>Yes.</strong> See the <a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a> page.</p>
-  
-    <h2 id="vpat21">Does VPAT 2.1 include WCAG 2.1?</h2>
+<h2 id="vpat21">Does VPAT 2.1 include WCAG 2.1?</h2>
 <p>No. Voluntary Product Accessibility Template (VPAT) 2.1 includes information from WCAG 2.0. VPAT 2.1 does not include information from WCAG 2.1. (VPAT is not developed by W3C.)</p>
   
   <h2 id="start">Where should I start?</h2>
