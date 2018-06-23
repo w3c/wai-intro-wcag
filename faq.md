@@ -3,6 +3,7 @@ title: WCAG 2 FAQ
 permalink: /standards-guidelines/wcag/faq/
 layout: default
 github:
+  repository: w3c/wai-intro-wcag
   path: 'faq.md'
 footer: >
     <p><strong>Date:</strong> Updated 22 June 2018. First published October 2006.</p>
