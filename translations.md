@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-intro-wcag
   path: 'translations.md'
 footer: >
-  <p><strong>Date:</strong> Updated 26 June 2018. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 28 June 2018. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
@@ -73,6 +73,11 @@ W3C provides two types of translations:
        <th id="pt21">Portuguese</th>
        <td></td>
        <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.1 (25 June 2018)</a></td>
+     </tr>
+     <tr>
+       <th id="sk">Slovak</th>
+       <td></td>
+       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0028.html">notification of intent for Slovak Authorized Translation of WCAG 2.1 (27 June 2018)</a></td>
      </tr>
 	</tbody>
 	</table>
