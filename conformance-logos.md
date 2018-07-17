@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-intro-wcag
   path: 'conformance-logos.md'
 footer: >
-  <p><strong>Date:</strong> Updated $Date$..</p>
+  <p><strong>Date:</strong> Updates coming later in 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Cooper">Michael Cooper.
 ---
 
@@ -15,6 +15,8 @@ footer: >
 {:/}
 
 This page provides information about conformance logos for WCAG 2.
+
+**Note:** The information is for WCAG 2.0. It will be updated for WCAG 2.1 later in 2018.<br/>This page includes logos for 2.0 and for 2.1. 
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -120,7 +122,7 @@ choose to download and use local copies of the logos, using the links
 provided for each logo. You will have to adjust the HTML accordingly,
 but please use the same alternative text and link for the logo.
 
-### WCAG 2.1 Logos
+### WCAG 2.0 Logos
 
 <table>
   <thead>
@@ -154,7 +156,36 @@ but please use the same alternative text and link for the logo.
 </table>
 
 ### WCAG 2.1 Logos
-@@ coming soon!
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th scope="col">A</th>
+      <th scope="col">AA</th>
+      <th scope="col">AAA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Gold</th>
+      <td><img src="https://www.w3.org/WAI/wcag21/wcag2.1A-v.png" alt="Level A conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.1" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/wcag21/wcag2.1A<strong>.png</strong>" title="PNG version of WCAG 2.1 Level A conformance icon">png</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1A-v.gif" title="GIF version of WCAG 2.1 Level A conformance icon">gif</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1A-v.svg" title="SVG version of WCAG 2.1 Level A conformance icon">svg</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1A-v.eps" title="EPS version of WCAG 2.1 Level A conformance icon">eps</a>)</td>
+      <td><img src="https://www.w3.org/WAI/wcag21/wcag2.1AA-v.png" alt="Level Double-A conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.1" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/wcag21/wcag2.1AA-v.png" title="PNG version of WCAG 2.1 Level AA conformance icon">png</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AA-v.gif" title="GIF version of WCAG 2.1 Level AA conformance icon">gif</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AA-v.svg" title="SVG version of WCAG 2.1 Level AA conformance icon">svg</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AA-v.eps" title="EPS version of WCAG 2.1 Level AA conformance icon">eps</a>)</td>
+      <td><img src="https://www.w3.org/WAI/wcag21/wcag2.1AAA-v.png" alt="Level Triple-A conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.1" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/wcag21/wcag2.1AAA-v.png" title="PNG version of WCAG 2.1 Level AAA conformance icon">png</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AAA-v.gif" title="GIF version of WCAG 2.1 Level AAA conformance icon">gif</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AAA-v.svg" title="SVG version of WCAG 2.1 Level AAA conformance icon">svg</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AAA-v.eps" title="EPS version of WCAG 2.1 Level AAA conformance icon">eps</a>)</td>
+    </tr>
+    <tr>
+      <th scope="row">Blue</th>
+      <td><img src="https://www.w3.org/WAI/wcag21/wcag2.1A-blue-v.png" alt="Level A conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.1 (blue)" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/wcag21/wcag2.1A-blue-v.png" title="PNG version of WCAG 2.1 Level A conformance icon (blue)">png</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1A-blue-v.gif" title="GIF version of WCAG 2.1 Level A conformance icon (blue)">gif</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1A-blue-v.svg" title="SVG version of WCAG 2.1 Level A conformance icon (blue)">svg</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1A-blue-v.eps" title="EPS version of WCAG 2.1 Level A conformance icon (blue)">eps</a>)</td>
+      <td><img src="https://www.w3.org/WAI/wcag21/wcag2.1AA-blue-v.png" alt="WCAG 2.1 AA (blue)" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/wcag21/wcag2.1AA-blue-v.png" title="PNG version of WCAG 2.1 Level AA conformance icon (blue)">png</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AA-blue-v.gif" title="GIF version of WCAG 2.1 Level AA conformance icon (blue)">gif</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AA-blue-v.svg" title="SVG version of WCAG 2.1 Level AA conformance icon (blue)">svg</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AA-blue-v.eps" title="EPS version of WCAG 2.1 Level AA conformance icon (blue)">eps</a>)</td>
+      <td><img src="https://www.w3.org/WAI/wcag21/wcag2.1AAA-blue-v.png" alt="Level Triple-A conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.1 (blue)" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/wcag21/wcag2.1AAA-blue-v.png" title="PNG version of WCAG 2.1 Level AAA conformance icon (blue)">png</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AAA-blue-v.gif" title="GIF version of WCAG 2.1 Level AAA conformance icon (blue)">gif</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AAA-blue-v.svg" title="SVG version of WCAG 2.1 Level AAA conformance icon (blue)">svg</a>, <a href="https://www.w3.org/WAI/wcag21/wcag2.1AAA-blue-v.eps" title="EPS version of WCAG 2.1 Level AAA conformance icon (blue)">eps</a>)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Scope of the claim {#scope}
 
