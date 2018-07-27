@@ -4,6 +4,8 @@ permalink: /standards-guidelines/wcag/
 layout: default
 github:
   repository: w3c/wai-intro-wcag
+description: Web Content Accessibility Guidelines (WCAG) provides standards for web content accessibility that meets the needs of individuals, organizations, and governments internationally.
+image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 22 June 2018. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>

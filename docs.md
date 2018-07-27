@@ -4,6 +4,8 @@ permalink: /standards-guidelines/wcag/docs/
 layout: default
 github:
   path: 'docs.md'
+description: Description of the different Web Content Accessibility Guidelines (WCAG) 2 technical documents.
+image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 24 May 2018. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
