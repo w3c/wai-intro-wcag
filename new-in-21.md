@@ -6,7 +6,7 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'new-in-21.md'
-description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1 and related persona quotes.
+description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 1 June 2018.</p>
