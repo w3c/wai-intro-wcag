@@ -5,7 +5,7 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'translations.md'
-description: Translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
+description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 28 June 2018. First published 2 March 2009.</p>
