@@ -4,7 +4,7 @@ permalink: /standards-guidelines/wcag/
 layout: default
 github:
   repository: w3c/wai-intro-wcag
-description: Web Content Accessibility Guidelines (WCAG) provides standards for web content accessibility that meets the needs of individuals, organizations, and governments internationally.
+description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 22 June 2018. First published July 2005.</p>
