@@ -72,10 +72,10 @@ source code below:
 Put the following HTML markup in your page:
 
 ```html
-<a href="http://www.w3.org/WAI/WCAG2A-Conformance"
+<a href="https://www.w3.org/WAI/WCAG2A-Conformance"
    title="Explanation of WCAG 2.0 Level A Conformance">
   <img height="32" width="88"
-       src="http://www.w3.org/WAI/wcag2A"
+       src="https://www.w3.org/WAI/wcag2A"
        alt="Level A conformance,
             W3C WAI Web Content Accessibility Guidelines 2.0">
 </a>
@@ -88,10 +88,10 @@ If you would like to use the blue logo, append "-blue" to the image src.
 Put the following HTML markup in your page:
 
 ```html
-<a href="http://www.w3.org/WAI/WCAG2AA-Conformance"
+<a href="https://www.w3.org/WAI/WCAG2AA-Conformance"
    title="Explanation of WCAG 2.0 Level Double-A Conformance">
   <img height="32" width="88"
-       src="http://www.w3.org/WAI/wcag2AA"
+       src="https://www.w3.org/WAI/wcag2AA"
        alt="Level Double-A conformance,
             W3C WAI Web Content Accessibility Guidelines 2.0">
 </a>
@@ -104,10 +104,10 @@ If you would like to use the blue logo, append "-blue" to the image src.
 Put the following HTML markup in your page:
 
 ```html
-<a href="http://www.w3.org/WAI/WCAG2AAA-Conformance"
+<a href="https://www.w3.org/WAI/WCAG2AAA-Conformance"
    title="Explanation of WCAG 2.0 Level Triple-A Conformance">
   <img height="32" width="88"
-       src="http://www.w3.org/WAI/wcag2AAA"
+       src="https://www.w3.org/WAI/wcag2AAA"
        alt="Level Triple-A conformance,
             W3C WAI Web Content Accessibility Guidelines 2.0">
 </a>
