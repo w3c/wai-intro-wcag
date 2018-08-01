@@ -5,7 +5,7 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'non-web-ict.md'
-description: Introduces the document: “Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)”.
+description: "Introduces the document: “Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)”."
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 24 May 2018.</p>
