@@ -5,6 +5,8 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'conformance-logos.md'
+description: The W3C provides conformance logos for Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1 to further promote accessibility on the Web.
+image: /content-images/wai-intro-wcag/conformance-logos-social.jpg
 footer: >
   <p><strong>Date:</strong> Updates coming later in 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Cooper">Michael Cooper.

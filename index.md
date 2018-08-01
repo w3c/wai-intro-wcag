@@ -4,6 +4,8 @@ permalink: /standards-guidelines/wcag/
 layout: default
 github:
   repository: w3c/wai-intro-wcag
+description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
+image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 22 June 2018. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
