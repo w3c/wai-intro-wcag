@@ -84,6 +84,8 @@ W3C provides two types of translations:
 	</tbody>
 	</table>
 
+Translators should refer to the [editors draft](https://w3c.github.io/wcag/guidelines/) to avoid known errata.
+
 ## WCAG 2.0 Completed and Planned Translations
 
 <table class="langstable">
