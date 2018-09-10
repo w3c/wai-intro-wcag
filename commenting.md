@@ -125,12 +125,12 @@ list.
 
 ### Online Form {#how_form}
 
-**Please use [online comment form](onlineform) to comment on:**
+**Please use [online comment form](https://www.w3.org/WAI/WCAG20/comments/onlineform.html) to comment on:**
 
--   [Web Content Accessibility Guidelines 2.0 (WCAG 2.0)](http://www.w3.org/TR/WCAG20/)
--   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/)
--   [Understanding WCAG 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/)
--   [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/)
+-   [Web Content Accessibility Guidelines 2.0 (WCAG 2.0)](https://www.w3.org/TR/WCAG20/)
+-   [How to Meet WCAG 2.0](https://www.w3.org/WAI/WCAG20/quickref/)
+-   [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
+-   [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)
 
 *(For WCAG 2.0 documents not in the list above, send comments to
 <wai-eo-editors@w3.org>, a publicly archived list.)*
@@ -174,8 +174,8 @@ form**](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
 
 Please see the following resources for more information:
 
--   WCAG documents listed in the [navigation area of this
-    page](#subhomenav)
+-   WCAG documents listed in the navigation area of this
+    page
 -   [How WAI Develops Accessibility Guidelines through the W3C Process:
     Milestones and Opportunities to
     Contribute](http://www.w3.org/WAI/intro/w3c-process)
