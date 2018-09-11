@@ -97,7 +97,7 @@ W3C provides two types of translations:
   <tbody>
      <tr>
         <th class="changed"><a name="ar" id="ar">Arabic</a></th>
-        <td class="changed"><strong><a href="http://www.utic.rnu.tn/wcag2.0/">Arabic Candidate Authorized Translation of WCAG 2.0</a> for <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2013AprJun/0106.html">review until 25 April 2013</a></strong></td>
+        <td class="changed"><strong><a href="http://www.alecso.org/wcag2.0/">Arabic Candidate Authorized Translation of WCAG 2.0</a> for <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2013AprJun/0106.html">review until 25 April 2013</a></strong></td>
         <td class="changed">Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2010JulSep/0113.html">notification of intent for Arabic Authorized Translation of WCAG 2.0 (12 September 2010)</a></td>
      </tr>
      <tr>
