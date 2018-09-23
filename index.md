@@ -20,7 +20,7 @@ footer: >
 This page introduces the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
 
 Quick links to resources:
-* [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
+* [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
 * [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
 * [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
 
