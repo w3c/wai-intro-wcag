@@ -68,7 +68,7 @@ W3C provides two types of translations:
      </tr>
      <tr>
        <th id="it21">Italian</th>
-       <td><a href="https://www.w3.org/Translations/WCAG21-it/">Italian Authorized Translation of WCAG 2.1 completed{% include_cached different.html %}</a></td>
+       <td><a href="https://www.w3.org/Translations/WCAG21-it/">Italian Authorized Translation of WCAG 2.1 completed {% include_cached different.html %}</a></td>
        <td></td>
      </tr>
      <tr>
