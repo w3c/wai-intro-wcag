@@ -8,7 +8,7 @@ github:
 description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 28 June 2018. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 2 October 2018. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
@@ -68,8 +68,8 @@ W3C provides two types of translations:
      </tr>
      <tr>
        <th id="it21">Italian</th>
+       <td><a href="https://www.w3.org/Translations/WCAG21-it/">Italian Authorized Translation of WCAG 2.1 completed{% include_cached different.html %}</a></td>
        <td></td>
-       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0010.html">notification of intent for Italian Authorized Translation of WCAG 2.1 (11 June 2018) {% include_cached different.html %}</a></td>
      </tr>
      <tr>
        <th id="pt21">Portuguese</th>
