@@ -9,7 +9,7 @@ github:
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 1 June 2018.</p>
+  <p><strong>Date:</strong> Updated 3 November 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -80,7 +80,7 @@ WCAG 2.1 provides 17 additional success criteria to address:
 
 Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
 
-### 1.3.4 Orientation (Level AA)
+### 1.3.4 Orientation (AA)
 
 <blockquote class="sc">
   <p>Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential {% include_cached different.html %}</a>.</p>
