@@ -5,7 +5,7 @@ layout: default
 parent: '/standards-guidelines/wcag/'
 github:
   repository: w3c/wai-intro-wcag
-  path: 'glance.md'
+  path: 'glance20.md'
 description: This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.0.
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
