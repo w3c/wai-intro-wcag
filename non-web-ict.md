@@ -8,7 +8,7 @@ github:
 description: "Introduces the document: “Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)”."
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 24 May 2018.</p>
+  <p><strong>Date:</strong> Updated 15 February 2019.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the <a href="http://www.w3.org/WAI/GL/WCAG2ICT-TF/">WCAG2ICT Task Force</a> and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ---
@@ -60,7 +60,7 @@ developed to provide an authoritative interpretation of how WCAG 2.0 can
 apply in different contexts. For information on the scope of WCAG2ICT,
 see the [WCAG2ICT Introduction {% include_cached different.html %}](http://www.w3.org/TR/wcag2ict/#intro).
 
-*Note:* **WCAG2ICT is still relevant for later versions of WCAG 2**. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. W3C is currently not planning to update WCAG2ICT to add the additional requirements from future versions of WCAG 2.
+*Note:* **WCAG2ICT is still relevant for later versions of WCAG 2**. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. W3C may update WCAG2ICT in the future to add the additional requirements from later versions of WCAG 2.
 
 ## Who WCAG2ICT is for {#for}
 
