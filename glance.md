@@ -20,16 +20,16 @@ This page provides a paraphrased summary of Web Content Accessibility Guidelines
 
 Please see the following key resources for learning and using WCAG 2.1:
 -   **[WCAG Overview](http://www.w3.org/WAI/intro/wcag.php)**
--   **[How to Meet WCAG 2 (Quick Reference) {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/)** &mdash; A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (success criteria) and techniques
+-   **[How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)** &mdash; A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (success criteria) and techniques
 
 {::nomarkdown}
 {% include box.html type="start" title="Perceivable" h=2 class="large" %}
 {:/}
 
--   Provide **[text alternatives {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/#text-equiv)** for non-text content.
--   Provide [**captions and other alternatives** {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/#media-equiv) for multimedia.
--   Create content that can be **[presented in different ways {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/#content-structure-separation)**, including by assistive technologies, without losing meaning.
--   Make it easier for users to **[see and hear content {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/#visual-audio-contrast)**.
+-   Provide **[text alternatives](http://www.w3.org/WAI/WCAG21/quickref/#text-equiv)** for non-text content.
+-   Provide [**captions and other alternatives**](http://www.w3.org/WAI/WCAG21/quickref/#media-equiv) for multimedia.
+-   Create content that can be **[presented in different ways](http://www.w3.org/WAI/WCAG21/quickref/#content-structure-separation)**, including by assistive technologies, without losing meaning.
+-   Make it easier for users to **[see and hear content](http://www.w3.org/WAI/WCAG21/quickref/#visual-audio-contrast)**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -40,11 +40,11 @@ Please see the following key resources for learning and using WCAG 2.1:
 {% include box.html type="start" title="Operable" h=2 class="large" %}
 {:/}
 
--   Make all functionality available from a **[keyboard {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/#keyboard-operation)**.
--   Give users **[enough time {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/#time-limits)** to read and use content.
--   Do not use content that causes **[seizures {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/#seizure)** or physical reactions.
--   Help users **[navigate and find content {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)**.
--   Make it easier to use **[inputs other than keyboard {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)**.
+-   Make all functionality available from a **[keyboard](http://www.w3.org/WAI/WCAG21/quickref/#keyboard-operation)**.
+-   Give users **[enough time](http://www.w3.org/WAI/WCAG21/quickref/#time-limits)** to read and use content.
+-   Do not use content that causes **[seizures](http://www.w3.org/WAI/WCAG21/quickref/#seizure)** or physical reactions.
+-   Help users **[navigate and find content](http://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)**.
+-   Make it easier to use **[inputs other than keyboard](https://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
