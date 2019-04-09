@@ -9,7 +9,7 @@ github:
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 3 November 2018.</p>
+  <p><strong>Date:</strong> Updated 8 April 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -156,7 +156,7 @@ Make it easier for users to see and hear content including separating foreground
   <p>The visual <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentation {% include_cached different.html %}</a> of the following have a <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">contrast ratio {% include_cached different.html %}</a> of at least 3:1 against adjacent color(s):</p>
   <dl>
     <dt>User Interface Components</dt>
-    <dd>Visual information used to indicate <a href="https://www.w3.org/TR/WCAG21/#dfn-states" data-link-type="dfn">states {% include_cached different.html %}</a> and boundaries of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components {% include_cached different.html %}</a>, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;</dd>
+    <dd>Visual information required to identify <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components {% include_cached different.html %}</a> and <a href="https://www.w3.org/TR/WCAG21/#dfn-states" data-link-type="dfn">states {% include_cached different.html %}</a>, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;</dd>
     <dt>Graphical Objects</dt>
     <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential {% include_cached different.html %}</a> to the information being conveyed.</dd>
   </dl>
