@@ -66,7 +66,7 @@ including:
 There are multiple ways to provide comments on WCAG 2.0 and related
 documents:
 
--   [Github pull request](#how_github)
+-   [GitHub pull request](#how_github)
 -   [Online Form](#how_form)
 -   [Email comment submission](#how_email)
 
