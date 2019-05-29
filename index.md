@@ -21,9 +21,9 @@ footer: >
 This page introduces the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
 
 Quick links to resources:
-* [How to Meet WCAG 2 (Quick Reference) {% include_cached different.html %}](http://www.w3.org/WAI/WCAG21/quickref/)
-* [WCAG 2.0 Standard {% include_cached different.html %}](http://www.w3.org/TR/WCAG20/)
-* [WCAG 2.1 Standard {% include_cached different.html %}](http://www.w3.org/TR/WCAG21/)
+* [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
+* [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
+* [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -88,9 +88,9 @@ To learn about web accessibility principles and guidelines, see **[Accessibility
 
 The WCAG 2 supporting technical materials include:
 
--   [**How to Meet WCAG 2**: A customizable quick reference to Web Content Accessibility Guidelines 2 requirements (success criteria) and techniques {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/) is essentially the [WCAG 2 checklist {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/). Most people use this quick references as the main resource for working with WCAG.
--   **Techniques for WCAG 2** ([2.1 Techniques {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Techniques/), [2.0 Techniques {% include_cached different.html %}](/TR/WCAG20-TECHS/)) gives you specific details on how to develop accessible web content, such as HTML code examples. The techniques are "informative", that is, you do not have to use them. The basis for determining conformance to WCAG 2 is the *success criteria* from the WCAG 2 standard, not the techniques. Read more in [Techniques in the FAQ {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/wcag2faq#techs).
--  **Understanding WCAG 2** ([2.1 Understanding {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/Understanding/), [2.0 Understanding {% include_cached different.html %}](/TR/UNDERSTANDING-WCAG20/)) has additional guidance on learning and implementing WCAG 2 for people who want to understand the guidelines and success criteria more thoroughly.
+-   [**How to Meet WCAG 2**: A customizable quick reference to Web Content Accessibility Guidelines 2 requirements (success criteria) and techniques](http://www.w3.org/WAI/WCAG20/quickref/) is essentially the [WCAG 2 checklist](http://www.w3.org/WAI/WCAG20/quickref/). Most people use this quick references as the main resource for working with WCAG.
+-   **Techniques for WCAG 2** ([2.1 Techniques](https://www.w3.org/WAI/WCAG21/Techniques/), [2.0 Techniques](/TR/WCAG20-TECHS/)) gives you specific details on how to develop accessible web content, such as HTML code examples. The techniques are "informative", that is, you do not have to use them. The basis for determining conformance to WCAG 2 is the *success criteria* from the WCAG 2 standard, not the techniques. Read more in [Techniques in the FAQ](http://www.w3.org/WAI/WCAG20/wcag2faq#techs).
+-  **Understanding WCAG 2** ([2.1 Understanding](https://www.w3.org/WAI/WCAG21/Understanding/), [2.0 Understanding](/TR/UNDERSTANDING-WCAG20/)) has additional guidance on learning and implementing WCAG 2 for people who want to understand the guidelines and success criteria more thoroughly.
 
 For more details on how these document are related and how they are linked, see [**The WCAG 2 Documents**](http://www.w3.org/WAI/intro/wcag20).
 
@@ -110,9 +110,9 @@ Supplemental guidance provides additional information beyond what is required in
 
 WCAG 2.0 is approved as an ISO standard: ISO/IEC 40500:2012. ISO/IEC 40500 is exactly the same as the original WCAG 2.0, which is introduced above along with supporting resources.
 
-The content of ISO/IEC 40500 is freely available from [www.w3.org/TR/WCAG20 {% include_cached different.html %}](http://www.w3.org/TR/WCAG20/); it is available for purchase from the [ISO catalogue {% include_cached external.html %}](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625).
+The content of ISO/IEC 40500 is freely available from [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/); it is available for purchase from the [ISO catalogue {% include_cached external.html %}](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625).
 
-Benefits of WCAG 2.0 as an ISO standard are summarized in [ISO in the FAQ](http://www.w3.org/WAI/WCAG20/wcag2faq#iso). More information on W3C and the ISO process is in the [W3C PAS FAQ {% include_cached different.html %}](http://www.w3.org/2010/04/pasfaq).
+Benefits of WCAG 2.0 as an ISO standard are summarized in [ISO in the FAQ](http://www.w3.org/WAI/WCAG20/wcag2faq#iso). More information on W3C and the ISO process is in the [W3C PAS FAQ](http://www.w3.org/2010/04/pasfaq).
 
 ## Other guidelines {#components}
 
@@ -120,9 +120,9 @@ WCAG is part of a series of accessibility guidelines, including the Authoring To
 
 ## Who develops WCAG {#wg}
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](/WAI/GL/)) *(formerly the Web Content Accessibility Guidelines Working Group)*, which is part of the World Wide Web Consortium ([W3C {% include_cached different.html %}](http://www.w3.org)) Web Accessibility Initiative ([WAI](/WAI/)).
+The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](/WAI/GL/)) *(formerly the Web Content Accessibility Guidelines Working Group)*, which is part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](/WAI/)).
 
-WAI updates Techniques for WCAG 2 and Understanding WCAG 2 periodically. We welcome [comments {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/comments/) and [submission of new techniques {% include_cached different.html %}](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
+WAI updates Techniques for WCAG 2 and Understanding WCAG 2 periodically. We welcome [comments](http://www.w3.org/WAI/WCAG20/comments/) and [submission of new techniques](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
 
 Opportunities for contributing to WCAG and other WAI work are introduced in [Participating in WAI](/WAI/participation).
 

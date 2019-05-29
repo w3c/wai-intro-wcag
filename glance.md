@@ -16,7 +16,7 @@ footer: >
 
 ---
 
-This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.1. For the normative technical specification, see [www.w3.org/TR/WCAG21 {% include_cached different.html %}](http://www.w3.org/TR/WCAG21/).
+This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.1. For the normative technical specification, see [www.w3.org/TR/WCAG21](http://www.w3.org/TR/WCAG21/).
 
 Please see the following key resources for learning and using WCAG 2.1:
 -   **[WCAG Overview](http://www.w3.org/WAI/intro/wcag.php)**

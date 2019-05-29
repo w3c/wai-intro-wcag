@@ -19,7 +19,7 @@ footer: >
 
 This page introduces the document: "Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)".
 
-Quick link: [WCAG2ICT Note {% include_cached different.html %}](http://www.w3.org/TR/wcag2ict/)
+Quick link: [WCAG2ICT Note](http://www.w3.org/TR/wcag2ict/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -40,17 +40,17 @@ Quick link: [WCAG2ICT Note {% include_cached different.html %}](http://www.w3.or
 
 ## Introduction {#intro}
 
-[Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT) {% include_cached different.html %}](http://www.w3.org/TR/wcag2ict/) describes how the Web Content Accessibility Guidelines (WCAG) 2.0 can be applied to non-web information and communications technologies (ICT). It supports harmonized accessibility solutions across a range of technologies.
+[Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)](http://www.w3.org/TR/wcag2ict/) describes how the Web Content Accessibility Guidelines (WCAG) 2.0 can be applied to non-web information and communications technologies (ICT). It supports harmonized accessibility solutions across a range of technologies.
 
 *Background:* **WCAG 2.0** is a normative web standard — it is a W3C
 Recommendation and an ISO International Standard ([ISO/IEC
-40500:2012 {% include_cached different.html %}](http://www.w3.org/QA/2012/10/wcag_20_is_now_also_isoiec_405.html))
+40500:2012](http://www.w3.org/QA/2012/10/wcag_20_is_now_also_isoiec_405.html))
 — that explains how to make web content (including static web pages,
 dynamic web applications, etc.) more accessible to people with
 disabilities. The [WCAG Overview](http://www.w3.org/wai/intro/wcag)
 introduces the WCAG documents and links to supporting resources such as
 [WCAG 2.0 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/20/glance/) and [How to
-Meet WCAG 2 (Quick Reference) {% include_cached different.html %}](http://www.w3.org/WAI/WCAG20/quickref/).
+Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG20/quickref/).
 
 *This document:* **WCAG2ICT** is a W3C Working Group Note that is
 informative — it is not normative and does not set requirements. It
@@ -58,7 +58,7 @@ provides guidance on the application of WCAG 2.0 principles, guidelines,
 and success criteria to non-web documents and software. WCAG2ICT was
 developed to provide an authoritative interpretation of how WCAG 2.0 can
 apply in different contexts. For information on the scope of WCAG2ICT,
-see the [WCAG2ICT Introduction {% include_cached different.html %}](http://www.w3.org/TR/wcag2ict/#intro).
+see the [WCAG2ICT Introduction](http://www.w3.org/TR/wcag2ict/#intro).
 
 *Note:* **WCAG2ICT is still relevant for later versions of WCAG 2**. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. W3C may update WCAG2ICT in the future to add the additional requirements from later versions of WCAG 2.
 
@@ -101,13 +101,13 @@ as follows:
 
 ### Technical document format
 
-WCAG2ICT follows the [W3C {% include_cached different.html %}](http://www.w3.org) format for technical
+WCAG2ICT follows the [W3C](http://www.w3.org) format for technical
 reports, which has several sections at the beginning, including links to
 different versions, editors, abstract, and status.
 
 ## Who develops WCAG2ICT {#wg}
 
-WCAG2ICT was developed by the [WCAG2ICT Task Force {% include_cached different.html %}](http://www.w3.org/WAI/GL/WCAG2ICT-TF/), provided for public review, and approved by the Web Content Accessibility Guidelines Working Group ([WCAG WG](http://www.w3.org/WAI/GL/)), which is part of the World Wide Web Consortium ([W3C {% include_cached different.html %}](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)).
+WCAG2ICT was developed by the [WCAG2ICT Task Force](http://www.w3.org/WAI/GL/WCAG2ICT-TF/), provided for public review, and approved by the Web Content Accessibility Guidelines Working Group ([WCAG WG](http://www.w3.org/WAI/GL/)), which is part of the World Wide Web Consortium ([W3C](http://www.w3.org/)) Web Accessibility Initiative ([WAI](http://www.w3.org/WAI/)).
 
 ### Comments
 
