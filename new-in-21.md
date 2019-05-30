@@ -1,12 +1,19 @@
 ---
-title: What’s New in WCAG 2.1
-nav: New in 2.1
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
+title: "What’s New in WCAG 2.1"
+nav_title: "New in 2.1"
+
+description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
+
+lang: en
+last_updated: 2019-04-08
 permalink: /standards-guidelines/wcag/new-in-21/
-layout: default
+
 github:
   repository: w3c/wai-intro-wcag
   path: 'new-in-21.md'
-description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
+
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 8 April 2019.</p>
@@ -37,6 +44,7 @@ inline_css: |
   }
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
+ref: /standards-guidelines/wcag/new-in-21/
 ---
 
 {::nomarkdown}
@@ -66,15 +74,15 @@ This page lists the new success criteria in Web Content Accessibility Guidelines
 
 ## Introduction
 
-For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview]({{ "/standards-guidelines/wcag/" | relative_url }}).
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 All success criteria from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
 
 WCAG 2.1 provides 17 additional success criteria to address:
 
-- [mobile accessibility](https://www.w3.org/WAI/standards-guidelines/mobile/#intro)
+- [mobile accessibility](/standards-guidelines/mobile/)
 - people with low vision
-- people with cognitive and learning disabilities
+- [people with cognitive and learning disabilities](/standards-guidelines/cognitive/)
 
 ## Guideline 1.3 Adaptable
 
@@ -329,7 +337,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q><br/>
-      <em>Note:  </em>It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</span></p></li>
+      <em>Note:  </em>It was visually labeled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
@@ -411,5 +419,9 @@ Maximize compatibility with current and future user agents, including assistive 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Understanding Status Messages</a></p>
 
 ## About the Personas Quotes
-<p>The linked persona roles go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. That page has other personas with different disabilities. We might add more in the future.</p>
-<p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
+
+The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities. We might add more in the future.
+
+After we’ve reviewed these persona quotes sufficiently, we plan to add
+them to the Understanding documents.
+

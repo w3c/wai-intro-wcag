@@ -1,15 +1,24 @@
 ---
-title: W3C Web Content Accessibility Guidelines 2 Conformance Logos
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
+title: "W3C Web Content Accessibility Guidelines 2 Conformance Logos"
+nav_title: "Conformance Logos"
+
+description: The W3C provides conformance logos for Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1 to further promote accessibility on the Web.
+
+lang: en
+last_updated: 2018-01-01
 permalink: /standards-guidelines/wcag/conformance-logos/
-layout: default
+
 github:
   repository: w3c/wai-intro-wcag
   path: 'conformance-logos.md'
-description: The W3C provides conformance logos for Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1 to further promote accessibility on the Web.
+
 image: /content-images/wai-intro-wcag/conformance-logos-social.jpg
 footer: >
   <p><strong>Date:</strong> Updates coming later in 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Cooper">Michael Cooper.
+ref: /standards-guidelines/wcag/conformance-logos/
 ---
 
 {::nomarkdown}
@@ -38,24 +47,13 @@ This page provides information about conformance logos for WCAG 2.
 {:/}
 
 
-To further promote accessibility on the Web, W3C provides conformance
-logos for Web Content Accessibility Guidelines (WCAG) 2.0. Content
-providers can use these logos on their sites to indicate a claim of
-conformance to a specified conformance level of the [Web Content
-Accessibility Guidelines 2.0](/TR/WCAG20/). Note that this does not
-represent review or validation of conformance by W3C and/or WAI. We
-expect that use of these logos on conformant sites will help raise
-awareness of accessibility issues.
+To further promote accessibility on the Web, W3C provides conformance logos for Web Content Accessibility Guidelines (WCAG) 2.0. Content providers can use these logos on their sites to indicate a claim of conformance to a specified conformance level of the [Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/). Note that this does not represent review or validation of conformance by W3C and/or WAI. We expect that use of these logos on conformant sites will help raise awareness of accessibility issues.
 
-Conformance to WCAG 2.0 is defined in the [Conformance
-section](/TR/WCAG20/#conformance) of the specification. Here is the
-excerpt that defines the conformance levels:
+Conformance to WCAG 2.0 is defined in the [Conformance section](https://www.w3.org/TR/WCAG20/#conformance) of the specification. Here is the excerpt that defines the conformance levels:
 
-> -   Conformance Level "A": all Level A success criteria are satisfied;
-> -   Conformance Level "AA": all Level A and AA success criteria are
->     satisfied;
-> -   Conformance Level "AAA": all Level A, AA, and AAA success criteria
->     are satisfied;
+-   Conformance Level "A": all Level A success criteria are satisfied;
+-   Conformance Level "AA": all Level A and AA success criteria are satisfied;
+-   Conformance Level "AAA": all Level A, AA, and AAA success criteria are satisfied;
 
 Please refer to WCAG 2.0 for more information about information required
 in a conformance claim.
@@ -119,10 +117,7 @@ If you would like to use the blue logo, append "-blue" to the image src.
 
 ## Logos
 
-Below are the logos as they will appear in your site. You may also
-choose to download and use local copies of the logos, using the links
-provided for each logo. You will have to adjust the HTML accordingly,
-but please use the same alternative text and link for the logo.
+Below are the logos as they will appear in your site. You may also choose to download and use local copies of the logos, using the links provided for each logo. You will have to adjust the HTML accordingly, but please use the same alternative text and link for the logo.
 
 ### WCAG 2.0 Logos
 
@@ -191,35 +186,14 @@ but please use the same alternative text and link for the logo.
 
 ## Scope of the claim {#scope}
 
-By default, a conformance icon refers to a single page. If the claim is
-meant to apply to include more than one page, the conformance icon must
-be accompanied by explicit scope information explaining which pages are
-covered by the claim.
+By default, a conformance icon refers to a single page. If the claim is meant to apply to include more than one page, the conformance icon must be accompanied by explicit scope information explaining which pages are covered by the claim.
 
 ## Responsibility for accuracy of claims {#responsibility}
 
-Content providers are solely responsible for the use of these logos.
-Before using these logos as part of a conformance claim, we recommend
-that the provider be familiar with the [Web Content Accessibility
-Guidelines 2.0](/TR/WCAG20/) and use a variety of review methods to
-ensure that any page using this logo meets the conformance level
-claimed. Providers should also ensure that anyone maintaining or
-updating the site is familiar with logo use, and either re-reviews the
-page or removes the logo from the page if they are unsure whether it
-still meets a specified conformance level.
+Content providers are solely responsible for the use of these logos. Before using these logos as part of a conformance claim, we recommend that the provider be familiar with the [Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/) and use a variety of review methods to ensure that any page using this logo meets the conformance level claimed. Providers should also ensure that anyone maintaining or updating the site is familiar with logo use, and either re-reviews the page or removes the logo from the page if they are unsure whether it still meets a specified conformance level.
 
-Please note that use of this logo is not conditional on an automated
-test. There is as yet no tool that can perform a completely automatic
-assessment on the checkpoints in the guidelines, and fully automatic
-testing may remain difficult or impossible. It is also possible for
-automated accessibility checkers to register "false negatives" or "false
-positives" due to the type of mark-up on a page. For these reasons, the
-logos on this page are used to indicate only a claim of conformance made
-by the author of a page, not a machine-validated conformance. In spite
-of these issues with machine testing, it is an important component of
-ensuring that a site conforms to WCAG 2.0, as long as it is not the only
-component.
+Please note that use of this logo is not conditional on an automated test. There is as yet no tool that can perform a completely automatic assessment on the checkpoints in the guidelines, and fully automatic testing may remain difficult or impossible. It is also possible for automated accessibility checkers to register "false negatives" or "false positives" due to the type of mark-up on a page. For these reasons, the logos on this page are used to indicate only a claim of conformance made by the author of a page, not a machine-validated conformance. In spite of these issues with machine testing, it is an important component of ensuring that a site conforms to WCAG 2.0, as long as it is not the only component.
 
 ## Comments
-Please send comments about this page to:
-:   <wai-wcag-editor@w3.org>
+
+Please send comments about this page to: <wai-wcag-editor@w3.org>

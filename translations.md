@@ -1,17 +1,25 @@
 ---
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
 title: WCAG 2 Translations
+nav_title: "Translations"
+
+description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
+
+lang: en
+last_updated: 2018-10-02
 permalink: /standards-guidelines/wcag/translations/
-layout: default
+
 github:
   repository: w3c/wai-intro-wcag
   path: 'translations.md'
-description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
+
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 2 October 2018. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
-
+ref: /standards-guidelines/wcag/translations/
 ---
 
 
@@ -47,7 +55,7 @@ W3C provides two types of translations:
 
 ## WCAG 2.1 Completed and Planned Translations
 
-<table class="langstable" style="width:100%">
+<table class="langstable dense">
   <thead>
      <tr>
         <th scope="col">Language</th>
@@ -86,7 +94,7 @@ W3C provides two types of translations:
 
 ## WCAG 2.0 Completed and Planned Translations
 
-<table class="langstable">
+<table class="langstable dense">
   <thead>
      <tr>
         <th scope="col">Language</th>
@@ -257,12 +265,11 @@ W3C provides two types of translations:
 
 ## More Information
 
-For more information on WCAG, see the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+For more information on WCAG, see the [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/).
 
-Lists of other translations are available: [Translations of all W3C Documents](http://www.w3.org/2005/11/Translations/Lists/OverviewLang), [Translations of WAI Documents](http://www.w3.org/2005/11/Translations/Query?wai=any),
-[Search for all W3C Translations](http://www.w3.org/2005/11/Translations/TranslationSearch).
+Lists of other translations are available: [Translations of all W3C Documents](http://www.w3.org/2005/11/Translations/Lists/OverviewLang), [Translations of WAI Documents](http://www.w3.org/2005/11/Translations/Query?wai=any), [Search for all W3C Translations](http://www.w3.org/2005/11/Translations/TranslationSearch).
 
-Information about translating W3C resources is provided in [W3C Translations](http://www.w3.org/Consortium/Translation/) and [Translating WAI Documents](http://www.w3.org/WAI/translation).
+Information about translating W3C resources is provided in [W3C Translations](http://www.w3.org/Consortium/Translation/) and [[Translating WAI Resources]](/about/translating/).
 
 All W3C translations, including translations of WCAG 2.0, should be
 announced to the [W3C Translators List](http://www.w3.org/Consortium/Translation/#discussions) ([public archive](http://lists.w3.org/Archives/Public/w3c-translators/)) to facilitate collaboration and to avoid duplication of effort.
