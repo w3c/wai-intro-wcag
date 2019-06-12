@@ -125,8 +125,9 @@ W3C provides two types of translations:
   <tbody>
      <tr>
         <th class="changed"><a name="ar" id="ar">Arabic</a></th>
-        <td class="changed"><strong><a href="http://www.alecso.org/wcag2.0/">Arabic Candidate Authorized Translation of WCAG 2.0 {% include_cached external.html %}</a> for <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2013AprJun/0106.html">review until 25 April 2013</a></strong></td>
-        <td class="changed">Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2010JulSep/0113.html">notification of intent for Arabic Authorized Translation of WCAG 2.0 (12 September 2010)</a></td>
+        <td class="changed"><a href="http://www.alecso.org/wcag2.0/">Arabic Candidate Authorized Translation of WCAG 2.0 {% include_cached external.html %}</a></td>
+        <td class="changed">Review — <a href="https://lists.w3.org/Archives/Public/w3c-wai-ig/2013AprJun/0106.html">notification of review of Arabic Candidate Authorized Translation of WCAG 2.0 (11 April 2013)</a><br>
+        Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2010JulSep/0113.html">notification of intent for Arabic Authorized Translation of WCAG 2.0 (12 September 2010)</a></td>
      </tr>
      <tr>
         <th><a name="be" id="be">Belarusian</a></th>
@@ -186,11 +187,13 @@ W3C provides two types of translations:
         <td><a href="http://www.w3.org/Translations/WCAG20-de/"><strong>German Authorized Translation of WCAG 2.0 completed</strong></a></td>
         <td><a href="http://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0013.html">German unofficial translations of other WCAG 2.0 documents</a></td>
      </tr>
+     <!--
      <tr>
         <th><a name="el" id="el">Greek</a></th>
         <td>-</td>
         <td>on-going discussion with potential translators</td>
      </tr>
+     -->
      <tr>
         <th><a name="il" id="il">Hebrew</a></th>
         <td><a href="http://www.isoc.org.il/w3c-wai/guidelines.html">Hebrew unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
@@ -239,8 +242,9 @@ W3C provides two types of translations:
      </tr>
      <tr>
         <th class="changed"><a name="pl" id="pl">Polish</a></th>
-        <td class="changed"><strong><a href="http://fdc.org.pl/wcag2/">Polish Candidate Authorized Translation of WCAG 2.0 {% include_cached external.html %}</a> for <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2013AprJun/0259.html">review until 30 June 2013</a></strong></td>
-        <td class="changed">Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0100.html">notification of intent for Polish Authorized Translation of WCAG 2.0 (8 March 2010)</a></td>
+        <td class="changed"><a href="http://fdc.org.pl/wcag2/">Polish Candidate Authorized Translation of WCAG 2.0 {% include_cached external.html %}</a></td>
+        <td class="changed">Review — <a href="https://lists.w3.org/Archives/Public/w3c-wai-ig/2013AprJun/0259.html">notification of review of Polish Candidate Authorized Translation of WCAG 2.0 (03 June 2013)</a><br>
+        Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0100.html">notification of intent for Polish Authorized Translation of WCAG 2.0 (8 March 2010)</a></td>
      </tr>
      <tr>
         <th><a name="pt" id="pt">Portuguese (European and Brazilian)</a></th>
@@ -266,13 +270,12 @@ W3C provides two types of translations:
      </tr>
      <tr>
         <th class="changed"><a name="es" id="es">Spanish</a></th>
+        <td class="changed"><a href="http://www.sidar.org/traducciones/wcag20/es/">Spanish Candidate Authorized Translation of WCAG 2.0 {% include_cached external.html %}</a></td>
         <td class="changed"><ul>
-              <li><strong><a href="http://www.sidar.org/traducciones/wcag20/es/">Spanish Candidate Authorized Translation of WCAG 2.0 {% include_cached external.html %}</a> for <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2009OctDec/0122.html">review until 29 January 2010</a></strong></li>
-           </ul></td>
-        <td class="changed"><ul>
+              <li>Review — <a href="https://lists.w3.org/Archives/Public/w3c-wai-ig/2009OctDec/0122.html">notification of review of Spanish Candidate Authorized Translation of WCAG 2.0 (17 December 2009)</a></li>
               <li>Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2009OctDec/0280.html">announcement of Spanish Candidate Authorized Translation of WCAG 2.0 review period (17 December 2009)</a></li>
               <li><a href="http://www.codexexempla.org/traducciones/pautas-accesibilidad-contenido-web-2.0.htm">Spanish unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></li>
-              <li>Unofficial translation <a href="http://lists.w3.org/Archives/Public/w3c-translators/2012OctDec/0019.html">notification if intent for Spanish unofficial translation of Understanding WCAG 2.0 (2 November 2012)</a> </li>
+              <li>Unofficial translation —  <a href="http://lists.w3.org/Archives/Public/w3c-translators/2012OctDec/0019.html">notification if intent for Spanish unofficial translation of Understanding WCAG 2.0 (2 November 2012)</a> </li>
            </ul></td>
      </tr>
      <tr>
