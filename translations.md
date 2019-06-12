@@ -290,12 +290,14 @@ W3C provides two types of translations:
 
 For information on WCAG, see the [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/).
 
-For lists of other translations, see:
-* '''[All WAI Translations](https://www.w3.org/WAI/translations/)''' for translations of other accessibility resources
-* '''[Translations of Current W3C Technical Reports](https://www.w3.org/Translations/)'''
+For other translations lists, see:
+* **[All WAI Translations](https://www.w3.org/WAI/translations/)** for translations of other accessibility resources
+* **[Translations of Current W3C Technical Reports](https://www.w3.org/Translations/)**
 
-For information on translating W3C Technical Reports, see [Contributing to W3C Translations](http://www.w3.org/Consortium/Translation/).<br>
-For information on translating other '''accessibility''' resource, see [[Translating WAI Resources]](/about/translating/).<br>
-If you are interested in translating a specific document, note that you should announce it beforehand (as instructed in the links above) to facilitate collaboration and to avoid duplication of effort.
+For information on translating W3C documents, see:
+* [Translating WAI Resources](/about/translating/) for accessibility resources
+* [Contributing to W3C Translations](http://www.w3.org/Consortium/Translation/) for W3C Technical Reportste
+
+**Note:** If you are interested in translating a specific document, you should announce it (as instructed in the links above) to facilitate collaboration and to avoid duplication of effort.
 
 For additional information about WCAG translations, contact Shadi Abou-Zahra <shadi@w3.org>.
