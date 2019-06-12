@@ -7,7 +7,7 @@ nav_title: "Translations"
 description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
 
 lang: en
-last_updated: 2018-10-02
+last_updated: 2019-06-12
 permalink: /standards-guidelines/wcag/translations/
 
 github:
@@ -16,8 +16,8 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 2 October 2018. First published 2 March 2009.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a> and <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p><strong>Date:</strong> Updated 12 June 2019. First published 2 March 2009.</p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
 ---
@@ -57,40 +57,60 @@ W3C provides two types of translations:
 
 <table class="langstable dense">
   <thead>
-     <tr>
-        <th scope="col">Language</th>
-        <th scope="col">Translations available</th>
-        <th scope="col">Notes and e-mail notifications</th>
-     </tr>
+    <tr>
+      <th scope="col">Language</th>
+      <th scope="col">Translations available</th>
+      <th scope="col">Notes and e-mail notifications</th>
+    </tr>
   </thead>
   <tbody>
-     <tr>
-        <th id="zh21">Chinese (Simplified)</th>
-        <td></td>
-        <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0012.html">notification of intent for Chinese Authorized Translation of WCAG 2.1 (11 June 2018)</a></td>
-     </tr>
-     <tr>
-       <th id="fr21">French</th>
-       <td></td>
-       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0014.html">notification of intent for French Authorized Translation of WCAG 2.1 (13 June 2018)</a></td>
-     </tr>
-     <tr>
-       <th id="it21">Italian</th>
-       <td><a href="https://www.w3.org/Translations/WCAG21-it/">Italian Authorized Translation of WCAG 2.1 completed</a></td>
-       <td></td>
-     </tr>
-     <tr>
-       <th id="pt21">Portuguese</th>
-       <td></td>
-       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.1 (25 June 2018)</a></td>
-     </tr>
-     <tr>
-       <th id="sk">Slovak</th>
-       <td></td>
-       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0028.html">notification of intent for Slovak Authorized Translation of WCAG 2.1 (27 June 2018)</a></td>
-     </tr>
-	</tbody>
-	</table>
+    <tr>
+      <th id="zh21">Chinese (Simplified)</th>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th id="zh">Chinese (Traditional)</th>
+      <td></td>
+      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0039.html">notification of draft Traditional Chinese unofficial translation of WCAG 2.1 (30 May 2019)</a></td>
+    </tr>
+    <tr>
+      <th id="fr21">French</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0014.html">notification of intent for French Authorized Translation of WCAG 2.1 (13 June 2018)</a></td>
+    </tr>
+    <tr>
+      <th id="it">Danish</th>
+      <td>&nbsp;</td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0008.html">notification of intent for Danish Authorized Translation of WCAG 2.1 (16 April 2019)</a></td>
+    </tr>
+    <tr>
+      <th id="it2">Dutch</th>
+      <td>&nbsp;</td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0034.html">notification of intent for Dutch Authorized Translation of WCAG 2.1 (19 Mayl 2019)</a></td>
+    </tr>
+    <tr>
+      <th id="it21">Italian</th>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-it/">Italian Authorized Translation of WCAG 2.1 completed</a></strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th id="pt21">Portuguese</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.1 (25 June 2018)</a></td>
+    </tr>
+    <tr>
+      <th id="sk">Slovak</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0028.html">notification of intent for Slovak Authorized Translation of WCAG 2.1 (27 June 2018)</a></td>
+    </tr>
+    <tr>
+      <th id="sk2">Spanish</th>
+      <td></td>
+      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html">notification of intent for Spanish unofficial translation of WCAG 2.1 (12 April 2019)</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## WCAG 2.0 Completed and Planned Translations
 
