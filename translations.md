@@ -75,6 +75,11 @@ Two types of translations are listed on this page:
       <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0039.html">notification of draft Traditional Chinese unofficial translation of WCAG 2.1 (30 May 2019)</a></td>
     </tr>
     <tr>
+      <th id="fi21">Finnish</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0047.html">notification of intent for Finnish Authorized Translation of WCAG 2.1 (11 June 2019)</a></td>
+    </tr>
+    <tr>
       <th id="fr21">French</th>
       <td></td>
       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0014.html">notification of intent for French Authorized Translation of WCAG 2.1 (13 June 2018)</a></td>
