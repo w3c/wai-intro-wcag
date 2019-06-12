@@ -48,7 +48,7 @@ This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 
 
 ## Types of Translations
 
-W3C provides two types of translations:
+Two types of translations are listed on this page:
 
 -   [Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a formal review process and are endorsed by W3C.
 -   [Unofficial translations](http://www.w3.org/Consortium/Translation/#auth) are not reviewed and are not endorsed by W3C.
