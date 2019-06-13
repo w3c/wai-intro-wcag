@@ -100,7 +100,7 @@ Two types of translations are listed on this page:
       <td></td>
     </tr>
     <tr>
-      <th id="pt21">Portuguese</th>
+      <th id="pt21">Portuguese (European and Brazilian)</th>
       <td></td>
       <td><ul>
 	        <li>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.1 (25 June 2018)</a></li>
