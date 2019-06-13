@@ -102,7 +102,10 @@ Two types of translations are listed on this page:
     <tr>
       <th id="pt21">Portuguese</th>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.1 (25 June 2018)</a></td>
+      <td><ul>
+        <li>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.1 (25 June 2018)</a></li>
+       <li>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0023.html">notification of intent for Euporean Portuguese Authorized Translation of WCAG 2.1 (2 November 2018)</a></li>
+      </ul></td>
     </tr>
     <tr>
       <th id="sk">Slovak</th>
