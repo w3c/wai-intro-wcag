@@ -6,6 +6,8 @@ nav_title: "New in 2.1"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 
+teaser_text: WCAG 2.1 has 17 additional requirements (“success criteria”) that address mobile accessibility, people with low vision, and people with cognitive and learning disabilities. The What’s New in WCAG 2.1 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
+
 lang: en
 last_updated: 2019-04-08
 permalink: /standards-guidelines/wcag/new-in-21/
