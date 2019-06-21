@@ -65,7 +65,7 @@ Two types of translations are listed on this page:
   </thead>
   <tbody>
     <tr>
-      <th id="zh-Hans21">Chinese (Simplified and Traditional)</th>
+      <th id="zh21">Chinese (Simplified and Traditional)</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0039.html">notification of draft Traditional Chinese unofficial translation of WCAG 2.1 (30 May 2019)</a></td>
     </tr>
