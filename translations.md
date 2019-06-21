@@ -16,12 +16,11 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 12 June 2019. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 21 June 2019. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
 ---
-
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
@@ -46,6 +45,7 @@ This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 
 {% include_cached toc.html type="end" %}
 {:/}
 
+
 ## Types of Translations
 
 Two types of translations are listed on this page:
@@ -65,34 +65,29 @@ Two types of translations are listed on this page:
   </thead>
   <tbody>
     <tr>
-      <th id="zh-Hans21">Chinese (Simplified)</th>
+      <th id="zh-Hans21">Chinese (Simplified and Traditional)</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <th id="zh-Hant21">Chinese (Traditional)</th>
-      <td></td>
-      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0039.html">notification of draft Traditional Chinese unofficial translation of WCAG 2.1 (30 May 2019)</a></td>
+      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0039.html">notification of draft Traditional Chinese unofficial translation of WCAG 2.1 (30 May 2019)</a></td>
     </tr>
     <tr>
       <th id="fi21">Finnish</th>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0047.html">notification of intent for Finnish Authorized Translation of WCAG 2.1 (11 June 2019)</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0047.html">notification of intent for Finnish Authorized Translation of WCAG 2.1 (11 June 2019)</a></td>
     </tr>
     <tr>
       <th id="fr21">French</th>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0014.html">notification of intent for French Authorized Translation of WCAG 2.1 (13 June 2018)</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0014.html">notification of intent for French Authorized Translation of WCAG 2.1 (13 June 2018)</a></td>
     </tr>
     <tr>
       <th id="da21">Danish</th>
       <td>&nbsp;</td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0008.html">notification of intent for Danish Authorized Translation of WCAG 2.1 (16 April 2019)</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0008.html">notification of intent for Danish Authorized Translation of WCAG 2.1 (16 April 2019)</a></td>
     </tr>
     <tr>
       <th id="nl21">Dutch</th>
       <td>&nbsp;</td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0034.html">notification of intent for Dutch Authorized Translation of WCAG 2.1 (19 Mayl 2019)</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0034.html">notification of intent for Dutch Authorized Translation of WCAG 2.1 (19 Mayl 2019)</a></td>
     </tr>
     <tr>
       <th id="it21">Italian</th>
@@ -100,7 +95,7 @@ Two types of translations are listed on this page:
       <td></td>
     </tr>
     <tr>
-      <th id="pt21">Portuguese (European and Brazilian)</th>
+      <th id="pt21">Portuguese (Brazilian and European)</th>
       <td></td>
       <td><ul>
 	        <li>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.1 (25 June 2018)</a></li>
@@ -110,12 +105,12 @@ Two types of translations are listed on this page:
     <tr>
       <th id="sk21">Slovak</th>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0028.html">notification of intent for Slovak Authorized Translation of WCAG 2.1 (27 June 2018)</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0028.html">notification of intent for Slovak Authorized Translation of WCAG 2.1 (27 June 2018)</a></td>
     </tr>
     <tr>
       <th id="es21">Spanish</th>
       <td></td>
-      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html">notification of intent for Spanish unofficial translation of WCAG 2.1 (12 April 2019)</a></td>
+      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html">notification of intent for Spanish unofficial translation of WCAG 2.1 (12 April 2019)</a></td>
     </tr>
   </tbody>
 </table>
@@ -149,7 +144,7 @@ Two types of translations are listed on this page:
      </tr>
      <tr>
         <th><a name="zh" id="zh">Chinese (Simplified)</a></th>
-        <td><strong><a href="http://www.w3.org/translations/wcag20-zh/">Chinese Authorized Translation of WCAG 2.0 completed</a></strong></td>
+        <td><strong><a href="http://www.w3.org/translations/wcag20-zh/">Simplified Chinese Authorized Translation of WCAG 2.0 completed</a></strong></td>
         <td>-</td>
      </tr>
      <tr>
@@ -235,7 +230,7 @@ Two types of translations are listed on this page:
      </tr>
      <tr>
         <th><a name="lt" id="lt">Lithuanian</a></th>
-        <td> </td>
+        <td> </td>
         <td>Unofficial translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2011JulSep/0063.html">notification of intent for Lithuanian unofficial translation of WCAG 2.0 (6 September 2011)</a></td>
      </tr>
      <tr>
@@ -255,10 +250,10 @@ Two types of translations are listed on this page:
         Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0100.html">notification of intent for Polish Authorized Translation of WCAG 2.0 (8 March 2010)</a></td>
      </tr>
      <tr>
-        <th><a name="pt" id="pt">Portuguese (European and Brazilian)</a></th>
+        <th><a name="pt" id="pt">Portuguese (Brazilian and European)</a></th>
         <td><ul>
-          <li><strong><a href="https://www.w3.org/Translations/WCAG20-pt-PT/">European Portuguese Authorized Translation of WCAG 2.0</a></strong></li>
           <li><strong><a href="https://www.w3.org/Translations/WCAG20-pt-BR/">Brazilian Portuguese Authorized Translation of WCAG 2.0</a></strong></li>
+          <li><strong><a href="https://www.w3.org/Translations/WCAG20-pt-PT/">European Portuguese Authorized Translation of WCAG 2.0</a></strong></li>
           </ul></td>
         <td><ul>
               <li><a href="http://www.acesso.umic.pt/w3/TR/UNDERSTANDING-WCAG20/">Portuguese unofficial translation for <strong>Understanding WCAG 2.0</strong> completed {% include_cached external.html %}</a></li>
@@ -292,6 +287,7 @@ Two types of translations are listed on this page:
         <td>-</td>
      </tr>
   </tbody>
+
 </table>
 
 ## More Information
@@ -304,7 +300,7 @@ For other translations lists, see:
 
 For information on translating W3C documents, see:
 * [Translating WAI Resources](/about/translating/) for accessibility resources
-* [Contributing to W3C Translations](http://www.w3.org/Consortium/Translation/) for W3C Technical Reportste
+* [Contributing to W3C Translations](http://www.w3.org/Consortium/Translation/) for W3C Technical Reports
 
 **Note:** If you are interested in translating a specific document, you should announce it (as instructed in the links above) to facilitate collaboration and to avoid duplication of effort.
 
