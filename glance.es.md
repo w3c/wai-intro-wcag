@@ -82,7 +82,7 @@ Por favor, consulte los siguientes recursos clave para aprender a usar WCAG 2.1:
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Robusto h=2 class="large" %}
+{% include box.html type="start" title="Robusto" h=2 class="large" %}
 {:/}
 
 -   Maximice la **[compatibilidad](http://www.w3.org/WAI/WCAG21/quickref/#ensure-compat)** con herramientas de usuario presentes y futuras.
