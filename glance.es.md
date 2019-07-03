@@ -28,7 +28,7 @@ layout: default
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Resumen="full" %}
+{% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
 Esta página proporciona un resumen no literal de las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1. Consulte la especificación técnica normativa en [www.w3.org/TR/WCAG21](http://www.w3.org/TR/WCAG21/).
