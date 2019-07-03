@@ -24,6 +24,7 @@ footer: >
   <p><strong>Editores:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> y Wayne Dick.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) y el Grupo de Trabajo de Pautas de Accesibilidad (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/glance/
+layout: default
 ---
 
 {::nomarkdown}
