@@ -38,7 +38,7 @@ Esta página proporciona un resumen no literal de las Pautas de Accesibilidad pa
 {:/}
 
 Por favor, consulte los siguientes recursos clave para aprender a usar WCAG 2.1:
--   **[[WCAG Overview]](/standards-guidelines/wcag/)**
+-   **[[Resumen de WCAG]](/standards-guidelines/wcag/)**
 -   **[Cómo seguir las pautas WCAG 2 (Guía rápida)](http://www.w3.org/WAI/WCAG21/quickref/)** &mdash; Una guía de referencia rápida y personalizable a los requisitos (casos de éxito) y técnicas establecidos en las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.
 
 {::nomarkdown}
