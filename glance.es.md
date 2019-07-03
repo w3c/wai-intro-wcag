@@ -89,6 +89,6 @@ Por favor, consulte los siguientes recursos clave para aprender a usar WCAG 2.1:
 
 ## Otras versiones
 
-* [[WCAG 2.0 at a Glance]](/standards-guidelines/wcag/20/glance/) has two differences from above:
-    * "Do not use content that causes seizures or physical reactions." does not include "or physical reactions".
-    * It does not include "Make it easier to use inputs other than keyboard."
+* [[WCAG 2.0 de un vistazo]](/standards-guidelines/wcag/20/glance/) tiene dos diferencias con el texto de arriba:
+    * "No use contenido que pudiera causar convulsiones o reacciones físicas" no incluye "o reacciones físicas".
+    * No incluye "Facilite métodos de entrada diferentes al teclado".
