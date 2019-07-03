@@ -1,25 +1,28 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "WCAG 2.1 at a Glance"
-nav_title: "At a Glance"
+title: "WCAG 2.1 de un vistazo"
+nav_title: "De un vistazo"
 
-description: This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.1.
+description: Esta página proporciona un resumen no literal de las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1.
 
-lang: en
-last_updated: 2018-06-05
-permalink: /standards-guidelines/wcag/glance/
+lang: es
+last_updated: 2019-07-03
+permalink: /standards-guidelines/wcag/glance/es
+translators: 
+- name: "Carlos Muncharaz"
+  link: "http://www.muncharaz.eu/"
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'glance.md'
+  path: 'glance.es.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 5 June 2018. First published July 2008.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> and Wayne Dick.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
+  <p><strong>Fecha:</strong> Actualizado el 5 de junio del 2018. Primera publicación en julio del 2008.</p>
+  <p><strong>Editores:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> y Wayne Dick.</p>
+  <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) y el Grupo de Trabajo de Pautas de Accesibilidad (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/glance/
 ---
 
