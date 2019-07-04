@@ -51,14 +51,14 @@ Quick links to resources:
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction {#intro}
+## Introducción {#intro}
 
-Web Content Accessibility Guidelines (WCAG) is developed through the [W3C process](/standards-guidelines/w3c-process/) in cooperation with individuals and organizations around the world, with a goal of providing a single shared standard for web content accessibility that meets the needs of individuals, organizations, and governments internationally.
+Las pautas de accesibilidad para el contenido web (WCAG) se desarrollan a través de la [metodología W3C](/standards-guidelines/w3c-process/) en cooperación con personas y organizaciones de todo el mundo, con el fin de ofrecer un estándar único y compartido que satisfaga las necesidades de las personas, organizaciones y gobiernos a nivel internacional.
 
-The WCAG documents explain how to make web content more accessible to people with disabilities. Web "content" generally refers to the information in a web page or web application, including:
+Los documentos WCAG explican cómo hacer el contenido web más accesible para las personas con discapacidad. Por “contenido” web se hace referencia, generalmente, a la información que se puede encontrar en una página o aplicación web, lo cual incluye:
 
--   natural information such as text, images, and sounds
--   code or markup that defines structure, presentation, etc.
+-   información natural como textos, imágenes y sonidos.
+-   código o marcado que define la estructura, la presentación, etc.
 
 ## WCAG 2.0 and 2.1 {#versions}
 
