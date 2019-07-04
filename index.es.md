@@ -74,18 +74,18 @@ Dicho de otra forma: si se desea cumplir tanto con WCAG 2.0 y 2.1, se pueden usa
 
 Tanto WCAG 2.0 como 2.1 son estándares actuales. WCAG 2.1 no deja WCAG 2.0 obsoleto ni lo sustituye. Desde W3C se anima a usar la versión más reciente de WCAG al desarrollar o actualizar contenido o políticas de accesibilidad.
 
-## Who WCAG is for {#for}
+## Destinatarios de WCAG {#for}
 
-WCAG is primarily intended for:
+WCAG se dirige principalmente a:
 
--   Web content developers (page authors, site designers, etc.)
--   Web authoring tool developers
--   Web accessibility evaluation tool developers
--   Others who want or need a standard for web accessibility, including for mobile accessibility
+-   Desarrolladores de contenido web (autores de páginas, diseñadores de sitios, etc.)
+-   Desarrolladores de programas de autor
+-   Desarrolladores de herramientas para la evaluación de la accesibilidad web
+-   Otros que quieran o necesiten un estándar para la accesibilidad web, incluyendo la accesibilidad móvil
 
-Related resources are intended to meet the needs of many different people, including policy makers, managers, researchers, and others.
+Los recursos relacionados se dirigen a cubrir las necesidades de diferentes personas, entre ellas legisladores, directores, investigadores y otros.
 
-WCAG is a technical standard, not an introduction to accessibility. For introductory material, see [“Where should I start?” in the FAQ](/standards-guidelines/wcag/faq/#start).
+WCAG es un estándar técnico, no una introducción a la accesibilidad. Si busca material introductorio, consulte  [“¿Dónde debería empezar?” en las FAQ](/standards-guidelines/wcag/faq/#start).
 
 ## What is in the WCAG 2 Documents {#whatis2}
 
