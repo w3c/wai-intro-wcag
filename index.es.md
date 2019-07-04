@@ -87,25 +87,25 @@ Los recursos relacionados se dirigen a cubrir las necesidades de diferentes pers
 
 WCAG es un estándar técnico, no una introducción a la accesibilidad. Si busca material introductorio, consulte  [“¿Dónde debería empezar?” en las FAQ](/standards-guidelines/wcag/faq/#start).
 
-## What is in the WCAG 2 Documents {#whatis2}
+## Contenido de los documentos de las WCAG 2 {#whatis2}
 
-**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** and **[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** are stable, referenceable technical standards. They have 12-13 guidelines that are organized under [4 principles: perceivable, operable, understandable, and robust](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility). For each guideline, there are testable *success criteria*, which are at [three levels: A, AA, and AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
+**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** y **[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** son estándares técnicos estables y de referencia. Contienen 12-13 pautas que se agrupan [cuatro principios: perceptible, operable, comprensible y robusto](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility). Cada pauta incluye *criterios de conformidad*, que se pueden comprobar y que se clasifican en [tres niveles: A, AA y AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
-For a short summary of the WCAG 2 guidelines, see **[[WCAG 2 at a Glance]](/standards-guidelines/wcag/glance/)**.
+Puede leer un resumen breve sobre las WCAG 2 consultando **[[WCAG 2.1 de un vistazo]](/standards-guidelines/wcag/glance/)**.
 
-To learn about web accessibility principles and guidelines, see **[[Accessibility Principles]](/fundamentals/accessibility-principles/)**.
+Si desea aprender sobre principios y directrices de accesibilidad web, consulte **[[Principios de Accesibilidad]](/fundamentals/accessibility-principles/)**.
 
-The WCAG 2 supporting technical materials include:
+Los materiales de apoyo de las WCAG 2 comprenden:
 
--   [**How to Meet WCAG 2**: A customizable quick reference to Web Content Accessibility Guidelines 2 requirements (success criteria) and techniques](http://www.w3.org/WAI/WCAG21/quickref/) is essentially the [WCAG 2 checklist](http://www.w3.org/WAI/WCAG21/quickref/). Most people use this quick references as the main resource for working with WCAG.
--   **Techniques for WCAG 2** ([2.1 Techniques](https://www.w3.org/WAI/WCAG21/Techniques/), [2.0 Techniques](https://www.w3.org/TR/WCAG20-TECHS/)) gives you specific details on how to develop accessible web content, such as HTML code examples. The techniques are "informative", that is, you do not have to use them. The basis for determining conformance to WCAG 2 is the *success criteria* from the WCAG 2 standard, not the techniques. Read more in [Techniques in the FAQ](/standards-guidelines/wcag/faq/#techs).
--  **Understanding WCAG 2** ([2.1 Understanding](https://www.w3.org/WAI/WCAG21/Understanding/), [2.0 Understanding](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)) has additional guidance on learning and implementing WCAG 2 for people who want to understand the guidelines and success criteria more thoroughly.
+-   [**Cómo cumplir con las WCAG 2**: Una guía de referencia rápida y personalizable que incluye los requisitos (criterios de conformidad) y técnicas de las Pautas de Accesibilidad para el Contenido Web](http://www.w3.org/WAI/WCAG21/quickref/) que es, en esencia, [la lista de control de WCAG 2](http://www.w3.org/WAI/WCAG21/quickref/). La mayoría de la gente utiliza esta guía de referencia rápida como herramienta principal para trabajar con las WCAG.
+-   **Técnicas para las WCAG 2** ([Técnicas 2.1](https://www.w3.org/WAI/WCAG21/Techniques/), [Técnicas 2.0](https://www.w3.org/TR/WCAG20-TECHS/)) proporcionan información específica para desarrollar contenido accesible, como por ejemplo fragmentos de código HTML. Las técnicas son “informativas”, lo cual quiere decir que no tiene por qué usarlas. La base para determinar la conformidad con WCAG 2 reside en los *criterios de conformidad* del texto WCAG 2 estándar y no en las técnicas. Lea más sobre las [Técnicas en el FAQ](/standards-guidelines/wcag/faq/#techs).
+-  **Comprender las WCAG 2** ([Comprender 2.1](https://www.w3.org/WAI/WCAG21/Understanding/), [Comprender 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)) contiene asistencia adicional para aprender e implementar WCAG 2 dirigida a aquellas personas que quieran comprender las pautas y criterios de conformidad en profundidad.
 
-For more details on how these document are related and how they are linked, see **[[The WCAG 2 Documents]](/standards-guidelines/wcag/docs/)**.
+Puede obtener más información sobre cómo estos documentos se relacionan entre sí consultando los **[[Documentos WCA 2]](/standards-guidelines/wcag/docs/)**.
 
-### Translations
+### Traducciones
 
-Authorized Translations and unofficial translations of WCAG 2 are listed in [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/).
+Las traducciones de WCAG 2 autorizadas y las no oficiales se enumeran en [[Traducciones de WCAG 2]](/standards-guidelines/wcag/translations/).
 
 ### Technical document format
 
