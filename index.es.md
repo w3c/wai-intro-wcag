@@ -53,7 +53,7 @@ Quick links to resources:
 
 ## Introducción {#intro}
 
-Las pautas de accesibilidad para el contenido web (WCAG) se desarrollan a través de la [metodología W3C](/standards-guidelines/w3c-process/) en cooperación con personas y organizaciones de todo el mundo, con el fin de ofrecer un estándar único y compartido que satisfaga las necesidades de las personas, organizaciones y gobiernos a nivel internacional.
+Las pautas de accesibilidad para el contenido web (WCAG) se desarrollan a través del [proceso del W3C](/standards-guidelines/w3c-process/) en cooperación con personas y organizaciones de todo el mundo, con el fin de ofrecer un estándar único y compartido que satisfaga las necesidades de las personas, organizaciones y gobiernos a nivel internacional.
 
 Los documentos WCAG explican cómo hacer el contenido web más accesible para las personas con discapacidad. Por “contenido” web se hace referencia, generalmente, a la información que se puede encontrar en una página o aplicación web, lo cual incluye:
 
