@@ -127,18 +127,18 @@ Los beneficios de tener las WCAG como un estándar ISO se resumen en las [FAQ so
 
 Las WCAG forman parte de una serie de pautas de accesibilidad, que incluye a las pautas de accesibilidad para las herramientas de creación de contenido (ATAG) y las pautas de accesibilidad para el agente de usuario (UAAG). Los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) explican la relación entre estas pautas diferentes.
 
-## Who develops WCAG {#wg}
+## Quién desarrolla las WCAG {#wg}
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) *(formerly the Web Content Accessibility Guidelines Working Group)*, which is part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
+Los documentos técnicos de las WCAG son desarrollados por el Grupo de Trabajo de las Pautas de Accesibilidad ([AG WG](https://www.w3.org/WAI/GL/)) *(anteriormente conocido como el Grupo de Trabajo de las Pautas de Accesibilidad para el Contenido Web)*, el cual forma parte de la Iniciativa por la Accesibilidad Web ([WAI](https://www.w3.org/WAI/)) del World Wide Web Consortium ([W3C](http://www.w3.org)).
 
-WAI updates Techniques for WCAG 2 and Understanding WCAG 2 periodically. We welcome [comments](/standards-guidelines/wcag/commenting/) and [submission of new techniques](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
+El WAI actualiza periódicamente Técnicas para las WCAG 2 y Comprender las WCAG 2. Los [comentarios](/standards-guidelines/wcag/commenting/) y la [presentación de nuevas técnicas](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/) son bienvenidos.
 
-Opportunities for contributing to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
+Las oportunidades para contribuir a las WCAG y otros trabajos del WAI se explican en [[Participando en WAI]](/about/participating/).
 
-## More Information {#more}
+## Más información {#more}
 
-See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
+Consulte las [[FAQ sobre WCAG 2]](/standards-guidelines/wcag/faq/) para obtener más información sobre:
 
--   **WCAG 2 coverage of [mobile accessibility](/standards-guidelines/wcag/faq/#mobile)**
--   **WCAG 2 applicability to [non-W3C technologies](/standards-guidelines/wcag/faq/#othertechs)**
--   and more...
+-   **La cobertura de las WCAG 2 para la [accesibilidad móvil](/standards-guidelines/wcag/faq/#mobile)**
+-   **La aplicación de WCAG 2 en [tecnologías que no pertenecen a W3C](/standards-guidelines/wcag/faq/#othertechs)**
+-   y más cosas...
