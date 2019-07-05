@@ -32,10 +32,10 @@ ref: /standards-guidelines/wcag/
 
 Introducción a las Pautas de Accesibilidad para el Contenido Web (WCAG), lo cual incluye WCAG 2.0 y WCAG 2.1.
 
-Quick links to resources:
-* [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
-* [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
-* [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
+Enlaces rápidos a recursos:
+* [Cómo seguir las pautas WCAG 2 (Guía rápida)](http://www.w3.org/WAI/WCAG21/quickref/)
+* [Estándar WCAG 2.1](http://www.w3.org/TR/WCAG21/)
+* [Estándar WCAG 2.0](http://www.w3.org/TR/WCAG20/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
