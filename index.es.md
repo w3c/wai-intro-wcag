@@ -53,7 +53,7 @@ Quick links to resources:
 
 ## Introducción {#intro}
 
-Las pautas de accesibilidad para el contenido web (WCAG) se desarrollan a través del [proceso del W3C](/standards-guidelines/w3c-process/) en cooperación con personas y organizaciones de todo el mundo, con el fin de ofrecer un estándar único y compartido que satisfaga las necesidades de las personas, organizaciones y gobiernos a nivel internacional.
+Las Pautas de Accesibilidad para el Contenido Web (WCAG) se desarrollan a través del [proceso del W3C](/standards-guidelines/w3c-process/) en cooperación con personas y organizaciones de todo el mundo, con el fin de ofrecer un estándar único y compartido que satisfaga las necesidades de las personas, organizaciones y gobiernos a nivel internacional.
 
 Los documentos WCAG explican cómo hacer el contenido web más accesible para las personas con discapacidad. Por “contenido” web se hace referencia, generalmente, a la información que se puede encontrar en una página o aplicación web, lo cual incluye:
 
@@ -91,21 +91,21 @@ WCAG es un estándar técnico, no una introducción a la accesibilidad. Si busca
 
 **[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** y **[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** son estándares técnicos estables y de referencia. Contienen 12-13 pautas que se agrupan en [cuatro principios: perceptible, operable, comprensible y robusto](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility). Cada pauta incluye *criterios de conformidad*, que se pueden comprobar y que se clasifican en [tres niveles: A, AA y AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
-Puede leer un resumen breve sobre las WCAG 2 consultando **[[WCAG 2.1 de un vistazo]](/standards-guidelines/wcag/glance/)**.
+Puede leer un resumen breve sobre las WCAG 2 consultando **[["WCAG 2.1 de un vistazo"]](/standards-guidelines/wcag/glance/)**.
 
-Si desea aprender sobre principios y directrices de accesibilidad web, consulte **[[Principios de Accesibilidad]](/fundamentals/accessibility-principles/)**.
+Si desea aprender sobre principios y directrices de accesibilidad web, consulte los **[["Principios de accesibilidad"]](/fundamentals/accessibility-principles/)**.
 
 Los materiales de apoyo de las WCAG 2 comprenden:
 
 -   [**Cómo cumplir con las WCAG 2**: Una guía de referencia rápida y personalizable que incluye los requisitos (criterios de conformidad) y técnicas de las Pautas de Accesibilidad para el Contenido Web](http://www.w3.org/WAI/WCAG21/quickref/) que es, en esencia, [la lista de control de WCAG 2](http://www.w3.org/WAI/WCAG21/quickref/). La mayoría de la gente utiliza esta guía de referencia rápida como herramienta principal para trabajar con las WCAG.
 -   **Técnicas para las WCAG 2** ([Técnicas 2.1](https://www.w3.org/WAI/WCAG21/Techniques/), [Técnicas 2.0](https://www.w3.org/TR/WCAG20-TECHS/)) proporcionan información específica para desarrollar contenido accesible, como por ejemplo fragmentos de código HTML. Las técnicas son “informativas”, lo cual quiere decir que no tiene por qué usarlas. La base para determinar la conformidad con WCAG 2 reside en los *criterios de conformidad* del texto WCAG 2 estándar y no en las técnicas. Lea más sobre las [Técnicas en el FAQ](/standards-guidelines/wcag/faq/#techs).
--  **Comprender las WCAG 2** ([Comprender 2.1](https://www.w3.org/WAI/WCAG21/Understanding/), [Comprender 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)) contiene asistencia adicional para aprender e implementar WCAG 2 dirigida a aquellas personas que quieran comprender las pautas y criterios de conformidad en profundidad.
+-  **Comprender las WCAG 2** ([Comprender 2.1](https://www.w3.org/WAI/WCAG21/Understanding/), [Comprender 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)) contiene asistencia adicional para aprender a implementar las WCAG 2 dirigida a aquellas personas que quieran comprender las pautas y criterios de conformidad en profundidad.
 
-Puede obtener más información sobre cómo estos documentos se relacionan entre sí consultando los **[[Documentos WCA 2]](/standards-guidelines/wcag/docs/)**.
+Puede obtener más información sobre cómo estos documentos se relacionan entre sí consultando los **[["Documentos WCAG 2"]](/standards-guidelines/wcag/docs/)**.
 
 ### Traducciones
 
-Las traducciones de WCAG 2 autorizadas y las no oficiales se enumeran en [[Traducciones de WCAG 2]](/standards-guidelines/wcag/translations/).
+Las traducciones de WCAG 2 autorizadas y las no oficiales se enumeran en [["Traducciones de WCAG 2"]](/standards-guidelines/wcag/translations/).
 
 ### Formato de documento técnico
 
@@ -125,15 +125,15 @@ Los beneficios de tener las WCAG como un estándar ISO se resumen en las [FAQ so
 
 ## Otras pautas {#components}
 
-Las WCAG forman parte de una serie de pautas de accesibilidad, que incluye a las pautas de accesibilidad para las herramientas de creación de contenido (ATAG) y las pautas de accesibilidad para el agente de usuario (UAAG). Los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) explican la relación entre estas pautas diferentes.
+Las WCAG forman parte de una serie de pautas de accesibilidad, que incluye a las Pautas de Accesibilidad para las Herramientas de Creación de Contenido (ATAG) y las Pautas de Accesibilidad para el Agente de Usuario (UAAG). Los [["componentes esenciales de la accesibilidad web"]](/fundamentals/components/) explican la relación entre estas pautas diferentes.
 
 ## Quién desarrolla las WCAG {#wg}
 
 Los documentos técnicos de las WCAG son desarrollados por el Grupo de Trabajo de las Pautas de Accesibilidad ([AG WG](https://www.w3.org/WAI/GL/)) *(anteriormente conocido como el Grupo de Trabajo de las Pautas de Accesibilidad para el Contenido Web)*, el cual forma parte de la Iniciativa por la Accesibilidad Web ([WAI](https://www.w3.org/WAI/)) del World Wide Web Consortium ([W3C](http://www.w3.org)).
 
-El WAI actualiza periódicamente Técnicas para las WCAG 2 y Comprender las WCAG 2. Los [comentarios](/standards-guidelines/wcag/commenting/) y la [presentación de nuevas técnicas](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/) son bienvenidos.
+La WAI actualiza periódicamente Técnicas para las WCAG 2 y Comprender las WCAG 2. Los [comentarios](/standards-guidelines/wcag/commenting/) y la [presentación de nuevas técnicas](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/) son bienvenidos.
 
-Las oportunidades para contribuir a las WCAG y otros trabajos del WAI se explican en [[Participando en WAI]](/about/participating/).
+Las oportunidades para contribuir a las WCAG y otros trabajos del WAI se explican en [["Participando en WAI"]](/about/participating/).
 
 ## Más información {#more}
 
