@@ -89,7 +89,7 @@ WCAG es un estándar técnico, no una introducción a la accesibilidad. Si busca
 
 ## Contenido de los documentos de las WCAG 2 {#whatis2}
 
-**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** y **[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** son estándares técnicos estables y de referencia. Contienen 12-13 pautas que se agrupan [cuatro principios: perceptible, operable, comprensible y robusto](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility). Cada pauta incluye *criterios de conformidad*, que se pueden comprobar y que se clasifican en [tres niveles: A, AA y AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
+**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** y **[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** son estándares técnicos estables y de referencia. Contienen 12-13 pautas que se agrupan en [cuatro principios: perceptible, operable, comprensible y robusto](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility). Cada pauta incluye *criterios de conformidad*, que se pueden comprobar y que se clasifican en [tres niveles: A, AA y AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
 Puede leer un resumen breve sobre las WCAG 2 consultando **[[WCAG 2.1 de un vistazo]](/standards-guidelines/wcag/glance/)**.
 
@@ -107,25 +107,25 @@ Puede obtener más información sobre cómo estos documentos se relacionan entre
 
 Las traducciones de WCAG 2 autorizadas y las no oficiales se enumeran en [[Traducciones de WCAG 2]](/standards-guidelines/wcag/translations/).
 
-### Technical document format
+### Formato de documento técnico
 
-The WCAG, Techniques, and Understanding documents follow the W3C format for technical reports, which has several sections at the beginning, including links to different versions, editors, abstract, and status.
+Los documentos de las WCAG, Técnicas y Comprender siguen el formato para informes técnicos del W3C, que contiene varias secciones al principio, incluyendo enlaces a versiones diferentes, editores, resumen y estado.
 
-### Supplemental guidance {#supplement}
+### Orientación suplementaria {#supplement}
 
-Supplemental guidance provides additional information beyond what is required in WCAG 2.0 and 2.1. It addresses improving accessibility for people with cognitive disabilities and people with low vision. Links to supplemental guidance will be added to this section in the future.
+La orientación suplementaria proporciona información adicional que va más allá de lo requerido en las WCAG 2.0 y 2.1. Trata de mejorar la accesibilidad para las personas con discapacidad cognitiva y visión baja. En el futuro, enlaces a información suplementaria serán añadidos en esta sección.
 
-## WCAG 2.0 is ISO/IEC 40500 {#iso}
+## WCAG 2.0 es ISO/IEC 40500 {#iso}
 
-WCAG 2.0 is approved as an ISO standard: ISO/IEC 40500:2012. ISO/IEC 40500 is exactly the same as the original WCAG 2.0, which is introduced above along with supporting resources.
+Las WCAG 2.0 están aprobadas como un estándar ISO: ISO/IEC 40500:2012. Éste es exactamente igual que las WCAG 2.0 originales, que se presentan arriba junto con los recursos de apoyo.
 
-The content of ISO/IEC 40500 is freely available from [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/); it is available for purchase from the [ISO catalogue {% include_cached external.html %}](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625).
+El contenido de ISO/IEC 40500 está disponible gratuitamente en [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/); también está disponible para ser comprado en el [catálogo ISO {% include_cached external.html %}](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625).
 
-Benefits of WCAG 2.0 as an ISO standard are summarized in [ISO in the FAQ](/standards-guidelines/wcag/faq/#iso). More information on W3C and the ISO process is in the [W3C PAS FAQ](http://www.w3.org/2010/04/pasfaq).
+Los beneficios de tener las WCAG como un estándar ISO se resumen en las [FAQ sobre ISO](/standards-guidelines/wcag/faq/#iso). Se puede encontrar más información sobre W3C y el proceso ISO en las [FAQ de W3C PAS](http://www.w3.org/2010/04/pasfaq).
 
-## Other guidelines {#components}
+## Otras pautas {#components}
 
-WCAG is part of a series of accessibility guidelines, including the Authoring Tool Accessibility Guidelines (ATAG) and the User Agent Accessibility Guidelines (UAAG). [[Essential Components of Web Accessibility]](/fundamentals/components/) explains the relationship between the different guidelines.
+Las WCAG forman parte de una serie de pautas de accesibilidad, que incluye a las pautas de accesibilidad para las herramientas de creación de contenido (ATAG) y las pautas de accesibilidad para el agente de usuario (UAAG). Los [[componentes esenciales de la accesibilidad web]](/fundamentals/components/) explican la relación entre estas pautas diferentes.
 
 ## Who develops WCAG {#wg}
 
