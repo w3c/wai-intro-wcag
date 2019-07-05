@@ -1,33 +1,36 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "Web Content Accessibility Guidelines (WCAG) Overview"
-nav_title: "Web Content – WCAG"
+title: "Introducción a las Pautas de Accesibilidad para el Contenido Web (WCAG)"
+nav_title: "Contenido Web – WCAG"
 
-description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
+description: Introduce el estándar internacional de las Pautas de Accesibilidad para el Contenido Web (WCAG), lo cual incluye WCAG 2.0 y WCAG 2.1. Los documentos WCAG explican cómo hacer contenido web más accesible para las personas con discapacidad.
 
-lang: en
-last_updated: 2018-06-22
-permalink: /standards-guidelines/wcag/
+lang: es
+last_updated: 2019-07-05
+permalink: /standards-guidelines/wcag/es
+translators: 
+- name: "Carlos Muncharaz"
+  link: "http://www.muncharaz.eu/"
 
 github:
   repository: w3c/wai-intro-wcag
-  path: "index.md"
+  path: "index.es.md"
 
 footer: >
-  <p><strong>Date:</strong> Updated 22 June 2018. First published July 2005.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
+  <p><strong>Fecha:</strong> Actualizado el 22 de junio del 2018. Primera publicación en julio del 2005.</p>
+  <p><strong>Editora:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) y el Grupo de Trabajo de las Pautas de Accesibilidad (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 feedbackmail: wai@w3.org  
 ref: /standards-guidelines/wcag/
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
-Introducing the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
+Introducción a las Pautas de Accesibilidad para el Contenido Web (WCAG), lo cual incluye WCAG 2.0 y WCAG 2.1.
 
 Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
