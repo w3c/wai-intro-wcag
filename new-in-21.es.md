@@ -137,93 +137,93 @@ Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una 
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose.html">Comprender la Identificación del Propósito</a></p>
 
-## Guideline 1.4 Distinguishable
+## Pauta 1.4 Distinguible
 
-Make it easier for users to see and hear content including separating foreground from background.
+Facilite que los usuarios puedan ver y oír el contenido incluyendo la separación entre el primer plano y el fondo.
 
-### 1.4.10 Reflow (AA)
+### 1.4.10 Redimensionamiento  (AA)
 
 <blockquote class="sc">
-  <p>Content can be presented without loss of information or functionality, and without requiring scrolling in two dimensions for:</p>
+  <p>El contenido se puede presentar sin perder información ni funcionalidad, y sin necesidad de desplazamiento en dos dimensiones, para:</p>
   <ul>
-    <li>Vertical scrolling content at a width equivalent to 320 <a href="https://www.w3.org/TR/WCAG21/#dfn-css-pixels" data-link-type="dfn">CSS pixels</a>;</li>
-    <li>Horizontal scrolling content at a height equivalent to 256 <a href="https://www.w3.org/TR/WCAG21/#dfn-css-pixels" data-link-type="dfn">CSS pixels</a>;</li>
+    <li>Contenido en desplazamiento vertical con una anchura equivalente a 320 <a href="https://www.w3.org/TR/WCAG21/#dfn-css-pixels" data-link-type="dfn">píxeles en CSS</a>;</li>
+    <li>Contenido en desplazamiento horizontal con una altura equivalente a 256 <a href="https://www.w3.org/TR/WCAG21/#dfn-css-pixels" data-link-type="dfn">píxeles en CSS</a>;</li>
   </ul>
-  <p>Except for parts of the content which require two-dimensional layout for usage or meaning.</p>
+  <p>Excepto para aquellas partes del contenido que debido a su uso o significado requieran desplazamiento bidimensional.</p>
 </blockquote>
-<p class="persona">Parent with low vision – 20/400:</p>
+<p class="persona">Un padre con baja visión – 20/400:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>It's nearly impossible to read  text if I have to scroll right and left to read each line. It's disorienting and I lose my place. It makes it hard to understand what I'm reading.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>I increase the text size 400% and  it reflowed within the width of the window. I can read it easily without scrolling back and forth.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Es casi imposible leer el texto si tengo que desplazarme de derecha a izquierda con cada línea. Me siento desorientado y pierdo la posición. Hace que sea difícil entender lo que estoy leyendo.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Aumento el tamaño del texto al 400% y se redimensiona dentro de la anchura de la ventana. Puedo leerlo fácilmente sin necesidad de desplazarme adelante y atrás.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Understanding Reflow</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Comprender el Redimensionamiento</a></p>
 
-### 1.4.11 Non-Text Contrast (AA)
+### 1.4.11 Contraste no Textual (AA)
 
 <blockquote class="sc">
-  <p>The visual <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentation</a> of the following have a <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">contrast ratio</a> of at least 3:1 against adjacent color(s):</p>
+  <p>La <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentación </a> visual de los siguientes elementos tiene un <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">ratio de contraste</a> de al menos 3:1 con respecto a los colores adyacentes:</p>
   <dl>
-    <dt>User Interface Components</dt>
-    <dd>Visual information required to identify <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> and <a href="https://www.w3.org/TR/WCAG21/#dfn-states" data-link-type="dfn">states</a>, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;</dd>
-    <dt>Graphical Objects</dt>
-    <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
+    <dt>Componentes de la interfaz de usuario</dt>
+    <dd>Información visual necesaria para identificar los <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">componentes de la interfaz de usuario</a> y los <a href="https://www.w3.org/TR/WCAG21/#dfn-states" data-link-type="dfn">estados</a>, excepto aquellos componentes inactivos o cuya apariencia sea determinada por el agente de usuario y no modificada por el autor;</dd>
+    <dt>Objetos gráficos</dt>
+    <dd>Partes de gráficos necesarias para comprender el contenido, excepto cuando una presentación particular de los gráficos sea <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esencial </a> para la información transmitida.</dd>
   </dl>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Un jubilado</a> con poca sensibilidad al contraste:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>No pude usar el formulario de pedidos, no había cajas de texto. Después de una larga llamada con el servicio de atención al cliente, supe que las cajas de texto tenían un borde muy claro que yo no podía ver.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Puedo ver los iconos, botones y todo lo demás fácilmente, incluso bajo la luz del sol.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Understanding Non-text Contrast</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Comprender el Contraste no Textual</a></p>
 
-### 1.4.12 Text Spacing (AA)
+### 1.4.12 Espaciado de Texto (AA)
 
 <blockquote class="sc">
-  <p>In content implemented using markup languages that support the following <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">text</a> <a href="https://www.w3.org/TR/WCAG21/#dfn-style-properties" data-link-type="dfn">style properties</a>, no loss of content or functionality occurs by setting all of the following and by changing no other style property:</p>
+  <p>En contenido implementado con lenguajes de marcado que soporten las <a href="https://www.w3.org/TR/WCAG21/#dfn-style-properties" data-link-type="dfn">propiedades de estilo</a> del <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">texto</a> siguientes no se produce ninguna pérdida de contenido o funcionalidad al ajustar todas estas propiedades y sin cambiar ninguna otra propiedad de estilo:</p>
   <ul>
-    <li>Line height (line spacing) to at least 1.5 times the font size;</li>
-    <li>Spacing following paragraphs to at least 2 times the font size;</li>
-    <li>Letter spacing (tracking) to at least 0.12 times the font size;</li>
-    <li>Word spacing to at least 0.16 times the font size.</li>
+    <li>Altura de la línea hasta al menos 1,5 veces el tamaño de la fuente;</li>
+    <li>Espacio tras párrafo hasta al menos 2 veces el tamaño de la fuente;</li>
+    <li>Espacio entre letras (<span lang="en">tracking</span>) hasta al menos 0,12 veces el tamaño de la fuente;</li>
+    <li>Espacio entre palabras hasta al menos 0,16 veces el tamaño de la fuente.</li>
   </ul>
-  <p>Exception: Human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script.</p>
+  <p>Excepción: Los lenguajes humanos y el código que no usen una o más de estas propiedades en forma escrita pueden cumplir usando solamente las propiedades que existan para esa combinación de lenguaje y código.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Student</a> with dyslexia:<br/>
-  and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Un estudiante</a> con dislexia:<br/>
+  y <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">un jubilado</a> con baja visión:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but  I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work with my CSS.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>La mayor parte del texto es difícil de leer. Está tan amontonado que no puedo concentrarme. Solamente aumentando el espacio entre líneas ya noto una diferencia. Cuando estoy muy cansado, también aumento el espacio entre palabras.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>De acuerdo, sé que soy un poco raro, pero he creado una hoja de estilos que establece el espaciado de texto adecuado para mí. Es un alivio cuando los sitios web funcionan con mi CSS.</q></span></p></li>
   </ul>
 </div>
-<a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Understanding Text Spacing</a>
+<a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Comprender el Espaciado de Texto</a>
 
-### 1.4.13 Content on Hover or Focus (AA)
+### 1.4.13 Contenido sobre Cursor o en Foco (AA)
 
 <blockquote class="sc">
-  <p>Where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden, the following are true:</p>
+  <p>Si moviendo y alejado el cursor o el foco del teclado sobre un elemento resulta en contenido adicional que se muestra y después se oculta, entonces lo siguiente debe ser cierto:</p>
   <dl>
-    <dt>Dismissable</dt>
-    <dd>A <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to dismiss the additional content without moving pointer hover or keyboard focus, unless the additional content communicates an <a href="https://www.w3.org/TR/WCAG21/#dfn-input-error" data-link-type="dfn">input error</a> or does not obscure or replace other content;</dd>
-    <dt>Hoverable</dt>
-    <dd>If pointer hover can trigger the additional content, then the pointer can be moved over the additional content without the additional content disappearing;</dd>
-    <dt>Persistent</dt>
-    <dd>The additional content remains visible until the hover or focus trigger is removed, the user dismisses it, or its information is no longer valid.</dd>
+    <dt>Descartable</dt>
+    <dd>Debe existir un <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mecanismo</a> para descartar el contenido adicional sin mover el cursor o el foco del teclado, salvo que el contenido adicional informe acerca de un <a href="https://www.w3.org/TR/WCAG21/#dfn-input-error" data-link-type="dfn">error de entrada</a> o no oculte ni sustituya otro contenido;</dd>
+    <dt>Sobrevolable</dt>
+    <dd>Si posando el cursor sobre un elemento resulta en contenido adicional que se muestra, entonces el cursor debe poder moverse sobre el contenido adicional sin que éste desaparezca;</dd>
+    <dt>Persistente</dt>
+    <dd>El contenido adicional debe permanecer visible hasta que el cursor o el foco lo abandonen, el usuario lo descarte o la información ya no sea válida.</dd>
   </dl>
-  <p>Exception: The visual presentation of the additional content is controlled by the user agent and is not modified by the author.</p>
+  <p>Excepción: la presentación visual del contenido adicional es controlada por el agente de usuario y no es modificada por el autor.</p>
 </blockquote>
-<p class="persona">Teacher with low vision who uses screen magnification software:</p>
+<p class="persona">Un profesor con baja visión que usa un programa de magnificación de pantalla:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I was moving my mouse around to  track what I was looking at on a web page. It helps me keep focused. Then -boom- this little box popped up. It covered what I was trying to read and I couldn't get it to go away.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>I hovered over a word and a box popped up with the definition, but it was mostly off the screen with my magnification. I moved my mouse pointer to the definition box and scrolled the magnified area over to  the definition box and it stayed popped up so I could read it.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Estaba moviendo el ratón para seguir lo que veía en el sitio web. Me ayuda a concentrarme. De repente, bum, apareció un cuadro pequeño. Cubría lo que estaba intentando leer y no pude hacerlo desaparecer.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Posé el ratón sobre una palabra y se abrió un cuadro con su definición, pero se encontraba prácticamente fuera de la pantalla debido a mi magnificación. Moví el puntero del ratón hasta el cuadro de definición magnificado y me desplacé por éste, que permaneció visible y de esta forma pude leerlo.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Understanding Content on Hover or Focus</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Comprender Contenido sobre Cursor o en Foco</a></p>
 
 ## Guideline 2.1 Keyboard Accessible
 
