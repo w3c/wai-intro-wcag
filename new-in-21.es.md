@@ -86,56 +86,56 @@ WCAG proporciona 17 criterios de conformidad adicionales que hay que tener en cu
 - Personas con baja visión
 - [[Personas con discapacidades cognitivas y del aprendizaje]](/standards-guidelines/cognitive/)
 
-## Guideline 1.3 Adaptable
+## Pauta 1.3 Adaptable
 
-Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
+Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una disposición más simple) sin perder información ni estructura.
 
-### 1.3.4 Orientation (AA)
-
-<blockquote class="sc">
-  <p>Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
-</blockquote>
-<p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
-<div class="quotes">
-  <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I can't rotate my tablet &mdash;  it's attached to my wheelchair.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>The application works whether I  attach my tablet horizontally or vertically.</q></span></p></li>
-  </ul>
-</div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a></p>
-
-### 1.3.5 Identify Input Purpose (AA)
+### 1.3.4 Orientación  (AA)
 
 <blockquote class="sc">
-  <p>The purpose of each input field collecting information about the user can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a> when:</p>
-  <ul>
-    <li>The input field serves a purpose identified in the <a href="https://www.w3.org/TR/WCAG21/#input-purposes">Input Purposes for User Interface Components section</a>; and</li>
-    <li>The content is implemented using technologies with support for identifying the expected meaning for form input data.</li>
-  </ul>
+  <p>El contenido no restringe su vista y operación a una única orientación, como por ejemplo retrato o paisaje, salvo que una orientación específica sea <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esencial</a>.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with dyslexia and dyscalculia:</p>
+<p class="persona">Un cómico con parálisis cerebral que usa una silla de ruedas:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the numbers and spelling right.</q><br/>
-      <em>Note: </em>This works because the fields use autocomplete. </span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>No puedo rotar mi tableta, está fijada a mi silla de ruedas.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>La aplicación funciona tanto si mi tableta está fijada de forma horizontal como vertical.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html">Understanding Identify Input Purpose</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Comprender la Orientación</a></p>
 
-### 1.3.6 Identify Purpose (AAA)
+### 1.3.5 Identificación del Propósito de Entrada (AA)
 
 <blockquote class="sc">
-  <p>In content implemented using markup languages, the purpose of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">User Interface Components</a>, icons, and <a href="https://www.w3.org/TR/WCAG21/#dfn-regions" data-link-type="dfn">regions</a> can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a>.</p>
+  <p>El propósito de cada campo de entrada que recoge información sobre el usuario puede ser <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinado por software</a> cuando:</p>
+  <ul>
+    <li>El campo de entrada sirve a un propósito identificado en la sección de los <a href="https://www.w3.org/TR/WCAG21/#input-purposes">Propósitos de Entrada de los Componentes de la Interfaz de Usuario</a>; y</li>
+    <li>El contenido se implementa usando tecnologías con soporte para identificar el significado esperado de los datos de entrada en formularios.</li>
+  </ul>
 </blockquote>
-<p class="persona">Gamer with language processing disability:</p>
+<p class="persona">Un <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">auxiliar de supermercado</a> con dislexia y discalculia:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I have software that changes the words in the navigation into symbols. It doesn't work at all with some websites.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>It works pretty good with some websites.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Mi dirección es tan complicada. Tiene muchos números y palabras largas. Me resulta difícil teclearlo todo sin cometer errores.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Me encantan los sitios web que automáticamente rellenan todo eso por mí. De esta forma, no tengo que esforzarme tanto para asegurar que los números y las palabras están bien.</q><br/>
+      <em>Nota: </em>Esto funciona porque los campos utilizan autocompletado.</span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose.html">Understanding Identify Purpose</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html">Comprender la Identificación del Propósito de Entrada</a></p>
+
+### 1.3.6 Identificación del Propósito (AAA)
+
+<blockquote class="sc">
+  <p>En el contenido implementado con lenguajes de marcado, el propósito de los <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">Componentes de la Interfaz de Usuario</a>, iconos y <a href="https://www.w3.org/TR/WCAG21/#dfn-regions" data-link-type="dfn">regiones</a> puede <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinarse por software</a>.</p>
+</blockquote>
+<p class="persona">Un jugador con discapacidad para procesar el lenguaje:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problema:</span><span><q>Tengo un programa que cambia las palabras de la navegación por símbolos. No funciona con todos los sitios web.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Funciona bastante bien con algunos sitios web.</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose.html">Comprender la Identificación del Propósito</a></p>
 
 ## Guideline 1.4 Distinguishable
 
