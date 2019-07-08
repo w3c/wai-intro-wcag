@@ -74,17 +74,17 @@ This page lists the new success criteria in Web Content Accessibility Guidelines
 {% include toc.html type="end" %}
 {:/}
 
-## Introduction
+## Introducción
 
-For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
+Puede ver una introducción a las Pautas de Accesibilidad del Contenido Web y saber más sobre las versiones 2.0 y 2.1 consultando la [[Introducción a WCAG]](/standards-guidelines/wcag/).
 
-All success criteria from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
+Todos los requisitos (criterios de conformidad) de la versión 2.0 están incluidos en 2.1. Los criterios de conformidad 2.0 son exactamente iguales (literalmente) en 2.1.
 
-WCAG 2.1 provides 17 additional success criteria to address:
+WCAG proporciona 17 criterios de conformidad adicionales que hay que tener en cuenta:
 
-- [mobile accessibility](/standards-guidelines/mobile/)
-- people with low vision
-- [people with cognitive and learning disabilities](/standards-guidelines/cognitive/)
+- [[Accesibilidad móvil]](/standards-guidelines/mobile/)
+- Personas con baja visión
+- [[Personas con discapacidades cognitivas y del aprendizaje]](/standards-guidelines/cognitive/)
 
 ## Guideline 1.3 Adaptable
 
