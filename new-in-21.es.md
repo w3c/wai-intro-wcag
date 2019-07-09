@@ -225,32 +225,32 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Comprender Contenido sobre Cursor o en Foco</a></p>
 
-## Guideline 2.1 Keyboard Accessible
+## Pauta 2.1 Accesible por teclado
 
-Make all functionality available from a keyboard.
+Proporcione acceso a toda la funcionalidad mediante el teclado.
 
-### 2.1.4 Character Key Shortcuts (A)
+### 2.1.4 Atajos de Teclado (A)
 
 <blockquote class="sc">
-  <p>If a <a href="https://www.w3.org/TR/WCAG21/#dfn-keyboard-shortcuts" data-link-type="dfn">keyboard shortcut</a> is implemented in content using only letter (including upper- and lower-case letters), punctuation, number, or symbol characters, then at least one of the following is true:</p>
+  <p>Si el contenido implementa un <a href="https://www.w3.org/TR/WCAG21/#dfn-keyboard-shortcuts" data-link-type="dfn">atajo de teclado</a> que solamente hace uso de letras (tanto mayúsculas como minúsculas), signos de puntuación, números o símbolos, entonces al menos una de las siguientes condiciones debe ser cierta:</p>
   <dl>
-    <dt>Turn off</dt>
-    <dd>A <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to turn the shortcut off;</dd>
-    <dt>Remap</dt>
-    <dd>A mechanism is available to remap the shortcut to use one or more non-printable keyboard characters (e.g. Ctrl, Alt, etc).</dd>
-    <dt>Active only on focus</dt>
-    <dd>The keyboard shortcut for a <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface component</a> is only active when that component has focus.</dd>
+    <dt>Desactivación</dt>
+    <dd>Existe un <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mecanismo </a> para desactivar el atajo de teclado;</dd>
+    <dt>Modificación</dt>
+    <dd>Existe un mecanismo que modifica el atajo para usar una o más teclas de caracteres no imprimibles (por ejemplo Ctrl, Alt, etc)</dd>
+    <dt>Activo solamente en foco</dt>
+    <dd>El atajo de teclado perteneciente a un <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">componente de la interfaz de usuario</a> solamente está activo cuando dicho componente tiene el foco.</dd>
   </dl>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Un periodista</a> con trastorno musculoesquelético que usa un programa de reconocimiento de voz:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.</q><br/>
-      <em>Note: </em>There was a shortcut key for delete that was triggered by something he was saying, and no way to turn off the shortcut  keys.</span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Usando mi aplicación de correo electrónico, borraba los mensajes en lugar de abrirlos.</q><br/>
+      <em>Nota: </em>Había un atajo de teclado para borrar los mensajes que se activaba por algo que él estaba diciendo y no había manera de desactivarlo.</span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>En mi aplicación de hojas de cálculo puedo desactivar o modificar los atajos de teclado.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Understanding Character Key Shortcuts</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Comprender los Atajos de Teclado</a></p>
 
 ## Guideline 2.2 Enough Time
 
