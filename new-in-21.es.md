@@ -225,7 +225,7 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Comprender Contenido sobre Cursor o en Foco</a></p>
 
-## Pauta 2.1 Accesible por teclado
+## Pauta 2.1 Accesible por Teclado
 
 Proporcione acceso a toda la funcionalidad mediante el teclado.
 
@@ -252,23 +252,23 @@ Proporcione acceso a toda la funcionalidad mediante el teclado.
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Comprender los Atajos de Teclado</a></p>
 
-## Guideline 2.2 Enough Time
+## Guideline 2.2 Tiempo Suficiente
 
-Provide users enough time to read and use content.
+Proporcione a los usuarios tiempo suficiente para leer y usar el contenido.
 
-### 2.2.6 Timeouts (AAA)
+### 2.2.6 Límites Temporales (AAA)
 
 <blockquote class="sc">
-  <p>Users are warned of the duration of any <a href="https://www.w3.org/TR/WCAG21/#dfn-user-inactivity" data-link-type="dfn">user inactivity</a> that could cause data loss, unless the data is preserved for more than 20 hours when the user does not take any actions.</p>
+  <p>Los usuarios son informados de la duración del periodo de <a href="https://www.w3.org/TR/WCAG21/#dfn-user-inactivity" data-link-type="dfn">inactividad</a> que podría provocar la pérdida de datos, salvo que los datos se mantengan durante más de 20 horas desde que el usuario no realiza acciones.</p>
 </blockquote>
-<p class="persona">School playground aide with cognitive disabilities:</p>
+<p class="persona">Un auxiliar de supervisión en un colegio con discapacidad cognitiva:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I was selecting my Employee Benefits  and was comparing the different plans. When I went back to select the Health Plan, it had timed out and lost all the information I had already entered.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>When I started the Employee  Benefits app, it told me how many minutes I had to complete the forms.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Estaba seleccionando los beneficios de los empleados y comparando diferentes planes. Cuando volví para seleccionar el plan de salud, la sesión caducó y perdí toda la información que había introducido.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Al iniciar la aplicación de beneficios de los empleados, fui informado de cuántos minutos disponía para rellenar los formularios.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Understanding Timeouts</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Comprender los Límites Temporales</a></p>
 
 ## Guideline 2.3 Seizures and Physical Reactions
 
