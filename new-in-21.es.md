@@ -270,23 +270,23 @@ Proporcione a los usuarios tiempo suficiente para leer y usar el contenido.
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Comprender los Límites Temporales</a></p>
 
-## Guideline 2.3 Seizures and Physical Reactions
+## Pauta 2.3 Convulsiones y Reacciones Físicas
 
-Do not design content in a way that is known to cause seizures or physical reactions.
+No diseñe el contenido de una forma que sea conocida por causar convulsiones o reacciones físicas.
 
-### 2.3.3 Animation from Interactions (AAA)
+### 2.3.3 Interacciones Animadas (AAA)
 
 <blockquote class="sc">
-  <p><a href="https://www.w3.org/TR/WCAG21/#dfn-motion-animation" data-link-type="dfn">Motion animation</a> triggered by interaction can be disabled, unless the animation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the functionality or the information being conveyed.</p>
+  <p>Las <a href="https://www.w3.org/TR/WCAG21/#dfn-motion-animation" data-link-type="dfn">animaciones</a> activadas por alguna interacción pueden desactivarse, salvo que la animación sea <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esencial </a> para la funcionalidad o la información transmitida.</p>
 </blockquote>
-<p class="persona">Artist with vestibular disorder:</p>
+<p class="persona">Un artista con trastorno vestibular:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>In the online tax app, as I move my  mouse around or tab to different fields, this little bubble with the current  balance follows me around the screen. Makes me dizzy and nauseous.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>I was so glad there was an option  to turn off animations.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>En la aplicación de impuestos en línea, según muevo el ratón o el cursor a diferentes campos, un bocadillo con el balance actual me sigue por toda la pantalla. Me provoca mareos y náuseas.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Me alegro de contar con una opción para desactivar todas las animaciones.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html">Understanding Animation from Interactions</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html">Comprender las Interacciones Animadas</a></p>
 
 ## Guideline 2.5 Input Modalities
 
