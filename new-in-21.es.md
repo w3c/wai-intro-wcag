@@ -288,119 +288,119 @@ No diseñe el contenido de una forma que sea conocida por causar convulsiones o 
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html">Comprender las Interacciones Animadas</a></p>
 
-## Guideline 2.5 Input Modalities
+## Pauta 2.5 Modalidades de Entrada
 
-Make it easier for users to operate functionality through various inputs beyond keyboard.
+Facilite que los usuarios puedan operar la funcionalidad a través de diferentes entradas además del teclado.
 
-### 2.5.1 Pointer Gestures (A)
+### 2.5.1 Gestos del Puntero (A)
 
 <blockquote class="sc">
-  <p>All <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">functionality</a> that uses multipoint or path-based gestures for operation can be operated with a <a href="https://www.w3.org/TR/WCAG21/#dfn-single-pointer" data-link-type="dfn">single pointer</a> without a path-based gesture, unless a multipoint or path-based gesture is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
+  <p>Toda <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">funcionalidad </a> que para su operación use gestos basados en múltiples puntos o recorridos puede ser operada con un <a href="https://www.w3.org/TR/WCAG21/#dfn-single-pointer" data-link-type="dfn">puntero sencillo</a> sin gestos basados en recorridos, salvo que los gestos basados en múltiples puntos o recorridos sean <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esenciales</a>.</p>
 </blockquote>
-<p class="persona">Comic with cerebral palsy who has limited movement in fingers:</p>
+<p class="persona">Un cómico con parálisis cerebral que tiene movimiento limitado en los dedos:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I can't move my fingers like that. I need another way to zoom in the map.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>Good thing there are buttons to  zoom in and out.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>No puedo mover mis dedos así. Necesito otro método para ampliar el mapa.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Es bueno que haya botones para ampliar y reducir.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html">Understanding Pointer Gestures</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html">Comprender los Gestos del Puntero</a></p>
 
-### 2.5.2 Pointer Cancellation (A)
+### 2.5.2 Cancelación del Puntero (A)
 
 <blockquote class="sc">
-  <p>For <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">functionality</a> that can be operated using a <a href="https://www.w3.org/TR/WCAG21/#dfn-single-pointer" data-link-type="dfn">single pointer</a>, at least one of the following is true:</p>
+  <p>Aquella <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">funcionalidad</a> que pueda operarse con un <a href="https://www.w3.org/TR/WCAG21/#dfn-single-pointer" data-link-type="dfn">puntero sencillo</a> debe cumplir al menos una de las siguientes condiciones:</p>
   <dl>
-    <dt>No Down-Event</dt>
-    <dd>The <a href="https://www.w3.org/TR/WCAG21/#dfn-down-event" data-link-type="dfn">down-event</a> of the pointer is not used to execute any part of the function;</dd>
-    <dt>Abort or Undo</dt>
-    <dd>Completion of the function is on the <a href="https://www.w3.org/TR/WCAG21/#dfn-up-event" data-link-type="dfn">up-event</a>, and a <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to abort the function before completion or to undo the function after completion;</dd>
-    <dt>Up Reversal</dt>
-    <dd>The up-event reverses any outcome of the preceding down-event;</dd>
-    <dt>Essential</dt>
-    <dd>Completing the function on the down-event is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</dd>
+    <dt>Sin evento “down”</dt>
+    <dd>El <a href="https://www.w3.org/TR/WCAG21/#dfn-down-event" data-link-type="dfn">evento “down”</a> del puntero no se usa para ejecutar ninguna parte de la funcionalidad;</dd>
+    <dt>Abortar o deshacer</dt>
+    <dd>La función se completa con el <a href="https://www.w3.org/TR/WCAG21/#dfn-up-event" data-link-type="dfn">evento “up”</a>, y existe un <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mecanismo</a> para abortar la función antes de que sea completada o para deshacerla después de completada;</dd>
+    <dt>Inversión en “up”</dt>
+    <dd>El evento “up” invierte cualquier resultado del evento “down” precedente;</dd>
+    <dt>Esencial</dt>
+    <dd>Es <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esencial</a> que la función se complete con el evento “down”.</dd>
   </dl>
 </blockquote>
-<p class="persona"> Politician with motor disabilities and low vision:</p>
+<p class="persona"> Un político con discapacidad motora y baja visión:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I went to hit the &quot;Mute&quot; button and  accidentally touched the &quot;End Call&quot; button instead. It hung up immediately.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>In another web conferencing  application, if I accidentally touch the &quot;End Call&quot; button, I can just slide my  finger off the &quot;End Call&quot; button and it won't end the call.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Quise pulsar el botón de “Silenciar” pero accidentalmente toqué el de “Terminar llamada”. Se cortó inmediatamente.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>En otra aplicación de videoconferencias, si accidentalmente toco el botón de “Terminar llamada”, puedo deslizar el dedo fuera de ese botón y así no se termina la llamada.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html">Understanding Pointer Cancellation</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html">Comprender la Cancelación del Puntero</a></p>
 
-### 2.5.3 Label in Name (A)
+### 2.5.3 Etiqueta en el Nombre (A)
 
 <blockquote class="sc">
-  <p>For <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> with <a href="https://www.w3.org/TR/WCAG21/#dfn-labels" data-link-type="dfn">labels</a> that include <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">text</a> or <a href="https://www.w3.org/TR/WCAG21/#dfn-images-of-text" data-link-type="dfn">images of text</a>, the <a href="https://www.w3.org/TR/WCAG21/#dfn-name" data-link-type="dfn">name</a> contains the text that is presented visually.</p>
+  <p>En los <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">componentes de la interfaz de usuario</a> con <a href="https://www.w3.org/TR/WCAG21/#dfn-labels" data-link-type="dfn">etiquetas</a> que incluyan <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">texto</a> o <a href="https://www.w3.org/TR/WCAG21/#dfn-images-of-text" data-link-type="dfn">imágenes de texto</a>, el <a href="https://www.w3.org/TR/WCAG21/#dfn-name" data-link-type="dfn">nombre</a> contiene el texto que se presenta visualmente.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Un periodista</a> con trastorno musculoesquelético que usa un programa de reconocimiento de voz:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q><br/>
-      <em>Note:  </em>It was visually labeled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Entendió casi todos mis comandos de voz hasta que llegué al botón de enviar. Estuve repitiendo “enviar” pero no funcionó.</q><br/>
+      <em>Nota: </em>visualmente, estaba etiquetado como “Enviar” pero el “nombre” en el código era “Entregar”. Habría funcionado si el nombre hubiera empezado con “Enviar”.</span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Comprender la Etiqueta en el Nombre</a></p>
 
-### 2.5.4 Motion Actuation (A)
+### 2.5.4 Actuación del Movimiento (A)
 
 <blockquote class="sc">
-  <p><a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">Functionality</a> that can be operated by device motion or user motion can also be operated by <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> and responding to the motion can be disabled to prevent accidental actuation, except when:</p>
+  <p>La <a href="https://www.w3.org/TR/WCAG21/#dfn-functionality" data-link-type="dfn">funcionalidad</a> que puede operarse a través del movimiento del dispositivo o del usuario también puede operarse a través de <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">componentes de la interfaz de usuario</a> y la respuesta al movimiento puede desactivarse para evitar actuaciones accidentales, excepto cuando:</p>
   <dl>
-    <dt>Supported Interface</dt>
-    <dd>The motion is used to operate functionality through an <a href="https://www.w3.org/TR/WCAG21/#dfn-accessibility-supported" data-link-type="dfn">accessibility supported</a> interface;</dd>
-    <dt>Essential</dt>
-    <dd>The motion is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> for the function and doing so would invalidate the activity.</dd>
+    <dt>Interfaz soportada</dt>
+    <dd>El movimiento se usa para operar la funcionalidad a través de una interfaz con <a href="https://www.w3.org/TR/WCAG21/#dfn-accessibility-supported" data-link-type="dfn">soporte para la accesibilidad</a>;</dd>
+    <dt>Esencial</dt>
+    <dd>El movimiento es <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esencial</a> para la función y cualquier otra forma invalidaría la actividad.</dd>
   </dl>
 </blockquote>
-<p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
+<p class="persona">Un cómico con parálisis cerebral que usa silla de ruedas:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I can't shake my phone; it's  connected to my wheelchair. So there needs to be another way to activate that feature, like a button.</q></span></p></li>
-    <li><p><span class="issue">Problem:</span><span><q>I have tremors, so I need to turn  off motion activation &mdash; and then be able to do stuff without motion  actuation.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>My friend has this cool application that looks like a physical spin lock. She rotates the phone to turn to the combination. I can use the same application by typing the numbers directly.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>No puedo agitar mi móvil; está conectado a mi silla de ruedas. Así que tiene que existir otra forma para activar esa característica, un botón por ejemplo.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Tengo temblores y por eso debo deshabilitar la activación por movimiento, y después debería ser capaz de hacer cosas sin actuación del movimiento.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Mi amiga tiene una aplicación interesante que parece una cerradura giratoria. Ella tiene que rotar el móvil para cambiar la combinación. Yo puedo usar la misma aplicación, pero tecleando los números directamente.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html">Understanding Motion Actuation</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html">Comprender la Actuación del Movimiento</a></p>
 
-### 2.5.5 Target Size (AAA)
+### 2.5.5 Tamaño del Objetivo (AAA)
 
 <blockquote class="sc">
-  <p>The size of the <a href="https://www.w3.org/TR/WCAG21/#dfn-target" data-link-type="dfn">target</a> for <a href="https://www.w3.org/TR/WCAG21/#dfn-pointer-inputs" data-link-type="dfn">pointer inputs</a> is at least 44 by 44 <a href="https://www.w3.org/TR/WCAG21/#dfn-css-pixels" data-link-type="dfn">CSS pixels</a> except when:</p>
+  <p>El tamaño del <a href="https://www.w3.org/TR/WCAG21/#dfn-target" data-link-type="dfn">objetivo</a> para <a href="https://www.w3.org/TR/WCAG21/#dfn-pointer-inputs" data-link-type="dfn">entradas de puntero</a> es de al menos 44x44 <a href="https://www.w3.org/TR/WCAG21/#dfn-css-pixels" data-link-type="dfn">píxeles de CSS</a>, excepto cuando:</p>
   <dl>
-    <dt>Equivalent</dt>
-    <dd>The target is available through an equivalent link or control on the same page that is at least 44 by 44 CSS pixels;</dd>
-    <dt>Inline</dt>
-    <dd>The target is in a sentence or block of text;</dd>
-    <dt>User Agent Control</dt>
-    <dd>The size of the target is determined by the user agent and is not modified by the author;</dd>
-    <dt>Essential</dt>
-    <dd>A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
+    <dt>Equivalente</dt>
+    <dd>El objetivo está disponible a través de un enlace equivalente o un control en la misma página que tenga al menos 44x44 píxeles de CSS;</dd>
+    <dt>En línea</dt>
+    <dd>El objetivo es una frase o bloque de texto;</dd>
+    <dt>Controlado por el Agente de Usuario</dt>
+    <dd>El tamaño del objetivo queda determinado por el agente de usuario y no es modificado por el autor;</dd>
+    <dt>Esencial</dt>
+    <dd>Una presentación particular del objetivo es <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esencial</a> para la información transmitida.</dd>
   </dl>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor (and big fingers):</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Un jubilado</a> con temblores en las manos (y dedos grandes):</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>The buttons are so small, I hit  &quot;Cancel&quot; when going for &quot;Submit&quot;. Then I have to start all over again.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>This website buttons are big enough  that I don't hit the wrong button even when I'm riding on the bumpy bus.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Los botones son tan pequeños que pulso en “Cancelar” cuando quiero pulsar “Enviar”. Entonces, tengo que volver a empezar otra vez.</q></span></p></li>
+    <li><p><span class="issue">Los botones del sitio web son suficientemente grandes y no me equivoco al pulsarlos incluso cuando viajo en un autobús traqueteante.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/target-size.html">Understanding Target Size</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/target-size.html">Comprender el Tamaño del Objetivo</a></p>
 
-### 2.5.6 Concurrent Input Mechanisms (AAA)
+### 2.5.6 Mecanismos de Entrada Concurrentes (AAA)
 
 <blockquote class="sc">
-  <p>Web content does not restrict use of input modalities available on a platform except where the restriction is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>, required to ensure the security of the content, or required to respect user settings.</p>
+  <p>El contenido web no restringe el uso de las modalidades de entrada disponibles en la plataforma excepto cuando las restricciones sean <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esenciales</a>, necesarias para la seguridad del contenido o necesarias para respetar los ajustes del usuario.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses voice recognition software:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Un periodista</a> con trastorno musculoesquelético que usa un programa de reconocimiento de voz:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>When my RSI acts up, I switch back and forth a lot between keyboard, mouse,  stylus, voice. This application doesn't let me use the stylus when I have a keyboard plugged in.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Cuando mi trastorno se hace evidente, alterno bastante entre teclado, ratón, lápiz digital y voz. Esta aplicación no me deja usar el lápiz digital cuando el teclado está conectado.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html">Understanding Concurrent Input Mechanisms</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html">Comprender los Mecanismos de Entrada Concurrentes</a></p>
 
 ## Guideline 4.1 Compatible
 
