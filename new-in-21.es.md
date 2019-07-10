@@ -402,23 +402,23 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/concurrent-input-mechanisms.html">Comprender los Mecanismos de Entrada Concurrentes</a></p>
 
-## Guideline 4.1 Compatible
+## Pauta 4.1 Compatible
 
-Maximize compatibility with current and future user agents, including assistive technologies.
+Maximice la compatibilidad con agentes de usuario actuales y futuros, incluyendo las ayudas técnicas.
 
-### 4.1.3 Status Messages (AA)
+### 4.1.3 Mensajes de Estado (AA)
 
 <blockquote class="sc">
-  <p>In content implemented using markup languages, <a href="https://www.w3.org/TR/WCAG21/#dfn-status-messages" data-link-type="dfn">status messages</a> can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a> through <a href="https://www.w3.org/TR/WCAG21/#dfn-role" data-link-type="dfn">role</a> or properties such that they can be presented to the user by <a href="https://www.w3.org/TR/WCAG21/#dfn-assistive-technologies" data-link-type="dfn">assistive technologies</a> without receiving focus.</p>
+  <p>En el contenido implementado usando lenguajes de marcado, los <a href="https://www.w3.org/TR/WCAG21/#dfn-status-messages" data-link-type="dfn">mensajes de estado</a> se pueden <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinar programáticamente</a> a través de <a href="https://www.w3.org/TR/WCAG21/#dfn-role" data-link-type="dfn">roles</a> o propiedades tales que puedan ser presentados al usuario de <a href="https://www.w3.org/TR/WCAG21/#dfn-assistive-technologies" data-link-type="dfn">tecnologías de apoyo</a> sin necesidad de recibir el foco.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#ilya-senior-staff-member-who-is-blind">Accountant</a> who is blind and uses a screen reader:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#ilya-senior-staff-member-who-is-blind">Un contable</a> ciego que usa un lector de pantalla:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I selected a class for the conference, but I can't tell if it got added to my  schedule.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>When I add a meeting to my calendar,  I hear a confirmation.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>He seleccionado una clase para la conferencia, pero no puedo decir si se ha añadido a mi agenda.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Cuando añado una reunión en mi calendario, oigo una confirmación.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Understanding Status Messages</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Comprender los Mensajes de Estado</a></p>
 
 ## About the Personas Quotes
 
