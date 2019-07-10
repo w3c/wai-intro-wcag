@@ -420,10 +420,8 @@ Maximice la compatibilidad con agentes de usuario actuales y futuros, incluyendo
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Comprender los Mensajes de Estado</a></p>
 
-## About the Personas Quotes
+## Sobre las citas de las personas
 
-The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities. We might add more in the future.
+Los roles de personas enlazan con las [[Historias de usuarios web]](/people-use-web/user-stories/). Dicha página contiene otras personas con diferentes discapacidades. Se podrían añadir más en el futuro.
 
-After we’ve reviewed these persona quotes sufficiently, we plan to add
-them to the Understanding documents.
-
+Una vez estas personas se hayan revisado suficientemente, planeamos añadirlas a los documentos de Comprender.
