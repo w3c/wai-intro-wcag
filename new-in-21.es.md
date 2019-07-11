@@ -6,7 +6,7 @@ nav_title: "Novedades en 2.1"
 
 description: Esta página enumera los nuevos criterios de conformidad de las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1. Incluye citas de personas (ficticias) que ayudarán a comprender algunos aspectos de los criterios de conformidad.
 
-teaser_text: WCAG 2.1 tiene 17 requisitos adicionales (criterios de conformidad) que se dirigen a la accesibilidad móvil, personas con visión baja, y personas con discapacidades cognitivas y del aprendizaje. La página de novedades en WCAG 2.1 introduce los nuevos criterios de conformidad. Incluye citas de personas que ayudarán a entender los problemas.
+teaser_text: WCAG 2.1 tiene 17 requisitos adicionales (criterios de conformidad) que se dirigen a la accesibilidad móvil, personas con baja visión, y personas con discapacidades cognitivas y del aprendizaje. La página de novedades en WCAG 2.1 introduce los nuevos criterios de conformidad. Incluye citas de personas que ayudarán a entender los problemas.
 
 lang: es
 last_updated: 2019-07-11
@@ -67,7 +67,7 @@ Esta página enumera los nuevos criterios de conformidad de las Pautas de Accesi
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Índice de contenidos" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
@@ -79,7 +79,7 @@ Esta página enumera los nuevos criterios de conformidad de las Pautas de Accesi
 
 ## Introducción
 
-Puede ver una introducción a las Pautas de Accesibilidad del Contenido Web y saber más sobre las versiones 2.0 y 2.1 consultando la [[Introducción a WCAG]](/standards-guidelines/wcag/).
+Puede consultar una introducción a las Pautas de Accesibilidad para el Contenido Web y saber más sobre las versiones 2.0 y 2.1 en la [[Introducción a WCAG]](/standards-guidelines/wcag/).
 
 Todos los requisitos (criterios de conformidad) de la versión 2.0 están incluidos en 2.1. Los criterios de conformidad 2.0 son exactamente iguales (literalmente) en 2.1.
 
@@ -96,13 +96,13 @@ Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una 
 ### 1.3.4 Orientación  (AA)
 
 <blockquote class="sc">
-  <p>El contenido no restringe su vista y operación a una única orientación, como por ejemplo retrato o paisaje, salvo que una orientación específica sea <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esencial</a>.</p>
+  <p>El contenido no restringe su vista y operación a una única orientación de pantalla, como por ejemplo retrato o paisaje, salvo que una orientación específica sea <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">esencial</a>.</p>
 </blockquote>
 <p class="persona">Un cómico con parálisis cerebral que usa una silla de ruedas:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problema:</span><span><q>No puedo rotar mi tableta, está fijada a mi silla de ruedas.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>La aplicación funciona tanto si mi tableta está fijada de forma horizontal como vertical.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>No puedo rotar mi tableta, está fijada a la silla de ruedas.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>La aplicación funciona tanto si mi tableta está fijada de forma horizontal como vertical.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Comprender la Orientación</a></p>
@@ -112,15 +112,15 @@ Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una 
 <blockquote class="sc">
   <p>El propósito de cada campo de entrada que recoge información sobre el usuario puede ser <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinado por software</a> cuando:</p>
   <ul>
-    <li>El campo de entrada sirve a un propósito identificado en la sección de los <a href="https://www.w3.org/TR/WCAG21/#input-purposes">Propósitos de Entrada de los Componentes de la Interfaz de Usuario</a>; y</li>
+    <li>El campo de entrada sirve a un propósito identificado en los <a href="https://www.w3.org/TR/WCAG21/#input-purposes">propósitos de entrada de los componentes de la interfaz de usuario</a>; y</li>
     <li>El contenido se implementa usando tecnologías con soporte para identificar el significado esperado de los datos de entrada en formularios.</li>
   </ul>
 </blockquote>
 <p class="persona">Un <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">auxiliar de supermercado</a> con dislexia y discalculia:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problema:</span><span><q>Mi dirección es tan complicada. Tiene muchos números y palabras largas. Me resulta difícil teclearlo todo sin cometer errores.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Me encantan los sitios web que automáticamente rellenan todo eso por mí. De esta forma, no tengo que esforzarme tanto para asegurar que los números y las palabras están bien.</q><br/>
+    <li><p><span class="issue">Problema:</span><span><q>Mi dirección es muy complicada. Tiene muchos números y palabras largas. Me resulta difícil teclearlo todo sin cometer errores.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Me encantan los sitios web que automáticamente rellenan todo eso por mí. De esta forma, no tengo que esforzarme tanto para asegurar que los números y las palabras están bien.</q><br/>
       <em>Nota: </em>Esto funciona porque los campos utilizan autocompletado.</span></p></li>
   </ul>
 </div>
@@ -129,13 +129,13 @@ Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una 
 ### 1.3.6 Identificación del Propósito (AAA)
 
 <blockquote class="sc">
-  <p>En el contenido implementado con lenguajes de marcado, el propósito de los <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">Componentes de la Interfaz de Usuario</a>, iconos y <a href="https://www.w3.org/TR/WCAG21/#dfn-regions" data-link-type="dfn">regiones</a> puede <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinarse por software</a>.</p>
+  <p>En contenido implementado con lenguajes de marcado, el propósito de los <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">componentes de la interfaz de usuario</a>, iconos y <a href="https://www.w3.org/TR/WCAG21/#dfn-regions" data-link-type="dfn">regiones</a> puede <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinarse por software</a>.</p>
 </blockquote>
 <p class="persona">Un jugador con discapacidad para procesar el lenguaje:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Tengo un programa que cambia las palabras de la navegación por símbolos. No funciona con todos los sitios web.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Funciona bastante bien con algunos sitios web.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Funciona bastante bien con algunos sitios web.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose.html">Comprender la Identificación del Propósito</a></p>
@@ -144,7 +144,7 @@ Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una 
 
 Facilite que los usuarios puedan ver y oír el contenido incluyendo la separación entre el primer plano y el fondo.
 
-### 1.4.10 Redimensionamiento  (AA)
+### 1.4.10 Reajuste (AA)
 
 <blockquote class="sc">
   <p>El contenido se puede presentar sin perder información ni funcionalidad, y sin necesidad de desplazamiento en dos dimensiones, para:</p>
@@ -158,10 +158,10 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Es casi imposible leer el texto si tengo que desplazarme de derecha a izquierda con cada línea. Me siento desorientado y pierdo la posición. Hace que sea difícil entender lo que estoy leyendo.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Aumento el tamaño del texto al 400% y se redimensiona dentro de la anchura de la ventana. Puedo leerlo fácilmente sin necesidad de desplazarme adelante y atrás.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Aumento el tamaño del texto al 400% y se reajusta dentro de la anchura de la ventana. Puedo leerlo fácilmente sin necesidad de desplazarme adelante y atrás.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Comprender el Redimensionamiento</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Comprender el Reajuste</a></p>
 
 ### 1.4.11 Contraste no Textual (AA)
 
@@ -178,7 +178,7 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>No pude usar el formulario de pedidos, no había cajas de texto. Después de una larga llamada con el servicio de atención al cliente, supe que las cajas de texto tenían un borde muy claro que yo no podía ver.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Puedo ver los iconos, botones y todo lo demás fácilmente, incluso bajo la luz del sol.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Puedo ver los iconos, botones y todo lo demás fácilmente, incluso bajo la luz del sol.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Comprender el Contraste no Textual</a></p>
@@ -200,33 +200,33 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>La mayor parte del texto es difícil de leer. Está tan amontonado que no puedo concentrarme. Solamente aumentando el espacio entre líneas ya noto una diferencia. Cuando estoy muy cansado, también aumento el espacio entre palabras.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>De acuerdo, sé que soy un poco raro, pero he creado una hoja de estilos que establece el espaciado de texto adecuado para mí. Es un alivio cuando los sitios web funcionan con mi CSS.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>De acuerdo, sé que soy un poco raro, pero he creado una hoja de estilos que establece el espaciado de texto adecuado para mí. Es un alivio cuando los sitios web funcionan con mi CSS.</q></span></p></li>
   </ul>
 </div>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Comprender el Espaciado de Texto</a>
 
-### 1.4.13 Contenido sobre Cursor o en Foco (AA)
+### 1.4.13 Contenido en Puntero Flotante o en Foco (AA)
 
 <blockquote class="sc">
-  <p>Si moviendo y alejado el cursor o el foco del teclado sobre un elemento resulta en contenido adicional que se muestra y después se oculta, entonces lo siguiente debe ser cierto:</p>
+  <p>Si mover y alejar el puntero o el foco del teclado con respecto a un elemento resulta en contenido adicional que se muestra y después se oculta, entonces lo siguiente debe ser cierto:</p>
   <dl>
     <dt>Descartable</dt>
-    <dd>Debe existir un <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mecanismo</a> para descartar el contenido adicional sin mover el cursor o el foco del teclado, salvo que el contenido adicional informe acerca de un <a href="https://www.w3.org/TR/WCAG21/#dfn-input-error" data-link-type="dfn">error de entrada</a> o no oculte ni sustituya otro contenido;</dd>
+    <dd>Debe existir un <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mecanismo</a> para descartar el contenido adicional sin mover el puntero o el foco del teclado, salvo que el contenido adicional informe acerca de un <a href="https://www.w3.org/TR/WCAG21/#dfn-input-error" data-link-type="dfn">error de entrada</a> o no oculte ni sustituya otro contenido;</dd>
     <dt>Sobrevolable</dt>
-    <dd>Si posando el cursor sobre un elemento resulta en contenido adicional que se muestra, entonces el cursor debe poder moverse sobre el contenido adicional sin que éste desaparezca;</dd>
+    <dd>Si cuando el puntero flota sobre un elemento se muestra contenido adicional, entonces el puntero debe poder moverse sobre este contenido adicional sin que desaparezca;</dd>
     <dt>Persistente</dt>
-    <dd>El contenido adicional debe permanecer visible hasta que el cursor o el foco lo abandonen, el usuario lo descarte o la información ya no sea válida.</dd>
+    <dd>El contenido adicional debe permanecer visible hasta que el puntero o el foco lo abandonen, el usuario lo descarte o la información ya no sea válida.</dd>
   </dl>
   <p>Excepción: la presentación visual del contenido adicional es controlada por el agente de usuario y no es modificada por el autor.</p>
 </blockquote>
 <p class="persona">Un profesor con baja visión que usa un programa de magnificación de pantalla:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problema:</span><span><q>Estaba moviendo el ratón para seguir lo que veía en el sitio web. Me ayuda a concentrarme. De repente, bum, apareció un cuadro pequeño. Cubría lo que estaba intentando leer y no pude hacerlo desaparecer.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Posé el ratón sobre una palabra y se abrió un cuadro con su definición, pero se encontraba prácticamente fuera de la pantalla debido a mi magnificación. Moví el puntero del ratón hasta el cuadro de definición magnificado y me desplacé por éste, que permaneció visible y de esta forma pude leerlo.</q></span></p></li>
+    <li><p><span class="issue">Problema:</span><span><q>Estaba moviendo el ratón para seguir lo que veía en el sitio web. Me ayuda a concentrarme. De repente, ¡bum!, apareció un cuadro pequeño. Cubría lo que estaba intentando leer y no pude hacerlo desaparecer.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Posé el puntero sobre una palabra y se abrió un cuadro con su definición, pero se encontraba prácticamente fuera de la pantalla debido a mi magnificación. Moví el puntero del ratón hasta el cuadro de definición magnificado y me desplacé por éste, que permaneció visible y de esta forma pude leerlo.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Comprender Contenido sobre Cursor o en Foco</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Comprender Contenido en Puntero Flotante o en Foco</a></p>
 
 ## Pauta 2.1 Accesible por Teclado
 
@@ -250,32 +250,32 @@ Proporcione acceso a toda la funcionalidad mediante el teclado.
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Usando mi aplicación de correo electrónico, borraba los mensajes en lugar de abrirlos.</q><br/>
       <em>Nota: </em>Había un atajo de teclado para borrar los mensajes que se activaba por algo que él estaba diciendo y no había manera de desactivarlo.</span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>En mi aplicación de hojas de cálculo puedo desactivar o modificar los atajos de teclado.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>En mi aplicación de hojas de cálculo puedo desactivar o modificar los atajos de teclado.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Comprender los Atajos de Teclado</a></p>
 
-## Guideline 2.2 Tiempo Suficiente
+## Pauta 2.2 Tiempo Suficiente
 
 Proporcione a los usuarios tiempo suficiente para leer y usar el contenido.
 
 ### 2.2.6 Límites Temporales (AAA)
 
 <blockquote class="sc">
-  <p>Los usuarios son informados de la duración del periodo de <a href="https://www.w3.org/TR/WCAG21/#dfn-user-inactivity" data-link-type="dfn">inactividad</a> que podría provocar la pérdida de datos, salvo que los datos se mantengan durante más de 20 horas desde que el usuario no realiza acciones.</p>
+  <p>Los usuarios son informados de la duración del periodo de <a href="https://www.w3.org/TR/WCAG21/#dfn-user-inactivity" data-link-type="dfn">inactividad</a> que podría provocar una pérdida de datos, salvo que los datos se mantengan durante más de 20 horas desde que el usuario no realiza acciones.</p>
 </blockquote>
 <p class="persona">Un auxiliar de supervisión en un colegio con discapacidad cognitiva:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Estaba seleccionando los beneficios de los empleados y comparando diferentes planes. Cuando volví para seleccionar el plan de salud, la sesión caducó y perdí toda la información que había introducido.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Al iniciar la aplicación de beneficios de los empleados, fui informado de cuántos minutos disponía para rellenar los formularios.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Al iniciar la aplicación de beneficios de los empleados, fui informado de cuántos minutos disponía para rellenar los formularios.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Comprender los Límites Temporales</a></p>
 
 ## Pauta 2.3 Convulsiones y Reacciones Físicas
 
-No diseñe el contenido de una forma que sea conocida por causar convulsiones o reacciones físicas.
+No diseñe contenido de una forma que sea conocida por causar convulsiones o reacciones físicas.
 
 ### 2.3.3 Interacciones Animadas (AAA)
 
@@ -286,7 +286,7 @@ No diseñe el contenido de una forma que sea conocida por causar convulsiones o 
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>En la aplicación de impuestos en línea, según muevo el ratón o el cursor a diferentes campos, un bocadillo con el balance actual me sigue por toda la pantalla. Me provoca mareos y náuseas.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Me alegro de contar con una opción para desactivar todas las animaciones.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Me alegro de contar con una opción para desactivar todas las animaciones.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html">Comprender las Interacciones Animadas</a></p>
@@ -304,7 +304,7 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>No puedo mover mis dedos así. Necesito otro método para ampliar el mapa.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Es bueno que haya botones para ampliar y reducir.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Es bueno que haya botones para ampliar y reducir.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html">Comprender los Gestos del Puntero</a></p>
@@ -328,7 +328,7 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Quise pulsar el botón de “Silenciar” pero accidentalmente toqué el de “Terminar llamada”. Se cortó inmediatamente.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>En otra aplicación de videoconferencias, si accidentalmente toco el botón de “Terminar llamada”, puedo deslizar el dedo fuera de ese botón y así no se termina la llamada.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>En otra aplicación de videoconferencias, si accidentalmente toco el botón de “Terminar llamada”, puedo deslizar el dedo fuera de ese botón y así no se termina la llamada.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html">Comprender la Cancelación del Puntero</a></p>
@@ -363,7 +363,7 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>No puedo agitar mi móvil; está conectado a mi silla de ruedas. Así que tiene que existir otra forma para activar esa característica, un botón por ejemplo.</q></span></p></li>
     <li><p><span class="issue">Problema:</span><span><q>Tengo temblores y por eso debo deshabilitar la activación por movimiento, y después debería ser capaz de hacer cosas sin actuación del movimiento.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Mi amiga tiene una aplicación interesante que parece una cerradura giratoria. Ella tiene que rotar el móvil para cambiar la combinación. Yo puedo usar la misma aplicación, pero tecleando los números directamente.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Mi amiga tiene una aplicación interesante que parece una cerradura giratoria. Ella tiene que rotar el móvil para cambiar la combinación. Yo puedo usar la misma aplicación, pero tecleando los números directamente.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html">Comprender la Actuación del Movimiento</a></p>
@@ -387,7 +387,7 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Los botones son tan pequeños que pulso en “Cancelar” cuando quiero pulsar “Enviar”. Entonces, tengo que volver a empezar otra vez.</q></span></p></li>
-    <li><p><span class="issue">Los botones del sitio web son suficientemente grandes y no me equivoco al pulsarlos incluso cuando viajo en un autobús traqueteante.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Los botones del sitio web son suficientemente grandes y no me equivoco al pulsarlos incluso cuando viajo en un autobús traqueteante.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/target-size.html">Comprender el Tamaño del Objetivo</a></p>
@@ -412,13 +412,13 @@ Maximice la compatibilidad con agentes de usuario actuales y futuros, incluyendo
 ### 4.1.3 Mensajes de Estado (AA)
 
 <blockquote class="sc">
-  <p>En el contenido implementado usando lenguajes de marcado, los <a href="https://www.w3.org/TR/WCAG21/#dfn-status-messages" data-link-type="dfn">mensajes de estado</a> se pueden <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinar programáticamente</a> a través de <a href="https://www.w3.org/TR/WCAG21/#dfn-role" data-link-type="dfn">roles</a> o propiedades tales que puedan ser presentados al usuario de <a href="https://www.w3.org/TR/WCAG21/#dfn-assistive-technologies" data-link-type="dfn">tecnologías de apoyo</a> sin necesidad de recibir el foco.</p>
+  <p>En el contenido implementado usando lenguajes de marcado, los <a href="https://www.w3.org/TR/WCAG21/#dfn-status-messages" data-link-type="dfn">mensajes de estado</a> se pueden <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinado por software</a> a través de <a href="https://www.w3.org/TR/WCAG21/#dfn-role" data-link-type="dfn">roles</a> o propiedades tales que puedan ser presentados al usuario de <a href="https://www.w3.org/TR/WCAG21/#dfn-assistive-technologies" data-link-type="dfn">tecnologías de apoyo</a> sin necesidad de recibir el foco.</p>
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#ilya-senior-staff-member-who-is-blind">Un contable</a> ciego que usa un lector de pantalla:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>He seleccionado una clase para la conferencia, pero no puedo decir si se ha añadido a mi agenda.</q></span></p></li>
-    <li><p><span class="issue">Funciona bien:</span><span><q>Cuando añado una reunión en mi calendario, oigo una confirmación.</q></span></p></li>
+    <li><p><span class="issue">Solución:</span><span><q>Cuando añado una reunión en mi calendario, oigo una confirmación.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Comprender los Mensajes de Estado</a></p>
