@@ -1,26 +1,29 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "What’s New in WCAG 2.1"
-nav_title: "New in 2.1"
+title: "Novedades en WCAG 2.1"
+nav_title: "Novedades en 2.1"
 
-description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
+description: Esta página enumera los nuevos criterios de conformidad de las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1. Incluye citas de personas (ficticias) que ayudarán a comprender algunos aspectos de los criterios de conformidad.
 
-teaser_text: WCAG 2.1 has 17 additional requirements (“success criteria”) that address mobile accessibility, people with low vision, and people with cognitive and learning disabilities. The What’s New in WCAG 2.1 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
+teaser_text: WCAG 2.1 tiene 17 requisitos adicionales (criterios de conformidad) que se dirigen a la accesibilidad móvil, personas con visión baja, y personas con discapacidades cognitivas y del aprendizaje. La página de novedades en WCAG 2.1 introduce los nuevos criterios de conformidad. Incluye citas de personas que ayudarán a entender los problemas.
 
-lang: en
-last_updated: 2019-04-08
-permalink: /standards-guidelines/wcag/new-in-21/
+lang: es
+last_updated: 2019-07-11
+permalink: /standards-guidelines/wcag/new-in-21/es
+translators: 
+- name: "Carlos Muncharaz"
+  link: "http://www.muncharaz.eu/"
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'new-in-21.md'
+  path: 'new-in-21.es.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 8 April 2019.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
+  <p><strong>Fecha:</strong> Actualizado el 8 de abril del 2019.</p>
+  <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Colaboradores: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
+  <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) y el Grupo de Trabajo de Pautas de Accesibilidad (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
   blockquote {font-style: normal !important;}
   blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
@@ -50,12 +53,12 @@ ref: /standards-guidelines/wcag/new-in-21/
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
-This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1.
+Esta página enumera los nuevos criterios de conformidad de las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1.
 
-**It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
+**Incluye citas de personas (ficticias)** que ayudarán a comprender algunos aspectos de los criterios de conformidad. También incluye enlaces a documentos Comprender que explican los criterios de conformidad detalladamente y proporcionan más ejemplos.
 
 {::nomarkdown}
 {% include box.html type="end" %}
