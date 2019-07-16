@@ -58,7 +58,7 @@ ref: /standards-guidelines/wcag/new-in-21/
 
 Esta página enumera los nuevos criterios de conformidad de las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1.
 
-**Incluye citas de personas (ficticias)** que ayudarán a comprender algunos aspectos de los criterios de conformidad. También incluye enlaces a documentos Comprender que explican los criterios de conformidad detalladamente y proporcionan más ejemplos.
+**Incluye citas de personas (ficticias)** que ayudarán a comprender algunos aspectos de los criterios de conformidad. También incluye enlaces a documentos "Comprender" que explican los criterios de conformidad detalladamente y proporcionan más ejemplos.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -102,7 +102,7 @@ Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una 
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>No puedo rotar mi tableta, está fijada a la silla de ruedas.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>La aplicación funciona tanto si mi tableta está fijada de forma horizontal como vertical.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>La aplicación funciona tanto si mi tableta está fijada de forma horizontal como vertical.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Comprender la Orientación</a></p>
@@ -120,7 +120,7 @@ Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una 
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Mi dirección es muy complicada. Tiene muchos números y palabras largas. Me resulta difícil teclearlo todo sin cometer errores.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Me encantan los sitios web que automáticamente rellenan todo eso por mí. De esta forma, no tengo que esforzarme tanto para asegurar que los números y las palabras están bien.</q><br/>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Me encantan los sitios web que automáticamente rellenan todo eso por mí. De esta forma, no tengo que esforzarme tanto para asegurar que los números y las palabras están bien.</q><br/>
       <em>Nota: </em>Esto funciona porque los campos utilizan autocompletado.</span></p></li>
   </ul>
 </div>
@@ -135,7 +135,7 @@ Cree contenido que pueda presentarse en diferentes formas (por ejemplo, con una 
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Tengo un programa que cambia las palabras de la navegación por símbolos. No funciona con todos los sitios web.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Funciona bastante bien con algunos sitios web.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Funciona bastante bien con algunos sitios web.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose.html">Comprender la Identificación del Propósito</a></p>
@@ -158,7 +158,7 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Es casi imposible leer el texto si tengo que desplazarme de derecha a izquierda con cada línea. Me siento desorientado y pierdo la posición. Hace que sea difícil entender lo que estoy leyendo.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Aumento el tamaño del texto al 400% y se reajusta dentro de la anchura de la ventana. Puedo leerlo fácilmente sin necesidad de desplazarme adelante y atrás.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Aumento el tamaño del texto al 400% y se reajusta dentro de la anchura de la ventana. Puedo leerlo fácilmente sin necesidad de desplazarme adelante y atrás.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Comprender el Reajuste</a></p>
@@ -178,7 +178,7 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>No pude usar el formulario de pedidos, no había cajas de texto. Después de una larga llamada con el servicio de atención al cliente, supe que las cajas de texto tenían un borde muy claro que yo no podía ver.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Puedo ver los iconos, botones y todo lo demás fácilmente, incluso bajo la luz del sol.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Puedo ver los iconos, botones y todo lo demás fácilmente, incluso bajo la luz del sol.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Comprender el Contraste no Textual</a></p>
@@ -200,7 +200,7 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>La mayor parte del texto es difícil de leer. Está tan amontonado que no puedo concentrarme. Solamente aumentando el espacio entre líneas ya noto una diferencia. Cuando estoy muy cansado, también aumento el espacio entre palabras.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>De acuerdo, sé que soy un poco raro, pero he creado una hoja de estilos que establece el espaciado de texto adecuado para mí. Es un alivio cuando los sitios web funcionan con mi CSS.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>De acuerdo, sé que soy un poco raro, pero he creado una hoja de estilos que establece el espaciado de texto adecuado para mí. Es un alivio cuando los sitios web funcionan con mi CSS.</q></span></p></li>
   </ul>
 </div>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Comprender el Espaciado de Texto</a>
@@ -212,7 +212,7 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
   <dl>
     <dt>Descartable</dt>
     <dd>Debe existir un <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mecanismo</a> para descartar el contenido adicional sin mover el puntero o el foco del teclado, salvo que el contenido adicional informe acerca de un <a href="https://www.w3.org/TR/WCAG21/#dfn-input-error" data-link-type="dfn">error de entrada</a> o no oculte ni sustituya otro contenido;</dd>
-    <dt>Sobrevolable</dt>
+    <dt>Superponible</dt>
     <dd>Si cuando el puntero flota sobre un elemento se muestra contenido adicional, entonces el puntero debe poder moverse sobre este contenido adicional sin que desaparezca;</dd>
     <dt>Persistente</dt>
     <dd>El contenido adicional debe permanecer visible hasta que el puntero o el foco lo abandonen, el usuario lo descarte o la información ya no sea válida.</dd>
@@ -223,7 +223,7 @@ Facilite que los usuarios puedan ver y oír el contenido incluyendo la separaci�
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Estaba moviendo el ratón para seguir lo que veía en el sitio web. Me ayuda a concentrarme. De repente, ¡bum!, apareció un cuadro pequeño. Cubría lo que estaba intentando leer y no pude hacerlo desaparecer.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Posé el puntero sobre una palabra y se abrió un cuadro con su definición, pero se encontraba prácticamente fuera de la pantalla debido a mi magnificación. Moví el puntero del ratón hasta el cuadro de definición magnificado y me desplacé por éste, que permaneció visible y de esta forma pude leerlo.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Posé el puntero sobre una palabra y se abrió un cuadro con su definición, pero se encontraba prácticamente fuera de la pantalla debido a mi magnificación. Moví el puntero del ratón hasta el cuadro de definición magnificado y me desplacé por éste, que permaneció visible y de esta forma pude leerlo.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Comprender Contenido en Puntero Flotante o en Foco</a></p>
@@ -250,7 +250,7 @@ Proporcione acceso a toda la funcionalidad mediante el teclado.
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Usando mi aplicación de correo electrónico, borraba los mensajes en lugar de abrirlos.</q><br/>
       <em>Nota: </em>Había un atajo de teclado para borrar los mensajes que se activaba por algo que él estaba diciendo y no había manera de desactivarlo.</span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>En mi aplicación de hojas de cálculo puedo desactivar o modificar los atajos de teclado.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>En mi aplicación de hojas de cálculo puedo desactivar o modificar los atajos de teclado.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html">Comprender los Atajos de Teclado</a></p>
@@ -268,7 +268,7 @@ Proporcione a los usuarios tiempo suficiente para leer y usar el contenido.
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Estaba seleccionando los beneficios de los empleados y comparando diferentes planes. Cuando volví para seleccionar el plan de salud, la sesión caducó y perdí toda la información que había introducido.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Al iniciar la aplicación de beneficios de los empleados, fui informado de cuántos minutos disponía para rellenar los formularios.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Al iniciar la aplicación de beneficios de los empleados, fui informado de cuántos minutos disponía para rellenar los formularios.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Comprender los Límites Temporales</a></p>
@@ -286,7 +286,7 @@ No diseñe contenido de una forma que sea conocida por causar convulsiones o rea
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>En la aplicación de impuestos en línea, según muevo el ratón o el cursor a diferentes campos, un bocadillo con el balance actual me sigue por toda la pantalla. Me provoca mareos y náuseas.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Me alegro de contar con una opción para desactivar todas las animaciones.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Me alegro de contar con una opción para desactivar todas las animaciones.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html">Comprender las Interacciones Animadas</a></p>
@@ -304,7 +304,7 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>No puedo mover mis dedos así. Necesito otro método para ampliar el mapa.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Es bueno que haya botones para ampliar y reducir.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Es bueno que haya botones para ampliar y reducir.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html">Comprender los Gestos del Puntero</a></p>
@@ -328,7 +328,7 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Quise pulsar el botón de “Silenciar” pero accidentalmente toqué el de “Terminar llamada”. Se cortó inmediatamente.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>En otra aplicación de videoconferencias, si accidentalmente toco el botón de “Terminar llamada”, puedo deslizar el dedo fuera de ese botón y así no se termina la llamada.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>En otra aplicación de videoconferencias, si accidentalmente toco el botón de “Terminar llamada”, puedo deslizar el dedo fuera de ese botón y así no se termina la llamada.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html">Comprender la Cancelación del Puntero</a></p>
@@ -363,7 +363,7 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>No puedo agitar mi móvil; está conectado a mi silla de ruedas. Así que tiene que existir otra forma para activar esa característica, un botón por ejemplo.</q></span></p></li>
     <li><p><span class="issue">Problema:</span><span><q>Tengo temblores y por eso debo deshabilitar la activación por movimiento, y después debería ser capaz de hacer cosas sin actuación del movimiento.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Mi amiga tiene una aplicación interesante que parece una cerradura giratoria. Ella tiene que rotar el móvil para cambiar la combinación. Yo puedo usar la misma aplicación, pero tecleando los números directamente.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Mi amiga tiene una aplicación interesante que parece una cerradura giratoria. Ella tiene que rotar el móvil para cambiar la combinación. Yo puedo usar la misma aplicación, pero tecleando los números directamente.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/motion-actuation.html">Comprender la Actuación del Movimiento</a></p>
@@ -387,7 +387,7 @@ Facilite que los usuarios puedan operar la funcionalidad a través de diferentes
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>Los botones son tan pequeños que pulso en “Cancelar” cuando quiero pulsar “Enviar”. Entonces, tengo que volver a empezar otra vez.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Los botones del sitio web son suficientemente grandes y no me equivoco al pulsarlos incluso cuando viajo en un autobús traqueteante.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Los botones del sitio web son suficientemente grandes y no me equivoco al pulsarlos incluso cuando viajo en un autobús traqueteante.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/target-size.html">Comprender el Tamaño del Objetivo</a></p>
@@ -412,13 +412,13 @@ Maximice la compatibilidad con agentes de usuario actuales y futuros, incluyendo
 ### 4.1.3 Mensajes de Estado (AA)
 
 <blockquote class="sc">
-  <p>En el contenido implementado usando lenguajes de marcado, los <a href="https://www.w3.org/TR/WCAG21/#dfn-status-messages" data-link-type="dfn">mensajes de estado</a> se pueden <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinado por software</a> a través de <a href="https://www.w3.org/TR/WCAG21/#dfn-role" data-link-type="dfn">roles</a> o propiedades tales que puedan ser presentados al usuario de <a href="https://www.w3.org/TR/WCAG21/#dfn-assistive-technologies" data-link-type="dfn">tecnologías de apoyo</a> sin necesidad de recibir el foco.</p>
+  <p>En el contenido implementado usando lenguajes de marcado, los <a href="https://www.w3.org/TR/WCAG21/#dfn-status-messages" data-link-type="dfn">mensajes de estado</a> se pueden <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">determinar por software</a> a través de <a href="https://www.w3.org/TR/WCAG21/#dfn-role" data-link-type="dfn">roles</a> o propiedades tales que puedan ser presentados al usuario de <a href="https://www.w3.org/TR/WCAG21/#dfn-assistive-technologies" data-link-type="dfn">tecnologías de apoyo</a> sin necesidad de recibir el foco.</p>
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#ilya-senior-staff-member-who-is-blind">Un contable</a> ciego que usa un lector de pantalla:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problema:</span><span><q>He seleccionado una clase para la conferencia, pero no puedo decir si se ha añadido a mi agenda.</q></span></p></li>
-    <li><p><span class="issue">Solución:</span><span><q>Cuando añado una reunión en mi calendario, oigo una confirmación.</q></span></p></li>
+    <li><p><span class="issue">Funciona bien:</span><span><q>Cuando añado una reunión en mi calendario, oigo una confirmación.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Comprender los Mensajes de Estado</a></p>
@@ -427,4 +427,4 @@ Maximice la compatibilidad con agentes de usuario actuales y futuros, incluyendo
 
 Los roles de personas enlazan con las [[Historias de usuarios web]](/people-use-web/user-stories/). Dicha página contiene otras personas con diferentes discapacidades. Se podrían añadir más en el futuro.
 
-Una vez estas personas se hayan revisado suficientemente, planeamos añadirlas a los documentos de Comprender.
+Una vez estas personas se hayan revisado suficientemente, planeamos añadirlas a los documentos de "Comprender".
