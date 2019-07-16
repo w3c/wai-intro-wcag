@@ -87,7 +87,7 @@ WCAG proporciona 17 criterios de conformidad adicionales que hay que tener en cu
 
 - [[Accesibilidad móvil]](/standards-guidelines/mobile/)
 - Personas con baja visión
-- [[Personas con discapacidades cognitivas y del aprendizaje]](/standards-guidelines/cognitive/)
+- [[Personas con discapacidades cognitivas y del aprendizaje]](/cognitive/)
 
 ## Pauta 1.3 Adaptable
 
