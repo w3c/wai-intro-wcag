@@ -84,7 +84,7 @@ WCAG 2.1 provides 17 additional success criteria to address:
 
 - [mobile accessibility](/standards-guidelines/mobile/)
 - people with low vision
-- [people with cognitive and learning disabilities](/standards-guidelines/cognitive/)
+- [people with cognitive and learning disabilities](/cognitive/)
 
 ## Guideline 1.3 Adaptable
 
