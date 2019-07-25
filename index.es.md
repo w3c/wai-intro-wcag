@@ -42,7 +42,7 @@ Enlaces rápidos a recursos:
 {:/}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{% include_cached toc.html type="start" title="Contenidos de la página" class="simple" %}
 {:/}
 
 {::options toc_levels="2" /}
