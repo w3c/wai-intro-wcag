@@ -67,7 +67,7 @@ Esta página enumera los nuevos criterios de conformidad de las Pautas de Accesi
 {::options toc_levels="2,3" /}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Índice de contenidos" %}
+{% include toc.html type="start" title="Contenidos de la página" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
