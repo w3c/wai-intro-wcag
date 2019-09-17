@@ -82,12 +82,12 @@ Two types of translations are listed on this page:
     <tr>
       <th id="da21">Danish</th>
       <td><a href="https://www.w3.org/Translations/WCAG21-da-CAT/">Danish Candidate Authorized Translation of WCAG 2.1</a></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0008.html">notification of intent for Danish Authorized Translation of WCAG 2.1 (16 April 2019)</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019JulSep/0029.html">Review Period for  Danish Authorized Translation of WCAG 2.1 (9 September 2019)</a></td>
     </tr>
     <tr>
       <th id="nl21">Dutch</th>
       <td>&nbsp;</td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019JulSep/0029.html">Review Period for  Dutch Authorized Translation of WCAG 2.1 (9 September 2019)</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0034.html">notification of intent for Dutch Authorized Translation of WCAG 2.1 (19 May 2019)</a></td>
     </tr>
     <tr>
       <th id="it21">Italian</th>
