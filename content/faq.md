@@ -12,7 +12,7 @@ permalink: /standards-guidelines/wcag/faq/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'faq.md'
+  path: 'content/faq.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >

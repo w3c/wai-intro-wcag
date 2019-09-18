@@ -14,7 +14,7 @@ permalink: /standards-guidelines/wcag/new-in-21/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'new-in-21.md'
+  path: 'content/new-in-21.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >

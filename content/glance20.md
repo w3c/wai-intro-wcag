@@ -14,7 +14,7 @@ parent: /standards-guidelines/wcag/glance/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'glance20.md'
+  path: 'content/glance20.md'
 
 footer: >
   <p><strong>Date:</strong> Updated 22 February 2012. First published July 2008.</p>

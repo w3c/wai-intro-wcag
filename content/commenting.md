@@ -12,7 +12,7 @@ permalink: /standards-guidelines/wcag/commenting/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'commenting.md'
+  path: 'content/commenting.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >

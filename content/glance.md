@@ -12,7 +12,7 @@ permalink: /standards-guidelines/wcag/glance/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'glance.md'
+  path: 'content/glance.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 feedbackmail: wai@w3.org

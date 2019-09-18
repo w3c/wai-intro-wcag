@@ -15,7 +15,7 @@ translators:
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'glance.es.md'
+  path: 'content/glance.es.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 feedbackmail: wai@w3.org

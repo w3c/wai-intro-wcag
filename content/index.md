@@ -12,7 +12,7 @@ permalink: /standards-guidelines/wcag/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: "index.md"
+  path: 'content/index.md'
 
 footer: >
   <p><strong>Date:</strong> Updated 22 June 2018. First published July 2005.</p>

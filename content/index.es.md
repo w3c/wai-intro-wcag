@@ -15,7 +15,7 @@ translators:
 
 github:
   repository: w3c/wai-intro-wcag
-  path: "index.es.md"
+  path: 'content/index.es.md'
 
 footer: >
   <p><strong>Fecha:</strong> Actualizado el 22 de junio del 2018. Primera publicación en julio del 2005.</p>

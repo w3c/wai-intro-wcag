@@ -12,7 +12,7 @@ permalink: /standards-guidelines/wcag/conformance-logos/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'conformance-logos.md'
+  path: 'content/conformance-logos.md'
 
 image: /content-images/wai-intro-wcag/conformance-logos-social.jpg
 footer: >

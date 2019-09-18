@@ -12,7 +12,7 @@ permalink: /standards-guidelines/wcag/non-web-ict/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'non-web-ict.md'
+  path: 'content/non-web-ict.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >

@@ -17,7 +17,7 @@ translators:
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'new-in-21.es.md'
+  path: 'content/new-in-21.es.md'
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >

@@ -12,7 +12,7 @@ permalink: /standards-guidelines/wcag/translations/
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'translations.md'
+  path: 'content/translations.md'
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
