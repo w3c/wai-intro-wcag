@@ -7,7 +7,7 @@ nav_title: "Translations"
 description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
 
 lang: en
-last_updated: 2019-06-12
+last_updated: 2019-12-03
 permalink: /standards-guidelines/wcag/translations/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 17 September 2019. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 3 December 2019. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -67,12 +67,12 @@ Two types of translations are listed on this page:
     <tr>
       <th id="zh21">Chinese (Simplified and Traditional)</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
-      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0039.html">notification of draft Traditional Chinese unofficial translation of WCAG 2.1 (30 May 2019)</a></td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <th id="fi21">Finnish</th>
-      <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0047.html">notification of intent for Finnish Authorized Translation of WCAG 2.1 (11 June 2019)</a></td>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-fi/">Finnish Authorized Translation of WCAG 2.1 completed</a></strong></td>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <th id="fr21">French</th>
@@ -86,8 +86,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="nl21">Dutch</th>
-      <td>&nbsp;</td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0034.html">notification of intent for Dutch Authorized Translation of WCAG 2.1 (19 May 2019)</a></td>
+      <td><a href="https://bartimeus-accessibility.github.io/wcag/translations/WCAG21NL-CAT-20191125/">Dutch Candidate Authorized Translation of WCAG 2.1</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019OctDec/0009.html">Review Period for Dutch Authorized Translation of WCAG 2.1 (9 December 2019)</a></td>
     </tr>
     <tr>
       <th id="it21">Italian</th>
