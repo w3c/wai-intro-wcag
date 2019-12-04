@@ -7,7 +7,7 @@ nav_title: "Translations"
 description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
 
 lang: en
-last_updated: 2019-06-12
+last_updated: 2019-12-03
 permalink: /standards-guidelines/wcag/translations/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 17 September 2019. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 3 December 2019. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -67,12 +67,12 @@ Two types of translations are listed on this page:
     <tr>
       <th id="zh21">Chinese (Simplified and Traditional)</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
-      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0039.html">notification of draft Traditional Chinese unofficial translation of WCAG 2.1 (30 May 2019)</a></td>
+      <td></td>
     </tr>
     <tr>
       <th id="fi21">Finnish</th>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-fi/">Finnish Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0047.html">notification of intent for Finnish Authorized Translation of WCAG 2.1 (11 June 2019)</a></td>
     </tr>
     <tr>
       <th id="fr21">French</th>
@@ -86,8 +86,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="nl21">Dutch</th>
-      <td>&nbsp;</td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0034.html">notification of intent for Dutch Authorized Translation of WCAG 2.1 (19 May 2019)</a></td>
+      <td><a href="https://bartimeus-accessibility.github.io/wcag/translations/WCAG21NL-CAT-20191125/">Dutch Candidate Authorized Translation of WCAG 2.1</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019OctDec/0009.html">Review Period for Dutch Authorized Translation of WCAG 2.1 (9 December 2019)</a></td>
     </tr>
     <tr>
       <th id="it21">Italian</th>
@@ -135,47 +135,47 @@ Two types of translations are listed on this page:
      <tr>
         <th><a name="be" id="be">Belarusian</a></th>
         <td><a href="http://www.fatcow.com/resources/wai-be.html">Belarusian unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="ca" id="ca">Catalan</a></th>
         <td><a href="http://www.w3.org/Translations/WCAG20-ca/"><strong>Catalan Authorized Translation of WCAG 2.0 completed</strong></a></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="zh" id="zh">Chinese (Simplified)</a></th>
         <td><strong><a href="http://www.w3.org/translations/wcag20-zh/">Simplified Chinese Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="hr" id="hr">Croatian</a></th>
-        <td>-</td>
+        <td></td>
         <td>Unofficial translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2009OctDec/0188.html">notification of intent for Croatian unofficial translation of WCAG 2.0 (20 November 2009)</a></td>
      </tr>
      <tr>
         <th><a name="cs" id="cs">Czech</a></th>
-        <td>-</td>
+        <td></td>
         <td>Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2010OctDec/0022.html">launch of Czech Authorized Translation of WCAG 2.0 (15 October 2010)</a></td>
      </tr>
      <tr>
         <th><a name="da" id="da">Danish</a></th>
         <td><strong><a href="http://www.w3.org/Translations/WCAG20-da/">Danish Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="nl" id="nl">Dutch</a></th>
         <td><strong><a href="http://www.w3.org/Translations/WCAG20-nl/">Dutch Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="et" id="et">Estonian</a></th>
         <td><strong><a href="http://www.w3.org/Translations/WCAG20-et/">Estonian Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="fi" id="fi">Finnish</a></th>
         <td><strong><a href="http://www.w3.org/Translations/WCAG20-fi/">Finnish Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="fr" id="fr">French</a></th>
@@ -193,30 +193,29 @@ Two types of translations are listed on this page:
      <!--
      <tr>
         <th><a name="el" id="el">Greek</a></th>
-        <td>-</td>
+        <td></td>
         <td>on-going discussion with potential translators</td>
      </tr>
      -->
      <tr>
         <th><a name="il" id="il">Hebrew</a></th>
         <td><a href="http://www.isoc.org.il/w3c-wai/guidelines.html">Hebrew unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="hi" id="hi">Hindi</a></th>
-        <td>-</td>
+        <td></td>
         <td>Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2009AprJun/0147.html">notification of intent for Hindi Authorized Translation of WCAG 2.0 (21 May 2009)</a></td>
      </tr>
      <tr>
         <th><a name="hu" id="hu">Hungarian</a></th>
         <td><a href="http://www.w3c.hu/forditasok/WCAG20/">Hungarian unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th><a name="it" id="it">Italian</a></th>
         <td><strong><a href="http://www.w3.org/Translations/WCAG20-it/">Italian Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td><!--// <a href="@@@">Italian Authorized Translation of <strong>Understanding WCAG 2.0</strong> in progress (@@ January 2010)</a>//-->
-           -</td>
+        <td><!--// <a href="@@@">Italian Authorized Translation of <strong>Understanding WCAG 2.0</strong> in progress (@@ January 2010)</a>//--></td>
      </tr>
      <tr>
         <th><a name="ja" id="ja">Japanese</a></th>
@@ -235,13 +234,13 @@ Two types of translations are listed on this page:
      </tr>
      <tr>
         <th><a name="mk" id="mk">Macedonian</a></th>
-        <td>-</td>
+        <td></td>
         <td>Authorized Translation — notification of intent for Macedonian Authorized Translation of WCAG 2.0</td>
      </tr>
      <tr>
         <th><a name="no" id="no">Norwegian</a></th>
         <td><strong><a href="http://www.w3.org/Translations/WCAG20-no/">Norwegian Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th class="changed"><a name="pl" id="pl">Polish</a></th>
@@ -263,13 +262,13 @@ Two types of translations are listed on this page:
      </tr>
      <tr>
         <th><a name="ro" id="ro">Romanian</a></th>
-        <td>-</td>
+        <td></td>
         <td>Unofficial translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0031.html">notification of intent for Romanian unofficial translation of WCAG 2.0 (20 January 2010)</a></td>
      </tr>
      <tr>
         <th><a name="ru" id="ru">Russian</a></th>
         <td><strong><a href="http://www.w3.org/Translations/WCAG20-ru/">Russian Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td>-</td>
+        <td></td>
      </tr>
      <tr>
         <th class="changed"><a name="es" id="es">Spanish</a></th>
@@ -284,7 +283,7 @@ Two types of translations are listed on this page:
      <tr>
         <th><a name="se" id="se">Swedish</a></th>
         <td><strong><a href="http://www.w3.org/Translations/WCAG20-sv/">Swedish Authorized Translation of WCAG 2.0 completed</a></strong></td>
-        <td>-</td>
+        <td></td>
      </tr>
   </tbody>
 
