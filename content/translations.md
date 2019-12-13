@@ -23,7 +23,6 @@ ref: /standards-guidelines/wcag/translations/
 
 ---
 
-
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
@@ -138,7 +137,7 @@ Two types of translations are listed on this page:
      </tr>
      <tr>
         <th><a name="be" id="be">Belarusian</a></th>
-        <td><a href="http://www.fatcow.com/resources/wai-be.html">Belarusian unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
+        <td><a href="http://www.fatcow.com/resources/wai-be.html">Belarusian unofficial translation of WCAG 2.0 {% include_cached external.html %}</a></td>
         <td></td>
      </tr>
      <tr>
@@ -200,7 +199,7 @@ Two types of translations are listed on this page:
      -->
      <tr>
         <th><a name="il" id="il">Hebrew</a></th>
-        <td><a href="http://www.isoc.org.il/w3c-wai/guidelines.html">Hebrew unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
+        <td><a href="http://www.isoc.org.il/w3c-wai/guidelines.html">Hebrew unofficial translation of WCAG 2.0 {% include_cached external.html %}</a></td>
         <td></td>
      </tr>
      <tr>
@@ -210,7 +209,7 @@ Two types of translations are listed on this page:
      </tr>
      <tr>
         <th><a name="hu" id="hu">Hungarian</a></th>
-        <td><a href="http://www.w3c.hu/forditasok/WCAG20/">Hungarian unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
+        <td><a href="http://www.w3c.hu/forditasok/WCAG20/">Hungarian unofficial translation of WCAG 2.0 {% include_cached external.html %}</a></td>
         <td></td>
      </tr>
      <tr>
@@ -220,12 +219,12 @@ Two types of translations are listed on this page:
      </tr>
      <tr>
         <th><a name="ja" id="ja">Japanese</a></th>
-        <td><a href="http://waic.jp/docs/WCAG20/Overview.html">Japanese unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
+        <td><a href="http://waic.jp/docs/WCAG20/Overview.html">Japanese unofficial translation of WCAG 2.0 {% include_cached external.html %}</a></td>
         <td>Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0198.html">notification of intent for Japanese Authorized Translation of WCAG 2.0 (22 March 2009)</a></td>
      </tr>
      <tr>
         <th><a name="ko" id="ko">Korean</a></th>
-        <td><a href="http://archi.ssu.ac.kr/WCAG20/">Korean unofficial translation of WCAG 2.0 completed {% include_cached external.html %}</a></td>
+        <td><a href="http://archi.ssu.ac.kr/WCAG20/">Korean unofficial translation of WCAG 2.0 {% include_cached external.html %}</a></td>
         <td>Authorized Translation — <a href="http://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0077.html">notification of intent for Korean Authorized Translation of WCAG 2.0 (30 January 2009)</a></td>
      </tr>
      <tr>
@@ -251,12 +250,12 @@ Two types of translations are listed on this page:
      </tr>
      <tr>
        <th><a name="pt-BR" id="pt-BR">Portuguese, Brazilian</a></th>
-       <td><strong><a href="https://www.w3.org/Translations/WCAG20-pt-BR/">Brazilian Portuguese Authorized Translation of WCAG 2.0</a></strong></td>
+       <td><strong><a href="https://www.w3.org/Translations/WCAG20-pt-BR/">Brazilian Portuguese Authorized Translation of WCAG 2.0 completed</a></strong></td>
        <td></td>
      </tr>
      <tr>
         <th><a name="pt-PT" id="pt-PT">Portuguese, European</a></th>
-        <td><strong><a href="https://www.w3.org/Translations/WCAG20-pt-PT/">European Portuguese Authorized Translation of WCAG 2.0</a></strong></td>
+        <td><strong><a href="https://www.w3.org/Translations/WCAG20-pt-PT/">European Portuguese Authorized Translation of WCAG 2.0 completed</a></strong></td>
         <td><ul>
               <li><a href="http://www.acesso.umic.pt/w3/TR/UNDERSTANDING-WCAG20/">Portuguese unofficial translation for <strong>Understanding WCAG 2.0</strong> completed {% include_cached external.html %}</a></li>
               <li><a href="http://www.acesso.umic.pt/w3/TR/WCAG20-TECHS/">Portuguese unofficial translation for <strong>Techniques for WCAG 2.0</strong> completed {% include_cached external.html %}</a></li>
