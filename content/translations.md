@@ -96,6 +96,11 @@ Two types of translations are listed on this page:
       <td></td>
     </tr>
     <tr>
+      <th id="kr21">Korean</th>
+      <td><a href="http://www.kwacc.or.kr/WAI/wcag21/">Korean unofficial translation of WCAG 2.1  {% include_cached external.html %}</a></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
       <th id="pt21">Portuguese, Brazilian</th>
       <td></td>
       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0026.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.1 (25 June 2018)</a></td>      
