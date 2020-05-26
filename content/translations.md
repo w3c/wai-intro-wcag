@@ -86,8 +86,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="nl21">Dutch</th>
-      <td><a href="https://bartimeus-accessibility.github.io/wcag/translations/WCAG21NL-CAT-20191125/">Dutch Candidate Authorized Translation of WCAG 2.1</a></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019OctDec/0009.html">Review Period for Dutch Authorized Translation of WCAG 2.1 (9 December 2019)</a></td>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-nl/">Dutch Authorized Translation of WCAG 2.1 completed</a></strong></td>
+      <td></td>
     </tr>
     <tr>
       <th id="it21">Italian</th>
