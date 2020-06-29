@@ -1,7 +1,7 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "W3C Web Content Accessibility Guidelines 2 Conformance Logos"
+title: "Adding WCAG Conformance Logos"
 nav_title: "Conformance Logos"
 
 description: W3C WAI provides conformance logos for websites that meet Web Content Accessibility Guidelines (WCAG) 2.
