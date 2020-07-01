@@ -89,15 +89,15 @@ WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate o
 
 ## What's next for WCAG? What about “Silver”? {#next}
 
-The Accessibility Guidelines Working Group (AG WG) is developing WCAG 2.2 in 2020. The structure and content of WCAG 2.2 is the same as 2.1 and 2.0. Version 2.2 will include new accessibility requirements, called “success criteria”. You can review proposed additional success criteria in the [in-progress, unpublished “Editors’ Draft” of WCAG 2.3](https://w3c.github.io/wcag/guidelines/22/).
+The Accessibility Guidelines Working Group (AG WG) is developing WCAG 2.2 in 2020. The structure and content of WCAG 2.2 is the same as 2.1 and 2.0. Version 2.2 will include new accessibility requirements, called “success criteria”. You can review proposed additional success criteria in the [in-progress, unpublished “Editors’ Draft” of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/).
 
-AG WG is currently not planning to publish another version of WCAG 2, that is, not do a WCAG 2.3 — although that might change.
+AG WG has not decided whether or not to do another version of WCAG 2 (WCAG 2.3).
 
 AG WG is working on a different accessibility standard that is broader than web content. It was previously temporarily referred to as “Silver”. In-progress, un-approved [requirements for the new standard](https://w3c.github.io/silver/requirements/) are available. The new standard is expected after 2022.
 
 Naming: The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. After considerable consideration, this name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
 
-We will announce when more information is available on WCAG 2.3 and WCAG 3.0. To get announcements of updated drafts for review in e-mail, tweets, and RSS, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
+We will announce when more information is available on WCAG 2.2 and WCAG 3.0. To get announcements of updated drafts for review in e-mail, tweets, and RSS, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
 ## Does WCAG 2 address mobile accessibility? {#mobile}
 
