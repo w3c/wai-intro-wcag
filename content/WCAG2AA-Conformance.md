@@ -1,5 +1,5 @@
 ---
-title: "Web Content Accessibility Guidelines (WCAG) 2 Level AA Conformance"
+title: "Web Content Accessibility Guidelines (WCAG) 2<br>Level AA Conformance"
 permalink: /WCAG2AA-Conformance
 ref: /WCAG2AA-Conformance
 lang: en
@@ -7,6 +7,7 @@ github:
   repository: wai-intro-wcag
   path: content/WCAG2AA-Conformance.md
 layout: default
+class: tight-page
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 13 July 2020.</p>
