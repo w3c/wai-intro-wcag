@@ -15,7 +15,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 12 May 2020. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 4 August 2020. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -307,6 +307,6 @@ For information on translating W3C documents, see:
 * [Translating WAI Resources](/about/translating/) for accessibility resources
 * [Contributing to W3C Translations](http://www.w3.org/Consortium/Translation/) for W3C Technical Reports
 
-**Note:** If you are interested in translating a specific document, you should announce it (as instructed in the links above) to facilitate collaboration and to avoid duplication of effort.
+**Note:** If you are interested in translating a specific document, make sure to announce it (as instructed in the links above) to facilitate collaboration, to avoid duplication of effort, to ensure that you have the latest version, and to appropriately address pending updates and errata.
 
 For additional information about WCAG translations, contact Shadi Abou-Zahra <shadi@w3.org>.
