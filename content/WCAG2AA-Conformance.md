@@ -7,7 +7,7 @@ lang: en
 github:
   repository: wai-intro-wcag
   path: content/WCAG2AA-Conformance.md
-layout: default
+layout: minimal
 class: tight-page
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
