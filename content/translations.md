@@ -297,11 +297,17 @@ Two types of translations are listed on this page:
 
 ## More Information
 
+### About WCAG
+
 For information on WCAG, see the [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/).
+
+### Other Translations
 
 For other translations lists, see:
 * **[All WAI Translations](https://www.w3.org/WAI/translations/)** for translations of other accessibility resources
 * **[Translations of Current W3C Technical Reports](https://www.w3.org/Translations/)**
+
+### About Translating
 
 For information on translating W3C documents, see:
 * [Translating WAI Resources](/about/translating/) for accessibility resources
@@ -309,4 +315,4 @@ For information on translating W3C documents, see:
 
 **Note:** If you are interested in translating a specific document, make sure to announce it (as instructed in the links above) to facilitate collaboration, to avoid duplication of effort, to ensure that you have the latest version, and to appropriately address pending updates and errata.
 
-For additional information about WCAG translations, contact Shadi Abou-Zahra <shadi@w3.org>.
+For additional information on WCAG translations, contact Shadi Abou-Zahra <shadi@w3.org>.
