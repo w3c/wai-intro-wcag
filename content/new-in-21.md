@@ -246,7 +246,7 @@ Make all functionality available from a keyboard.
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.</q><br/>
-      <em>Note: </em>There was a shortcut key for delete that was triggered by something he was saying, and no way to turn off the shortcut  keys.</span></p></li>
+      <em>Note: </em>There was a shortcut key for delete that was triggered by something the reporter was saying, and no way to turn off the shortcut  keys.</span></p></li>
     <li><p><span class="issue">Works well:</span><span><q>In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.</q></span></p></li>
   </ul>
 </div>
