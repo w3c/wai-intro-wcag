@@ -7,7 +7,7 @@ nav_title: "FAQ"
 description: Answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG).
 
 lang: en
-last_updated: 2020-06-30
+last_updated: 2020-08-05
 permalink: /standards-guidelines/wcag/faq/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 20 June 2020. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 5 August 2020. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -27,7 +27,7 @@ permalink: /standards-guidelines/wcag/faq/
 {:/}
 
 This page answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG). Let us know what <a href="#more">other questions</a> you have.<br>
-~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 30 June 2020</em>
+~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 5 August 2020</em>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -95,7 +95,8 @@ AG WG has not decided whether or not to do another version of WCAG 2 (WCAG 2.3).
 
 AG WG is working on a different accessibility standard that is broader than web content. It was previously temporarily referred to as “Silver”. In-progress, un-approved [requirements for the new standard](https://w3c.github.io/silver/requirements/) are available. The new standard is expected after 2022.
 
-Naming: The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. After considerable consideration, this name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
+{#wcag3name}
+**WCAG 3.0 Name:** The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
 
 We will announce when more information is available on WCAG 2.2 and WCAG 3.0. To get announcements of updated drafts for review in e-mail, tweets, and RSS, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
