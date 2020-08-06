@@ -95,8 +95,11 @@ AG WG has not decided whether or not to do another version of WCAG 2 (WCAG 2.3).
 
 AG WG is working on a different accessibility standard that is broader than web content. It was previously temporarily referred to as “Silver”. In-progress, un-approved [requirements for the new standard](https://w3c.github.io/silver/requirements/) are available. The new standard is expected after 2022.
 
-{#wcag3name}
-**WCAG 3.0 Name:** The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
+### WCAG 3.0 Name {#wcag3name}
+
+The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
+
+### Get Updates
 
 We will announce when more information is available on WCAG 2.2 and WCAG 3.0. To get announcements of updated drafts for review in e-mail, tweets, and RSS, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
 
