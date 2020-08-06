@@ -7,7 +7,7 @@ nav_title: "Conformance Logos"
 description: W3C WAI provides conformance logos for websites that meet Web Content Accessibility Guidelines (WCAG) 2.
 
 lang: en
-last_updated: 2020-06-29
+last_updated: 2020-08-06
 permalink: /standards-guidelines/wcag/conformance-logos/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/conformance-logos-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 29 June 2020.</p>
+  <p><strong>Date:</strong> Updated 6 August 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>.
   <p>Developed with input from the Accessibility Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/conformance-logos/
@@ -62,7 +62,7 @@ Place the icon for the appropriate conformance level using the HTML source code 
 
 ### WCAG 2.1
 
-#### WCAG 2.1 Level A Conformance {#21A}
+#### WCAG 2.1 Level A Conformance
 
 Put the following HTML markup in your page:
 
@@ -78,7 +78,7 @@ Put the following HTML markup in your page:
 
 If you would like to use the blue logo, append "-blue" to the image src.
 
-#### WCAG 2.1 Level AA Conformance {#21AA}
+#### WCAG 2.1 Level AA Conformance
 
 Put the following HTML markup in your page:
 
@@ -94,7 +94,7 @@ Put the following HTML markup in your page:
 
 If you would like to use the blue logo, append "-blue" to the image src.
 
-#### WCAG 2.1 Level AAA Conformance {#21AAA}
+#### WCAG 2.1 Level AAA Conformance
 
 Put the following HTML markup in your page:
 
@@ -112,7 +112,7 @@ If you would like to use the blue logo, append "-blue" to the image src.
 
 ### WCAG 2.0
 
-#### WCAG 2.0 Level A Conformance {#20A}
+#### WCAG 2.0 Level A Conformance
 
 Put the following HTML markup in your page:
 
@@ -128,7 +128,7 @@ Put the following HTML markup in your page:
 
 If you would like to use the blue logo, append "-blue" to the image src.
 
-#### WCAG 2.0 Level AA Conformance {#20AA}
+#### WCAG 2.0 Level AA Conformance
 
 Put the following HTML markup in your page:
 
@@ -144,7 +144,7 @@ Put the following HTML markup in your page:
 
 If you would like to use the blue logo, append "-blue" to the image src.
 
-#### WCAG 2.0 Level AAA Conformance {#20AAA}
+#### WCAG 2.0 Level AAA Conformance
 
 Put the following HTML markup in your page:
 
