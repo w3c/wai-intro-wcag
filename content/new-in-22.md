@@ -49,6 +49,7 @@ inline_css: |
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
 ref: /standards-guidelines/wcag/new-in-21/
+
 ---
 
 {::nomarkdown}
@@ -86,18 +87,14 @@ WCAG 2.2 provides 9 additional success criteria, included on this page.
 
 In WCAG 2.2, success criteria @@.@@.@@ is changed from Level AA to Level A.
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+## Guideline 2.4 Navigable
 
-### 0.0.0 @@ (A@@)
+Provide ways to help users navigate, find content, and determine where they are.
+
+### 2.4.11 @@ (A@@)
 
 <blockquote class="sc">
-  <p>@@</p>
-  <dl>
-    <dt>@@</dt>
-    <dd>@@</dd>
-    <dt>@@</dt>
-    <dd>@@</dd>
-  </dl>
+@@
 </blockquote>
 <p class="persona">@@:</p>
 <div class="quotes">
@@ -108,27 +105,140 @@ In WCAG 2.2, success criteria @@.@@.@@ is changed from Level AA to Level A.
 </div>
 <p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+### 2.4.12 @@ (A@@)
 
-## Guideline 2.4 Navigable
+<blockquote class="sc">
+  <p>@@</p>
+</blockquote>
+<p class="persona">@@:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
 
-Provide ways to help users navigate, find content, and determine where they are.
+### 2.4.13 @@ (A@@)
+
+<blockquote class="sc">
+  <p>@@</p>
+</blockquote>
+<p class="persona">@@:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
 
 ## Guideline 2.5 Input Modalities
 
 Make it easier for users to operate functionality through various inputs beyond keyboard.
 
+### 2.5.7 @@ (A@@)
+
+<blockquote class="sc">
+  <p>@@</p>
+</blockquote>
+<p class="persona">@@:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
+
+### 2.5.8 @@ (A@@)
+
+<blockquote class="sc">
+  <p>@@</p>
+</blockquote>
+<p class="persona">@@:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
+
 ## Guideline 3.2 Predictable
 
 Make Web pages appear and operate in predictable ways.
 
+### 3.2.6 @@ (A@@)
+
+<blockquote class="sc">
+  <p>@@</p>
+</blockquote>
+<p class="persona">@@:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
+
+### 3.2.7 @@ (A@@)
+
+<blockquote class="sc">
+  <p>@@</p>
+</blockquote>
+<p class="persona">@@:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
+
 ## Guideline 3.3 Input Assistance
 
 Help users avoid and correct mistakes.
+
+### 3.3.7 @@ (A@@)
+
+<blockquote class="sc">
+  <p>@@</p>
+</blockquote>
+<p class="persona">@@:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
+
+### 3.3.8 Redundant Entry (A)
+
+<blockquote class="sc">
+<p>For steps in a <a href="#dfn-process">process</a>, information previously entered by or provided to the user that is required on subsequent steps is either:</p>
+<ul>
+  <li>auto-populated, or</li>
+  <li>available for the user to select.</li>
+</ul>
+<p>Exception: When re-entering the information is <a href="#dfn-essential">essential</a>.</p>
+<p class="note">Security verification, such as repeating a password, is considered essential.</p>
+<p class="note">Editors' note: Are there issues storing the data so a user can access it in subsequent steps?</p>
+<p class="note">Editors' note: Are there broader exceptions needed than essential? E.g. for mandated or required information re-entry.</p>
+</blockquote>
+<p class="persona">@@:</p>
+<div class="quotes">
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/@@">Understanding @@</a></p>
 
 ## About the Personas Quotes
 
 The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities. We might add more in the future.
 
 We plan to add these to the Understanding documents.
-
