@@ -49,38 +49,33 @@ inline_css: |
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
   /* @@@@@@@@@@@@@ delete or update below when done */
-  div.issue-title, div.note-title , div.ednote-title, div.warning-title {
+  div.note-title , div.ednote-title, div.warning-title {
       padding-right:  1em;
       min-width: 7.5em;
       color: #b9ab2d;
   }
-  div.issue-title { color: #e05252; }
   div.note-title, div.ednote-title { color: #2b2; }
   div.warning-title { color: #f22; }
-  div.issue-title span, div.note-title span, div.ednote-title span, div.warning-title span {
+  div.note-title span, div.ednote-title span, div.warning-title span {
       text-transform: uppercase;
   }
-  div.note, div.issue, div.ednote, div.warning {
+  div.note, div.ednote, div.warning {
       margin-top: 1em;
       margin-bottom: 1em;
   }
-  .note > p:first-child, .ednote > p:first-child, .issue > p:first-child, .warning > p:first-child { margin-top: 0 }
-  .issue, .note, .ednote, .warning {
+  .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
+  .note, .ednote, .warning {
       padding: .5em;
       border-left-width: .5em;
       border-left-style: solid;
   }
-  div.issue, div.note , div.ednote,  div.warning {
+  div.note , div.ednote,  div.warning {
       padding: 1em 1.2em 0.5em;
       margin: 1em 0;
       position: relative;
       clear: both;
   }
-  span.note, span.ednote, span.issue, span.warning { padding: .1em .5em .15em; }
-  .issue {
-      border-color: #e05252;
-      background: #fbe9e9;
-  }
+  span.note, span.ednote, span.warning { padding: .1em .5em .15em; }
   .note, .ednote {
       border-color: #52e052;
       background: #e9fbe9;
