@@ -1,8 +1,8 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "What's New in WCAG 2.2 Working Draft"
-title_html: "What's New in WCAG 2.2 Working Draft<br><em>Status: This page is an in-progress draft.</em>"
+title: "What’s New in WCAG 2.2 Working Draft"
+title_html: "What’s New in WCAG 2.2 Working Draft<br>[status: This page is an in-progress draft.] "
 nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2020-12-31
+last_updated: 2020-08-11
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Status: Incomplete draft.</strong> <em>(@@To Do: personas and quotes; correct links to definitions & published understanding, …)</em></p>
+  <p><strong>Status: Incomplete draft.</strong></p>
   <!--
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra...</p>
   -->
@@ -134,7 +134,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 <blockquote class="sc">
   <p>For the keyboard focus indicator of each User Interface Component, all of the following are true:</p>
   <ul>
-    <li><strong>Minimum area:</strong> The <a href="#dfn-focus-indication-area">focus indication area</a> is greater than or equal to a 1 <a href="#dfn-css-pixel">CSS pixel</a> border of the focused control, or has a thickness of at least 8 CSS pixels along the shortest side of the element.</li>
+    <li><strong>Minimum area:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indication-area">focus indication area</a> is greater than or equal to a 1 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixel">CSS pixel</a> border of the focused control, or has a thickness of at least 8 CSS pixels along the shortest side of the element.</li>
     <li><strong>Change of contrast:</strong> The color change for the focus indication area has a contrast ratio of at least 3:1 with the colors of the unfocused state.</li>
     <li><strong>Adjacent contrast:</strong> The focus indication area has a contrast ratio of at least 3:1 against all adjacent colors for the minimum area or greater, or has a thickness of at least 2 CSS pixels.</li>
     <li><strong>Unobscured:</strong> The item with focus is not entirely hidden by author-created content.</li>
@@ -151,14 +151,14 @@ Provide ways to help users navigate, find content, and determine where they are.
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/focus-appearance-minimum.html">Understanding Focus Appearance (Minimum)</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-minimum.html">Understanding Focus Appearance (Minimum)</a></p>
 
 ### 2.4.12 Focus Appearance (Enhanced) (AAA)
 
 <blockquote class="sc">
   <p>For the keyboard focus indicator of each User Interface Component, all of the following are true:</p>
   <ul>
-    <li><strong>Minimum area:</strong> The <a href="#dfn-focus-indication-area">focus indication area</a> is greater than or equal to a 2 <a href="#dfn-css-pixel">CSS pixel</a> solid border around the control.</li>
+    <li><strong>Minimum area:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indication-area">focus indication area</a> is greater than or equal to a 2 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixel">CSS pixel</a> solid border around the control.</li>
     <li><strong>Change of contrast:</strong> Color changes used to indicate focus have a contrast ratio of at least 4.5:1 with the colors changed from the unfocused control.</li>
     <li><strong>Unobscured:</strong> No part of the focus indicator is hidden by author-created content.</li>
   </ul>
@@ -170,12 +170,12 @@ Provide ways to help users navigate, find content, and determine where they are.
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/focus-appearance-enhanced.html">Understanding Focus Appearance (Enhanced)</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-enhanced">Understanding Focus Appearance (Enhanced)</a></p>
 
 ### 2.4.13 Fixed Reference Points (A)
 
 <blockquote class="sc">
-  <p>When a <a href="#dfn-web-page">web page</a> or <a href="#dfn-set-of-web-pages">set of web pages</a> is an <a href="#">electronic publication</a> with <a href="#">pagebreak locators</a>, a mechanism is available to navigate to each locator and each locator maintains its place in the flow of content, even when the formatting or platform change.</p>
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page">web page</a> or <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a> is an <a href="https://www.w3.org/TR/WCAG22/#dfn-electronic-publications">electronic publication</a> with <a href="https://www.w3.org/TR/WCAG22/#dfn-pagebreak-locator">pagebreak locators</a>, a mechanism is available to navigate to each locator and each locator maintains its place in the flow of content, even when the formatting or platform change.</p>
 </blockquote>
 <p class="persona">@@:</p>
 <div class="quotes">
@@ -184,7 +184,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/fixed-reference-points.html">Understanding Fixed Reference Points</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/fixed-reference-points">Understanding Fixed Reference Points</a></p>
 
 ## Guideline 2.5 Input Modalities
 
@@ -193,7 +193,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 ### 2.5.7 Dragging (AA)
 
 <blockquote class="sc">
-  <p>All functionality that uses a <a href="#dfn-dragging-movement">dragging movement</a> for operation can be operated by a single pointer without dragging, unless dragging is <a href="#dfn-essential">essential</a>.</p>
+  <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movement">dragging movement</a> for operation can be operated by a single pointer without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a>.</p>
   <p class="note">This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
   <p class="ednote">Is there an assistive technology that helps for people with mobility impairments?  The group would like feedback on the frontier between AT &amp; author responsibility.</p>
 </blockquote>
@@ -204,12 +204,12 @@ Make it easier for users to operate functionality through various inputs beyond 
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/dragging.html">Understanding Dragging</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging">Understanding Dragging</a></p>
 
 ### 2.5.8 Pointer Target Spacing (AA)
 
 <blockquote class="sc">
-  <p>For each <a href="#dfn-target">target</a>, there is an area with a width and height of at least 44 CSS pixels that includes it, and no other targets, except when:</p>
+  <p>For each <a href="https://www.w3.org/TR/WCAG22/#dfn-target">target</a>, there is an area with a width and height of at least 44 CSS pixels that includes it, and no other targets, except when:</p>
   <ul>
     <li><strong>Enlarge:</strong> A mechanism is available to change the CSS pixel size of each target, or its spacing, so there is an area with a width and height of at least 44 CSS pixels that includes it, and no other targets;</li>
     <li><strong>Inline:</strong> The target is in a sentence or block of text;</li>
@@ -227,7 +227,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/pointer-target-spacing.html">Understanding Pointer Target Spacing</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/pointer-target-spacing">Understanding Pointer Target Spacing</a></p>
 
 ## Guideline 3.2 Predictable
 
@@ -236,7 +236,7 @@ Make Web pages appear and operate in predictable ways.
 ### 3.2.6 Findable Help (A)
 
 <blockquote class="sc">
-  <p>For <a href="#">single page Web applications</a> or any <a href="#dfn-set-of-web-pages">set of Web pages</a>, if one of the following is available, then access to at least one option is included in the <a href="#dfn-same-relative-order">same relative order</a> on each page:</p>
+  <p>For <a href="https://www.w3.org/TR/WCAG22/#dfn-single-page-web-application">single page Web applications</a> or any <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of Web pages</a>, if one of the following is available, then access to at least one option is included in the <a href="https://www.w3.org/TR/WCAG22/#dfn-same-relative-order">same relative order</a> on each page:</p>
   <ul>
     <li>Human contact details;</li>
     <li>Human contact mechanism;</li>
@@ -252,12 +252,12 @@ Make Web pages appear and operate in predictable ways.
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/findable-help.html">Understanding Findable Help</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/findable-help">Understanding Findable Help</a></p>
 
 ### 3.2.7 Hidden Controls (AA)
 
 <blockquote class="sc">
-  <p>Controls needed to progress or complete a <a href="#dfn-process">process</a> are visible at the time they are needed without requiring pointer hover or keyboard focus, or a mechanism is available to make them persistently visible.</p>
+  <p>Controls needed to progress or complete a <a href="https://www.w3.org/TR/WCAG22/#dfn-process">process</a> are visible at the time they are needed without requiring pointer hover or keyboard focus, or a mechanism is available to make them persistently visible.</p>
 </blockquote>
 <p class="persona">@@:</p>
 <div class="quotes">
@@ -266,7 +266,7 @@ Make Web pages appear and operate in predictable ways.
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/hidden-controls.html">Understanding Hidden Controls</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/hidden-controls">Understanding Hidden Controls</a></p>
 
 ## Guideline 3.3 Input Assistance
 
@@ -275,7 +275,7 @@ Help users avoid and correct mistakes.
 ### 3.3.7 Accessible Authentication (A)
 
 <blockquote class="sc">
-  <p> If an authentication process relies on a <a href="#dfn-cognitive-function-test">cognitive function test</a>, at least one other method must also be available that does not rely on a cognitive function test.</p>
+  <p> If an authentication process relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other method must also be available that does not rely on a cognitive function test.</p>
 </blockquote>
 <p class="persona">@@:</p>
 <div class="quotes">
@@ -284,17 +284,17 @@ Help users avoid and correct mistakes.
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/accessible-authentication.html">Understanding Accessible Authentication</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
 
 ### 3.3.8 Redundant Entry (A)
 
 <blockquote class="sc">
-<p>For steps in a <a href="#dfn-process">process</a>, information previously entered by or provided to the user that is required on subsequent steps is either:</p>
+<p>For steps in a <a href="https://www.w3.org/TR/WCAG22/#dfn-process">process</a>, information previously entered by or provided to the user that is required on subsequent steps is either:</p>
 <ul>
   <li>auto-populated, or</li>
   <li>available for the user to select.</li>
 </ul>
-<p>Exception: When re-entering the information is <a href="#dfn-essential">essential</a>.</p>
+<p>Exception: When re-entering the information is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a>.</p>
 <p class="note">Security verification, such as repeating a password, is considered essential.</p>
 <p class="note">Editors' note: Are there issues storing the data so a user can access it in subsequent steps?</p>
 <p class="note">Editors' note: Are there broader exceptions needed than essential? E.g. for mandated or required information re-entry.</p>
@@ -306,7 +306,7 @@ Help users avoid and correct mistakes.
     <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://w3c.github.io/wcag/understanding/redundant-entry.html">Understanding Redundant Entry</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry">Understanding Redundant Entry</a></p>
 
 ## About the Personas Quotes
 
