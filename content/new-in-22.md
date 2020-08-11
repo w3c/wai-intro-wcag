@@ -2,6 +2,7 @@
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
 title: "[DRAFT] What’s New in WCAG 2.2"
+html_title: "[DRAFT] - What’s New in WCAG 2.2<br><em>WCAG 2.2 is a Working Draft and the wording below is not finalized.</em>"
 nav_title: "DRAFT - New in 2.2"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
