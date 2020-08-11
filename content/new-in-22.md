@@ -2,7 +2,7 @@
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
 title: "What’s New in WCAG 2.2 Working Draft"
-title_html: "What’s New in WCAG 2.2 Working Draft<br>[status: This page is an in-progress draft.] "
+title_html: "What’s New in WCAG 2.2 Working Draft<br><em>[Status: This page is an in-progress draft.]</em>"
 nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Status: Incomplete draft.</strong></p>
+  <p><strong>Status: Incomplete draft.</strong> (In-progress draft persona quotea are in the <strong>[Editors' Draft Preview](https://deploy-preview-53--wai-intro-wcag.netlify.app/standards-guidelines/wcag/new-in-22/)</strong>.)</p>
   <!--
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra...</p>
   -->
@@ -132,7 +132,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 ### 2.4.11 Focus Appearance (Minimum) (AA)
 
 <blockquote class="sc">
-  <p>For the keyboard focus indicator of each User Interface Component, all of the following are true:</p>
+  <p>For the keyboard focus indicator of each User interface component, all of the following are true:</p>
   <ul>
     <li><strong>Minimum area:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indication-area">focus indication area</a> is greater than or equal to a 1 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixel">CSS pixel</a> border of the focused control, or has a thickness of at least 8 CSS pixels along the shortest side of the element.</li>
     <li><strong>Change of contrast:</strong> The color change for the focus indication area has a contrast ratio of at least 3:1 with the colors of the unfocused state.</li>
@@ -156,7 +156,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 ### 2.4.12 Focus Appearance (Enhanced) (AAA)
 
 <blockquote class="sc">
-  <p>For the keyboard focus indicator of each User Interface Component, all of the following are true:</p>
+  <p>For the keyboard focus indicator of each User interface component, all of the following are true:</p>
   <ul>
     <li><strong>Minimum area:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indication-area">focus indication area</a> is greater than or equal to a 2 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixel">CSS pixel</a> solid border around the control.</li>
     <li><strong>Change of contrast:</strong> Color changes used to indicate focus have a contrast ratio of at least 4.5:1 with the colors changed from the unfocused control.</li>
@@ -312,4 +312,4 @@ Help users avoid and correct mistakes.
 
 The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities. We might add more in the future.
 
-We plan to add these to the Understanding documents.
+We plan to add these to the Understanding WCAG documents.
