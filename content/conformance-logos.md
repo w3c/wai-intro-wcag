@@ -102,7 +102,7 @@ Put the following HTML markup in your page:
 <a href="https://www.w3.org/WAI/WCAG2AAA-Conformance"
    title="Explanation of WCAG 2 Level AAA conformance">
   <img height="32" width="88"
-       src=" https://www.w3.org/WAI/WCAG21/wcag2.1AA-v"
+       src=" https://www.w3.org/WAI/WCAG21/wcag2.1AAA-v"
        alt="Level AAA conformance,
             W3C WAI Web Content Accessibility Guidelines 2.1">
 </a>
