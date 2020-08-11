@@ -1,9 +1,9 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "[DRAFT] What’s New in WCAG 2.2"
-html_title: "[DRAFT] - What’s New in WCAG 2.2<br><em>WCAG 2.2 is a Working Draft and the wording below is not finalized.</em>"
-nav_title: "DRAFT - New in 2.2"
+title: "What's New in WCAG 2.2 Working Draft"
+title_html: "What's New in WCAG 2.2 Working Draft<br><em>Status: This page is an in-progress draft.</em>"
+nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 
@@ -17,9 +17,10 @@ github:
   repository: w3c/wai-intro-wcag
   path: 'content/new-in-22.md'
 
+feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Status: Incomplete draft.</strong></p>
+  <p><strong>Status: Incomplete draft.</strong> <em>(@@To Do: personas and quotes; correct links to definitions & published understanding, …)</em></p>
   <!--
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra...</p>
   -->
@@ -91,7 +92,7 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2.
+This page lists the **proposed** new success criteria in the **Working Draft** of Web Content Accessibility Guidelines (WCAG) 2.2.
 
 **It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
@@ -118,9 +119,11 @@ For an introduction to Web Content Accessibility Guidelines (WCAG) and more abou
 
 All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2.
 
-WCAG 2.2 provides 9 additional success criteria, included on this page.
+WCAG 2.2 Working Draft provides 9 additional success criteria, included on this page.
 
 In WCAG 2.2, success criteria **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA to Level A**.
+
+<em>To comment:</em> Please submit any comments on these new proposed success criteria by 18 September 2020. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
 ## Guideline 2.4 Navigable
 
