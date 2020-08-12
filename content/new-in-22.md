@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Status: Incomplete draft.</strong> (In-progress draft persona quotea are in the <strong>[Editors' Draft Preview](https://deploy-preview-53--wai-intro-wcag.netlify.app/standards-guidelines/wcag/new-in-22/)</strong>.)</p>
+  <p><strong>Status: Incomplete draft.</strong> (In-progress draft persona quotes are in the <strong><a href=”https://deploy-preview-53--wai-intro-wcag.netlify.app/standards-guidelines/wcag/new-in-22/>Editors' Draft Preview</a></strong>.)</p>
   <!--
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra...</p>
   -->
@@ -119,11 +119,11 @@ For an introduction to Web Content Accessibility Guidelines (WCAG) and more abou
 
 All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2.
 
-WCAG 2.2 Working Draft provides 9 additional success criteria, included on this page.
+WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page.
 
 In WCAG 2.2, success criteria **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA to Level A**.
 
-<em>To comment:</em> Please submit any comments on these new proposed success criteria by 18 September 2020. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+<em>To comment of the WCAG Working Draft:</em> Please submit any comments on these new proposed success criteria by 18 September 2020. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
 ## Guideline 2.4 Navigable
 
@@ -144,7 +144,7 @@ Provide ways to help users navigate, find content, and determine where they are.
  is taken from the visible boundary.</p>
   <p class="ednote">The working group is interested in feedback about the minimum area metric, and if there are unusual scenarios where visible indicators are caught by the wording.</p>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
@@ -163,7 +163,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     <li><strong>Unobscured:</strong> No part of the focus indicator is hidden by author-created content.</li>
   </ul>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
@@ -177,7 +177,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page">web page</a> or <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a> is an <a href="https://www.w3.org/TR/WCAG22/#dfn-electronic-publications">electronic publication</a> with <a href="https://www.w3.org/TR/WCAG22/#dfn-pagebreak-locator">pagebreak locators</a>, a mechanism is available to navigate to each locator and each locator maintains its place in the flow of content, even when the formatting or platform change.</p>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
@@ -197,7 +197,7 @@ Make it easier for users to operate functionality through various inputs beyond 
   <p class="note">This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
   <p class="ednote">Is there an assistive technology that helps for people with mobility impairments?  The group would like feedback on the frontier between AT &amp; author responsibility.</p>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
@@ -220,7 +220,7 @@ Make it easier for users to operate functionality through various inputs beyond 
   <p class="note">Are there issues with internationalization when describing inline links?</p>
   <p class="note">Are there issues with pop-over content overlapping targets triggering failures?</p>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
@@ -245,7 +245,7 @@ Make Web pages appear and operate in predictable ways.
   </ul>
   <p class="note">Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information"</p>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
@@ -259,7 +259,7 @@ Make Web pages appear and operate in predictable ways.
 <blockquote class="sc">
   <p>Controls needed to progress or complete a <a href="https://www.w3.org/TR/WCAG22/#dfn-process">process</a> are visible at the time they are needed without requiring pointer hover or keyboard focus, or a mechanism is available to make them persistently visible.</p>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
@@ -277,7 +277,7 @@ Help users avoid and correct mistakes.
 <blockquote class="sc">
   <p> If an authentication process relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other method must also be available that does not rely on a cognitive function test.</p>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
@@ -299,7 +299,7 @@ Help users avoid and correct mistakes.
 <p class="note">Editors' note: Are there issues storing the data so a user can access it in subsequent steps?</p>
 <p class="note">Editors' note: Are there broader exceptions needed than essential? E.g. for mandated or required information re-entry.</p>
 </blockquote>
-<p class="persona">@@:</p>
+<p class=“persona”>@@:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
