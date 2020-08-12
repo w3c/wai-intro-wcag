@@ -243,7 +243,7 @@ Make Web pages appear and operate in predictable ways.
   </ul>
   <p class="note">Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information"</p>
 </blockquote>
-<p class="persona"><a href=“https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant”>Supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step.</q></span></p></li>
@@ -257,7 +257,7 @@ Make Web pages appear and operate in predictable ways.
 <blockquote class="sc">
   <p>Controls needed to progress or complete a <a href="https://www.w3.org/TR/WCAG22/#dfn-process">process</a> are visible at the time they are needed without requiring pointer hover or keyboard focus, or a mechanism is available to make them persistently visible.</p>
 </blockquote>
-<p class="persona"><a href=“https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant”>Supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>I can't tell what options are available. Some buttons appeared when I was mousing around, but now I can't find them.</q></span></p></li>
@@ -275,7 +275,7 @@ Help users avoid and correct mistakes.
 <blockquote class="sc">
   <p> If an authentication process relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other method must also be available that does not rely on a cognitive function test.</p>
 </blockquote>
-<p class="persona"><a href=“https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant”>Supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>I don't understand what they want me to type in or click on to get into this app.</q></span></p></li>
@@ -297,7 +297,7 @@ Help users avoid and correct mistakes.
 <p class="note">Editors' note: Are there issues storing the data so a user can access it in subsequent steps?</p>
 <p class="note">Editors' note: Are there broader exceptions needed than essential? E.g. for mandated or required information re-entry.</p>
 </blockquote>
-<p class="persona"><a href=“https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant”>Supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></p></li>
