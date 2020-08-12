@@ -1,4 +1,5 @@
 ---
+
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
 title: "What’s New in WCAG 2.2 Working Draft"
@@ -50,7 +51,8 @@ inline_css: |
   }
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
-  /* @@@@@@@@@@@@@ delete or update below when done */
+  
+  
   div.note-title , div.ednote-title, div.warning-title {
       padding-right:  1em;
       min-width: 7.5em;
@@ -82,7 +84,6 @@ inline_css: |
       border-color: #52e052;
       background: #e9fbe9;
   }
-  /* @@@@@@@@@@@@@ delete or update above when done */
 
 ref: /standards-guidelines/wcag/new-in-22/
 
