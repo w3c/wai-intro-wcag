@@ -18,7 +18,7 @@ github:
   path: 'content/new-in-22.md'
 
 feedbackmail: wai@w3.org
-image: /content-images/wai-intro-wcag/general-social.jpg
+image: /content-images/wai-intro-wcag/general-social.png
 footer: >
   <p><strong>Status: In-progress draft.</strong></p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
