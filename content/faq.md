@@ -7,7 +7,7 @@ nav_title: "FAQ"
 description: Answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG).
 
 lang: en
-last_updated: 2020-08-05
+last_updated: 2020-08-12
 permalink: /standards-guidelines/wcag/faq/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 5 August 2020. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 12 August 2020. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -27,7 +27,7 @@ permalink: /standards-guidelines/wcag/faq/
 {:/}
 
 This page answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG). Let us know what <a href="#more">other questions</a> you have.<br>
-~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 5 August 2020</em>
+~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 12 August 2020</em>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -87,9 +87,11 @@ To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can u
 
 WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
 
-## What's next for WCAG? What about “Silver”? {#next}
+## What about WCAG 2.2? What about “Silver”? {#next}
 
-The Accessibility Guidelines Working Group (AG WG) is developing WCAG 2.2 in 2020. The structure and content of WCAG 2.2 is the same as 2.1 and 2.0. Version 2.2 will include new accessibility requirements, called “success criteria”. You can review proposed additional success criteria in the [in-progress, unpublished “Editors’ Draft” of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/).
+The Accessibility Guidelines Working Group (AG WG) is developing WCAG 2.2 in 2020, and plans to published the final document in early 2021. The structure and content of WCAG 2.2 is the same as 2.1 and 2.0. Version 2.2 will include new accessibility requirements, called “success criteria”. You can review proposed additional success criteria in the [in-progress “Editors’ Draft” of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/).
+
+**The proposed new WCAG 2.2 success criteria are introduced in [What's New in WCAG 2.2 Working Draft](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).** Please send any comments by 18 September 2020.
 
 AG WG has not decided whether or not to do another version of WCAG 2 (WCAG 2.3).
 
