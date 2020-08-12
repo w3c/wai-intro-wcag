@@ -16,7 +16,7 @@ github:
   repository: w3c/wai-intro-wcag
   path: 'content/new-in-21.md'
 
-image: /content-images/wai-intro-wcag/general-social.jpg
+image: /content-images/wai-intro-wcag/general-social.png
 footer: >
   <p><strong>Date:</strong> Updated 8 April 2019.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
