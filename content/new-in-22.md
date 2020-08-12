@@ -1,8 +1,8 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "What’s New in WCAG 2.2 Working Draft"
-title_html: "What’s New in WCAG 2.2 Working Draft<br><span class="in-resource">[Status: This page is an in-progress draft.]</span>"
+title: "What's New in WCAG 2.2 Working Draft"
+title_html: "What's New in WCAG 2.2 Working Draft<br><em>[Status: This page is an in-progress draft.]</em>"
 nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
@@ -23,7 +23,6 @@ footer: >
   <p><strong>Status: In-progress draft.</strong></p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
-
 inline_css: |
   blockquote {font-style: normal !important;}
   blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
@@ -247,7 +246,7 @@ Make Web pages appear and operate in predictable ways.
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step. Sometimes tehre is a Chat option, but it;s in differene places and hard to find.</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step.</q></span></p></li>
     <li><p><span class="issue">Works well:</span><span><q>When I need help, I can easily find the Chat option that's always in the lower right corner of the page.</q></span></p></li>
   </ul>
 </div>
