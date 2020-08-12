@@ -1,7 +1,5 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
----
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
 title: "What’s New in WCAG 2.2 Working Draft"
 title_html: "What’s New in WCAG 2.2 Working Draft<br><em>[Status: This page is an in-progress draft.]</em>"
@@ -25,6 +23,7 @@ footer: >
   <p><strong>Status: Incomplete draft.</strong> (In-progress draft persona quotes are in the <strong><a href="https://deploy-preview-53--wai-intro-wcag.netlify.app/standards-guidelines/wcag/new-in-22/">Editors' Draft Preview</a></strong>.)</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>, and <a href="https://www.w3.org/groups/tf/cognitive-a11y-tf/participants">Cognitive and Learning Disabilities Accessibility Task Force Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
+  
 inline_css: |
   blockquote {font-style: normal !important;}
   blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
