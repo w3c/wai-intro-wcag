@@ -21,9 +21,10 @@ feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
   <p><strong>Status: Incomplete draft.</strong> (In-progress draft persona quotes are in the <strong><a href="https://deploy-preview-53--wai-intro-wcag.netlify.app/standards-guidelines/wcag/new-in-22/">Editors' Draft Preview</a></strong>.)</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>, and <a href="https://www.w3.org/groups/tf/cognitive-a11y-tf/participants">Cognitive and Learning Disabilities Accessibility Task Force Participants</a>.</p>
+<!--
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
+-->
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
-  
 inline_css: |
   blockquote {font-style: normal !important;}
   blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
@@ -122,7 +123,7 @@ WCAG 2.2 Working Draft provides 9 additional success criteria, that are included
 
 In WCAG 2.2, success criteria **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA to Level A**.
 
-<em>To comment of the WCAG Working Draft:</em> Please submit any comments on these new proposed success criteria by 18 September 2020. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+<em>To comment on the WCAG Working Draft:</em> Please submit any comments on these new proposed success criteria by 18 September 2020. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
 ## Guideline 2.4 Navigable
 
