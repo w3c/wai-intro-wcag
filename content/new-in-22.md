@@ -1,9 +1,8 @@
 ---
-
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "What’s New in WCAG 2.2 Working Draft"
-title_html: "What’s New in WCAG 2.2 Working Draft<br><em>[Status: This page is an in-progress draft.]</em>"
+title: "What's New in WCAG 2.2 Working Draft"
+title_html: "What's New in WCAG 2.2 Working Draft<br><span style='font-style:italic; font-size: 75%;color:#3b3b3b'>[Status: This page is an in-progress draft.]</span>"
 nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
@@ -21,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Status: Incomplete draft.</strong> (In-progress draft persona quotes are in the <strong><a href="https://deploy-preview-53--wai-intro-wcag.netlify.app/standards-guidelines/wcag/new-in-22/">Editors' Draft Preview</a></strong>.)</p>
+  <p><strong>Status: In-progress draft.</strong></p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -143,11 +142,11 @@ Provide ways to help users navigate, find content, and determine where they are.
  is taken from the visible boundary.</p>
   <p class="ednote">The working group is interested in feedback about the minimum area metric, and if there are unusual scenarios where visible indicators are caught by the wording.</p>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I can see where the keyboard focus is as I move around a web page or app.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-minimum.html">Understanding Focus Appearance (Minimum)</a></p>
@@ -162,11 +161,11 @@ Provide ways to help users navigate, find content, and determine where they are.
     <li><strong>Unobscured:</strong> No part of the focus indicator is hidden by author-created content.</li>
   </ul>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I can easily see where the keyboard focus is as I move around a web page or app.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-enhanced">Understanding Focus Appearance (Enhanced)</a></p>
@@ -176,11 +175,11 @@ Provide ways to help users navigate, find content, and determine where they are.
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page">web page</a> or <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a> is an <a href="https://www.w3.org/TR/WCAG22/#dfn-electronic-publications">electronic publication</a> with <a href="https://www.w3.org/TR/WCAG22/#dfn-pagebreak-locator">pagebreak locators</a>, a mechanism is available to navigate to each locator and each locator maintains its place in the flow of content, even when the formatting or platform change.</p>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Student</a> with dyslexia:<br>and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>I increase the text size and spacing in the online textbook. The instructor said: "The activity is on page 37." But it's not on page 37 in my view, and I cannot find it.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I used the page contents list to get to "page 37". (It's actually page 53 in my view — that's OK, I found it.)</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/fixed-reference-points">Understanding Fixed Reference Points</a></p>
@@ -196,11 +195,11 @@ Make it easier for users to operate functionality through various inputs beyond 
   <p class="note">This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
   <p class="ednote">Is there an assistive technology that helps for people with mobility impairments?  The group would like feedback on the frontier between AT &amp; author responsibility.</p>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>When I click on an item in the list, I get up and down arrows and I can click those to change the order.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging">Understanding Dragging</a></p>
@@ -219,11 +218,11 @@ Make it easier for users to operate functionality through various inputs beyond 
   <p class="note">Are there issues with internationalization when describing inline links?</p>
   <p class="note">Are there issues with pop-over content overlapping targets triggering failures?</p>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>The buttons are so close together, I hit "Cancel" when going for "Submit". Then I have to start all over again.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>There is more space between the buttons so I don't hit the wrong button even when I'm riding on the bumpy bus.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/pointer-target-spacing">Understanding Pointer Target Spacing</a></p>
@@ -244,11 +243,11 @@ Make Web pages appear and operate in predictable ways.
   </ul>
   <p class="note">Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information"</p>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step. I've see a Chat option in some places, but can't find it now.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>When I need help, I can easily find the Chat option that's always in the lower right corner of the page.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/findable-help">Understanding Findable Help</a></p>
@@ -258,11 +257,11 @@ Make Web pages appear and operate in predictable ways.
 <blockquote class="sc">
   <p>Controls needed to progress or complete a <a href="https://www.w3.org/TR/WCAG22/#dfn-process">process</a> are visible at the time they are needed without requiring pointer hover or keyboard focus, or a mechanism is available to make them persistently visible.</p>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>I can't tell what options are available. Some buttons appeared when I was mousing around, but now I can't find them.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>The available buttons are all visible, without me having to mouse around.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/hidden-controls">Understanding Hidden Controls</a></p>
@@ -276,11 +275,11 @@ Help users avoid and correct mistakes.
 <blockquote class="sc">
   <p> If an authentication process relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other method must also be available that does not rely on a cognitive function test.</p>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>I don't understand what they want me to type in or click on to get into this app.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I can use my email and password to get into this app.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
@@ -298,11 +297,11 @@ Help users avoid and correct mistakes.
 <p class="note">Editors' note: Are there issues storing the data so a user can access it in subsequent steps?</p>
 <p class="note">Editors' note: Are there broader exceptions needed than essential? E.g. for mandated or required information re-entry.</p>
 </blockquote>
-<p class="persona">@@persona:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>@@</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>@@</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>The app automatically fills in information that I entered in previous steps.</q></span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry">Understanding Redundant Entry</a></p>
