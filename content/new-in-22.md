@@ -2,8 +2,10 @@
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
 title: "What's New in WCAG 2.2 Working Draft"
-title_html: "What's New in WCAG 2.2 Working Draft<br><span style='font-style:italic; font-size: 75%;color:#3b3b3b'>[Status: This page is an in-progress draft.]</span>"
+title_html: "What's New in WCAG 2.2 Working Draft"
 nav_title: "New in 2.2 Draft"
+doc-note-type: draft
+doc-note-message-md: Status: _This page is an in-progress draft_.
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 
