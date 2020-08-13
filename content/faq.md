@@ -42,7 +42,7 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
   <ul class="questions">
     <li><a href="#done">Is WCAG 2 stable?</a></li>
     <li><a href="#v21">What about WCAG 2.1?</a></li>
-    <li><a href="#next">What's next for WCAG? What about “Silver”?</a></li>
+    <li><a href="#next">What about WCAG 2.2? What about “Silver”?</a></li>
     <li><a href="#vpat21">Does VPAT 2.1 include WCAG 2.1?</a></li> 
     <li><a href="#mobile">Does WCAG address mobile accessibility?</a></li>
     <li><a href="#start">Where should I start?</a></li>
