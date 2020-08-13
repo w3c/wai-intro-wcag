@@ -7,7 +7,7 @@ nav_title: "Web Content – WCAG"
 description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
 
 lang: en
-last_updated: 2018-06-22
+last_updated: 2020-08-12
 permalink: /standards-guidelines/wcag/
 
 github:
@@ -15,12 +15,13 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 22 June 2018. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 12 August 2020. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 feedbackmail: wai@w3.org  
 ref: /standards-guidelines/wcag/
+
 ---
 
 {::nomarkdown}
@@ -60,17 +61,15 @@ The WCAG documents explain how to make web content more accessible to people wit
 -   natural information such as text, images, and sounds
 -   code or markup that defines structure, presentation, etc.
 
-## WCAG 2.0 and 2.1 {#versions}
+## WCAG 2.0, 2.1, 2.2  {#versions}
 
-WCAG 2.0 was published on 11 December 2008. WCAG 2.1 was published on 5 June 2018.
+WCAG 2.0 was published on 11 December 2008. <br>WCAG 2.1 was published on 5 June 2018. <br>WCAG 2.2 is scheduled to be published in early 2021.
 
-All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
+All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1. <br>All requirements in 2.0 and 2.1 will be included in 2.2. The wording of the 2.0 and 2.1 success criteria will be exactly the same in 2.2.
 
-There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [[What's New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
+There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [[What's New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/). <br>The proposed new success criteria in 2.2 are introduced in [[What's New in WCAG 2.@ Working Draft]](/standards-guidelines/wcag/new-in-22/).
 
-**Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
-
-To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.
+**Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**.<br>And content that conforms to WCAG 2.2 will also conform to 2.1 and 2.0. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 or 2.2 should meet the requirements of policies that reference WCAG 2.0. To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.
 
 WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
 
