@@ -196,8 +196,8 @@ Make it easier for users to see and hear content including separating foreground
   and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words. However, sometimes the website doesn't work right and some of the text and even buttons get cut off.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work with my CSS.</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words. However, some websites don't work right &mdash; some of the text gets cut off and even buttons disappear.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work well with my CSS.</q></span></p></li>
   </ul>
 </div>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Understanding Text Spacing</a>
