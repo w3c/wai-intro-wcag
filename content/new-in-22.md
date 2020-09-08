@@ -2,7 +2,7 @@
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
 title: "What's New in WCAG 2.2 Working Draft"
-title_html: "What's New in WCAG 2.2 Working Draft<br><span style='font-style:italic; font-size: 75%;color:#3b3b3b'>[Status: This page is an in-progress draft.]</span>"
+title_html: "What's New in WCAG 2.2 Working Draft"
 nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Status: In-progress draft.</strong> Updated 13 August 2020.</p>
+  <p><strong>Date:</strong> Updated 13 August 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
