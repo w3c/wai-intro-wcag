@@ -7,7 +7,7 @@ nav_title: "Conformance Logos"
 description: W3C WAI provides conformance logos for websites that meet Web Content Accessibility Guidelines (WCAG) 2.
 
 lang: en
-last_updated: 2020-08-06
+last_updated: 2020-09-09
 permalink: /standards-guidelines/wcag/conformance-logos/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/conformance-logos-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 6 August 2020.</p>
+  <p><strong>Date:</strong> Updated 9 September 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>.
   <p>Developed with input from the Accessibility Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/conformance-logos/
@@ -70,7 +70,7 @@ Put the following HTML markup in your page:
 <a href="https://www.w3.org/WAI/WCAG2A-Conformance"
    title="Explanation of WCAG 2 Level A Conformance">
   <img height="32" width="88"
-       src=" https://www.w3.org/WAI/WCAG21/wcag2.1A-v"
+       src="https://www.w3.org/WAI/WCAG21/wcag2.1A-v"
        alt="Level A conformance,
             W3C WAI Web Content Accessibility Guidelines 2.1">
 </a>
@@ -86,7 +86,7 @@ Put the following HTML markup in your page:
 <a href="https://www.w3.org/WAI/WCAG2AA-Conformance"
    title="Explanation of WCAG 2 Level AA conformance">
   <img height="32" width="88"
-       src=" https://www.w3.org/WAI/WCAG21/wcag2.1AA-v"
+       src="https://www.w3.org/WAI/WCAG21/wcag2.1AA-v"
        alt="Level AA conformance,
             W3C WAI Web Content Accessibility Guidelines 2.1">
 </a>
@@ -102,7 +102,7 @@ Put the following HTML markup in your page:
 <a href="https://www.w3.org/WAI/WCAG2AAA-Conformance"
    title="Explanation of WCAG 2 Level AAA conformance">
   <img height="32" width="88"
-       src=" https://www.w3.org/WAI/WCAG21/wcag2.1AAA-v"
+       src="https://www.w3.org/WAI/WCAG21/wcag2.1AAA-v"
        alt="Level AAA conformance,
             W3C WAI Web Content Accessibility Guidelines 2.1">
 </a>
