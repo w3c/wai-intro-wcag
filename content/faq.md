@@ -89,7 +89,7 @@ WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate o
 
 ## What about WCAG 2.2? What about “Silver”? {#next}
 
-The Accessibility Guidelines Working Group (AG WG) is developing WCAG 2.2 in 2020, and plans to published the final document in early 2021. The structure and content of WCAG 2.2 is the same as 2.1 and 2.0. Version 2.2 will include new accessibility requirements, called “success criteria”. You can review proposed additional success criteria in the [in-progress “Editors’ Draft” of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/).
+The Accessibility Guidelines Working Group (AG WG) is developing WCAG 2.2 in 2020, and plans to published the final document in 2021. The structure and content of WCAG 2.2 is the same as 2.1 and 2.0. Version 2.2 will include new accessibility requirements, called “success criteria”. You can review proposed additional success criteria in the [in-progress “Editors’ Draft” of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/).
 
 **The proposed new WCAG 2.2 success criteria are introduced in [What's New in WCAG 2.2 Working Draft](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).** Please send any comments by 18 September 2020.
 
