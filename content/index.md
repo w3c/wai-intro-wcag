@@ -7,7 +7,7 @@ nav_title: "Web Content – WCAG"
 description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
 
 lang: en
-last_updated: 2020-09-10
+last_updated: 2020-09-22
 permalink: /standards-guidelines/wcag/
 
 github:
@@ -15,7 +15,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 10 September 2020. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 22 September 2020. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -63,7 +63,7 @@ The WCAG documents explain how to make web content more accessible to people wit
 
 ## WCAG 2.0, 2.1, 2.2  {#versions}
 
-WCAG 2.0 was published on 11 December 2008. <br>WCAG 2.1 was published on 5 June 2018. <br>WCAG 2.2 is scheduled to be published in early 2021.
+WCAG 2.0 was published on 11 December 2008. <br>WCAG 2.1 was published on 5 June 2018. <br>WCAG 2.2 is scheduled to be published in 2021.
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1. <br>All requirements in 2.0 and 2.1 will be included in 2.2. The wording of the 2.0 and 2.1 success criteria will be exactly the same in 2.2.
 
