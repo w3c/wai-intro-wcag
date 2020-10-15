@@ -7,7 +7,7 @@ nav_title: "Conformance Logos"
 description: W3C WAI provides conformance logos for websites that meet Web Content Accessibility Guidelines (WCAG) 2.
 
 lang: en
-last_updated: 2020-09-09
+last_updated: 2020-10-15
 permalink: /standards-guidelines/wcag/conformance-logos/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/conformance-logos-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 9 September 2020.</p>
+  <p><strong>Date:</strong> Updated 15 October 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a>.
   <p>Developed with input from the Accessibility Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/conformance-logos/
@@ -161,6 +161,8 @@ Put the following HTML markup in your page:
 If you would like to use the blue logo, append "-blue" to the image src.
 
 ## Logos
+
+The blue and gold colors do not indicate any difference. We offer the two options for flexibility with your visual design.
 
 Below are the logos as they will appear in your site.
 
