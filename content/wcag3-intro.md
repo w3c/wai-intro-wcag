@@ -20,7 +20,7 @@ feedbackmail: wai@w3.org
 footer: >
   <p><strong>Status: Draft in progress. Date:</strong> Updated @@21 October 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
-  <p>Developed with input from the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>) and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
+  <p>Developed with input from the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force and Community Group, and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 
 ---
@@ -29,7 +29,7 @@ image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-@@Summary
+This page will introduce the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -50,17 +50,14 @@ image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 
 ## Introduction {#intro}
 
-The main @@WCAG Overview page
+In November 2020, this page will be updated to introduce the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. It will cover the structure, conformance model, supporting documents, and more.
 
-In November 2020, this page will be updated to introduction the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft.
+This page will also link to a blog post with goals, development process, background, and review questions.
 
-This page will link to a blog post with @@
+For now, the following information is available:
+* [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/) focuses on WCAG 2 versions.
+* FAQ: [What about “Silver”?](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#next) also addresses WCAG 2.2.
 
-## More Information {#more}
+## WCAG 3 Name (formerly "Silver" project)
 
-See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
-
--   **WCAG 2 coverage of [mobile accessibility](/standards-guidelines/wcag/faq/#mobile)**
--   **WCAG 2 applicability to [non-W3C technologies](/standards-guidelines/wcag/faq/#othertechs)**
--   **[WCAG 3.0 ("Silver")](/standards-guidelines/wcag/faq/#next)**
--   and more...
+WCAG 3.0 developed from the “Silver” project. It is called “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
