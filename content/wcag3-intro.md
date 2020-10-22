@@ -64,4 +64,4 @@ WCAG 3.0 developed from the “Silver” project. It is called “W3C Accessibil
 
 ## Timeline
 
-We expect to publish the First Public Working Draft of WCAG 3.0 in 2020. We expect the final WCAG 3.0 standard to be compeleted after 2022.
+We expect to publish the First Public Working Draft of WCAG 3.0 in 2020. We expect the final WCAG 3.0 standard to be completed after 2022.
