@@ -7,7 +7,7 @@ nav_title: "3.0 Intro"
 description: Introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. WCAG documents explain how to make the web more accessible to people with disabilities.
 
 lang: en
-last_updated: 2020-10-21
+last_updated: 2020-10-22
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -18,7 +18,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 21 October 2020.</p>
+  <p><strong>Date:</strong> Updated 22 October 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force and Community Group, and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -50,7 +50,7 @@ This page will introduce the W3C Accessibility Guidelines (WCAG) 3.0 Working Dra
 
 ## Introduction {#intro}
 
-In November 2020, this page will be updated to introduce the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. It will cover the structure, conformance model, supporting documents, and more.
+**In November 2020, this page will be updated to introduce the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft.** This page will cover the structure, conformance model, supporting documents, and more.
 
 This page will also link to a blog post with goals, development process, background, and review questions.
 
@@ -61,3 +61,7 @@ For now, the following information is available:
 ## WCAG 3 Name (formerly "Silver" project)
 
 WCAG 3.0 developed from the “Silver” project. It is called “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
+
+## Timeline
+
+We expect to publish the First Public Working Draft of WCAG 3.0 in 2020. We expect the final WCAG 3.0 standard to be compeleted after 2022.
