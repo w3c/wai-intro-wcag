@@ -1,14 +1,14 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: " WCAG 3 Introduction"
+title: "WCAG 3 Introduction"
 nav_title: "3.0 Intro"
 
 description: Introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. WCAG documents explain how to make the web more accessible to people with disabilities.
 
 lang: en
 last_updated: 2020-10-21
-permalink: /standards-guidelines/wcag/wcag3-intro
+permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
   repository: w3c/wai-intro-wcag
@@ -18,7 +18,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Status: Draft in progress. Date:</strong> Updated @@21 October 2020.</p>
+  <p><strong>Date:</strong> Updated 21 October 2020.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force and Community Group, and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
