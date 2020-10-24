@@ -41,9 +41,6 @@ Veuillez consulter les ressources clés suivantes pour apprendre à utiliser les
 -   **[[Vue d'ensemble des WCAG]](/standards-guidelines/wcag/)**
 -   **[Comment se conformer aux WCAG 2 (Référence rapide)](http://www.w3.org/WAI/WCAG21/quickref/)** &mdash; Une référence rapide configurable pour les exigences des règles pour l'accessibilité des contenus web (WCAG) 2 (critères de succès) et techniques
 
-@@ here @@
-
-
 {::nomarkdown}
 {% include box.html type="start" title="Perceptible" h=2 class="large" %}
 {:/}
@@ -98,5 +95,3 @@ Veuillez consulter les ressources clés suivantes pour apprendre à utiliser les
 * [[WCAG 2.0 en bref]](/standards-guidelines/wcag/20/glance/) a deux différences par rapport au contenu ci-dessus :
     * « Ne pas concevoir de contenus susceptible de provoquer des crises ou des réactions physiques » ne contient pas « ou des réactions physiques ».
     * Il ne contient pas « faciliter l'utilisation d'autres outils de saisie que le clavier. »
-
-...@@
