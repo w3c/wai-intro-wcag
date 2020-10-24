@@ -27,4 +27,17 @@ layout: default
 
 ---
 
-troubleshooting
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Résumé" class="full" %}
+{:/}
+
+Cette page propose un résumé paraphrasé des règles pour l'accessibilité des contenus web (WCAG) 2.1. Pour consulter la spécification technique normative, voir [www.w3.org/TR/WCAG21](http://www.w3.org/TR/WCAG21/).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+Veuillez consulter les ressources clés suivantes pour apprendre à utiliser les WCAG 2.1 :
+-   **[[Vue d'ensemble des WCAG]](/standards-guidelines/wcag/)**
+-   **[Comment se conformer aux WCAG 2 (Référence rapide)](http://www.w3.org/WAI/WCAG21/quickref/)** &mdash; Une référence rapide configurable pour les exigences des règles pour l'accessibilité des contenus web (WCAG) 2 (critères de succès) et techniques
+
