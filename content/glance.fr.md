@@ -41,3 +41,62 @@ Veuillez consulter les ressources clés suivantes pour apprendre à utiliser les
 -   **[[Vue d'ensemble des WCAG]](/standards-guidelines/wcag/)**
 -   **[Comment se conformer aux WCAG 2 (Référence rapide)](http://www.w3.org/WAI/WCAG21/quickref/)** &mdash; Une référence rapide configurable pour les exigences des règles pour l'accessibilité des contenus web (WCAG) 2 (critères de succès) et techniques
 
+@@ here @@
+
+
+{::nomarkdown}
+{% include box.html type="start" title="Perceptible" h=2 class="large" %}
+{:/}
+
+-   Proposer des **[alternatives textuelles](http://www.w3.org/WAI/WCAG21/quickref/#text-equiv)** à tout contenu non textuel.
+-   Fournir des [**sous-titres et autres alternatives**](http://www.w3.org/WAI/WCAG21/quickref/#media-equiv) pour le multimedia.
+-   Créer des contenus qui peuvent être **[présentés de différentes manières](http://www.w3.org/WAI/WCAG21/quickref/#content-structure-separation)**, y compris par les technologies d'assistance, sans perdre la signification.
+-   Faciliter la **[perception visuelle et auditive du contenu](http://www.w3.org/WAI/WCAG21/quickref/#visual-audio-contrast)** par l'utilisateur.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" title="Utilisable" h=2 class="large" %}
+{:/}
+
+-   Rendre toutes les fonctionnalités accessibles au **[clavier](http://www.w3.org/WAI/WCAG21/quickref/#keyboard-operation)**.
+-   Laisser à l'utilisateur **[suffisamment de temps](http://www.w3.org/WAI/WCAG21/quickref/#time-limits)** pour lire et utiliser le contenu.
+-   Ne pas concevoir de contenus susceptible de provoquer des **[crises](http://www.w3.org/WAI/WCAG21/quickref/#seizure)** ou des réactions physiques.
+-   Aider l'utilisateur à **[naviguer et trouver le contenu](http://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)**.
+-   Faciliter l'utilisation **[d'outils de saisie autres que le clavier](https://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)**.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" title="Compréhensible" h=2 class="large" %}
+{:/}
+
+-   Rendre le texte **[lisible et compréhensible](http://www.w3.org/WAI/WCAG21/quickref/#meaning)**.
+-   Faire en sorte que les contenus apparaissent et fonctionnent de manière **[prévisible](http://www.w3.org/WAI/WCAG21/quickref/#consistent-behavior)**.
+-   Aider l'utilisateur à **[éviter et corriger les erreurs](http://www.w3.org/WAI/WCAG21/quickref/#minimize-error)**.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include box.html type="start" title="Robuste" h=2 class="large" %}
+{:/}
+
+-   Optimiser la **[compatibilité](http://www.w3.org/WAI/WCAG21/quickref/#ensure-compat)** avec les outils des utilisateurs actuels et futurs.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+## Autres versions
+
+* [[WCAG 2.0 en bref]](/standards-guidelines/wcag/20/glance/) a deux différences par rapport au contenu ci-dessus :
+    * « Ne pas concevoir de contenus susceptible de provoquer des crises ou des réactions physiques » ne contient pas « ou des réactions physiques ».
+    * Il ne contient pas « faciliter l'utilisation d'autres outils de saisie que le clavier. »
+
+...@@
