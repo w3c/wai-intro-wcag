@@ -65,3 +65,12 @@ WCAG 3.0 developed from the “Silver” project. It is called “W3C Accessibil
 ## Timeline
 
 We expect to publish the First Public Working Draft of WCAG 3.0 in 2020. We expect the final WCAG 3.0 standard to be completed after 2022.
+
+## Who develops WCAG 3
+
+The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)), the AG WG Silver Task Force, and the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
+
+We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts.
+
+Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
+
