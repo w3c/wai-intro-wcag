@@ -7,7 +7,7 @@ nav_title: "3.0 Intro"
 description: Introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. WCAG documents explain how to make the web more accessible to people with disabilities.
 
 lang: en
-last_updated: 2020-10-29
+last_updated: 2020-10-28
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -18,7 +18,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: DRAFT </strong> Updated 29 October 2020.</p>
+  <p><strong>Date: DRAFT </strong> Updated 28 October 2020. <em>(6:00pmCT)</em></p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force and Community Group, and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -60,15 +60,15 @@ WCAG 2 is introduced in the [Web Content Accessibility Guidelines (WCAG) Overvie
 
 **Status:**  W3C Accessibility Guidelines (WCAG) 3 is currently an early Working Draft with limited sections for review.
 
-## WCAG 2 and 3: Better, Similar, Different {#compare}
+## Better, Similar, Different {#compare}
 
 WCAG 3 is intended to be **better** than previous versions. It strives to:
 * be easier to understand and use
 * cover more user needs, including more needs of people with cognitive disabilities
-* provide a conformance model that better supports users and organizations _(that is, owners/developers of websites, etc.)_
+* provide a [conformance model](#model) that better supports users and organizations _(that is, owners/developers of websites, etc.)_
 
 WCAG 3 is **similar** to previous versions in some ways. It has:
-* the same goal of providing guidance on making technology accessible to people with disabilities
+* the same goal of providing guidance on making websites, apps, etc. accessible to people with disabilities
 * similar fundamental and specific accessibility requirements
 
 WCAG 3 is **different** from previous versions. It has:
@@ -76,16 +76,14 @@ WCAG 3 is **different** from previous versions. It has:
 * different conformance model
 * broader scope, beyond just web content
 
-To learn more about the WCAG 3 goals, development process, background, and review questions for the First Public Working Draft, please see the blog post [https://@@]( @@title).
-
 ## Approach
 
-### Conformance Model
+### Conformance Model {#model}
 
-@@ summary & explanation of “conformance model”
+The “conformance model” is the way to determine and communicate how a website meets WCAG.
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="Background Example" class="" %}
+{% include box.html type="start" h="4" title="@@probably can’t have this section" class="" %}
 {:/}
 
 With WCAG 2, the success criteria is basically pass or fail. If a website does not pass all success criteria at the set level, then the website does not conform to WCAG 2. For example, if one inconsequential image on an unimportant, rarely-visited page is missing alt text, then technically the website as a whole does not pass WCAG 2 Level A. Yet, in this example, that one missing alt has essentially no impact on the accessibility of the website for users. Whereas, missing alt elsewhere on the website could significantly impact accessibility.
@@ -94,15 +92,34 @@ With WCAG 2, the success criteria is basically pass or fail. If a website does n
 {% include box.html type="end" %}
 {:/}
 
-The WCAG 3 conformance model is an effort to address situations such as that example &mdash; to benefit users and website providers. Rather than pass-fail, …
+The WCAG 3 conformance model is an effort to address situations such as that example &mdash; to benefit users and website providers. Rather than pass-fail, …@@
 
 ### Structure
 ...
+WCAG 3 includes:
+* **Guidelines** &mdash; are solutions to accessibility problems. Guidelines in WCAG 3 are more granular than the guidelines in WCAG 2.
+* **Outcomes** &mdash; are testable statements. Outcomes in WCAG 3 are somewhat similar to success criteria in WCAG 2.
 
-#### Supporting Documents
+WCAG 3 supporting material includes:
+* **Methods** &mdash; are detailed ways to rate how well a website meets an outcome. Methods in WCAG 3 are somewhat similar to Techniques for WCAG 2.
+* **How-To documents** &mdash; explain more about each outcome??guideline and how to apply them.  How-To documents in WCAG 3 are somewhat similar to the Understanding documents for WCAG 2.
+* ? Functional needs ?
+* ? other ?
+
+#### ? Testing
+...
+
+#### ? Scoring
+...
+
+#### ? Conformance
 ...
 
 ## Development
+
+To learn more about the WCAG 3 goals, development process, background, and review questions for the First Public Working Draft, please see the blog post [https://www.w3.org/blog/@@](@@title).
+
+_Reminder that WCAG 3 applies to websites, web apps, tools, documents, and such digital technology. (Most of this page uses “website” for simplicity.)_
 
 ### WCAG 3 Name (formerly "Silver" project)
 
@@ -110,7 +127,7 @@ WCAG 3.0 developed from the “Silver” project. It is called “W3C Accessibil
 
 ### Timeline
 
-We expect to publish the First Public Working Draft of WCAG 3.0 in 2020. We expect the final WCAG 3.0 standard to be completed after 2022.
+We published the First Public Working Draft of WCAG 3.0 in November 2020. We expect the final WCAG 3.0 standard to be completed after 2022.
 
 ### Who Develops WCAG 3
 
@@ -119,4 +136,3 @@ The WCAG technical documents are developed by the Accessibility Guidelines Worki
 We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts.
 
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
-
