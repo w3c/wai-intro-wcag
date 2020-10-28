@@ -66,7 +66,7 @@ WCAG 3 is intended to be **better** than previous versions. It strives to:
 
 To learn more about the WCAG 3 goals, development process, background, and review questions for the First Public Working Draft, please see the blog post [https://@@ @@title].
 
- ## Conformance Model
+## Conformance Model
 …
 
 ## Structure
