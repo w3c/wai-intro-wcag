@@ -39,7 +39,7 @@ This page introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. 
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 
 -   This text will be replaced by the TOC.
 {:toc}
@@ -48,35 +48,39 @@ This page introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. 
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction {#intro}
+## Introduction
+{:.no_toc}
 
-@@ briefly what WCAG is for newbies that land here only.
+The WCAG documents explain how to make websites, web apps, tools, and documents more accessible to people with disabilities. _(The rest of this page uses “website” for simplicity, yet WCAG applies much broader than websites.)_
+
+
+WCAG is developed through the [W3C process](https://www.w3.org/WAI/standards-guidelines/w3c-process/) in cooperation with individuals and organizations around the world, with a goal of providing a single shared standard for website accessibility that meets the needs of individuals, organizations, and governments internationally.
 
 WCAG 2 is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-@@ W3C Accessibility Guidelines (WCAG) 3 is currently an early Working Draft with select bits of information for review.
+**Status:**  W3C Accessibility Guidelines (WCAG) 3 is currently an early Working Draft with limited sections for review.
 
-## WCAG 2 and 3: Different, Similar, Better {#different}
+## WCAG 2 and 3: Better, Similar, Different {#compare}
+
+WCAG 3 is intended to be **better** than previous versions. It strives to:
+* be easier to understand and use
+* cover more user needs, including more needs of people with cognitive disabilities
+* provide a conformance model that better supports users and organizations _(that is, owners/developers of websites, etc.)_
+
+WCAG 3 is **similar** to previous versions in some ways. It has:
+* the same goal of providing guidance on making technology accessible to people with disabilities
+* similar fundamental and specific accessibility requirements
 
 WCAG 3 is **different** from previous versions. It has:
 * different structure
 * different conformance model
 * broader scope, beyond just web content
 
-WCAG 3 is **similar** to previous versions in some ways. It has:
-* the same goal of providing guidance on making technology accessible to people with disabilities
-* similar fundamental and specific accessibility requirements
-
-WCAG 3 is intended to be **better** than previous versions. It strives to:
-* be easier to understand and use
-* cover more user needs, including more needs of people with cognitive disabilities
-* provide a conformance model that better supports users and organizations _(that is, owners/developers of websites, web apps, tools, documents, etc.)_
-
-_(The rest of this page uses “website” for simplicity, yet WCAG 3 applies much broader than websites.)_
-
 To learn more about the WCAG 3 goals, development process, background, and review questions for the First Public Working Draft, please see the blog post [https://@@]( @@title).
 
-## Conformance Model
+## Approach
+
+### Conformance Model
 
 @@ summary & explanation of “conformance model”
 
@@ -92,21 +96,23 @@ With WCAG 2, the success criteria is basically pass or fail. If a website does n
 
 The WCAG 3 conformance model is an effort to address situations such as that example &mdash; to benefit users and website providers. Rather than pass-fail, …
 
-## Structure
+### Structure
 ...
 
-## Supporting Documents
+#### Supporting Documents
 ...
 
-## WCAG 3 Name (formerly "Silver" project)
+## Development
+
+### WCAG 3 Name (formerly "Silver" project)
 
 WCAG 3.0 developed from the “Silver” project. It is called “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
 
-## Timeline
+### Timeline
 
 We expect to publish the First Public Working Draft of WCAG 3.0 in 2020. We expect the final WCAG 3.0 standard to be completed after 2022.
 
-## Who Develops WCAG 3
+### Who Develops WCAG 3
 
 The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)), the AG WG Silver Task Force, and the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
 
