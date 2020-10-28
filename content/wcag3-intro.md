@@ -29,7 +29,9 @@ image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. It explains how it differs from WCAG 2. (WCAG 2 is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).)
+This page introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. It explains how WCAG 3 differs from WCAG 2.
+
+WCAG 2 is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -62,12 +64,19 @@ WCAG 3 is **similar** to previous versions in some ways. It has:
 WCAG 3 is intended to be **better** than previous versions. It strives to:
 * be easier to understand and use
 * cover more user needs, including the needs of people with cognitive disabilities
-* provide a conformance model that better supports users and organizations (that is, owners/developers of websites, web apps, tools, documents, etc.)
+* provide a conformance model that better supports users and organizations _(that is, owners/developers of websites, web apps, tools, documents, etc.)_
+
+_(The rest of this page uses “website” for simplicity, yet WCAG 3 applies much broader than websites.)_
 
 To learn more about the WCAG 3 goals, development process, background, and review questions for the First Public Working Draft, please see the blog post [https://@@ @@title].
 
 ## Conformance Model
-…
+
+@@ summary & explanation of “conformance model”
+
+Background example: With WCAG 2, each success criteria is basically pass or fail. And a website does not conform to WCAG 2 if it does not pass all success criteria at the set level. For example, if one inconsequential image on an unimportant, rarely-visited page is missing alt text, then technically the website as a whole does not pass WCAG 2 Level A. Yet, in this example, that one missing alt has essentially no impact on the accessibility of the website for users. And, missing alt elsewhere on the website could significantly impact accessibility.
+
+The WCAG 3 conformance model is an effort to address this &mdash; to benefit users and website providers. Rather than pass-fail, …
 
 ## Structure
 ...
@@ -90,3 +99,4 @@ The WCAG technical documents are developed by the Accessibility Guidelines Worki
 We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts.
 
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
+
