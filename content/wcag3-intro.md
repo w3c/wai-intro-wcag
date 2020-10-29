@@ -49,7 +49,6 @@ This page introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. 
 {:/}
 
 ## Introduction
-{:.no_toc}
 
 The WCAG documents explain how to make websites, web apps, tools, and documents more accessible to people with disabilities. _(The rest of this page uses “website” for simplicity, yet WCAG applies much broader than websites.)_
 
@@ -58,9 +57,16 @@ WCAG is developed through the [W3C process](https://www.w3.org/WAI/standards-gui
 
 WCAG 2 is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-**Status:**  W3C Accessibility Guidelines (WCAG) 3 is currently an early Working Draft with limited sections for review.
+### Status 
 
-## Better, Similar, Different {#compare}
+W3C Accessibility Guidelines (WCAG) 3 is currently an early Working Draft with the following for review:
+* proposed structure
+* proposed conformance model
+* 5 draft example guidelines
+
+Later drafts of WCAG 3 will include most of the accessibility requirements (“success criteria”) from WCAG 2 and will include additional accessibility requirements.
+
+### Better, Similar, Different {#compare}
 
 WCAG 3 is intended to be **better** than previous versions. It strives to:
 * be easier to understand and use
@@ -106,13 +112,10 @@ WCAG 3 supporting material includes:
 * ? Functional needs ?
 * ? other ?
 
-#### ? Testing
+### ? Testing
 ...
 
-#### ? Scoring
-...
-
-#### ? Conformance
+### ? Scoring
 ...
 
 ## Development
@@ -135,4 +138,4 @@ The WCAG technical documents are developed by the Accessibility Guidelines Worki
 
 We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts.
 
-Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
+Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).  
