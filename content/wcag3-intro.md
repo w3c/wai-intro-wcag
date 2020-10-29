@@ -28,9 +28,7 @@ inline_css: |
   }
   #toc li {
     padding-top:0; padding-bottom:0;
-    margin-top:0; margin-bottom:0;
-    color:red;
-  }
+    margin-top:0; margin-bottom:0;  }
   .smalltabletext {
     font-size: .875rem;
   }
@@ -137,6 +135,7 @@ With WCAG 2, the success criteria is basically pass or fail. If a website does n
 The WCAG 3 conformance model is an effort to address situations such as that example &mdash; to benefit both users and website providers. Some new aspects of the proposed WCAG 3 conformance model:
 * Conformance is at the level of "[views](@@)" (e.g., a web page) and "[processes](@@)" (which are tasks such as ordering an item or registering for a class).
 * Outcomes can be rated, beyond just pass or fail. For example, ratings for the outcome "Luminance contrast between background and text":
+
 <table class="dense quiet smalltabletext">
   <thead>
     <tr>
