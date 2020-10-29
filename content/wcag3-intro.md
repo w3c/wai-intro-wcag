@@ -167,6 +167,36 @@ The WCAG 3 conformance model is an effort to address situations such as that exa
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Rating</th>
+      <th scope="col">Criteria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope=“row”>Rating 0</th>
+      <td>Any failures on the Advanced Perceptual Contrast Algorithm (APCA) lookup table or the lowest APCA value is more than 15% below the values on the APCA lookup table</td>
+    </tr>
+    <tr>
+      <th scope=“row”>Rating 1</th>
+      <td>The lowest APCA value is 10-15% below the values on the APCA lookup table</td>
+    </tr>
+    <tr>
+      <th scope=“row”>Rating 2</th>
+      <td>The lowest APCA value is 5-9% below the values on the APCA lookup table</td>
+    </tr>
+    <tr>
+      <th scope=“row”>Rating 3</th>
+      <td>The lowest APCA value is 1-4% below the values on the APCA lookup table</td>
+    </tr>
+    <tr>
+      <th scope=“row”>Rating 4</th>
+      <td>All reading text meets or exceeds the values on the APCA lookup table </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Development
 
