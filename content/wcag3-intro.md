@@ -103,19 +103,19 @@ The WCAG 3 conformance model is an effort to address situations such as that exa
 ### Structure
 WCAG 3 has:
 * **Guidelines**
-       * Solutions to accessibility problems
-       * More granular than the **guidelines** in WCAG 2
+   * Solutions to accessibility problems
+   * More **granular** than the guidelines in WCAG 2
 * **Outcomes**
-       * Testable statements
-       * Somewhat similar to **success criteria** in WCAG 2
+   * Testable statements
+   * Somewhat similar to **success criteria** in WCAG 2
 
 WCAG 3 supporting material includes:
 * **Methods**
-       * Detailed ways to rate how well a website meets an outcome
-       * Somewhat similar to **techniques** for WCAG 2
+   * Detailed ways to rate how well a website meets an outcome
+   * Somewhat similar to **techniques** for WCAG 2
 * **How-To documents**
-       * Explain more about each outcome??guideline and how to apply them
-       * Somewhat similar to the **understanding** documents for WCAG 2
+   * Explain more about each outcome??guideline and how to apply them
+   * Somewhat similar to the **understanding** documents for WCAG 2
 * ? Functional needs ?
 * ? other ?
 
@@ -127,13 +127,15 @@ WCAG 3 supporting material includes:
 
 ## Development
 
-To learn more about the WCAG 3 goals, development process, background, and review questions for the First Public Working Draft, please see the blog post [https://www.w3.org/blog/@@](@@title).
+To learn more about the WCAG 3 goals, development process, background, and review questions for the First Public Working Draft, please see the blog post [@@title](https://www.w3.org/blog/@@).
 
 _Reminder that WCAG 3 applies to websites, web apps, tools, documents, and such digital technology. (Most of this page uses “website” for simplicity.)_
 
 ### WCAG 3 Name (formerly "Silver" project)
 
-WCAG 3.0 developed from the “Silver” project. It is called “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
+WCAG 3.0 developed from the “Silver” project. The name “W3C Accessibility Guidelines (WCAG)” was chosen:
+* because of wide-spread familiarity with the “WCAG” acronym
+* to encompass the broader scope beyond “content”
 
 ### Timeline
 
@@ -141,7 +143,7 @@ We published the First Public Working Draft of WCAG 3.0 in November 2020. We exp
 
 ### Who Develops WCAG 3
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)), the AG WG Silver Task Force, and the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
+The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) with the AG WG Silver Task Force and the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
 
 We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts.
 
