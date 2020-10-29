@@ -136,7 +136,7 @@ The WCAG 3 conformance model is an effort to address situations such as that exa
 * Conformance is at the level of "[views](@@)" (e.g., a web page) and "[processes](@@)" (which are tasks such as ordering an item or registering for a class).
 * Outcomes can be rated, beyond just pass or fail. For example, ratings for the outcome "Luminance contrast between background and text":
 
-<table class="dense quiet smalltabletext">
+<table class="dense quiet smalltabletext rating-table" summary="Rating scale for &quot;Luminance contrast between background and text&quot;">
   <thead>
     <tr>
       <th scope="col">Rating</th>
@@ -145,58 +145,28 @@ The WCAG 3 conformance model is an effort to address situations such as that exa
   </thead>
   <tbody>
     <tr>
-      <th scope=“row”>Rating 0</th>
+      <th scope="row">Rating 0</th>
       <td>Any failures on the Advanced Perceptual Contrast Algorithm (APCA) lookup table or the lowest APCA value is more than 15% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope=“row”>Rating 1</th>
+      <th scope="row">Rating 1</th>
       <td>The lowest APCA value is 10-15% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope=“row”>Rating 2</th>
+      <th scope="row">Rating 2</th>
       <td>The lowest APCA value is 5-9% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope=“row”>Rating 3</th>
+      <th scope="row">Rating 3</th>
       <td>The lowest APCA value is 1-4% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope=“row”>Rating 4</th>
+      <th scope="row">Rating 4</th>
       <td>All reading text meets or exceeds the values on the APCA lookup table </td>
     </tr>
   </tbody>
 </table>
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Rating</th>
-      <th scope="col">Criteria</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope=“row”>Rating 0</th>
-      <td>Any failures on the Advanced Perceptual Contrast Algorithm (APCA) lookup table or the lowest APCA value is more than 15% below the values on the APCA lookup table</td>
-    </tr>
-    <tr>
-      <th scope=“row”>Rating 1</th>
-      <td>The lowest APCA value is 10-15% below the values on the APCA lookup table</td>
-    </tr>
-    <tr>
-      <th scope=“row”>Rating 2</th>
-      <td>The lowest APCA value is 5-9% below the values on the APCA lookup table</td>
-    </tr>
-    <tr>
-      <th scope=“row”>Rating 3</th>
-      <td>The lowest APCA value is 1-4% below the values on the APCA lookup table</td>
-    </tr>
-    <tr>
-      <th scope=“row”>Rating 4</th>
-      <td>All reading text meets or exceeds the values on the APCA lookup table </td>
-    </tr>
-  </tbody>
-</table>
 
 ## Development
 
