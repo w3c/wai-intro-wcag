@@ -26,6 +26,12 @@ inline_css: |
   #toc {
     line-height:1;
   }
+  #toc.li {
+    padding-top:0; padding-bottom:0;
+    margin-top:0; margin-bottom:0;
+    color:red;
+  }
+
 
 ---
 
@@ -115,7 +121,7 @@ WCAG 3 supporting material includes:
 The “conformance model” is the way to determine and communicate how well a website meets WCAG. The WCAG 3 conformance model has been re-imagined to better support people with disabilities and organizations (that is, owners/developers of websites, apps, etc.).
 
 {::nomarkdown}
-{% include box.html type="start" h="4" title="@@probably shoulnd't have this section highlighting WCAG 2 challenges" class="" %}
+{% include box.html type="start" h="4" title="@@probably shouldn’t have this section highlighting WCAG 2 challenges" class="" %}
 {:/}
 
 With WCAG 2, the success criteria is basically pass or fail. If a website does not pass all success criteria at the set level, then the website does not conform to WCAG 2. For example, if one inconsequential image on an unimportant, rarely-visited page is missing alt text, then technically the website as a whole does not pass WCAG 2 Level A. Yet, in this example, that one missing alt has essentially no impact on the accessibility of the website for users. Whereas, missing alt elsewhere on the website could significantly impact accessibility.
@@ -125,9 +131,9 @@ With WCAG 2, the success criteria is basically pass or fail. If a website does n
 {:/}
 
 The WCAG 3 conformance model is an effort to address situations such as that example &mdash; to benefit both users and website providers. Some new aspects of the proposed WCAG 3 conformance model:
-* Conformance is at the level of web pages ("[views](@@)") and "[processes](@@)" that are tasks such as ordering an item or registering for a class.
+* Conformance is at the level of "[views](@@)" (e.g., a web page) and "[processes](@@)" (which are tasks such as ordering an item or registering for a class).
 * Outcomes can be rated, beyond just pass or fail. For example, for the outcome "Luminance contrast between background and text (outcome for "Visual contrast of text")":
-<table class="rating-table" summary="Rating scale for &quot;Luminance contrast between background and text&quot;">
+<table class="dense quiet">
   <thead>
     <tr>
       <th scope="col">Rating</th>
@@ -136,23 +142,23 @@ The WCAG 3 conformance model is an effort to address situations such as that exa
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Rating 0</th>
+      <th scope=“row”>Rating&nbsp;0</th>
       <td>Any failures on the Advanced Perceptual Contrast Algorithm (APCA) lookup table or the lowest APCA value is more than 15% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope="row">Rating 1</th>
+      <th scope=“row”>Rating&nbsp;1</th>
       <td>The lowest APCA value is 10-15% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope="row">Rating 2</th>
+      <th scope=“row”>Rating&nbsp;2</th>
       <td>The lowest APCA value is 5-9% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope="row">Rating 3</th>
+      <th scope=“row”>Rating&nbsp;3</th>
       <td>The lowest APCA value is 1-4% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope="row">Rating 4</th>
+      <th scope=“row”>Rating&nbsp;4</th>
       <td>All reading text meets or exceeds the values on the APCA lookup table </td>
     </tr>
   </tbody>
@@ -184,4 +190,3 @@ The WCAG technical documents are developed by the Accessibility Guidelines Worki
 We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts.
 
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
-
