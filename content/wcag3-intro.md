@@ -29,7 +29,7 @@ image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. It explains how WCAG 3 differs from WCAG 2.
+This page introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. It explains how WCAG 3 is related to WCAG 2.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -101,14 +101,21 @@ With WCAG 2, the success criteria is basically pass or fail. If a website does n
 The WCAG 3 conformance model is an effort to address situations such as that example &mdash; to benefit users and website providers. Rather than pass-fail, …@@
 
 ### Structure
-...
-WCAG 3 includes:
-* **Guidelines** &mdash; are solutions to accessibility problems. Guidelines in WCAG 3 are more granular than the guidelines in WCAG 2.
-* **Outcomes** &mdash; are testable statements. Outcomes in WCAG 3 are somewhat similar to success criteria in WCAG 2.
+WCAG 3 has:
+* **Guidelines**
+* Solutions to accessibility problems.
+* Guidelines in WCAG 3 are more granular than the guidelines in WCAG 2.
+* **Outcomes**
+* Testable statements.
+* Outcomes in WCAG 3 are somewhat similar to success criteria in WCAG 2.
 
 WCAG 3 supporting material includes:
-* **Methods** &mdash; are detailed ways to rate how well a website meets an outcome. Methods in WCAG 3 are somewhat similar to Techniques for WCAG 2.
-* **How-To documents** &mdash; explain more about each outcome??guideline and how to apply them.  How-To documents in WCAG 3 are somewhat similar to the Understanding documents for WCAG 2.
+* **Methods**
+* Detailed ways to rate how well a website meets an outcome.
+* Methods in WCAG 3 are somewhat similar to Techniques for WCAG 2.
+* **How-To documents**
+* Explain more about each outcome??guideline and how to apply them.
+* How-To documents in WCAG 3 are somewhat similar to the Understanding documents for WCAG 2.
 * ? Functional needs ?
 * ? other ?
 
@@ -138,4 +145,4 @@ The WCAG technical documents are developed by the Accessibility Guidelines Worki
 
 We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts.
 
-Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).  
+Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).    
