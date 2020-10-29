@@ -26,11 +26,15 @@ inline_css: |
   #toc {
     line-height:1;
   }
-  #toc.li {
+  #toc li {
     padding-top:0; padding-bottom:0;
     margin-top:0; margin-bottom:0;
     color:red;
   }
+  .smalltabletext {
+    font-size: .875rem;
+  }
+
 
 
 ---
@@ -132,8 +136,8 @@ With WCAG 2, the success criteria is basically pass or fail. If a website does n
 
 The WCAG 3 conformance model is an effort to address situations such as that example &mdash; to benefit both users and website providers. Some new aspects of the proposed WCAG 3 conformance model:
 * Conformance is at the level of "[views](@@)" (e.g., a web page) and "[processes](@@)" (which are tasks such as ordering an item or registering for a class).
-* Outcomes can be rated, beyond just pass or fail. For example, for the outcome "Luminance contrast between background and text (outcome for "Visual contrast of text")":
-<table class="dense quiet">
+* Outcomes can be rated, beyond just pass or fail. For example, ratings for the outcome "Luminance contrast between background and text":
+<table class="dense quiet smalltabletext">
   <thead>
     <tr>
       <th scope="col">Rating</th>
@@ -142,23 +146,23 @@ The WCAG 3 conformance model is an effort to address situations such as that exa
   </thead>
   <tbody>
     <tr>
-      <th scope=“row”>Rating&nbsp;0</th>
+      <th scope=“row”>Rating 0</th>
       <td>Any failures on the Advanced Perceptual Contrast Algorithm (APCA) lookup table or the lowest APCA value is more than 15% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope=“row”>Rating&nbsp;1</th>
+      <th scope=“row”>Rating 1</th>
       <td>The lowest APCA value is 10-15% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope=“row”>Rating&nbsp;2</th>
+      <th scope=“row”>Rating 2</th>
       <td>The lowest APCA value is 5-9% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope=“row”>Rating&nbsp;3</th>
+      <th scope=“row”>Rating 3</th>
       <td>The lowest APCA value is 1-4% below the values on the APCA lookup table</td>
     </tr>
     <tr>
-      <th scope=“row”>Rating&nbsp;4</th>
+      <th scope=“row”>Rating 4</th>
       <td>All reading text meets or exceeds the values on the APCA lookup table </td>
     </tr>
   </tbody>
