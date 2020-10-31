@@ -64,7 +64,7 @@ WCAG is developed through the [W3C process](https://www.w3.org/WAI/standards-gui
 
 The current version, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-This page will be updated to provide and link to additional information. For example, in the future it could link to mapping between WCAG 2 and 3 and other support for those wanting to migrate.
+This page will be updated to provide and link to additional information. For example, in the future it could link to mapping between WCAG 2 and 3 and to other support for those wanting to transition from 2 to 3.
 
 ## Status: Draft for Review
 
@@ -119,6 +119,23 @@ WCAG 3 is very **different** from previous versions in some ways. It has:
 
 ### Structure
 
+<div style="float: right; margin-left: 2rem; width: 50%; max-width: 555px">
+
+{% include box.html type="start" class="simple aside" %}
+
+<p><em><strong>Draft example:</strong></em></p>
+<p style="padding-bottom:0; margin-bottom:0;"><em>Guideline</em>: Structured content</p>
+<ul style="padding-top:0; margin-top:0;">
+  <li><em>Outcome</em>: Headings organize content</li>
+  <li><em>Outcome</em>: Uses visually distinct headings</li>
+  <li><em>Outcome</em>: Conveys hierarchy with semantic structure</li>
+  <li><em>Outcome</em>: … </li>
+</ul>
+
+{% include box.html type="end" %}
+
+</div>
+
 WCAG 3 has:
 * **Guidelines**
    * Solutions to accessibility problems
@@ -130,25 +147,6 @@ WCAG 3 has:
       * Critical errors
       * Rating scale
 
-<div style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
-
-{::nomarkdown}
-{% include box.html type="start" class="simple aside" %}
-{:/}
-
-_Draft example:_
-
-Guideline: Structured content
-* Outcome: Headings organize content
-* Outcome: Uses visually distinct headings
-* Outcome: Conveys hierarchy with semantic structure
-* Outcome: …
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
-
-</div>
 WCAG 3 supporting material includes:
 * **Methods**
    * Technology-specific ways to achieve an outcome
@@ -215,7 +213,7 @@ WCAG 3 developed from the “Silver” project. The name “W3C Accessibility Gu
 * to encompass the broader scope beyond “content” &mdash; WCAG 3 includes web authoring tools and web browsers
 
 ### Timeline
-<div style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+<div style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 <svg id="calendar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280.000000 1272.000000">
 <g transform="translate(0.000000,1272.000000) scale(0.100000,-0.100000)"
 fill="#003366" stroke="none">
@@ -383,7 +381,7 @@ In defining the accessibility requirements in WCAG 3.0, Silver started fresh wit
 4. Group the outcomes under guidelines. [@@correct?]
 5. Write the How-To support information.
 
-#### _Examples_ {#eg-guidelines}
+#### _Draft Examples_ {#eg-guidelines}
 
 The draft guidelines included in the First Public Working Draft were selected to illustrate specific aspects of the proposed structure of WCAG 3 and relationship with WCAG 2.
 * Migrating a WCAG 2 success criterion as is into a WCAG 3 outcome: [Text alternatives]( https://w3c.github.io/silver/guidelines/#text-alternatives)
