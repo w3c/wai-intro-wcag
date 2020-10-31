@@ -140,6 +140,7 @@ WCAG 3 has:
 * **Guidelines**
    * Solutions to accessibility problems
    * More **granular** than the guidelines in WCAG 2
+   * Each guideline has outcomes
 * **Outcomes**
    * Testable statements
    * Similar to **success criteria** in WCAG 2, although more granular
@@ -157,22 +158,19 @@ WCAG 3 supporting material includes:
 * **How-To documents**
    * Explain more about each outcome??guideline, such as how it addresses accessibility needs
    * Similar to the **Understanding** documents for WCAG 2
-* Functional categories of functional needs
+* **Functional categories** of **functional needs**
    * Categorized list of needs of people with disabilities
 
 ### Conformance Model {#model}
 
-The _conformance model_ is the way to determine and communicate how well a website meets WCAG. The conformance model in this draft of WCAG 3 is very different from WCAG 2. It is intended to be more flexible for organizations (that is, owners and developers of websites, apps, etc.) and to encourage them to provide more accessible user experiences.
-
-<s>
-With WCAG 2, the success criteria is basically pass or fail. If a website does not pass all success criteria at the set level, then the website does not conform to WCAG 2. For example, if one inconsequential image on an unimportant, rarely-visited page is missing alt text, then technically the website as a whole does not pass WCAG 2 Level A. Yet, in this example, that one missing alt has essentially no impact on the accessibility of the website for users. Whereas, missing alt elsewhere on the website could significantly impact accessibility.
-The WCAG 3 conformance model is an effort to address situations such as @@that example &mdash; to benefit both users and website providers.
-</s>
+The _conformance model_ is the way to determine and communicate how well a website meets WCAG. The conformance model in this draft of WCAG 3 is very different from WCAG 2. It is intended to:
+* be more flexible for organizations (that is, owners and developers of websites, apps, etc.)
+* encourage more accessible user experiences
 
 Some new aspects of the proposed WCAG 3 conformance model:
 * Conformance is more focused on **[processes](@@)** (tasks such as ordering an item or registering for a class), rather than web pages.
 * Outcomes can be **rated**, beyond just pass or fail. Ratings are 0-5.
-* The ratings are averaged for a total score. There is also a **score for each functional category** (e.g., vision, hearing, memory…).
+* The ratings are averaged for a total score. There is also a **score for each functional category** (e.g., vision, hearing, memory, etc.).
 
 The levels are different, too:
 * Conformance levels are Bronze, Silver, Gold.
@@ -184,7 +182,7 @@ The levels are different, too:
    * Score of 3.5 or higher in each functional category
 * Silver and Gold levels require “holistic tests” such as assistive technology testing and usability testing with participants with disabilities.
 
-<span class="smalltext" style="padding-bottom:0; margin-bottom:0;"><em>Draft example: </em>Ratings for the outcome "Conveys hierarchy with semantic structure":
+<span class="smalltext" style="padding-bottom:0; margin-bottom:0;"><em>Draft example: </em>Ratings for the outcome "Text alternative available":
 </span>
 <table class="dense quiet smalltext rating-table">
   <thead>
@@ -195,24 +193,24 @@ The levels are different, too:
   </thead>
   <tbody>
     <tr>
-      <th scope="row"> 0</th>
-      <td>25% or less of the visual headings are correctly semantically coded (including level) OR there is a <a href="#dfn-critical-error" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-critical-error-18" title="An accessibility problem that will stop a user from being able to complete a process.">critical error</a> in the <a href="#dfn-process" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-process-19" title="A sequence of steps that need to be completed in order to accomplish an activity / task from end-to-end.">process</a></td>
+      <th scope="row">0</th>
+      <td>Less than 60% of all images have appropriate text alternatives <em><strong>or</strong></em> there is a critical error in the process</td>
     </tr>
     <tr>
-      <th scope="row"> 1</th>
-      <td>26-50% or less of the visual headings are correctly semantically coded (including level) AND no <a href="#dfn-critical-error" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-critical-error-19" title="An accessibility problem that will stop a user from being able to complete a process.">critical errors</a> in the <a href="#dfn-process" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-process-20" title="A sequence of steps that need to be completed in order to accomplish an activity / task from end-to-end.">process</a></td>
+      <th scope="row">1</th>
+      <td>60% - 69% of all images have appropriate text alternatives <em><strong>and</strong></em> no critical errors in the process</td>
     </tr>
     <tr>
-      <th scope="row"> 2</th>
-      <td>51-80% or less of the visual headings are correctly semantically coded (including level) AND no <a href="#dfn-critical-error" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-critical-error-20" title="An accessibility problem that will stop a user from being able to complete a process.">critical errors</a> in the <a href="#dfn-process" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-process-21" title="A sequence of steps that need to be completed in order to accomplish an activity / task from end-to-end.">process</a></td>
+      <th scope="row">2</th>
+      <td>70%-79% of all images have appropriate text alternatives <em><strong>and</strong></em> no critical errors in the process</td>
     </tr>
     <tr>
-      <th scope="row"> 3</th>
-      <td>81-95% or less of the visual headings are correctly semantically coded (including level) AND no <a href="#dfn-critical-error" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-critical-error-21" title="An accessibility problem that will stop a user from being able to complete a process.">critical errors</a> in the <a href="#dfn-process" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-process-22" title="A sequence of steps that need to be completed in order to accomplish an activity / task from end-to-end.">process</a></td>
+      <th scope="row">3</th>
+      <td>80%-94% of all images have appropriate text alternatives <em><strong>and</strong></em> no critical errors in the process</td>
     </tr>
     <tr>
-      <th scope="row"> 4</th>
-      <td>96-100% or less of the visual headings are correctly semantically coded (including level) AND no <a href="#dfn-critical-error" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-critical-error-22" title="An accessibility problem that will stop a user from being able to complete a process.">critical errors</a> in the <a href="#dfn-process" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-process-23" title="A sequence of steps that need to be completed in order to accomplish an activity / task from end-to-end.">process</a></td>
+      <th scope="row">4</th>
+      <td>95% to 100% of all images have appropriate text alternatives <em><strong>and</strong></em> no critical errors in the process</td>
     </tr>
   </tbody>
 </table>
@@ -356,13 +354,13 @@ Opportunities for contributing more directly to WCAG and other WAI work are intr
 
 {% include_cached excol.html type="start" id="background" %}
 
+### Background: How we got from Silver to the First Public Working Draft
+
 <div style="float: right; margin-left: 2rem; width: 10%; max-width: 111px">
 <img src="https://www.w3.org/WAI/GL/WCAG3/2020/img/silver-sticker" alt="logo: ag w3c a11y silver" style="height: 10ex;" />
 </div>
 
-### Background: How we got from Silver to the First Public Working Draft
-
-Expand this section to read more about goals, user research, development process, and example guidelines.
+This expandable section provides more about goals, user research, development process, and the draft example guidelines.
 
 {% include_cached excol.html type="middle" %}
 
