@@ -77,7 +77,7 @@ We are seeking input from evaluators, developers, designers, project managers, p
 * And specific questions in [WCAG 3.0 FPWD Review Guidance](@@).
 
 It will take some time to understand the proposed new structure and conformance model in this  WCAG 3 draft.
-* If you are interested in helping shape WCAG 3, we encourage you to spend time reviewing this draft and submit comments by @@.
+* If you are interested in helping shape WCAG 3, we encourage you to spend time reviewing this draft and submit comments 21@@ January 2021.
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021.
 
 Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/TR/UAAG20/)</abbr>.
@@ -95,7 +95,7 @@ _Reminder that WCAG 3 applies to websites, web apps, tools, documents, and such 
 **Goals** for WCAG 3 include:
 * be easier to understand
 * cover more user needs, including more needs of people with cognitive disabilities
-* work @@better for a wide range of websites and situations
+* be flexible to address different types of websites, apps, tools, and organizations
 
 <span style="font-style:italic; margin-left:22px;">(More goals are a [blog post](https://www.@@) and [spec requirements doc](https://www.@@).)</span>
 
@@ -151,7 +151,7 @@ WCAG 3 supporting material includes:
 
 ### Conformance Model {#model}
 
-The “conformance model” is the way to determine and communicate how well a website meets WCAG. The WCAG 3 conformance model has been @@re-imagined to encourage more accessible user experiences and to work @@better for organizations (that is, owners/developers of websites, apps, etc.).
+The “conformance model” is the way to determine and communicate how well a website meets WCAG. The WCAG 3 conformance model has been @@re-imagined to encourage more accessible user experiences and to be more flexible for organizations (that is, owners/developers of websites, apps, etc.).
 
 <s>
 With WCAG 2, the success criteria is basically pass or fail. If a website does not pass all success criteria at the set level, then the website does not conform to WCAG 2. For example, if one inconsequential image on an unimportant, rarely-visited page is missing alt text, then technically the website as a whole does not pass WCAG 2 Level A. Yet, in this example, that one missing alt has essentially no impact on the accessibility of the website for users. Whereas, missing alt elsewhere on the website could significantly impact accessibility.
