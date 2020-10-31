@@ -216,8 +216,7 @@ WCAG 3 developed from the “Silver” project. The name “W3C Accessibility Gu
 
 ### Timeline
 <div style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
-<svg id="calendar" xmlns="http://www.w3.org/2000/svg" width="1280.000000pt" height="1272.000000pt" viewBox="0 0 1280.000000 1272.000000"
- preserveAspectRatio="xMidYMid meet">
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280.000000 1272.000000">
 <g transform="translate(0.000000,1272.000000) scale(0.100000,-0.100000)"
 fill="#003366" stroke="none">
 <path d="M1731 12705 c-121 -34 -218 -115 -269 -223 l-27 -57 0 -1115 0 -1115
