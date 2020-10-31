@@ -46,10 +46,6 @@ This page introduces the [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft]
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
-<div style="float: right; margin-left: 2rem; width: 10%; max-width: 111px">
-<img src="https://www.w3.org/WAI/GL/WCAG3/2020/img/silver-sticker" alt="logo: ag w3c a11y silver" style="height: 10ex;" />
-</div>
-
 {::options toc_levels="2,3" /}
 
 -   This text will be replaced by the TOC.
@@ -143,13 +139,15 @@ WCAG 3 is very **different** from previous versions in some ways. It has:
 WCAG 3 has:
 * **Guidelines**
    * Solutions to accessibility problems
-   * More **granular** than the guidelines in WCAG 2 (that is, @@define granular)
+   * More **granular** than the guidelines in WCAG 2
 * **Outcomes**
    * Testable statements
    * Similar to **success criteria** in WCAG 2, although more granular
    * Each outcome includes:
       * Critical errors
       * Rating scale
+
+More **_granular_** means they are more specific, instead of broad. That generally makes them simpler. And it means there will be more of them.
 
 WCAG 3 supporting material includes:
 * **Methods**
@@ -173,16 +171,18 @@ The WCAG 3 conformance model is an effort to address situations such as @@that e
 
 Some new aspects of the proposed WCAG 3 conformance model:
 * Conformance is more focused on **[processes](@@)** (tasks such as ordering an item or registering for a class), rather than web pages.
-* Outcomes can be rated, beyond just pass or fail. Ratings are 0-5.
-* The ratings are averaged for a total score. The score for each functional category (e.g., vision, hearing, memory…) is calculated.
+* Outcomes can be **rated**, beyond just pass or fail. Ratings are 0-5.
+* The ratings are averaged for a total score. There is also a **score for each functional category** (e.g., vision, hearing, memory…).
 
 The levels are different, too:
 * Conformance levels are Bronze, Silver, Gold.
    * In WCAG 2, they are Level A, Level AA, Level AAA.
-   * Bronze is similar to WCAG 2 Level AA (@@although not exactly).
-* Bronze conformance requires no critical errors, at least 3.5 total score, and at least a 3.5 score in each functional category.
+   * Bronze is similar to WCAG 2 Level AA, although not fully equivalent.
+* Bronze conformance requires:
+   * No critical errors
+   * Total score of 3.5 or higher
+   * Score of 3.5 or higher in each functional category
 * Silver and Gold levels require “holistic tests” such as assistive technology testing and usability testing with participants with disabilities.
-@@HERE
 
 <span class="smalltext" style="padding-bottom:0; margin-bottom:0;"><em>Draft example: </em>Ratings for the outcome "Conveys hierarchy with semantic structure":
 </span>
@@ -355,6 +355,10 @@ We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
 
 {% include_cached excol.html type="start" id="background" %}
+
+<div style="float: right; margin-left: 2rem; width: 10%; max-width: 111px">
+<img src="https://www.w3.org/WAI/GL/WCAG3/2020/img/silver-sticker" alt="logo: ag w3c a11y silver" style="height: 10ex;" />
+</div>
 
 ### Background: How we got from Silver to the First Public Working Draft
 
