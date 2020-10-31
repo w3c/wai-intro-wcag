@@ -46,6 +46,10 @@ This page introduces the [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft]
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
+<div style="float: right; margin-left: 2rem; width: 10%; max-width: 111px">
+<img src="https://www.w3.org/WAI/GL/WCAG3/2020/img/silver-sticker" alt="logo: ag w3c a11y silver" style="height: 10ex;" />
+</div>
+
 {::options toc_levels="2,3" /}
 
 -   This text will be replaced by the TOC.
@@ -70,7 +74,7 @@ This page will be updated to provide and link to additional information. For exa
 
 **[W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](https://www.w3.org/TR/WCAG30)** is currently an incomplete, unpolished Working Draft. It includes:
 * proposed structure
-* proposed conformance model
+* proposed [conformance model](#model)
 * 5 draft example guidelines
 
 <div style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
@@ -119,11 +123,11 @@ WCAG 3 is very **different** from previous versions in some ways. It has:
 
 ### Structure
 
-<div style="float: right; margin-left: 2rem; width: 50%; max-width: 555px">
+<div style="float: right; margin-left: 2rem; width: 40%; max-width: 444px">
 
 {% include box.html type="start" class="simple aside" %}
 
-<p><em><strong>Draft example:</strong></em></p>
+<p><em>Draft example:</em></p>
 <p style="padding-bottom:0; margin-bottom:0;"><em>Guideline</em>: Structured content</p>
 <ul style="padding-top:0; margin-top:0;">
   <li><em>Outcome</em>: Headings organize content</li>
@@ -139,10 +143,10 @@ WCAG 3 is very **different** from previous versions in some ways. It has:
 WCAG 3 has:
 * **Guidelines**
    * Solutions to accessibility problems
-   * More **granular** than the guidelines in WCAG 2
+   * More **granular** than the guidelines in WCAG 2 (that is, @@define granular)
 * **Outcomes**
    * Testable statements
-   * Similar to **success criteria** in WCAG 2
+   * Similar to **success criteria** in WCAG 2, although more granular
    * Each outcome includes:
       * Critical errors
       * Rating scale
@@ -155,23 +159,32 @@ WCAG 3 supporting material includes:
 * **How-To documents**
    * Explain more about each outcome??guideline, such as how it addresses accessibility needs
    * Similar to the **Understanding** documents for WCAG 2
-* Functional Needs
-   * Lists needs of people with disabilities
+* Functional categories of functional needs
+   * Categorized list of needs of people with disabilities
 
 ### Conformance Model {#model}
 
-The “conformance model” is the way to determine and communicate how well a website meets WCAG. The WCAG 3 conformance model has been @@re-imagined to encourage more accessible user experiences and to be more flexible for organizations (that is, owners/developers of websites, apps, etc.).
+The _conformance model_ is the way to determine and communicate how well a website meets WCAG. The conformance model in this draft of WCAG 3 is very different from WCAG 2. It is intended to be more flexible for organizations (that is, owners and developers of websites, apps, etc.) and to encourage them to provide more accessible user experiences.
 
 <s>
 With WCAG 2, the success criteria is basically pass or fail. If a website does not pass all success criteria at the set level, then the website does not conform to WCAG 2. For example, if one inconsequential image on an unimportant, rarely-visited page is missing alt text, then technically the website as a whole does not pass WCAG 2 Level A. Yet, in this example, that one missing alt has essentially no impact on the accessibility of the website for users. Whereas, missing alt elsewhere on the website could significantly impact accessibility.
+The WCAG 3 conformance model is an effort to address situations such as @@that example &mdash; to benefit both users and website providers.
 </s>
 
-The WCAG 3 conformance model is an effort to address situations such as @@that example &mdash; to benefit both users and website providers. @@Some new aspects of the proposed WCAG 3 conformance model:
-* Conformance is more focused on **[processes](@@)** (which are tasks such as ordering an item or registering for a class), rather than web pages.
-* Outcomes can be rated, beyond just pass or fail.
-* @@ more here…
+Some new aspects of the proposed WCAG 3 conformance model:
+* Conformance is more focused on **[processes](@@)** (tasks such as ordering an item or registering for a class), rather than web pages.
+* Outcomes can be rated, beyond just pass or fail. Ratings are 0-5.
+* The ratings are averaged for a total score. The score for each functional category (e.g., vision, hearing, memory…) is calculated.
 
-<span class="smalltext" style="padding-bottom:0; margin-bottom:0;"><em>Draft example: </em>Rating scale for the outcome "Conveys hierarchy with semantic structure":
+The levels are different, too:
+* Conformance levels are Bronze, Silver, Gold.
+   * In WCAG 2, they are Level A, Level AA, Level AAA.
+   * Bronze is similar to WCAG 2 Level AA (@@although not exactly).
+* Bronze conformance requires no critical errors, at least 3.5 total score, and at least a 3.5 score in each functional category.
+* Silver and Gold levels require “holistic tests” such as assistive technology testing and usability testing with participants with disabilities.
+@@HERE
+
+<span class="smalltext" style="padding-bottom:0; margin-bottom:0;"><em>Draft example: </em>Ratings for the outcome "Conveys hierarchy with semantic structure":
 </span>
 <table class="dense quiet smalltext rating-table">
   <thead>
