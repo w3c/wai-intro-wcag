@@ -143,12 +143,12 @@ WCAG 3 has:
    * Each guideline has outcomes
 * **Outcomes**
    * Testable statements
-   * Similar to **success criteria** in WCAG 2, although more granular
+   * Similar to **success criteria** in WCAG 2, more granular
    * Each outcome includes:
       * Critical errors
       * Rating scale
 
-More **_granular_** means they are more specific, instead of broad. That generally makes them simpler. And it means there will be more of them.
+More _granular_ means they are more specific, instead of broad. That generally makes them simpler. And it means there will be more of them.
 
 WCAG 3 supporting material includes:
 * **Methods**
@@ -219,7 +219,12 @@ The levels are different, too:
 
 ### WCAG 3 Name (formerly "Silver" project)
 
-WCAG 3 developed from the “Silver” project. The name “W3C Accessibility Guidelines (WCAG)” was chosen:
+WCAG 3 developed from the “Silver” project. 
+
+WCAG **3** is W3C Accessibility Guidelines.<br>
+WCAG **2** is Web Content Accessibility Guidelines.
+ 
+“W3C Accessibility Guidelines (WCAG) 3.0” was chosen:
 * because of wide-spread familiarity with the “WCAG” acronym
 * to encompass the broader scope beyond “content” &mdash; WCAG 3 includes web authoring tools and web browsers
 
