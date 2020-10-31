@@ -18,7 +18,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: DRAFT in-progress</strong> Updated 30 October 2020. </p>
+  <p><strong>Date: DRAFT in-progress</strong> Updated 31 October 2020. </p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, Silver Community Group, and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
@@ -70,6 +70,12 @@ W3C Accessibility Guidelines (WCAG) 3 is currently an incomplete, unpolished Wor
 * proposed structure
 * proposed conformance model
 * 5 draft example guidelines
+
+<div style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+
+{% include_cached icon.html name="comments" %}
+
+</div>
 
 We are seeking input from evaluators, developers, designers, project managers, policy makers, people with disabilities, and others &mdash; particularly on:
 * Is this structure clear?
@@ -222,3 +228,46 @@ The WCAG technical documents are developed by the Accessibility Guidelines Worki
 We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts, per [Status: Draft for Review above](#status-draft-for-review).
 
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
+
+### Background: How we got from Silver to the First Public Working Draft
+
+#### Research with People Who Use WCAG
+
+In 20@@, project “Silver” was launched to explore a new approach to accessibility guidelines, through the AG WG Silver Task Force and the Silver Community Group. The groups conducted 18 months of research to identify stakeholders and understand their needs for accessibility guidance. The results where that generally WCAG users {@@liked the guidance that is in WCAG 2}, yet many users thought that WCAG 2 {@@grammar fix needed}:
+*  difficult to understand
+* too restrictive to include some requirements to address the needs of some people with disabilities, particularly cognitive disabilities
+* conformance model didn’t meet their organization’s specific needs
+
+Silver held a Design Sprint in 2018 with 27 industry leaders across a variety of accessibility stakeholders. The two-day workshop took the problem statements identified by the research, and challenged participants to come up with innovative solutions. Silver made many prototypes of possible solutions and iterated through options with input from AG WG participants.
+
+The results form the basis of the WCAG 3.0 Working Draft.
+
+#### Goals {#goalsmore}
+
+From the WCAG-user research, Silver defined goals for next generation of accessibility guidelines from W3C WAI. They include:
+* Able to address more needs of people with disabilities
+* Account for the different impacts of specific accessibility issues on the real-world user experiences of people with disabilities
+* Easier to understand and easier to use, especially by people who are not technical
+* Flexible conformance model to work well for very different types of websites, apps, tools, &mdash; as well as organizations and people with disabilities
+* Enable minor bugs and oversight by content authors that do not significantly impact the accessible user experience to not invalidate conformance to WCAG
+* Encourage organizations to continue to improve accessibility (rather than stopping with WCAG 2 Level AA)
+
+#### Development Process
+
+In defining the accessibility requirements in WCAG 3.0, Silver started fresh with a list of accessibility needs of people with disabilities. Development goes through this process:
+1. From a specific user need, write an outcome to meet that user need.
+2. Define tests to determine if the outcome is met.
+3. Write the method to meet the outcome.
+4. Group the outcomes under guidelines. [@@correct?]
+5. Write the How-To support information.
+
+{#eg-guidelines}
+
+''Examples:'' The guidelines included in the First Public Working Draft were selected to illustrate specific aspects of the proposed structure of WCAG 3:
+* migrating a WCAG 2 success criterion as is into a WCAG 3 outcome: [Text alternatives]( https://w3c.github.io/silver/guidelines/#text-alternatives)
+* merging multiple AA and AAA success criteria into a single WCAG 3 guideline: [Visual contrast of text]( https://w3c.github.io/silver/guidelines/#visual-contrast-of-text)
+* adding new accessibility requirements that did not fit the parameters for being included in WCAG 2: [Clear words](https://w3c.github.io/silver/guidelines/#clear-words)
+* integrating WCAG 2 content with significant updates: [Structured content](https://w3c.github.io/silver/guidelines/#structured-content)
+* adapting WCAG 2 success criteria to emerging technologies, such as virtual reality: [Captions](https://w3c.github.io/silver/guidelines/#captions)
+
+The guidelines are rough draft examples, and will be refined and edited in future Working Drafts.
