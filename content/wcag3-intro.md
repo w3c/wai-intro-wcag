@@ -358,7 +358,7 @@ Opportunities for contributing more directly to WCAG and other WAI work are intr
 
 {% include_cached excol.html type="start" id="background" %}
 
-### Background for Your Review of the Working Draft: Motivations for the WCAG 3 Differences {#background}
+### Background: How we got from WCAG 2 to Silver to the WCAG 3 First Public Working Draft {#background}
 
 <div style="float: right; margin-left: 2rem; width: 10%; max-width: 111px">
 <img src="https://www.w3.org/WAI/GL/WCAG3/2020/img/silver-sticker" alt="logo: ag w3c a11y silver" style="height: 10ex;" />
