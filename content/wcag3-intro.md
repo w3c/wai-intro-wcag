@@ -215,17 +215,6 @@ The levels are different, too:
 
 ## Development
 
-### WCAG 3 Name (formerly "Silver" project)
-
-WCAG 3 developed from the “Silver” project. 
-
-WCAG **3** is W3C Accessibility Guidelines.<br>
-WCAG **2** is Web Content Accessibility Guidelines.
- 
-“W3C Accessibility Guidelines (WCAG) 3.0” was chosen:
-* because of wide-spread familiarity with the “WCAG” acronym
-* to encompass the broader scope beyond “content”
-
 ### Timeline
 <div style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 <svg id="calendar" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280.000000 1272.000000">
@@ -346,6 +335,17 @@ m95 -62 c13 -12 23 -32 23 -45 0 -22 -3 -23 -85 -23 -79 0 -85 1 -85 20 0 60
 2023: WCAG 3.0 may be published as a final standard in late 2023.
 
 WCAG 3 will not supersede WCAG 2 and WCAG 2 will not be deprecated for at least several years.
+
+### WCAG 3 Name (formerly "Silver" project)
+
+WCAG 3 developed from the “Silver” project. 
+
+WCAG **3** is W3C Accessibility Guidelines.<br>
+WCAG **2** is Web Content Accessibility Guidelines.
+ 
+“W3C Accessibility Guidelines (WCAG) 3.0” was chosen:
+* because of wide-spread familiarity with the “WCAG” acronym
+* to encompass the broader scope beyond “content”
 
 ### Who Develops WCAG 3
 
