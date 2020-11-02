@@ -213,6 +213,8 @@ The levels are different, too:
   </tbody>
 </table>
 
+The conformance model in the First Public Working Draft will likely change in future iterations and drafts. It may change a little or may change substantively.
+
 ## Development
 
 ### Timeline
@@ -334,13 +336,13 @@ m95 -62 c13 -12 23 -32 23 -45 0 -22 -3 -23 -85 -23 -79 0 -85 1 -85 20 0 60
 
 2023: WCAG 3.0 may be published as a final standard in late 2023.
 
-WCAG 3 will not supersede WCAG 2 and WCAG 2 will not be deprecated for at least several years.
+For at least several years after WCAG 3 is finalized, WCAG 3 will not supersede WCAG 2 and WCAG 2 will not be deprecated.
 
 ### WCAG 3 Name (formerly "Silver" project)
 
 The name of WCAG 3 is different from WCAG 2:
-* WCAG **3** is W3C Accessibility Guidelines.
-* WCAG **2** is Web Content Accessibility Guidelines.
+* WCAG **3** is W3C Accessibility Guidelines
+* WCAG **2** is Web Content Accessibility Guidelines
  
 “W3C Accessibility Guidelines (WCAG) 3.0” was chosen:
 * because of wide-spread familiarity with the “WCAG” acronym
