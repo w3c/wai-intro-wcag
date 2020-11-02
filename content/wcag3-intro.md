@@ -84,7 +84,7 @@ We are seeking input from evaluators, developers, designers, project managers, p
 * and specific questions throughout the draft.
 
 It will take you some time to understand the proposed new structure and conformance model in this WCAG 3 draft.
-* If you are interested in helping shape WCAG 3, we encourage you to read this page (including the [background](#background) near the end), spend time reviewing this draft, and submit comments 21@@ January 2021.
+* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments 21@@ January 2021. Before you review and comment on the Working Draft, please read the [background](#background) section below for context.
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
 
 Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/TR/UAAG20/)</abbr>.
