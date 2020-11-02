@@ -82,7 +82,7 @@ This page will be updated to provide and link to additional information. For exa
 
 We are seeking input from evaluators, developers, designers, project managers, policy makers, people with disabilities, and others &mdash; particularly on:
 * Is this structure clear?
-* How does this conformance model work in practice?
+* How well does this conformance model work across different situations?
 * And specific questions in [WCAG 3.0 FPWD Review Guidance](@@).
 
 It will take some time to understand the proposed new structure and conformance model in this  WCAG 3 draft.
@@ -226,7 +226,7 @@ WCAG **2** is Web Content Accessibility Guidelines.
  
 “W3C Accessibility Guidelines (WCAG) 3.0” was chosen:
 * because of wide-spread familiarity with the “WCAG” acronym
-* to encompass the broader scope beyond “content” &mdash; WCAG 3 includes web authoring tools and web browsers
+* to encompass the broader scope beyond “content”
 
 ### Timeline
 <div style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
