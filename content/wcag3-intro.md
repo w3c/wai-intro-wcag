@@ -356,13 +356,15 @@ Opportunities for contributing more directly to WCAG and other WAI work are intr
 
 {% include_cached excol.html type="start" id="background" %}
 
-### Background: How we got from Silver to the First Public Working Draft {#background}
+### Background for Review: How we got from Silver to the First Public Working Draft {#background}
 
 <div style="float: right; margin-left: 2rem; width: 10%; max-width: 111px">
 <img src="https://www.w3.org/WAI/GL/WCAG3/2020/img/silver-sticker" alt="logo: ag w3c a11y silver" style="height: 10ex;" />
 </div>
 
-This expandable section provides more about goals, user research, development process, and the draft example guidelines.
+This expandable section provides more about the goals, user research, development process, and draft example guidelines. It introduces the motivations for the changes from WCAG 2 to WCAG 3.
+
+Before you review and comment on the Working Draft, please read this section for context.
 
 {% include_cached excol.html type="middle" %}
 
