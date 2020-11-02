@@ -169,7 +169,7 @@ The _conformance model_ is the way to determine and communicate how well a websi
 
 Some new aspects of the proposed WCAG 3 conformance model:
 * Conformance is more focused on **[processes](@@)** (tasks such as ordering an item or registering for a class), rather than web pages.
-* Outcomes can be **rated**, beyond just pass or fail. Ratings are 0-5.
+* Outcomes can be **rated**, beyond just pass or fail. Ratings are 0-4.
 * The ratings are averaged for a total score. There is also a **score for each functional category** (e.g., vision, hearing, memory, etc.).
 
 The levels are different, too:
