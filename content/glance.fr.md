@@ -8,7 +8,7 @@ description: Cette page propose un résumé paraphrasé des règles pour l'acces
 
 lang: fr
 last_updated: 2020-10-06
-permalink: /standards-guidelines/wcag/glance/fr/
+permalink: /standards-guidelines/wcag/glance/fr
 translators: 
 - name: "Sylvie Duchateau"
 
