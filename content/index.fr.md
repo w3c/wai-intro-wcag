@@ -8,7 +8,7 @@ description: Présente le standard international des Règles pour l'accessibilit
 
 lang: fr
 last_updated: 2020-10-06
-permalink: /standards-guidelines/wcag/fr
+permalink: /standards-guidelines/wcag/fr/
 translators: 
 - name: "Sylvie Duchateau"
 
