@@ -63,7 +63,7 @@ Two types of translations are listed on this page:
       <th scope="col">Notes and e-mail notifications</th>
     </tr>
     <tr>
-      <th id="ar21">Arabic</a></th>
+      <th id="ar21">Arabic</th>
       <td></td>
       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2020OctDec/0005.html">[LTO approved] Letter of Intent - Authorized Arabic Translation [of WCAG 2.1] (13 October 2020)</a></td>
     </tr>
@@ -95,7 +95,7 @@ Two types of translations are listed on this page:
       <td></td>
     </tr>
      <tr>
-        <th id="il21">Hebrew</a></th>
+        <th id="il21">Hebrew</th>
         <td></td>
         <td><a href="https://lists.w3.org/Archives/Public/w3c-translators/2020JanMar/0025.html">Hebrew Intention of translation (21 March 2020)</a></td>
      </tr>
