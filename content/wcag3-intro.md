@@ -60,9 +60,7 @@ This page introduces the [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft]
 
 The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. _(The rest of this page uses “website” for simplicity, yet WCAG applies more broadly than websites.)_
 
-WCAG 3 is intended to become a W3C Standard. (You can learn more from [[How WAI Develops Accessibility Standards through the W3C Process]](https://www.w3.org/WAI/standards-guidelines/w3c-process/).)
-
-The current version, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+WCAG 3 is intended to become a W3C Standard. (You can learn more from [[How WAI Develops Accessibility Standards through the W3C Process]](https://www.w3.org/WAI/standards-guidelines/w3c-process/).) The current standard, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 This page will be updated with additional information. For example, in the future it could link to mapping between WCAG 2 and 3 and to other support material for those wanting to transition to WCAG 3.
 
