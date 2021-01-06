@@ -1,13 +1,13 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "[DRAFT] WCAG 3 Introduction"
-nav_title: "3.0 Intro"
+title: "WCAG 3 Introduction"
+nav_title: "WCAG 3 Draft"
 
 description: Introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. WCAG documents explain how to make the web more accessible to people with disabilities.
 
 lang: en
-last_updated: 2020-10-28
+last_updated: 2021-01-19
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -18,7 +18,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: DRAFT in-progress</strong> Updated 2 November 2020. </p>
+  <p><strong>Date: </strong> Updated 6 January 2021.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -58,9 +58,9 @@ This page introduces the [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft]
 ## Introduction
 {:.no_toc}
 
-The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. _(The rest of this page uses “website” for simplicity, yet WCAG applies more broadly than websites.)_
+WCAG 3 is an early draft that is intended to become a W3C Standard. The current standard, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-WCAG 3 is intended to become a W3C Standard. (You can learn more from [[How WAI Develops Accessibility Standards through the W3C Process]](https://www.w3.org/WAI/standards-guidelines/w3c-process/).) The current standard, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. _(The rest of this page uses “website” for simplicity, yet WCAG applies more broadly than websites.)_
 
 This page will be updated with additional information. For example, in the future it could link to mapping between WCAG 2 and 3 and to other support material for those wanting to transition to WCAG 3.
 
@@ -84,7 +84,7 @@ We are seeking input from evaluators, developers, designers, project managers, p
 * and specific questions throughout the draft.
 
 It will take you some time to understand the proposed new structure and conformance model in this WCAG 3 draft.
-* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments 21@@ January 2021. Before you review and comment on the Working Draft, please read the [background](#background) section below for context.
+* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments by @@ Month 2021. Before you review and comment on the Working Draft, please read the [background](#background) section below for context.
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
 
 Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/TR/UAAG20/)</abbr>.
@@ -350,7 +350,7 @@ The name of WCAG 3 is different from WCAG 2:
 
 ### Who Develops WCAG 3
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) with the AG WG Silver Task Force and the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
+The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) with the AG WG Silver Task Force and the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).)
 
 We welcome your [comments](/standards-guidelines/wcag/commenting/) on the WCAG 3 Working Drafts, per [Status: Draft for Review above](#status-draft-for-review).
 
