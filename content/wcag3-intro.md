@@ -66,7 +66,7 @@ This page will be updated with additional information. For example, in the futur
 
 ## Status: Draft for Review
 
-**[W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](https://www.w3.org/TR/WCAG30)** is currently an incomplete, unpolished Working Draft. It includes:
+**[W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](https://www.w3.org/TR/WCAG30)** is currently an **incomplete, unpolished Working Draft**. It includes:
 * proposed structure
 * proposed [conformance model](#model)
 * 5 draft example guidelines
@@ -372,10 +372,10 @@ This expandable section provides more about the goals, user research, developmen
 
 #### Research with People Who Use WCAG
 
-In 20@@, project “Silver” was launched to explore a new approach to accessibility guidelines, through the AG WG Silver Task Force and the Silver Community Group. The groups conducted 18 months of research to identify stakeholders and understand their needs for accessibility guidance. The results where that generally WCAG users {@@liked the guidance that is in WCAG 2}, yet many users thought that WCAG 2 {@@grammar fix needed}:
-*  difficult to understand
-* too restrictive to include some requirements to address the needs of some people with disabilities, particularly cognitive disabilities
-* conformance model didn’t meet their organization’s specific needs
+In 2016, project “Silver” was launched to explore a new approach to accessibility guidelines, through the AG WG Silver Task Force and the Silver Community Group. The groups conducted 18 months of research to identify stakeholders and understand their needs for accessibility guidance. The results where that generally WCAG users felt the guidance in WCAG 2 is important and useful, yet many thought that WCAG 2:
+* is difficult to understand
+* is too restrictive to include some requirements that address the needs of some people with disabilities, particularly cognitive disabilities
+* conformance model doesn’t meet their organization’s specific needs
 
 Silver held a Design Sprint in 2018 with 27 industry leaders across a variety of accessibility stakeholders. The two-day workshop took the problem statements identified by the research, and challenged participants to come up with innovative solutions. Silver made many prototypes of possible solutions and iterated through options with input from AG WG participants.
 
@@ -399,7 +399,7 @@ In defining the accessibility requirements in WCAG 3.0, Silver started fresh wit
 1. From a specific user need, write an outcome to meet that user need.
 2. Define tests to determine if the outcome is met.
 3. Write the method to meet the outcome.
-4. Group the outcomes under guidelines. [@@correct?]
+4. Group the outcomes under guidelines. <!-- [@@correct?] -->
 5. Write the How-To support information.
 
 #### _Draft Examples_ {#eg-guidelines}
