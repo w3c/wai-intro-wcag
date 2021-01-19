@@ -95,7 +95,9 @@ We also welcome comments on the goals and parameters in the "WCAG 3 requirements
 Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, or inclusion in the process of creating WCAG 3. 
 
 It will take you some time to understand the proposed new structure and conformance model in this WCAG 3 draft.
-* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments by 26 February 2021. Before you review and comment on the Working Draft, **please read through this page, including the [background](#background) section, and read the review guidance in the blog post to be published with the FPWD**. <-- [WCAG 3 FPWD Published](https://www.w3.org/blog/2020/11/wcag-3-fpwd/) -->.
+* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments by 26 February 2021. **Before you review and comment on the Working Draft, please read through**:
+  * This page, including the [background](#background) section near the end
+  * The review guidance in the blog post to be published with the FPWD _(we'll add a link to the blog when it's publiashed)_ <!-- [WCAG 3 FPWD Published](https://www.w3.org/blog/2020/11/wcag-3-fpwd/) -->.
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
 
 Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr>.
@@ -115,7 +117,7 @@ _Reminder that WCAG 3 applies to web content, apps, tools, publishing, and emerg
 * cover more user needs, including more needs of people with cognitive disabilities
 * be flexible to address different types of web content, apps, tools, and organizations
 
-<span style="font-style:italic; margin-left:22px;">(More goals are in the [Background section below](#background).)</span>
+<span style="font-style:italic; margin-left:22px;">(More goals are later on this page, in the [Background section](#background).)</span>
 
 WCAG 3 is **similar** to previous versions in some ways. It has similar:
 * goal of providing guidance on making web content and apps accessible to people with disabilities
@@ -165,7 +167,7 @@ WCAG 3 supporting material includes:
    * Tests for the outcome
    * Similar to **Techniques** for WCAG 2
 * **How-To documents**
-   * Explain more about each outcome???guideline, such as how it addresses accessibility needs
+   * Explain more about each guideline, such as how it addresses accessibility needs <!-- @@ each outcome or each guideline ? -->
    * Similar to the **Understanding** documents for WCAG 2
 * **Functional categories** of **functional needs**
    * Categorized list of needs of people with disabilities
@@ -176,7 +178,9 @@ The _conformance model_ is the way to determine and communicate how well a websi
 * be more flexible for organizations (that is, owners and developers of websites, apps, tools, etc.)
 * encourage more accessible user experiences
 
-Some new aspects of the proposed WCAG 3 conformance model:
+The conformance model now in the WCAG 3 Draft is a starting point for feedback.
+
+Several different aspects of this draft WCAG 3 conformance model:
 * Conformance is more focused on processes <!-- **[processes](https://www.w3.org/TR/wcag-3.0/#processes)** --> (tasks such as ordering an item or registering for a class), rather than web pages.
 * Outcomes can be **rated**, beyond just pass or fail. Rating scale is 0-4.
 * The ratings are averaged for a total score. There is also a **score for each functional category** (e.g., vision, hearing, memory, etc.).
