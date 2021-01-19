@@ -96,8 +96,8 @@ We also welcome comments on the goals and parameters in the "WCAG 3 requirements
 Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, or inclusion in the process of creating WCAG 3. 
 
 It will take you some time to understand the proposed new structure and conformance model in this WCAG 3 draft.
-* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments by 26 February 2021. **Before you review and comment on the Working Draft, please read through**:
-  * This page, including the [background](#background) section near the end
+* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments by 26 February 2021.<br>**Before you review and comment on the Working Draft, please read through**:
+  * This page, including the [background](#background) section near the end.
   * The review guidance in the blog post to be published with the FPWD _(we'll add a link to the blog when it's publiashed)_ <!-- [WCAG 3 FPWD Published](https://www.w3.org/blog/2020/11/wcag-3-fpwd/) -->.
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
 
@@ -156,7 +156,7 @@ WCAG 3 has:
 * **Outcomes**
    * Testable statements
    * Similar to **success criteria** in WCAG 2, more granular
-   * Each outcome includes:
+   * Outcomes include:
       * Critical errors
       * Rating scale
 
@@ -181,7 +181,7 @@ The _conformance model_ is the way to determine and communicate how well a websi
 
 The conformance model now in the WCAG 3 Draft is a starting point for feedback.
 
-Several different aspects of this draft WCAG 3 conformance model:
+There are several different aspects of this draft WCAG 3 conformance model:
 * Conformance is more focused on processes <!-- **[processes](https://www.w3.org/TR/wcag-3.0/#processes)** --> (tasks such as ordering an item or registering for a class), rather than web pages.
 * Outcomes can be **rated**, beyond just pass or fail. Rating scale is 0-4.
 * The ratings are averaged for a total score. There is also a **score for each functional category** (e.g., vision, hearing, memory, etc.).
