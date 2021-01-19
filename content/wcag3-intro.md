@@ -36,7 +36,9 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](https://www.w3.org/TR/wcag-3.0/). It explains how WCAG 3 is related to WCAG 2.<br>This page is the starting point for information about WCAG 3 now and in the future.
+<!-- @@ This page introduces the [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](https://www.w3.org/TR/wcag-3.0/). -->
+
+This page introduces the **unpublished, in-progress draft** of W3C Accessibility Guidelines (WCAG) 3.0. It explains how WCAG 3 is related to WCAG 2.<br>This page is the starting point for information about WCAG 3 now and in the future.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -58,6 +60,8 @@ This page introduces the [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft]
 ## Introduction
 {:.no_toc}
 
+_We plan to publish the First Public Working Draft (FPWD) of WCAG 3 in January 2021. This page will be updated when it is published._ <!-- @@ -->
+
 WCAG 3 is an early draft that is intended to become a W3C Standard. The current standard, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. _(The rest of this page uses “website” for simplicity, yet WCAG applies more broadly than websites.)_
@@ -66,7 +70,10 @@ This page will be updated with additional information. For example, in the futur
 
 ## Status: Draft for Review
 
-**[W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](https://www.w3.org/TR/wcag-3.0/)** is currently an **incomplete, unpolished Working Draft**. It includes:
+<!-- @@replace first sentence:
+**[W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](@@link)** is currently an **incomplete, unpolished Working Draft**. -->
+
+W3C Accessibility Guidelines (WCAG) 3.0 is currently an **unpublished Editor's Draft**. It includes:
 * proposed structure
 * proposed [conformance model](#model)
 * 5 draft example guidelines
@@ -78,15 +85,17 @@ This page will be updated with additional information. For example, in the futur
 </svg>
 </div>
 
-We are seeking input from evaluators, developers, designers, project managers, policy makers, people with disabilities, and others &mdash; particularly on:
+We will be <!-- are --> seeking input from evaluators, developers, designers, project managers, policy makers, people with disabilities, and others &mdash; particularly on:
 * Is this structure clear and useful?
 * How well does this conformance model work across different situations?
 * and specific questions throughout the draft.
 
-We also welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, or inclusion in the process of creating WCAG 3. 
+We also welcome comments on the goals and parameters in the "WCAG 3 requirements doc" that will be published in January 2021. <!--: [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/). -->
+
+Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, or inclusion in the process of creating WCAG 3. 
 
 It will take you some time to understand the proposed new structure and conformance model in this WCAG 3 draft.
-* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments by 26 February 2021. Before you review and comment on the Working Draft, **please read through this page, including the [background](#background) section, and read the review guidance in the blog post [WCAG 3 FPWD Published](https://www.w3.org/blog/2020/11/wcag-3-fpwd/)**.
+* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments by 26 February 2021. Before you review and comment on the Working Draft, **please read through this page, including the [background](#background) section, and read the review guidance in the blog post to be published with the FPWD**. <-- [WCAG 3 FPWD Published](https://www.w3.org/blog/2020/11/wcag-3-fpwd/) -->.
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
 
 Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr>.
@@ -168,7 +177,7 @@ The _conformance model_ is the way to determine and communicate how well a websi
 * encourage more accessible user experiences
 
 Some new aspects of the proposed WCAG 3 conformance model:
-* Conformance is more focused on **[processes](https://www.w3.org/TR/wcag-3.0/#processes)** (tasks such as ordering an item or registering for a class), rather than web pages.
+* Conformance is more focused on processes <!-- **[processes](https://www.w3.org/TR/wcag-3.0/#processes)** --> (tasks such as ordering an item or registering for a class), rather than web pages.
 * Outcomes can be **rated**, beyond just pass or fail. Rating scale is 0-4.
 * The ratings are averaged for a total score. There is also a **score for each functional category** (e.g., vision, hearing, memory, etc.).
 
@@ -332,11 +341,11 @@ m95 -62 c13 -12 23 -32 23 -45 0 -22 -3 -23 -85 -23 -79 0 -85 1 -85 20 0 60
 </svg>
 </div>
 
-2020: The First Public Working Draft of WCAG 3.0 was published in January 2021.
+2021: The First Public Working Draft of WCAG 3.0 is planned to be published in January 2021. <!-- @@ was published in January 2021 -->
 
-2021-2022: Work will first focus on refining the structure and conformance model. Once that is more stable, the accessibility requirements (guidelines, outcomes, etc.) will be developed. A complete draft may be available in late 2022.
+2021-2022: Work will first focus on refining the structure and conformance model. Once that is more stable, the accessibility requirements (guidelines, outcomes, etc.) will be developed. A complete draft may be available in late 2022 or 2023.
 
-2023: WCAG 3.0 may be published as a final standard in late 2023.
+2023: WCAG 3.0 may be published as a final standard in late 2023 or 2024.
 
 For at least several years after WCAG 3 is finalized, WCAG 3 will not supersede WCAG 2 and WCAG 2 will not be deprecated.
 
@@ -368,7 +377,7 @@ Opportunities for contributing more directly to WCAG and other WAI work are intr
 
 This expandable section provides more about the goals, user research, development process, and draft example guidelines. It introduces the motivations for the changes from WCAG 2 to WCAG 3.
 
-**Before you review and comment on the Working Draft, please read this section for context.**
+**Before you review and comment on the Draft, please read this section for context.**
 
 {% include_cached excol.html type="middle" %}
 
@@ -393,7 +402,9 @@ From the WCAG-user research, Silver defined goals for next generation of accessi
 * Enable minor bugs and oversight by content authors that do not significantly impact the accessible user experience to not invalidate conformance to WCAG
 * Encourage organizations to continue to improve accessibility (rather than stopping with WCAG 2 Level AA)
 
-**More about goals is in the spec requirements doc: [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).**
+<!-- **More about goals is in the spec requirements doc: [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).** We welcome comments on this document, too. -->
+
+More about goals is in the "WCAG 3 requirements doc" that will be published in January 2021. We welcome comments on this document, too.
 
 #### Development Process
 
