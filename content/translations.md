@@ -15,7 +15,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 4 August 2020. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 17 November 2020. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -62,6 +62,11 @@ Two types of translations are listed on this page:
       <th scope="col">Translations available</th>
       <th scope="col">Notes and e-mail notifications</th>
     </tr>
+    <tr>
+      <th id="ar21">Arabic</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2020OctDec/0005.html">[LTO approved] Letter of Intent - Authorized Arabic Translation [of WCAG 2.1] (13 October 2020)</a></td>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -89,6 +94,11 @@ Two types of translations are listed on this page:
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-nl/">Dutch Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
     </tr>
+     <tr>
+        <th id="il21">Hebrew</th>
+        <td></td>
+        <td><a href="https://lists.w3.org/Archives/Public/w3c-translators/2020JanMar/0025.html">Hebrew Intention of translation (21 March 2020)</a></td>
+     </tr>
     <tr>
       <th id="it21">Italian</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-it/">Italian Authorized Translation of WCAG 2.1 completed</a></strong></td>
@@ -97,6 +107,11 @@ Two types of translations are listed on this page:
     <tr>
       <th id="kr21">Korean</th>
       <td><a href="http://www.kwacc.or.kr/WAI/wcag21/">Korean unofficial translation of WCAG 2.1  {% include_cached external.html %}</a></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th id="pl21">Polish</th>
+      <td><a href="https://wcag21.lepszyweb.pl/">Polish Candidate Authorized Translation of WCAG 2.1  {% include_cached external.html %}</a></td>
       <td>&nbsp;</td>
     </tr>
     <tr>

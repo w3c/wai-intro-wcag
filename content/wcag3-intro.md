@@ -7,6 +7,7 @@ nav_title: "WCAG 3 Draft"
 description: Introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. WCAG documents explain how to make the web more accessible to people with disabilities.
 
 lang: en
+
 last_updated: 2021-01-19
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
