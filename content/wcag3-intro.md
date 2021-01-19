@@ -98,7 +98,7 @@ Additionally, we welcome comments on ways that the Accessibility Guidelines Work
 It will take you some time to understand the proposed new structure and conformance model in this WCAG 3 draft.
 * If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments by 26 February 2021.<br>**Before you review and comment on the Working Draft, please read through**:
   * This page, including the [background](#background) section near the end.
-  * The review guidance in the blog post to be published with the FPWD _(we'll add a link to the blog when it's publiashed)_ <!-- [WCAG 3 FPWD Published](https://www.w3.org/blog/2020/11/wcag-3-fpwd/) -->.
+  * The review guidance in the blog post to be published with the FPWD. _(we'll add a link to the blog when it's published)_ <!-- [WCAG 3 FPWD Published](https://www.w3.org/blog/2020/11/wcag-3-fpwd/) -->
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
 
 Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr>.
@@ -422,7 +422,7 @@ In defining the accessibility requirements in WCAG 3.0, Silver started fresh wit
 
 #### _Draft Examples_ {#eg-guidelines}
 
-The draft guidelines included in the First Public Working Draft were selected to illustrate specific aspects of the proposed structure of WCAG 3 and relationship with WCAG 2.
+The draft guidelines included in the <!-- First Public Working --> Draft were selected to illustrate specific aspects of the proposed structure of WCAG 3 and relationship with WCAG 2.
 * Migrating a WCAG 2 success criterion as is into a WCAG 3 outcome: [Text alternatives](https://w3c.github.io/silver/guidelines/#text-alternatives)
 * Merging multiple AA and AAA success criteria into a single WCAG 3 guideline: [Visual contrast of text](https://w3c.github.io/silver/guidelines/#visual-contrast-of-text)
 * Adding new accessibility requirements that did not fit the parameters for being included in WCAG 2: [Clear words](https://w3c.github.io/silver/guidelines/#clear-words)
