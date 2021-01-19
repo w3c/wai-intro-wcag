@@ -420,7 +420,7 @@ In defining the accessibility requirements in WCAG 3.0, Silver started fresh wit
 4. Group the outcomes under guidelines. <!-- [@@correct?] -->
 5. Write the How-To support information.
 
-#### _Draft Examples_ {#eg-guidelines}
+#### _**Draft Examples**_ {#eg-guidelines}
 
 The draft guidelines included in the <!-- First Public Working --> Draft were selected to illustrate specific aspects of the proposed structure of WCAG 3 and relationship with WCAG 2.
 * Migrating a WCAG 2 success criterion as is into a WCAG 3 outcome: [Text alternatives](https://w3c.github.io/silver/guidelines/#text-alternatives)
