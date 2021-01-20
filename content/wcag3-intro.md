@@ -63,7 +63,7 @@ This page introduces the **unpublished, in-progress draft** of W3C Accessibility
 
 _We plan to publish the First Public Working Draft (FPWD) of WCAG 3 in January 2021. This page will be updated when it is published._ <!-- @@ -->
 
-WCAG 3 is an early, incomplete draft that is intended to become a W3C Standard in a few years. The current standard, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+WCAG 3 is currently an incomplete draft that is intended to become a W3C Standard in a few years. The current standard, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. _(The rest of this page uses “website” for simplicity, yet WCAG applies more broadly than websites.)_
 
@@ -431,7 +431,7 @@ The draft guidelines included in the <!-- First Public Working --> Draft were se
 
 These guidelines are rough draft examples, and will be refined and edited in future Working Drafts.
 
-#### Review Questions
+#### **Review Questions**
 
 For specific questions that we would like feedback on, see:
 * The “Feedback” section of the blog &mdash; to be linked here in January. <!-- @@ -->
