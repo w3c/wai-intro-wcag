@@ -101,7 +101,7 @@ It will take you some time to understand the proposed new structure and conforma
   * The review guidance in the blog post to be published with the FPWD. _(we'll add a link to the blog when it's published)_ <!-- [WCAG 3 FPWD Published](https://www.w3.org/blog/2020/11/wcag-3-fpwd/) -->
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
 
-Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr>.
+Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/WAI/standards-guidelines/uaag/)</abbr>.
 
 ## WCAG 3 Draft Approach
 
