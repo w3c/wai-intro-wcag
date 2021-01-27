@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2021-01-21
+last_updated: 2021-01-27
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -20,7 +20,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 21 January 2021.</p>
+  <p><strong>Date: </strong>Updated 27 January 2021.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -415,19 +415,25 @@ In defining the accessibility requirements in WCAG 3.0, Silver started fresh wit
 #### _**Draft Examples**_ {#eg-guidelines}
 
 The draft guidelines included in the First Public Working Draft were selected to illustrate specific aspects of the proposed structure of WCAG 3 and relationship with WCAG 2.
-* Migrating a WCAG 2 success criterion as is into a WCAG 3 outcome: [Text alternatives](https://w3c.github.io/silver/guidelines/#text-alternatives)
-* Merging multiple AA and AAA success criteria into a single WCAG 3 guideline: [Visual contrast of text](https://w3c.github.io/silver/guidelines/#visual-contrast-of-text)
-* Adding new accessibility requirements that did not fit the parameters for being included in WCAG 2: [Clear words](https://w3c.github.io/silver/guidelines/#clear-words)
-* Integrating WCAG 2 content with significant updates: [Structured content](https://w3c.github.io/silver/guidelines/#structured-content)
-* Adapting WCAG 2 success criteria to emerging technologies, such as virtual reality: [Captions](https://w3c.github.io/silver/guidelines/#captions)
+* [Text alternatives](https://w3c.github.io/silver/guidelines/#text-alternatives) &mdash; Migrating a WCAG 2 success criterion as is into a WCAG 3 outcome
+* [Clear words](https://w3c.github.io/silver/guidelines/#clear-words) &mdash; Adding a new accessibility requirement that was considered insufficiently testable for WCAG 2, and can be tested using the WCAG 3 rating scale
+* [Captions](https://w3c.github.io/silver/guidelines/#captions) &mdash; Adapting WCAG 2 success criteria to emerging technologies, such as virtual reality, and demonstrating how scoring varies by context
+* [Structured content](https://w3c.github.io/silver/guidelines/#structured-content) &mdash; Combining guidance from multiple WCAG 2 success criteria into a new WCAG 3 guideline with multiple outcomes
+* [Visual contrast of text](https://w3c.github.io/silver/guidelines/#visual-contrast-of-text) &mdash; Combining guidance from multiple WCAG 2 success criteria, and a new algorithm with support for different situations
 
-These guidelines are rough draft examples, and will be refined and edited in future Working Drafts.
+These guidelines and outcomes are rough draft examples that will be refined and edited in future Working Drafts.
 
 #### **Review Questions**
 
 For specific questions that we would like feedback on, see:
 * Questions in the blog post [WCAG 3 FPWD Published, Feedback section](https://www.w3.org/blog/2021/01/wcag-3-fpwd/#feedback).
 * Questions in Editor’s Notes throughout the draft.
+
+To comment, please open a [new GitHub issue in the WCAG 3 (Silver) repository](https://github.com/w3c/silver/issues/new). Please create one GitHub issue per discrete comment, rather than putting comments on multiple topics in a single issue.
+
+If it’s not feasible for you to use GitHub, send comments in e-mail to: public-silver@w3.org
+
+Please send comments on this draft by *26 February 2021*.
 
 {% include_cached excol.html type="end" %}
 
