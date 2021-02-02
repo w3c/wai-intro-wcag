@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2021-01-27
+last_updated: 2021-02-02
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -20,7 +20,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 27 January 2021.</p>
+  <p><strong>Date: </strong>Updated 2 February 2021.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -374,9 +374,7 @@ Opportunities for contributing more directly to WCAG and other WAI work are intr
 <img src="https://www.w3.org/WAI/GL/WCAG3/2020/img/silver-sticker" alt="logo: ag w3c a11y silver" style="height: 10ex;" />
 </div>
 
-This expandable section provides more about the goals, user research, development process, and draft example guidelines. It introduces the motivations for the changes from WCAG 2 to WCAG 3.
-
-**Before you review and comment on the Draft, please read this section for context.**
+This expandable section provides more about the goals, user research, development process, and draft example guidelines. It introduces the motivations for the changes from WCAG 2 to WCAG 3. **Before you review and comment on the Draft, please read this section for context.**
 
 {% include_cached excol.html type="middle" %}
 
@@ -423,18 +421,18 @@ The draft guidelines included in the First Public Working Draft were selected to
 
 These guidelines and outcomes are rough draft examples that will be refined and edited in future Working Drafts.
 
-#### **Review Questions**
+{% include_cached excol.html type="end" %}
+
+<div class="excol-all"></div>
+
+### Review Questions and Your Comments
 
 For specific questions that we would like feedback on, see:
 * Questions in the blog post [WCAG 3 FPWD Published, Feedback section](https://www.w3.org/blog/2021/01/wcag-3-fpwd/#feedback).
 * Questions in Editor’s Notes throughout the draft.
 
-To comment, please open a [new GitHub issue in the WCAG 3 (Silver) repository](https://github.com/w3c/silver/issues/new). Please create one GitHub issue per discrete comment, rather than putting comments on multiple topics in a single issue.
+**To comment**, please open a [new GitHub issue in the WCAG 3 (Silver) repository](https://github.com/w3c/silver/issues/new). Please create one GitHub issue per discrete comment, rather than putting comments on multiple topics in a single issue.
 
 If it’s not feasible for you to use GitHub, send comments in e-mail to: public-silver@w3.org
 
 Please send comments on this draft by *26 February 2021*.
-
-{% include_cached excol.html type="end" %}
-
-<div class="excol-all"></div>
