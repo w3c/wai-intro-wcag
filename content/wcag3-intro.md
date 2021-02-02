@@ -423,18 +423,18 @@ The draft guidelines included in the First Public Working Draft were selected to
 
 These guidelines and outcomes are rough draft examples that will be refined and edited in future Working Drafts.
 
-#### **Review Questions**
+{% include_cached excol.html type="end" %}
+
+<div class="excol-all"></div>
+
+### **Review Questions**
 
 For specific questions that we would like feedback on, see:
 * Questions in the blog post [WCAG 3 FPWD Published, Feedback section](https://www.w3.org/blog/2021/01/wcag-3-fpwd/#feedback).
 * Questions in Editor’s Notes throughout the draft.
 
-To comment, please open a [new GitHub issue in the WCAG 3 (Silver) repository](https://github.com/w3c/silver/issues/new). Please create one GitHub issue per discrete comment, rather than putting comments on multiple topics in a single issue.
+**To comment**, please open a [new GitHub issue in the WCAG 3 (Silver) repository](https://github.com/w3c/silver/issues/new). Please create one GitHub issue per discrete comment, rather than putting comments on multiple topics in a single issue.
 
 If it’s not feasible for you to use GitHub, send comments in e-mail to: public-silver@w3.org
 
 Please send comments on this draft by *26 February 2021*.
-
-{% include_cached excol.html type="end" %}
-
-<div class="excol-all"></div>
