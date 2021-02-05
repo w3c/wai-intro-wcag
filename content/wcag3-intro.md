@@ -222,7 +222,7 @@ The conformance model in the First Public Working Draft will likely change in fu
 
 ### Timeline
 
-<img src="/content-images/wai-intro-wcag/calandara.svg" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+<img src="/content-images/wai-intro-wcag/calandara.svg" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 
 The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. It is the first of many drafts.
 
@@ -320,3 +320,4 @@ For specific questions that we would like feedback on, see:
 If it’s not feasible for you to use GitHub, send comments in e-mail to: public-silver@w3.org
 
 Please send comments on this draft by *26 February 2021*.
+
