@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2021-02-02
+last_updated: 2021-02-05
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -20,7 +20,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 2 February 2021.</p>
+  <p><strong>Date: </strong>Updated 5 February 2021.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -68,17 +68,14 @@ This page will be updated regularly as work on the WCAG 3 Draft progresses.
 
 ## Status: Draft for Review
 
+<img src="/content-images/wai-intro-wcag/dialogs2.svg" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+
 [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](https://www.w3.org/TR/wcag-3.0/) is currently an **incomplete, unpolished Draft**. It includes:
 * proposed structure
 * draft [conformance model](#model)
 * 5 [draft example guidelines](#eg-guidelines)
 
-<div style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
-<svg id="dialog" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
-<path d="M82,82v4c0,3.3-2.7,6-6,6H40.4H39L38,92.8l-13,10V96v-4h-4h-4c-3.3,0-6-2.7-6-6V44c0-3.3,2.7-6,6-6h23v-4H17  c-5.5,0-10,4.5-10,10v42c0,5.5,4.5,10,10,10h4v15l19.4-15H76c5.5,0,10-4.5,10-10v-4H82z" fill="#005A6A"/>
-<path d="M111,22c3.3,0,6,2.7,6,6v42c0,3.3-2.7,6-6,6h-4h-4v4v6.9l-13-10L89,76h-1.4H52c-3.3,0-6-2.7-6-6V28  c0-3.3,2.7-6,6-6H111 M111,18H52c-5.5,0-10,4.5-10,10v42c0,5.5,4.5,10,10,10h35.6L107,95V80h4c5.5,0,10-4.5,10-10V28  C121,22.5,116.5,18,111,18L111,18z" fill="#003366"/>
-</svg>
-</div>
+<img src="{{ "/content-images/wai-intro-wcag/dialogs2.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
 We are seeking input from evaluators, developers, designers, project managers, policy makers, people with disabilities, and others &mdash; particularly on:
 * Is this structure clear and useful?
