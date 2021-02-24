@@ -73,7 +73,7 @@ This page will be updated regularly as work on the WCAG 3 Draft progresses.
 * draft [conformance model](#model)
 * 5 [draft example guidelines](#eg-guidelines)
 
-<img src="/content-images/wai-intro-wcag/dialogs2.svg" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-intro-wcag/dialogs2.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
 We are seeking input from evaluators, developers, designers, project managers, policy makers, people with disabilities, and others &mdash; particularly on:
 * Is this structure clear and useful?
@@ -96,7 +96,7 @@ Later drafts of WCAG 3 will have most of the accessibility requirements (“succ
 
 _Reminder that WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. Most of this page uses “website” for simplicity._
 
-<img src="/content-images/wai-intro-wcag/brain-icon.svg" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+<img src="{{ "/content-images/wai-intro-wcag/brain-icon.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
 ### Some Similar, Some Different {#compare}
 
@@ -222,7 +222,7 @@ The conformance model in the First Public Working Draft will likely change in fu
 
 ### Timeline
 
-<img src="/content-images/wai-intro-wcag/calandara.svg" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
+<img src="{{ "/content-images/wai-intro-wcag/calandara.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 
 The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. It is the first of many drafts.
 
