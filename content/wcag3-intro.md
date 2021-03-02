@@ -85,7 +85,7 @@ We also welcome comments on the goals and parameters in [Requirements for WCAG 3
 Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, or inclusion in the process of creating WCAG 3. 
 
 It will take you some time to understand the proposed new structure and conformance model in this WCAG 3 draft.
-* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and [submit comments](#comments).<br>Before you review and comment on the Working Draft, please read through this page, including the [background](#background) section near the end.
+* If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments. Before you review and comment on the Working Draft, please read through this page, including the [background](#background) and [review and commenting](#comments) sections near the end.
 * If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
 
 Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/WAI/standards-guidelines/uaag/)</abbr>.
@@ -309,12 +309,12 @@ These guidelines and outcomes are rough draft examples that will be refined and 
 
 ### Review Questions and Your Comments {#comments}
 
-Comments on the first draft were requested by 26 February 2021. You can submit comment after that date. Late comments may be deferred until after the next draft.
+Comments on the first draft were requested by 26 February 2021. You can submit comments after that date. Late comments may be deferred until after the next draft.
 
 For specific questions that we would like feedback on, see:
 * Questions in the blog post [WCAG 3 FPWD Published, Feedback section](https://www.w3.org/blog/2021/01/wcag-3-fpwd/#feedback).
 * Questions in Editor’s Notes throughout the draft.
 
-**To comment:**
+**To comment on the WCAG 3 draft:**
 * Please open a [new GitHub issue in the WCAG 3 (Silver) repository](https://github.com/w3c/silver/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue.
 * If it’s not feasible for you to use GitHub, send comments in e-mail to: public-silver@w3.org
