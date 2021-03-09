@@ -89,7 +89,7 @@ To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can u
 
 WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
 
-## What about WCAG 2.2? {#v21}
+## What about WCAG 2.2? {#v22}
 
 The Accessibility Guidelines Working Group (AG WG) is developing WCAG 2.2, and plans to publish the final standard in 2021. The structure and content of WCAG 2.2 is the same as 2.1 and 2.0. Version 2.2 will include new accessibility requirements, called “success criteria”. You can review proposed additional success criteria in the [in-progress “Editors’ Draft” of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/).
 
