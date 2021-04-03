@@ -67,7 +67,7 @@ WCAG 2.0 was published on 11 December 2008. <br>WCAG 2.1 was published on 5 June
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1. <br>All requirements in 2.0 and 2.1 will be included in 2.2. The wording of the 2.0 and 2.1 success criteria will be exactly the same in 2.2.
 
-There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [[What's New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/). <br>The proposed new success criteria in 2.2 are introduced in [[What's New in WCAG 2.@ Working Draft]](/standards-guidelines/wcag/new-in-22/).
+There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [[What's New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/). <br>The proposed new success criteria in 2.2 are introduced in [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/).
 
 **Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**.<br>And content that conforms to WCAG 2.2 will also conform to 2.1 and 2.0. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 or 2.2 should meet the requirements of policies that reference WCAG 2.0. To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.
 
