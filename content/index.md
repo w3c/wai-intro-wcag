@@ -7,7 +7,7 @@ nav_title: "Web Content – WCAG"
 description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
 
 lang: en
-last_updated: 2020-10-17
+last_updated: 2021-04-03
 permalink: /standards-guidelines/wcag/
 
 github:
@@ -15,7 +15,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 17 October 2020. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 3 April 2021. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
