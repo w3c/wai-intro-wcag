@@ -22,7 +22,7 @@ image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 feedbackmail: wai@w3.org  
 ref: /standards-guidelines/wcag/
 
----
+--- josephabanksfederalreserve@gmail.com 
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
