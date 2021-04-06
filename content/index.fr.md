@@ -7,7 +7,7 @@ nav_title: "Web Content – WCAG"
 description: Présente le standard international des Règles pour l'accessibilité des contenus web, (WCAG), y compris 2.0 et WCAG 2.1. Les documents des WCAG expliquent comment rendre les contenus web plus accessibles aux personnes handicapées.
 
 lang: fr
-last_updated: 2021-04-@@
+last_updated: 2021-04-06
 permalink: /standards-guidelines/wcag/fr
 translators: 
 - name: "Sylvie Duchateau"
@@ -65,15 +65,15 @@ Les documents des WCAG expliquent comment rendre les contenus web plus accessibl
 
 ## WCAG 2.0, 2.1, 2.2 {#versions}
 
-Les WCAG 2.0 ont été publiées le 11 décembre  2008.<br>Les WCAG 2.1 ont été publiées le 5 juin 2018.<br>WCAG 2.2 is scheduled to be published in 2021.
+Les WCAG 2.0 ont été publiées le 11 décembre  2008.<br>Les WCAG 2.1 ont été publiées le 5 juin 2018.<br>La publication des WCAG 2.2 est prévue pour 2021.
 
 Toutes les exigences (« critères de succès"
- ») de la version 2.0 sont incluses dans la 2.1. Les critères de succès 2.0 sont exactement les mêmes (verbatim, mot pour mot) dans la 2.1. <br>All requirements in 2.0 and 2.1 will be included in 2.2. The wording of the 2.0 and 2.1 success criteria will be exactly the same in 2.2.
+ ») de la version 2.0 sont incluses dans la 2.1. Les critères de succès 2.0 sont exactement les mêmes (verbatim, mot pour mot) dans la 2.1. <br> Toutes les exigences des versions 2.0 et 2.1 seront incluses dans la version 2.2. Le contenu des critères de succès de 2.0 et 2.1 sera exactement le même dans la version 2.2.
 
-La version 2.1 comprend des critères de succès supplémentaires qui n'étaient pas dans la version 2.0. Ils sont présentés dans [[Quoi de neuf dans les WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).<br>The proposed new success criteria in 2.2 are introduced in [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/).
+La version 2.1 comprend des critères de succès supplémentaires qui n'étaient pas dans la version 2.0. Ils sont présentés dans [[Quoi de neuf dans les WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).<br>Les nouveaux critères de succès proposés dans 2.2 sont présentés dans le document de travail [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/).
 
 
-**Les contenus conformes aux WCAG 2.1 sont également conformes aux WCAG 2.0**.<br>And content that conforms to WCAG 2.2 will also conform to 2.1 and 2.0.  (On appelle souvent cela “la rétro compatibilité”.) Un site web conforme aux WCAG 2.1 ou 2.2 devrait répondre aux exigences des politiques qui font référence aux WCAG 2.0.
+**Les contenus conformes aux WCAG 2.1 sont également conformes aux WCAG 2.0**.<br>Et les contenus conformes aux WCAG 2.2 seront également conformes aux versions 2.1 et 2.0.  (On appelle souvent cela “la rétro compatibilité”.) Un site web conforme aux WCAG 2.1 ou 2.2 devrait répondre aux exigences des politiques qui font référence aux WCAG 2.0.
 
 Dit autrement : si vous voulez vous conformer à la fois aux WCAG 2.0 et WCAG 2.1, vous pouvez utiliser les ressources des 2.1 et vous n'avez pas besoin de vous préoccuper des 2.0.
 
@@ -114,7 +114,7 @@ Les traductions autorisées et non officielles des WCAG 2 sont référencées da
 
 ### Format des documents techniques
 
-Les documents tecniques et pour comprendre les WCAG sont au format du W3C destiné aux rapports techniques, qui contient plusieurs paragraphes, au début, avec des liens vers différentes versions, auteurs, résumé et statut.
+Les documents techniques et pour comprendre les WCAG sont au format du W3C destiné aux rapports techniques, qui contient plusieurs paragraphes, au début, avec des liens vers différentes versions, auteurs, résumé et statut.
 
 ### Aide supplémentaire {#supplement}
 
@@ -148,4 +148,3 @@ Voir la [[FAQ des WCAG 2]](/standards-guidelines/wcag/faq/) pour plus d'informat
 -   **L'applicabilité des WCAG 2 à des technologies ne relevant pas du w3C [<span lang="en">non-W3C technologies</span>](/standards-guidelines/wcag/faq/#othertechs)**
 -   **[WCAG 3.0 ("Silver")](/standards-guidelines/wcag/faq/#next)**
 -   et plus encore...
-
