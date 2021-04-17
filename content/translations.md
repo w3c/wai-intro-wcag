@@ -15,7 +15,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 1 April 2021. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 17 April 2021. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -64,8 +64,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="ar21">Arabic</th>
+      <td><a href="https://mip.qa/authorized-arabic-translation-wcag2-1/tentative-arabic-wcag2.1/index.html">Arabic Candidate Authorized Translation of WCAG 2.1</a></td>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2020OctDec/0005.html">[LTO approved] Letter of Intent - Authorized Arabic Translation [of WCAG 2.1] (13 October 2020)</a></td>
     </tr>
   </thead>
   <tbody>
