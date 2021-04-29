@@ -7,7 +7,7 @@ nav_title: "Web Content – WCAG"
 description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
 
 lang: en
-last_updated: 2021-04-03
+last_updated: 2021-04-29
 permalink: /standards-guidelines/wcag/
 
 github:
@@ -15,7 +15,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 3 April 2021. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 29 April 2021. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -112,7 +112,7 @@ The WCAG, Techniques, and Understanding documents follow the W3C format for tech
 
 ### Supplemental guidance {#supplement}
 
-Supplemental guidance provides additional information beyond what is required in WCAG 2.0 and 2.1. It addresses improving accessibility for people with cognitive disabilities and people with low vision. Links to supplemental guidance will be added to this section in the future.
+Supplemental guidance provides additional information beyond what is required in WCAG 2. "Making Content Usable for People with Cognitive and Learning Disabilities" helps you increase accessibility for people with cognitive and learning disabilities. It is introduced in [Supplemental Guidance: Content Usable](/cognitive/#supplemental-guidance-content-usable).
 
 ## WCAG 2.0 is ISO/IEC 40500 {#iso}
 
