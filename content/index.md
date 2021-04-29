@@ -112,7 +112,7 @@ The WCAG, Techniques, and Understanding documents follow the W3C format for tech
 
 ### Supplemental guidance {#supplement}
 
-Supplemental guidance provides additional information beyond what is required in WCAG 2. "Making Content Usable for People with Cognitive and Learning Disabilities" helps you increase accessibility for people with cognitive and learning disabilities. It is introduced in [Supplemental Guidance: Content Usable](/standards-guidelines/cognitive/#supplemental-guidance-content-usable).
+Supplemental guidance provides additional information beyond what is required in WCAG 2. "Making Content Usable for People with Cognitive and Learning Disabilities" helps you increase accessibility for people with cognitive and learning disabilities. It is introduced in [Supplemental Guidance: Content Usable](/cognitive/#supplemental-guidance-content-usable).
 
 ## WCAG 2.0 is ISO/IEC 40500 {#iso}
 
