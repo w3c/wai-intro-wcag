@@ -122,7 +122,20 @@ WCAG 2.2 Working Draft provides 9 additional success criteria, that are included
 
 In WCAG 2.2, success criteria **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA to Level A**.
 
-<em>To comment on the WCAG Working Draft:</em> Please submit any comments on these new proposed success criteria by 18 September 2020. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+<em>If you have comments on the WCAG Working Draft:</em> Please submit any comments on these proposed success criteria by 4 June 2021. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+
+### Changes to Working Draft
+
+Changes from the 11 August 2020 to 11 May 2021 Working Draft include:
+* Accessible authentication: Incorporates concepts of ‘steps’ to account for multi-factor authentication, and explicitly allows for ‘mechanisms’ like password managers.
+* Dragging movement: A very minor wording update.
+* Consistent help: Renamed from “Findable help”, and follows the ‘consistent navigation’ criterion more closely.
+* Page Break Navigation: Renamed, the criterion text is reduced to focus on content which already implements programmatic page break locators.
+* Focus appearance (minimum): Restructured the criterion text, whilst keeping the requirement essentially the same.
+* Focus appearance (enhanced): Aligned with the minimum version.
+* Visible control: Renamed (from Hidden controls), added several exceptions.
+* Target size (minimum): Renamed (from Pointer target Spacing), reduced the core size requirement to 24px, and simplified the criterion text.
+* Redundant entry: Removed the ‘steps in a process’ aspect, added a within-session scope, and added several exceptions.
 
 ## Guideline 2.4 Navigable
 
@@ -208,7 +221,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/fixed-reference-points">Understanding Fixed Reference Points</a></p>
+<p><a href="https://w3c.github.io/wcag/understanding/page-break-navigation.html">Page Break Navigation</a></p>
 
 ## Guideline 2.5 Input Modalities
 
@@ -271,7 +284,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/pointer-target-spacing">Understanding Pointer Target Spacing</a></p>
+<p><a href="https://w3c.github.io/wcag/understanding/target-size-minimum.html">Understanding Target Size (Minimum)</a></p>
 
 ## Guideline 3.2 Predictable
 
@@ -302,7 +315,7 @@ Make Web pages appear and operate in predictable ways.
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/findable-help">Understanding Findable Help</a></p>
+<p><a href="https://w3c.github.io/wcag/understanding/consistent-help.html">Understanding Consistent Help</a></p>
 
 ### 3.2.7 Visible Controls (AA)
 <blockquote class="sc">
@@ -333,7 +346,7 @@ Make Web pages appear and operate in predictable ways.
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/hidden-controls">Understanding Hidden Controls</a></p>
+<p><a href="https://w3c.github.io/wcag/understanding/visible-controls.html">Understanding Visible Controls</a></p>
 
 ## Guideline 3.3 Input Assistance
 
