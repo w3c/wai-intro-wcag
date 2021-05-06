@@ -91,7 +91,7 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the **proposed** new success criteria in the **Working Draft** of Web Content Accessibility Guidelines (WCAG) 2.2.
+This page lists the proposed new success criteria in the **Working Draft** of [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/).
 
 **It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
@@ -116,11 +116,9 @@ This page lists the **proposed** new success criteria in the **Working Draft** o
 
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2.
+All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. In WCAG 2.2, success criteria **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA to Level A**.
 
 WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page.
-
-In WCAG 2.2, success criteria **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA to Level A**.
 
 <em>If you have comments on the WCAG Working Draft:</em> Please submit any comments on these proposed success criteria by 4 June 2021. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
@@ -156,15 +154,15 @@ Provide ways to help users navigate, find content, and determine where they are.
     <li><strong>Not fully obscured:</strong> The item with focus is not entirely hidden by author-created content.</li>
   </ul>
   <div class="note" role="note" id="issue-container-generatedID-22">
-    <div role="heading" class="note-title marker" id="h-note-22" aria-level="5"><span>Note</span></div>
+    <div role="heading" class="note-title marker" id="h-note-22"><span>Note</span></div>
     <p class="note-p">A keyboard focus indicator which has a pattern or gradient may have parts that do not meet the 3:1 contrast ratio for the change of contrast, as long as an area equal to the minimum does meet the contrast ratio.</p>
   </div>
   <div class="note" role="note" id="issue-container-generatedID-23">
-    <div role="heading" class="note-title marker" id="h-note-23" aria-level="5"><span>Note</span></div>
+    <div role="heading" class="note-title marker" id="h-note-23"><span>Note</span></div>
     <p class="note-p">If the component has a visible boundary smaller than the hit area, or the size of the component is not available, the minimum area can be taken from the visible boundary.</p>
   </div>
   <div class="note" id="issue-container-generatedID-24">
-    <div role="heading" class="ednote-title marker" id="h-ednote" aria-level="5"><span>Editor's note</span></div>
+    <div role="heading" class="ednote-title marker" id="h-ednote"><span>Editor's note</span></div>
     <p class="note-p">The working group is interested in feedback about the minimum area metric, and if there are unusual scenarios where visible indicators are caught by the wording.</p>
   </div>
 </blockquote>
@@ -231,11 +229,11 @@ Make it easier for users to operate functionality through various inputs beyond 
 <blockquote class="sc">
   <p>All functionality that uses a <a href="#dfn-dragging-movements" class="internalDFN" data-link-type="dfn">dragging movement</a> for operation can be achieved by a single pointer without dragging, unless dragging is <a href="#dfn-essential" class="internalDFN" data-link-type="dfn">essential</a>.</p>
   <div class="note" role="note" id="issue-container-generatedID-29">
-    <div role="heading" class="note-title marker" id="h-note-28" aria-level="5"><span>Note</span></div>
+    <div role="heading" class="note-title marker" id="h-note-28"><span>Note</span></div>
     <p class="note-p">This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
   </div>
   <div class="note" id="issue-container-generatedID-30">
-    <div role="heading" class="ednote-title marker" id="h-ednote-0" aria-level="5"><span>Editor's note</span></div>
+    <div role="heading" class="ednote-title marker" id="h-ednote-0"><span>Editor's note</span></div>
     <p class="note-p">Is there an assistive technology that helps for people with mobility impairments? The group would like feedback on the frontier between AT &amp; author responsibility.</p>
   </div>
 </blockquote>
@@ -261,15 +259,15 @@ Make it easier for users to operate functionality through various inputs beyond 
     <li><strong>Essential:</strong> A particular presentation of the target is essential to the information being conveyed.</li>
   </ul>
   <div class="note" role="note" id="issue-container-generatedID-31">
-    <div role="heading" class="note-title marker" id="h-note-29" aria-level="5"><span>Note</span></div>
+    <div role="heading" class="note-title marker" id="h-note-29"><span>Note</span></div>
     <p class="note-p">Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
   </div>
   <div class="note" id="issue-container-generatedID-32">
-    <div role="heading" class="ednote-title marker" id="h-ednote-1" aria-level="5"><span>Editor's note</span></div>
+    <div role="heading" class="ednote-title marker" id="h-ednote-1"><span>Editor's note</span></div>
     <p class="note-p">Are there issues with internationalization when describing inline links?</p>
   </div>
   <div class="note" id="issue-container-generatedID-33">
-    <div role="heading" class="ednote-title marker" id="h-ednote-2" aria-level="5"><span>Editor's note</span></div>
+    <div role="heading" class="ednote-title marker" id="h-ednote-2"><span>Editor's note</span></div>
     <p class="note-p">Are there issues with pop-over content overlapping targets triggering failures?</p>
   </div>
 </blockquote>
@@ -300,7 +298,7 @@ Make Web pages appear and operate in predictable ways.
     <li>A fully automated contact mechanism.</li>
   </ul>
   <div class="note" role="note" id="issue-container-generatedID-34">
-    <div role="heading" class="note-title marker" id="h-note-30" aria-level="5"><span>Note</span></div>
+    <div role="heading" class="note-title marker" id="h-note-30"><span>Note</span></div>
     <p class="note-p">Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
   </div>
 </blockquote>
@@ -327,11 +325,11 @@ Make Web pages appear and operate in predictable ways.
     <li>Hiding the information needed to identify the component is essential.</li>
   </ul>
   <div class="note" role="note" id="issue-container-generatedID-35">
-    <div role="heading" class="note-title marker" id="h-note-31" aria-level="5"><span>Note</span></div>
+    <div role="heading" class="note-title marker" id="h-note-31"><span>Note</span></div>
     <p class="note-p">User interface components can be available through other visible components such as sub-menus, edit buttons, tabs, or thumbnails of media.</p>
   </div>
   <div class="note" id="issue-container-generatedID-36">
-    <div role="heading" class="ednote-title marker" id="h-ednote-3" aria-level="5"><span>Editor's note</span></div>
+    <div role="heading" class="ednote-title marker" id="h-ednote-3"><span>Editor's note</span></div>
     <p class="note-p">The working group is interested in feedback about whether there are Components determined by the user agent that should not be in scope.</p>
   </div>
 </blockquote>
@@ -356,7 +354,7 @@ Help users avoid and correct mistakes.
 <blockquote class="sc">
   <p>For each step in an authentication process that relies on a <a href="#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
   <div class="note" role="note" id="issue-container-generatedID-37">
-    <div role="heading" class="note-title marker" id="h-note-32" aria-level="5"><span>Note</span></div>
+    <div role="heading" class="note-title marker" id="h-note-32"><span>Note</span></div>
     <p class="note-p">Note: Examples of mechanisms include: 1) support for password entry by password managers to address the memorization cognitive function test, and 2) copy and paste to help address transcription cognitive function test.</p>
   </div>
 </blockquote>
@@ -386,13 +384,13 @@ Help users avoid and correct mistakes.
     <li>the information is required to ensure the security of the content, or</li>
     <li>previously entered information is no longer valid.</li>
   </ul>
-  <div class="note" role="note" id="issue-container-generatedID-38">
-    <div role="heading" class="note-title marker" id="h-note-33" aria-level="5"><span>Note</span></div>
-    <p class="note-p">Editors' note: Are there issues storing the data so a user can access it in subsequent steps?</p>
+  <div class="note" id="issue-container-generatedID-111">
+    <div role="heading" class="ednote-title marker" id="h-ednote-111"><span>Editor's note</span></div>
+    <p class="note-p">Are there issues storing the data so a user can access it in subsequent steps?</p>
   </div>
-  <div class="note" role="note" id="issue-container-generatedID-39">
-    <div role="heading" class="note-title marker" id="h-note-34" aria-level="5"><span>Note</span></div>
-    <p class="note-p">Editors' note: Are there broader exceptions needed than essential? E.g. for mandated or required information re-entry.</p>
+  <div class="note" id="issue-container-generatedID-222">
+    <div role="heading" class="ednote-title marker" id="h-ednote-222"><span>Editor's note</span></div>
+    <p class="note-p"> Are there broader exceptions needed than essential? E.g. for mandated or required information re-entry.</p>
   </div>
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
