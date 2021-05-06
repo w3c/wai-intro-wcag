@@ -410,4 +410,4 @@ Help users avoid and correct mistakes.
 
 The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities. We might add more in the future.
 
-We plan to add these to the Understanding WCAG documents.
+We plan to add persona quotes to the Understanding WCAG documents.
