@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2020-08-13
+last_updated: 2021-05-11
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 13 August 2020.</p>
+  <p><strong>Date:</strong> Updated 11 May 2021.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -114,9 +114,9 @@ This page lists the proposed new success criteria in the **Working Draft** of [W
 
 ## Introduction
 
-For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/). WCAG 2.2 is scheduled to be completed and published in 2021.
 
-All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. In WCAG 2.2, success criteria **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA to Level A**.
+All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. Success criterion **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2**.
 
 WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page.
 
@@ -353,9 +353,9 @@ Help users avoid and correct mistakes.
 ### 3.3.7 Accessible Authentication (A)
 <blockquote class="sc">
   <p>For each step in an authentication process that relies on a <a href="#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
-  <div class="note" role="note" id="issue-container-generatedID-37">
-    <div role="heading" class="note-title marker" id="h-note-32"><span>Note</span></div>
-    <p class="note-p">Note: Examples of mechanisms include: 1) support for password entry by password managers to address the memorization cognitive function test, and 2) copy and paste to help address transcription cognitive function test.</p>
+  <div class="note" role="note" id="issue-container-generatedID-333">
+    <div role="heading" class="note-title marker" id="h-note-333"><span>Note</span></div>
+    <p class="note-p">Examples of mechanisms include: 1) support for password entry by password managers to address the memorization cognitive function test, and 2) copy and paste to help address transcription cognitive function test.</p>
   </div>
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
