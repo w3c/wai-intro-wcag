@@ -91,7 +91,7 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the proposed new success criteria in the **Working Draft** of [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/).
+This page lists the proposed new success criteria in the **Working Draft** of Web Content Accessibility Guidelines (WCAG) 2.2.
 
 **It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
@@ -114,15 +114,21 @@ This page lists the proposed new success criteria in the **Working Draft** of [W
 
 ## Introduction
 
-For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/). WCAG 2.2 is scheduled to be completed and published in 2021.
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. Success criterion **[2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2**.
+WCAG 2.2 is scheduled to be completed and published in 2021. Current drafts:
+* [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) is approved to be posted as a draft
+* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may have more recent updates that are not yet approved
+
+<em>If you have comments on the WCAG 2.2 Draft:</em> Please submit any comments on the proposed new success criteria by 4 June 2021. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+
+### Changes from WCAG 2.1 to WCAG 2.2
+
+All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. **One changed level: [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible)** is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
 
 WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page.
 
-<em>If you have comments on the WCAG Working Draft:</em> Please submit any comments on these proposed success criteria by 4 June 2021. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
-
-### Changes to Working Draft
+### Changes to 2.2 Working Draft
 
 Changes from the 11 August 2020 to 11 May 2021 Working Draft include:
 * Accessible authentication: Incorporates concepts of ‘steps’ to account for multi-factor authentication, and explicitly allows for ‘mechanisms’ like password managers.
