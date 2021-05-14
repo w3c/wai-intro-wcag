@@ -120,7 +120,7 @@ WCAG 2.2 is scheduled to be completed and published in 2021. Current drafts:
 * [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) is approved to be posted as a draft
 * [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may have more recent updates that are not yet approved
 
-<em>If you have comments on the WCAG 2.2 Draft:</em> Please submit any comments on the proposed new success criteria **by 4 June 2021**. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+<em>If you have comments on the WCAG 2.2 Draft:</em> Please submit any comments on the proposed new success criteria **by 11 June 2021**. Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
