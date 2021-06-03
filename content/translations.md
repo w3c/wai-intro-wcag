@@ -15,7 +15,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 17 April 2021. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 13 June 2021. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -116,7 +116,7 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="pl21">Polish</th>
-      <td><a href="https://wcag21.lepszyweb.pl/">Polish Candidate Authorized Translation of WCAG 2.1  {% include_cached external.html %}</a></td>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-pl/">Polish Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
