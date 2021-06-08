@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2021-03-02
+last_updated: 2021-06-08
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -20,7 +20,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 2 March 2021.</p>
+  <p><strong>Date: </strong>Updated 8 June 2021.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -60,7 +60,7 @@ This page introduces the in-progress [W3C Accessibility Guidelines (WCAG) 3.0 Wo
 ## Introduction
 {:.no_toc}
 
-WCAG 3 is currently an incomplete draft. It is intended to develop into a W3C Standard in a few years. The current standard, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+WCAG 3 is currently an incomplete draft. It is intended to develop into a W3C Standard **in a few years**. The current standard, WCAG 2, is introduced in the [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. _(The rest of this page uses “website” for simplicity, yet WCAG applies more broadly than websites.)_
 
@@ -214,19 +214,21 @@ The levels are different, too:
   </tbody>
 </table>
 
-The conformance model in the First Public Working Draft will likely change in future iterations and drafts. It may change a little or may change substantively.
+The conformance model in the 2021 Working Drafts will likely change in future iterations and drafts. It may change a little or may change substantively.
 
 ## Development
 
-### Timeline
+### Timeline (_updated 9 June 2021_)
 
 <img src="{{ "/content-images/wai-intro-wcag/calandara.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 
 The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. It is the first of many drafts.
 
+The Working Draft published on 8 June 2021 has minor changes: editorial fixes, extended Acknowledgements section, and information moved from the introduction to a separate informative document :[Explainer for W3C Accessibility Guidelines (WCAG) 3.0](https://w3c.github.io/silver/explainer/). **Many [issues are still open](https://github.com/w3c/silver/issues), including testing and conformance.**
+
 The Working Group will focus on refining the structure and conformance model, and will provide updated drafts for review. Once that is more stable, the Group will focus on developing the accessibility requirements (guidelines, outcomes, and support material). After WCAG 3 is more stable, we will provide material to help those wanting to transition to WCAG 3; for example, mapping between WCAG 2 and 3 requirements.
 
-WCAG 3 is not expected to be a completed W3C standard for a few more years. WCAG 3 will not supersede WCAG 2, and WCAG 2 will not be deprecated, for at least several years after WCAG 3 is finalized.
+**WCAG 3 is not expected to be a completed W3C standard for a few more years.** WCAG 3 will not supersede WCAG 2, and WCAG 2 will not be deprecated, for at least several years after WCAG 3 is finalized.
 
 We will update this section with more specific timeline information as it is available.
 
@@ -309,8 +311,6 @@ These guidelines and outcomes are rough draft examples that will be refined and 
 
 ### Review Questions and Your Comments {#comments}
 
-Comments on the first draft were requested by 26 February 2021. You can submit comments after that date. Late comments may be deferred until after the next draft.
-
 For specific questions that we would like feedback on, see:
 * Questions in the blog post [WCAG 3 FPWD Published, Feedback section](https://www.w3.org/blog/2021/01/wcag-3-fpwd/#feedback).
 * Questions in Editor’s Notes throughout the draft.
@@ -318,3 +318,5 @@ For specific questions that we would like feedback on, see:
 **To comment on the WCAG 3 draft:**
 * Please open a [new GitHub issue in the WCAG 3 (Silver) repository](https://github.com/w3c/silver/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue.
 * If it’s not feasible for you to use GitHub, send comments in e-mail to: public-silver@w3.org
+
+_We will update this section when we have new questions and substatively new draft material for review._
