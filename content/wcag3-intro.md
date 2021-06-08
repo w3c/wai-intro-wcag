@@ -218,13 +218,13 @@ The conformance model in the 2021 Working Drafts will likely change in future it
 
 ## Development
 
-### Timeline (_updated 9 June 2021_)
+### Timeline (_updated 8 June 2021_)
 
 <img src="{{ "/content-images/wai-intro-wcag/calandara.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 
 The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. It is the first of many drafts.
 
-The Working Draft published on 8 June 2021 has minor changes: editorial fixes, extended Acknowledgements section, and information moved from the introduction to a separate informative document :[Explainer for W3C Accessibility Guidelines (WCAG) 3.0](https://w3c.github.io/silver/explainer/). **Many [issues are still open](https://github.com/w3c/silver/issues), including testing and conformance.**
+The Working Draft published on 8 June 2021 has minor changes: editorial fixes, extended Acknowledgements section, and information moved from the introduction to a separate informative document: [Explainer for W3C Accessibility Guidelines (WCAG) 3.0](https://w3c.github.io/silver/explainer/). **Many [issues are still open](https://github.com/w3c/silver/issues), including testing and conformance.**
 
 The Working Group will focus on refining the structure and conformance model, and will provide updated drafts for review. Once that is more stable, the Group will focus on developing the accessibility requirements (guidelines, outcomes, and support material). After WCAG 3 is more stable, we will provide material to help those wanting to transition to WCAG 3; for example, mapping between WCAG 2 and 3 requirements.
 
@@ -319,4 +319,4 @@ For specific questions that we would like feedback on, see:
 * Please open a [new GitHub issue in the WCAG 3 (Silver) repository](https://github.com/w3c/silver/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue.
 * If it’s not feasible for you to use GitHub, send comments in e-mail to: public-silver@w3.org
 
-_We will update this section when we have new questions and substatively new draft material for review._
+_We will update this section when we have new questions on new substantive draft content for review._
