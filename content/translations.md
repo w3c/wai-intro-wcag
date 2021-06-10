@@ -15,7 +15,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 13 June 2021. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 10 June 2021. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -131,8 +131,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="sk21">Slovak</th>
+      <td><a href="https://s3.eu-central-1.amazonaws.com/w3c-wcag-2.1-sk/index.html">Slovak Candidate Authorized Translation of WCAG 2.1  {% include_cached external.html %}</a></td>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0028.html">notification of intent for Slovak Authorized Translation of WCAG 2.1 (27 June 2018)</a></td>
     </tr>
     <tr>
       <th id="es21">Spanish</th>
