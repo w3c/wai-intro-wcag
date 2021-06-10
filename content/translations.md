@@ -336,3 +336,4 @@ For information on translating W3C documents, see:
 **Note:** If you are interested in translating a specific document, make sure to announce it (as instructed in the links above) to facilitate collaboration, to avoid duplication of effort, to ensure that you have the latest version, and to appropriately address pending updates and errata.
 
 For additional information on WCAG translations, contact Shadi Abou-Zahra <shadi@w3.org>.
+
