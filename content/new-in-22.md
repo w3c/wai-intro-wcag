@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2021-05-13
+last_updated: 2021-06-10
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -231,7 +231,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 
 Make it easier for users to operate functionality through various inputs beyond keyboard.
 
-### 2.5.7 Dragging (AA)
+### 2.5.7 Dragging Movements (AA)
 <blockquote class="sc">
   <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements" class="internalDFN" data-link-type="dfn">dragging movement</a> for operation can be achieved by a single pointer without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential" class="internalDFN" data-link-type="dfn">essential</a>.</p>
   <div class="note" role="note" id="issue-container-generatedID-29">
@@ -254,7 +254,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging">Understanding Dragging</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html">Understanding Dragging</a></p>
 
 ### 2.5.8 Target Size (Minimum) (AA)
 <blockquote class="sc">
