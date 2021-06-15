@@ -120,7 +120,7 @@ WCAG 2.2 is scheduled to be completed and published in 2021. Current drafts:
 * [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) is approved to be posted as a draft
 * [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may have more recent updates that are not yet approved
 
-Because of the number of comments received <em>(GitHub [pull requests](https://github.com/w3c/wcag/pulls?q=is%3Apr+is%3Aopen+label%3A%22WCAG+2.2%22) and [issues](https://github.com/w3c/wcag/issues?q=is%3Aissue+is%3Aopen+label%3A%22WCAG+2.2%22))</em>, the WCAG 2.2 might not be finalized until 2022. The process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+Because of the number of comments received <em>(GitHub [pull requests](https://github.com/w3c/wcag/pulls?q=is%3Apr+is%3Aopen+label%3A%22WCAG+2.2%22) and [issues](https://github.com/w3c/wcag/issues?q=is%3Aissue+is%3Aopen+label%3A%22WCAG+2.2%22))</em>, WCAG 2.2 might not be finalized until 2022. The process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 Comments on the proposed new success criteria were requested by 11 June 2021. Comments submited after that date may be addressed in the next version. To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
