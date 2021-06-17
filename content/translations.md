@@ -15,8 +15,8 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 10 June 2021. First published 2 March 2009.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>.</p>
+  <p><strong>Date:</strong> Updated 17 June 2021. First published 2 March 2009.</p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>, Xueyuan Jia.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
 
@@ -94,6 +94,11 @@ Two types of translations are listed on this page:
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-nl/">Dutch Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
     </tr>
+    <tr>
+        <th id="de21">German</th>
+        <td></td>
+        <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021AprJun/0035.html">notification of intent for German Authorized Translation of WCAG 2.1 (16 June 2021)</a></td>
+     </tr>
      <tr>
         <th id="il21">Hebrew</th>
         <td></td>
