@@ -35,15 +35,15 @@ Quick links to resources:
 * [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
 * [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
 
-{::nomarkdown}
-{% include box.html type="end" %}
+{::markdown}
+{% include box.html type="yes" %}
 {:/}
 
 {::nomarkdown}
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
-{::options toc_levels="2" /}
+{::options toc_levels="" /}
 
 -   This text will be replaced by the TOC.
 {:toc}
