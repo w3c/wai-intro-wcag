@@ -82,7 +82,7 @@ Two types of translations are listed on this page:
     <tr>
       <th id="fr21">French</th>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2018AprJun/0014.html">notification of intent for French Authorized Translation of WCAG 2.1 (13 June 2018)</a></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021JulSep/0000.html">notification of intent for French Authorized Translation of WCAG 2.1 (2 July 2021)</a>and <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021JulSep/0014.html">list of stakeholder organizations</a></td>
     </tr>
     <tr>
       <th id="da21">Danish</th>
