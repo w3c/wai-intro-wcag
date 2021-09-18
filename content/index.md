@@ -87,7 +87,7 @@ WCAG is primarily intended for:
 
 To meet the needs of others &mdash; including policy makers, managers, and researchers &mdash; there are many different [[WAI Resources]](/resources/).
 
-## What is in the WCAG 2 Documents {#whatis2}
+## What is in WCAG 2 {#whatis2}
 
 The WCAG standards have 12-13 guidelines. The guidelines are organized under [4 principles: perceivable, operable, understandable, and robust](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility).
 
@@ -99,14 +99,14 @@ For a short summary of the WCAG 2 guidelines, see **[[WCAG 2 at a Glance]](/stan
 
 ### Supporting material and supplemental guidance {#supplement}
 
-Along with the standard, is supporting material and supplemental guidance:
+These resources help you understand and implement WCAG, and improve accessibility beyond WCAG:
 * Quick Reference / How to Meet WCAG 2 / Checklist
 * Understanding WCAG 2
 * Techniques for WCAG 2
 * Test Rules for WCAG 2
-* Supplemental Guidance for WCAG 2
+* Supplemental Guidance
 
-Learn more about these WCAG 2 resources from [WCAG 2 Guidance Documents](@@).
+**Learn more about these WCAG 2 resources from [WCAG 2 Guidance Documents](/standards-guidelines/wcag/docs/).**
 
 ## Translations
 
@@ -120,10 +120,6 @@ The content of ISO/IEC 40500 is freely available from [www.w3.org/TR/WCAG20](htt
 
 Benefits of WCAG 2.0 as an ISO standard are summarized in [ISO in the FAQ](/standards-guidelines/wcag/faq/#iso). More information on W3C and the ISO process is in the [W3C PAS FAQ](http://www.w3.org/2010/04/pasfaq).
 
-## Other guidelines {#components}
-
-WCAG is part of a series of accessibility guidelines, including the Authoring Tool Accessibility Guidelines (ATAG) and the User Agent Accessibility Guidelines (UAAG). [[Essential Components of Web Accessibility]](/fundamentals/components/) explains the relationship between the different guidelines.
-
 ## Who develops WCAG {#wg}
 
 The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) *(formerly the Web Content Accessibility Guidelines Working Group)*, which is part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
@@ -134,9 +130,11 @@ Opportunities for contributing to WCAG and other WAI work are introduced in [[Pa
 
 ## More Information {#more}
 
+WCAG is part of a series of accessibility guidelines, including the Authoring Tool Accessibility Guidelines (ATAG) and the User Agent Accessibility Guidelines (UAAG). [[Essential Components of Web Accessibility]](/fundamentals/components/) explains the relationship between the different guidelines.
+
 See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
 
 -   **WCAG 2 coverage of [mobile accessibility](/standards-guidelines/wcag/faq/#mobile)**
 -   **WCAG 2 applicability to [non-W3C technologies](/standards-guidelines/wcag/faq/#othertechs)**
 -   **[WCAG 3.0 ("Silver")](/standards-guidelines/wcag/faq/#next)**
--   and more...
+-   and more...s
