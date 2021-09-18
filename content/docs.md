@@ -35,13 +35,14 @@ footer: >
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/hidde/">Hidde de Vries</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
    <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
+
 ---
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page describes Web Content Accessibility Guidelines (WCAG) 2 supporting documents and supplemental guidance. It helps you know where to go for which type of information.
+This page describes WCAG 2 supporting documents and supplemental guidance. It helps you know where to go for which type of information.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -55,6 +56,8 @@ This page describes Web Content Accessibility Guidelines (WCAG) 2 supporting doc
 
 -   This text will be replaced by the TOC.
 {:toc}
+
+
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
@@ -65,15 +68,15 @@ Web Content Accessibility Guidelines (WCAG) 2 is a stable, referenceable technic
 
 When developing web content and web tools, most people will use the documents introduced below, instead of the actual standard document.
 
-## Quick Reference / How to Meet WCAG 2 / Checklist
+## Quick Reference / How to Meet WCAG 2 / WCAG 2 Checklist
 
 **A key resource for designers and developers using WCAG 2 is [How to Meet WCAG 2 (Quick Reference): A customizable quick reference to WCAG 2 requirements (Success Criteria) and techniques](http://www.w3.org/WAI/WCAG21/quickref/).** It includes all the WCAG 2 guidelines and success criteria. It is essentially the [WCAG 2 checklist](http://www.w3.org/WAI/WCAG21/quickref/).
 
-You can customize it to show what you are interested in at the time. There are "filters" for different roles, topics, and technologies (such as HTML, CSS, ARIA). And filers for [Level A, AA, or AAA success criteria](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
+You can customize it so it shows what you are interested in at the time. There are "filters" for different roles, topics, and technologies (such as HTML, CSS, ARIA). And filers for [Level A, AA, or AAA success criteria](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
 ## Supporting Documents
 
-The following documents directly relate to WCAG guidelines and success criteria. They are **not required** to meet WCAG. (That is, they are "informative" or "non-normative".)
+The supporting documents directly relate to WCAG guidelines and success criteria. They are **not required** to meet WCAG; they are "informative" or "non-normative".
 
 ### Understanding WCAG 2
 
@@ -100,6 +103,7 @@ Learn more:
 * **Failures** are things that cause accessibility barriers and fail specific success criteria.
 
 Learn more:
+
 * [About Techniques](https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques)
 * [2.1 Techniques List]( https://www.w3.org/WAI/WCAG21/Techniques/)
 * [2.0 Techniques List](https://www.w3.org/TR/WCAG20-TECHS/)
@@ -124,10 +128,11 @@ Before you start working with WCAG, you probably want to read these resources:
 
 * [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
 * [[Accessibility Principles]](/fundamentals/accessibility-principles/)
+* [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/)
 
 Other resources cover specific topics, for example: 
 
-* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) cover page structure, menus, images, tables, carousels, forms.
-* [[Making Audio and Video Media Accessible]](/media/av/)
+* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) cover page structure, menus, images, tables, carousels, forms
+* [[Making Audio and Video Media Accessible]](/media/av/) covers multimedia
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
