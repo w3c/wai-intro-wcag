@@ -51,7 +51,7 @@ This page describes Web Content Accessibility Guidelines (WCAG) 2 supporting doc
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
-{::options toc_levels="2,3" /}
+{::options toc_levels="2,3,4" /}
 
 -   This text will be replaced by the TOC.
 {:toc}
@@ -59,19 +59,17 @@ This page describes Web Content Accessibility Guidelines (WCAG) 2 supporting doc
 {% include_cached toc.html type="end" %}
 {:/}
 
-
-
 ## WCAG 2 Standard
 
-Web Content Accessibility Guidelines (WCAG) 2 is a stable, referenceable technical standard. For background and an introduction to WCAG, see [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/).
+Web Content Accessibility Guidelines (WCAG) 2 is a stable, referenceable technical standard. Learn more from the [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/).
 
-When developing web content and web tools, most people will use the documents introduced below, instead of the actual technical standards document.
+When developing web content and web tools, most people will use the documents introduced below, instead of the actual standard document.
 
-## Quick Reference, How to Meet WCAG 2, Checklist
+## Quick Reference / How to Meet WCAG 2 / Checklist
 
-[How to Meet WCAG 2 (Quick Reference): A customizable quick reference to WCAG 2 requirements (Success Criteria) and techniques](http://www.w3.org/WAI/WCAG21/quickref/) is a **key resource for designers and developers using WCAG 2. It includes all the WCAG 2 guidelines and success criteria**. It is essentially the [WCAG 2 checklist](http://www.w3.org/WAI/WCAG21/quickref/).
+**A key resource for designers and developers using WCAG 2 is [How to Meet WCAG 2 (Quick Reference): A customizable quick reference to WCAG 2 requirements (Success Criteria) and techniques](http://www.w3.org/WAI/WCAG21/quickref/).** It includes all the WCAG 2 guidelines and success criteria. It is essentially the [WCAG 2 checklist](http://www.w3.org/WAI/WCAG21/quickref/).
 
-You can customize _How to Meet WCAG 2_ to show what you are interested in at the time. There are "filters" for different roles, topics, and technologies (such as HTML, CSS, ARIA). You can also select to show [Level A, AA, or AAA success criteria](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
+You can customize it to show what you are interested in at the time. There are "filters" for different roles, topics, and technologies (such as HTML, CSS, ARIA). And filers for [Level A, AA, or AAA success criteria](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
 ## Supporting Documents
 
@@ -79,7 +77,7 @@ The following documents directly relate to WCAG guidelines and success criteria.
 
 ### Understanding WCAG 2
 
-<cite>Understanding WCAG 2: A guide to understanding and implementing Web Content Accessibility Guidelines 2</cite> has additional details for people who want to understand the guidelines and success criteria more thoroughly. It provide extensive guidance, including:
+<cite>Understanding WCAG 2</cite> is a guide to understanding and implementing WCAG. It has details for people who want to understand the guidelines and success criteria more thoroughly. It includes:
 
 *  the intent
 *  how it helps people with different disabilities
@@ -91,11 +89,11 @@ Learn more:
 
 * [About Understanding Documents](https://www.w3.org/WAI/WCAG21/Understanding/intro)
 * [2.1 Understanding Document List](https://www.w3.org/WAI/WCAG21/Understanding/)
-* [2.0 Understanding Document List](https://www.w3.org/TR/UNDERSTANDING-WCAG20/))
+* [2.0 Understanding Document List](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
 
 ### Techniques for WCAG 2
 
-<cite>Techniques for WCAG 2: Techniques and Failures for Web Content Accessibility Guidelines 2</cite> gives specific guidance **for developers** on how to develop accessible web content. It provides general and technology-specific examples, including for HTML/XHTML, CSS, scripting, multimedia, and [WAI-ARIA](/standards-guidelines/aria/). 
+<cite>Techniques for WCAG 2</cite> gives specific guidance **for developers** on how to develop accessible web content. It provides general and technology-specific examples, including for HTML/XHTML, CSS, scripting, multimedia, and [WAI-ARIA](/standards-guidelines/aria/). 
 
 * **Sufficient techniques** are examples of ways to meet success criteria. If you follow the sufficient techniques for the success criteria, then you meet the criteria.
 * **Advisory techniques** are suggested ways to improve accessibility. They are often very helpful to some               users, and may be the only way that some users can access some types of content.
@@ -108,17 +106,17 @@ Learn more:
 
 ### Test Rules for WCAG 2
 
-Test Rules describe how to test conformance to WCAG success criteria. They are primarily for developing evaluation tools and test methodologies.
+Test Rules describe how to test conformance to WCAG success criteria. They are primarily for developing evaluation tools and test methodologies. (They are more robust than the tests in the techniques.)
 
 * [About WCAG 2 Test Rules](/standards-guidelines/act/)
 * [Test Rules List](/standards-guidelines/act/rules/)
 
 ## Supplemental Guidance
 
-Supplemental guidance goes beyond the requirements of WCAG. Following this guidance is not required to meet WCAG. Much of it is essential for people with certain impairments, including cognitive and learning disabilities and low vision.
+Supplemental guidance goes beyond the requirements of WCAG. They are **not required** to meet WCAG. Much of the guidance is essential for people with certain impairments, including cognitive and learning disabilities and low vision.
 
 * About Supplemental Guidance - *coming soon*
-* Design Patterns for People with Cognitive and Learning Disabilities - *coming soon*
+* All Supplemental Guidance - *coming soon*
 
 ## Additional Resources
 
@@ -129,7 +127,7 @@ Before you start working with WCAG, you probably want to read these resources:
 
 Other resources cover specific topics, for example: 
 
-- [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
-- [[Making Audio and Video Media Accessible]](/media/av/)
+* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) cover page structure, menus, images, tables, carousels, forms.
+* [[Making Audio and Video Media Accessible]](/media/av/)
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
