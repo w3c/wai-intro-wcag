@@ -64,7 +64,7 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="ar21">Arabic</th>
-      <td><a href="https://www.w3.org/Translations/WCAG21-ar/"><strong>Arabic Authorized Translation of WCAG 2.1 completed</strong></a></td>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-ar/">Arabic Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
     </tr>
   </thead>
