@@ -96,8 +96,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
         <th id="de21">German</th>
+        <td><a href="https://outline-rocks.github.io/wcag/translations/CAT-WCAG21-DE-20211004/">German Candidate Authorized Translation of WCAG 2.1  {% include_cached external.html %}</a></td>
         <td></td>
-        <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021AprJun/0035.html">notification of intent for German Authorized Translation of WCAG 2.1 (16 June 2021)</a></td>
      </tr>
      <tr>
         <th id="il21">Hebrew</th>
@@ -143,6 +143,11 @@ Two types of translations are listed on this page:
       <th id="es21">Spanish</th>
       <td></td>
       <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html">notification of intent for Spanish unofficial translation of WCAG 2.1 (12 April 2019)</a></td>
+    </tr>
+     <tr>
+      <th id="bg21">Bulgarian</th>
+      <td></td>
+      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021OctDec/0000.html">draft Bulgarian unofficial translation of WCAG 2.1 (1 October 2021)</a></td>
     </tr>
   </tbody>
 </table>
