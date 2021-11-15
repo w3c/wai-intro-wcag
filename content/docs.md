@@ -6,7 +6,7 @@ title: "WCAG 2 Guidance Documents"
 nav_title: "Guidance Documents"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-09-18   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-11-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -31,7 +31,7 @@ description:  Describes Web Content Accessibility Guidelines (WCAG) 2 supporting
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 18 September 2021. First published July 2005.</p>
+   <p><strong>Date:</strong> Updated 15 November 2021. First published July 2005.</p>
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/hidde/">Hidde de Vries</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
    <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
@@ -78,9 +78,9 @@ You can customize it so it shows what you are interested in at the time. There a
 
 The supporting documents directly relate to WCAG guidelines and success criteria. They are **not required** to meet WCAG; they are "informative" or "non-normative".
 
-### Understanding WCAG 2
+### Understanding WCAG
 
-<cite>Understanding WCAG 2</cite> is a guide to understanding and implementing WCAG. It has details for people who want to understand the guidelines and success criteria more thoroughly. It includes:
+<cite>Understanding WCAG</cite> is a guide to understanding and implementing WCAG. It has details for people who want to understand the guidelines and success criteria more thoroughly. It includes:
 
 *  the intent
 *  how it helps people with different disabilities
@@ -88,22 +88,20 @@ The supporting documents directly relate to WCAG guidelines and success criteria
 *  examples
 *  resources, such as [tools to check contrast between colors](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html#resources)
 
-Learn more:
-
+More:
 * [About Understanding Documents](https://www.w3.org/WAI/WCAG21/Understanding/intro)
 * [2.1 Understanding Document List](https://www.w3.org/WAI/WCAG21/Understanding/)
 * [2.0 Understanding Document List](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
 
-### Techniques for WCAG 2
+### Techniques for WCAG
 
-<cite>Techniques for WCAG 2</cite> gives specific guidance **for developers** on how to develop accessible web content. It provides general and technology-specific examples, including for HTML/XHTML, CSS, scripting, multimedia, and [WAI-ARIA](/standards-guidelines/aria/). 
+<cite>Techniques for WCAG</cite> give specific guidance **for developers** on how to develop accessible web content. It provides general and technology-specific examples, including for HTML, CSS, scripting, multimedia, and [WAI-ARIA](/standards-guidelines/aria/). 
 
 * **Sufficient techniques** are examples of ways to meet success criteria. If you follow the sufficient techniques for the success criteria, then you meet the criteria.
-* **Advisory techniques** are suggested ways to improve accessibility. They are often very helpful to some               users, and may be the only way that some users can access some types of content.
+* **Advisory techniques** are suggested ways to improve accessibility. They are very helpful to some users, and may be the only way that some users can access some types of content.
 * **Failures** are things that cause accessibility barriers and fail specific success criteria.
 
-Learn more:
-
+More:
 * [About Techniques](https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques)
 * [2.1 Techniques List]( https://www.w3.org/WAI/WCAG21/Techniques/)
 * [2.0 Techniques List](https://www.w3.org/TR/WCAG20-TECHS/)
@@ -117,21 +115,19 @@ Test Rules describe how to test conformance to WCAG success criteria. They are p
 
 ## Supplemental Guidance
 
-Supplemental guidance goes beyond the requirements of WCAG. They are **not required** to meet WCAG. Much of the guidance is essential for people with certain impairments, including cognitive and learning disabilities and low vision.
+Supplemental guidance goes beyond the requirements of WCAG. It is **not required** to meet WCAG. Much of the guidance is essential for people with certain impairments, including cognitive and learning disabilities and low vision.
 
-* About Supplemental Guidance - *coming soon*
-* All Supplemental Guidance - *coming soon*
+* About Supplemental Guidance - *coming December 2021*
+* All Supplemental Guidance - *coming December 2021*
 
 ## Additional Resources
 
 Before you start working with WCAG, you probably want to read these resources:
-
 * [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
 * [[Accessibility Principles]](/fundamentals/accessibility-principles/)
 * [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/)
 
 Other resources cover specific topics, for example: 
-
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) cover page structure, menus, images, tables, carousels, forms
 * [[Making Audio and Video Media Accessible]](/media/av/) covers multimedia
 
