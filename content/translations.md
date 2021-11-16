@@ -62,13 +62,18 @@ Two types of translations are listed on this page:
       <th scope="col">Translations available</th>
       <th scope="col">Notes and e-mail notifications</th>
     </tr>
+     </thead>
+  <tbody>
     <tr>
       <th id="ar21">Arabic</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-ar/">Arabic Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
     </tr>
-  </thead>
-  <tbody>
+    <tr>
+      <th id="bg21">Bulgarian</th>
+      <td></td>
+      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021OctDec/0000.html">draft Bulgarian unofficial translation of WCAG 2.1 (1 October 2021)</a></td>
+    </tr>
     <tr>
       <th id="zh21">Chinese, Simplified</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
@@ -143,11 +148,6 @@ Two types of translations are listed on this page:
       <th id="es21">Spanish</th>
       <td></td>
       <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html">notification of intent for Spanish unofficial translation of WCAG 2.1 (12 April 2019)</a></td>
-    </tr>
-     <tr>
-      <th id="bg21">Bulgarian</th>
-      <td></td>
-      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021OctDec/0000.html">draft Bulgarian unofficial translation of WCAG 2.1 (1 October 2021)</a></td>
     </tr>
   </tbody>
 </table>
