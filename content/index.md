@@ -110,7 +110,7 @@ The following resources help you understand and implement WCAG, and improve acce
 * Test Rules for WCAG 2
 * Supplemental Guidance
 
-**Learn more about these WCAG 2 resources from [WCAG 2 Documents](/standards-guidelines/wcag/docs/).**
+**Please read about these WCAG 2 resources from [WCAG 2 Documents](/standards-guidelines/wcag/docs/).**
 
 ## Translations
 
