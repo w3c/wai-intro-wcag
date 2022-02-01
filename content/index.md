@@ -7,7 +7,7 @@ nav_title: "Web Content – WCAG"
 description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
 
 lang: en
-last_updated: 202109-18
+last_updated: 2022-02-01
 permalink: /standards-guidelines/wcag/
 
 github:
@@ -15,7 +15,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 18 September 2021. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 1 February 2022. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -28,7 +28,7 @@ ref: /standards-guidelines/wcag/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0 and WCAG 2.1.
+This page introduces the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0, WCAG 2.1, and WCAG 2.2.
 
 Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
@@ -64,7 +64,7 @@ The WCAG documents explain how to make web content more accessible to people wit
 
 The Web Content Accessibility Guidelines (WCAG) standards are stable and referenceable; they do not change after they are published.
 
-**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)**  was published on 5 June 2018. <br>WCAG 2.2 is scheduled to be published in 2021.
+**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)**  was published on 5 June 2018. <br>WCAG 2.2 is scheduled to be published by June 2022.
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1. <br>All requirements in 2.0 and 2.1 will be included in 2.2. The wording of the 2.0 and 2.1 success criteria will be exactly the same in 2.2.
 
@@ -137,4 +137,4 @@ See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
 -   **WCAG 2 coverage of [mobile accessibility](/standards-guidelines/wcag/faq/#mobile)**
 -   **WCAG 2 applicability to [non-W3C technologies](/standards-guidelines/wcag/faq/#othertechs)**
 -   **[WCAG 3.0 ("Silver")](/standards-guidelines/wcag/faq/#next)**
--   and more...s
+-   and more...
