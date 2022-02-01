@@ -36,6 +36,8 @@ Quick links to resources:
 * [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
 * [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
 
+Related page:  [WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/) covers the early draft of W3C Accessibility Guidelines 3.0.
+
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
@@ -129,7 +131,7 @@ WAI updates Techniques for WCAG 2 and Understanding WCAG 2 periodically. We welc
 
 Opportunities for contributing to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
 
-## More Information {#more}
+## WCAG 3 and More Information {#more}
 
 WCAG is part of a series of accessibility guidelines, including the Authoring Tool Accessibility Guidelines (ATAG) and the User Agent Accessibility Guidelines (UAAG). [[Essential Components of Web Accessibility]](/fundamentals/components/) explains the relationship between the different guidelines.
 
@@ -137,5 +139,6 @@ See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
 
 -   **WCAG 2 coverage of [mobile accessibility](/standards-guidelines/wcag/faq/#mobile)**
 -   **WCAG 2 applicability to [non-W3C technologies](/standards-guidelines/wcag/faq/#othertechs)**
--   **[WCAG 3.0 ("Silver")](/standards-guidelines/wcag/faq/#next)**
 -   and more...
+
+For information on the early draft of W3C Accessibility Guidelines 3.0 (formerly known as "Sliver"), see the **[WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)**.
