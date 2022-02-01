@@ -103,14 +103,14 @@ For a short summary of the WCAG 2 guidelines, see **[[WCAG 2 at a Glance]](/stan
 
 ### Supporting material and supplemental guidance {#supplement}
 
-These resources help you understand and implement WCAG, and improve accessibility beyond WCAG:
+The following resources help you understand and implement WCAG, and improve accessibility beyond WCAG:
 * Quick Reference / How to Meet WCAG 2 / Checklist
 * Understanding WCAG 2
 * Techniques for WCAG 2
 * Test Rules for WCAG 2
 * Supplemental Guidance
 
-**Learn more about these WCAG 2 resources from [WCAG 2 Guidance Documents](/standards-guidelines/wcag/docs/).**
+**Learn more about these WCAG 2 resources from [WCAG 2 Documents](/standards-guidelines/wcag/docs/).**
 
 ## Translations
 
