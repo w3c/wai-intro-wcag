@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "WCAG 2 Guidance Documents"
-nav_title: "Guidance Documents"
+title: "WCAG 2 Documents"
+nav_title: "The Documents"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-02-01  # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -111,14 +111,14 @@ More:
 Test Rules describe how to test conformance to WCAG success criteria. They are primarily for developing evaluation tools and test methodologies. (They are more robust than the tests in the techniques.)
 
 * [About WCAG 2 Test Rules](/standards-guidelines/act/)
-* [Test Rules List](/standards-guidelines/act/rules/)
+* [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 
-## Supplemental Guidance @@ add id for link from WCAG 2.1
+## Supplemental Guidance {#supplement}
 
 Supplemental guidance goes beyond the requirements of WCAG. It is **not required** to meet WCAG. Much of the guidance is essential for people with certain impairments, including cognitive and learning disabilities and low vision.
 
 * About Supplemental Guidance - *coming February 2022*
-* All Supplemental Guidance - *coming February 2022*
+* All Supplemental Guidance list - *coming February 2022*
 
 ## Additional Resources
 
