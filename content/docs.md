@@ -103,7 +103,7 @@ More:
 
 More:
 * [About Techniques](https://www.w3.org/WAI/WCAG21/Understanding/understanding-techniques)
-* [2.1 Techniques List]( https://www.w3.org/WAI/WCAG21/Techniques/)
+* [2.1 Techniques List](https://www.w3.org/WAI/WCAG21/Techniques/)
 * [2.0 Techniques List](https://www.w3.org/TR/WCAG20-TECHS/)
 
 ### Test Rules for WCAG 2
@@ -117,8 +117,8 @@ Test Rules describe how to test conformance to WCAG success criteria. They are p
 
 Supplemental guidance goes beyond the requirements of WCAG. It is **not required** to meet WCAG. Much of the guidance is essential for people with certain impairments, including cognitive and learning disabilities and low vision.
 
-* About Supplemental Guidance - *coming December 2021*
-* All Supplemental Guidance - *coming December 2021*
+* About Supplemental Guidance - *coming February 2022*
+* All Supplemental Guidance - *coming February 2022*
 
 ## Additional Resources
 
