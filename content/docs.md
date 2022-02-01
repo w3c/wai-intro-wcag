@@ -78,7 +78,7 @@ You can customize it so it shows what you are interested in at the time. There a
 
 The supporting documents directly relate to WCAG guidelines and success criteria. They are **not required** to meet WCAG; they are "informative" or "non-normative".
 
-### Understanding WCAG
+### Understanding
 
 <cite>Understanding WCAG</cite> is a guide to understanding and implementing WCAG. It has details for people who want to understand the guidelines and success criteria more thoroughly. It includes:
 
@@ -93,7 +93,7 @@ More:
 * [2.1 Understanding Document List](https://www.w3.org/WAI/WCAG21/Understanding/)
 * [2.0 Understanding Document List](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
 
-### Techniques for WCAG
+### Techniques
 
 <cite>Techniques for WCAG</cite> give specific guidance **for developers** on how to develop accessible web content. It provides general and technology-specific examples, including for HTML, CSS, scripting, multimedia, and [WAI-ARIA](/standards-guidelines/aria/). 
 
@@ -106,14 +106,14 @@ More:
 * [2.1 Techniques List](https://www.w3.org/WAI/WCAG21/Techniques/)
 * [2.0 Techniques List](https://www.w3.org/TR/WCAG20-TECHS/)
 
-### Test Rules for WCAG 2
+### Test Rules
 
 Test Rules describe how to test conformance to WCAG success criteria. They are primarily for developing evaluation tools and test methodologies. (They are more robust than the tests in the techniques.)
 
 * [About WCAG 2 Test Rules](/standards-guidelines/act/)
 * [Test Rules List](/standards-guidelines/act/rules/)
 
-## Supplemental Guidance
+## Supplemental Guidance @@ add id for link from WCAG 2.1
 
 Supplemental guidance goes beyond the requirements of WCAG. It is **not required** to meet WCAG. Much of the guidance is essential for people with certain impairments, including cognitive and learning disabilities and low vision.
 
