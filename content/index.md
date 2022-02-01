@@ -8,6 +8,7 @@ description: Introduces the Web Content Accessibility Guidelines (WCAG) internat
 
 lang: en
 last_updated: 2022-02-01
+
 permalink: /standards-guidelines/wcag/
 
 github:

@@ -62,13 +62,18 @@ Two types of translations are listed on this page:
       <th scope="col">Translations available</th>
       <th scope="col">Notes and e-mail notifications</th>
     </tr>
+     </thead>
+  <tbody>
     <tr>
       <th id="ar21">Arabic</th>
-      <td><a href="https://mip.qa/authorized-arabic-translation-wcag2-1/tentative-arabic-wcag2.1/index.html">Arabic Candidate Authorized Translation of WCAG 2.1</a></td>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-ar/">Arabic Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
     </tr>
-  </thead>
-  <tbody>
+    <tr>
+      <th id="bg21">Bulgarian</th>
+      <td></td>
+      <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021OctDec/0000.html">draft Bulgarian unofficial translation of WCAG 2.1 (1 October 2021)</a></td>
+    </tr>
     <tr>
       <th id="zh21">Chinese, Simplified</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
@@ -96,8 +101,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
         <th id="de21">German</th>
+        <td><a href="https://outline-rocks.github.io/wcag/translations/CAT-WCAG21-DE-20211004/">German Candidate Authorized Translation of WCAG 2.1  {% include_cached external.html %}</a></td>
         <td></td>
-        <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021AprJun/0035.html">notification of intent for German Authorized Translation of WCAG 2.1 (16 June 2021)</a></td>
      </tr>
      <tr>
         <th id="il21">Hebrew</th>
@@ -116,7 +121,7 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="nb21">Norwegian Bokmål</th>
-      <td><a href="https://www.uutilsynet.no/webdirektivet-wad/autorisert-kandidatoversettelse-av-wcag-21/807">Norwegian Bokmål Candidate Authorized Translation of WCAG 2.1  {% include_cached external.html %}</a></td>
+       <td><strong><a href="https://www.w3.org/Translations/WCAG21-no/">Norwegian Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
