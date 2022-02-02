@@ -110,7 +110,7 @@ More:
 
 Test Rules describe how to test conformance to WCAG success criteria. They are primarily for developing evaluation tools and test methodologies. (They are more robust than the tests in the techniques.)
 
-* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about)
+* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about/)
 * [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
 
 ## Supplemental Guidance {#supplement}
