@@ -1,10 +1,11 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "Web Content Accessibility Guidelines (WCAG) 2 Overview"
+title: "WCAG 2 Overview"
 nav_title: "Web Content – WCAG 2"
 
-description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0 and WCAG 2.1. WCAG documents explain how to make web content more accessible to people with disabilities.
+description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.
+
 
 lang: en
 last_updated: 2022-02-01
@@ -29,15 +30,14 @@ ref: /standards-guidelines/wcag/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the Web Content Accessibility Guidelines (WCAG), including WCAG 2.0, WCAG 2.1, and WCAG 2.2.
+This page introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. (A different page [introduces WCAG 3](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/).) WCAG documents explain how to make web content more accessible to people with disabilities.
+
 
 Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
 * [WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/)
 * [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
 * [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
-
-Related page:  [WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/) covers the early draft of W3C Accessibility Guidelines 3.0.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -57,7 +57,7 @@ Related page:  [WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines
 
 ## Introduction {#intro}
 
-Web Content Accessibility Guidelines (WCAG) is developed through the [W3C process](/standards-guidelines/w3c-process/) in cooperation with individuals and organizations around the world, with a goal of providing a single shared standard for web content accessibility that meets the needs of individuals, organizations, and governments internationally.
+Web Content Accessibility Guidelines (WCAG) 2 is developed through the [W3C process](/standards-guidelines/w3c-process/) in cooperation with individuals and organizations around the world, with a goal of providing a single shared standard for web content accessibility that meets the needs of individuals, organizations, and governments internationally.
 
 The WCAG documents explain how to make web content more accessible to people with disabilities. Web "content" generally refers to the information in a web page or web application, including:
 
