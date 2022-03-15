@@ -30,7 +30,7 @@ feedbackmail: wai@w3.org
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This is a placeholder page for updated guidance on making content more usable for people with cognitive and learning disabilities. The redesign will be published here in March 2022.
+This is page describes more concise guidance on making content accessible to people with cognitive and learning disabilities. The redesign will be published here in March 2022.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -46,6 +46,21 @@ This is a placeholder page for updated guidance on making content more usable fo
 {% include toc.html type="end" %}
 {:/}
 
+## Accessibility for People with Cognitive and Learning Disabilities
+
+For context, see **[[Cognitive Accessibility at W3C]](/cognitive/)**. It introduces:
+* accessibility for people with cognitive and learning disabilities (“cognitive accessibility”)
+* existing standards from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI)
+* informative guidance beyond the standards
+* on-going work on cognitive accessibility support at W3C WAI
+
+Many different aspects of cognitive accessibility are covered in: [Making Content Usable for People with Cognitive and Learning Disabilities {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/coga-usable/).
+
+From that long document, we are pulling the "Objectives" and "Design Patterns" into a kind of design guide with other "supplemental guidance".
+
+**The new design of supplemental guidance will provide the information in much smaller chunks that are easier to read and navigate.**
+
+**Later in March 2022, you can access that supplemental guidance from this web address (URI [www.w3.org/WAI/WCAG2/supplemental](/WCAG2/supplemental/)).**
 
 ## Background: WCAG and Supplemental Guidance
 
@@ -58,20 +73,6 @@ Some accessibility issues did not fit as WCAG 2 requirements (called "success cr
 Following the supplemental guidance is **not required to meet WCAG**. And, we encourage you to follow this guidance in order meet more user needs.
 
 The accessibility issues addressed in the supplemental guidance are essential for people with certain disabilities to be able to use digital technology.
-
-## Accessibility for People with Cognitive and Learning Disabilities
-
-For context, see **[[Cognitive Accessibility at W3C]](/cognitive/)**. It introduces:
-* accessibility for people with cognitive and learning disabilities (“cognitive accessibility”)
-* existing standards from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI)
-* informative guidance beyond the standards
-* on-going work on cognitive accessibility support at W3C WAI
-
-Many different aspects of cognitive accessibility are covered in: [Making Content Usable for People with Cognitive and Learning Disabilities {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/coga-usable/).
-
-From that long document, we are pulling the "Objectives" and "Design Patterns" into a kind of "design guide" with other supplemental guidance. It provides the guidance in much smaller chunks that are easier to read and navigate.
-
-**Later in March 2022, you can access that supplemental guidance from this web address (URI [www.w3.org/WAI/WCAG2/supplemental](/WCAG2/supplemental/)).**
 
 ## To Get Updates
 
