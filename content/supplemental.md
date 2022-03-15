@@ -12,6 +12,7 @@ lang: en
 last_updated: 2022-03-15
 
 permalink: /WCAG2/supplemental/
+ref: /WCAG2/supplemental/
 
 github:
   repository: w3c/wai-intro-wcag
@@ -21,9 +22,29 @@ footer: >
   <p><strong>Note:</strong> Placeholder page for content coming in late March 2022.</p>
 
 feedbackmail: wai@w3.org  
-ref: /standards-guidelines/supplemental/
 
 ---
+
+
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+This is a placeholder page for updated guidance on making content more usable for people with cognitive and learning disabilities. The redesign will be published here in March 2022.
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
+
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{:toc}
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
 
 
 ## Background: WCAG and Supplemental Guidance
@@ -40,18 +61,18 @@ The accessibility issues addressed in the supplemental guidance are essential fo
 
 ## Accessibility for People with Cognitive and Learning Disabilities
 
-For starters, see **[[Cognitive Accessibility at W3C]](WAI/cognitive/)**. It introduces:
+For context, see **[[Cognitive Accessibility at W3C]](/cognitive/)**. It introduces:
 * accessibility for people with cognitive and learning disabilities (“cognitive accessibility”)
 * existing standards from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI)
 * informative guidance beyond the standards
 * on-going work on cognitive accessibility support at W3C WAI
 
-The supplemental guidance covers improving accessibility for people with cognitive and learning disabilities. Later in March 2022, you can access that guidance from this web address (URI [www.w3.org/WAI/WCAG2/supplemental](/WCAG2/supplemental/)).
+Many different aspects of cognitive accessibility are covered in: [Making Content Usable for People with Cognitive and Learning Disabilities {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/coga-usable/).
 
-For now, you can find a large amount of information in: **[Making Content Usable for People with Cognitive and Learning Disabilities {% include_cached icon.html name="different-view" %}](https://www.w3.org/TR/coga-usable/)**.
+From that long document, we are pulling the "Objectives" and "Design Patterns" into a kind of "design guide" with other supplemental guidance. It provides the guidance in much smaller chunks that are easier to read and navigate.
 
-The supplemental guidance will be a sub-set of that information. It will include the "Objectives" and "Design Patterns".
+**Later in March 2022, you can access that supplemental guidance from this web address (URI [www.w3.org/WAI/WCAG2/supplemental](/WCAG2/supplemental/)).**
 
-## To get updates
+## To Get Updates
 
-To get notified when this supplemental guidance is published, see **[[Get WAI News]](/news/subscribe/)**.
+To get notified when this cognitive accessibility supplemental guidance is published, see **[[Get WAI News]](/news/subscribe/)**.
