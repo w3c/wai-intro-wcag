@@ -30,7 +30,7 @@ feedbackmail: wai@w3.org
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This is page describes more concise guidance on making content accessible to people with cognitive and learning disabilities. The redesign will be published here in March 2022.
+This page describes more concise guidance on making content accessible to people with cognitive and learning disabilities. The redesign will be published here in March 2022.
 
 {::nomarkdown}
 {% include box.html type="end" %}
