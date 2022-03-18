@@ -68,7 +68,7 @@ The WCAG documents explain how to make web content more accessible to people wit
 
 The Web Content Accessibility Guidelines (WCAG) standards are stable and referenceable; they do not change after they are published.
 
-**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)**  was published on 5 June 2018. <br>**[WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/)** is scheduled to be finalized by June 2022.
+**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)**  was published on 5 June 2018. <br>**[WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/)** is scheduled to be finalized by September 2022.
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1. <br>All requirements in 2.0 and 2.1 will be included in 2.2. The wording of the 2.0 and 2.1 success criteria will be exactly the same in 2.2.
 
