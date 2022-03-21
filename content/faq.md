@@ -187,14 +187,17 @@ The content of ISO/IEC 40500 is freely available from [www.w3.org/TR/WCAG20](htt
 
 The approval was announced 15 October 2012 in a [press release](http://www.w3.org/2012/07/wcag2pas-pr.html) and [blog post](http://www.w3.org/QA/2012/10/wcag_20_is_now_also_isoiec_405.html). If you want more information on W3C and the ISO process, see [W3C PAS FAQ](http://www.w3.org/2010/04/pasfaq).
 
-
 ### Benefits of WCAG as ISO
 
 Approval of WCAG 2.0 as an ISO standard benefits countries and organizations that can more easily adopt ISO standards. Countries that previously adapted WCAG 2.0 may now be able to *adopt WCAG 2.0 as is* by referencing ISO/IEC 40500. 
 
 ### Translations {#isotranslations}
 
-W3C has offered our [WCAG 2.0 Authorized Translations](/standards-guidelines/wcag/translations/) to be used for the ISO/IEC translations. We will update this page when more information about translations is available. 
+W3C has offered our [WCAG 2.0 Authorized Translations](/standards-guidelines/wcag/translations/) to be used for the ISO/IEC translations. We will update this page when more information about translations is available.
+
+### Future versions of WCAG as ISO?
+
+We are not planning to submit WCAG 2.1 to become an ISO standard. We might submit WCAG 2.2. We will provide updated information here when it is available.
 
 ## Is WCAG 2 available in other languages? {#languages}
 
