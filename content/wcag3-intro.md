@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2021-06-08
+last_updated: 2022-04-05
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -20,7 +20,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 8 June 2021.</p>
+  <p><strong>Date: </strong>Updated 5 April 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -86,7 +86,7 @@ Additionally, we welcome comments on ways that the Accessibility Guidelines Work
 
 It will take you some time to understand the proposed new structure and conformance model in this WCAG 3 draft.
 * If you are interested in helping shape WCAG 3, we encourage you spend time reviewing this draft and submit comments. Before you review and comment on the Working Draft, please read through this page, including the [background](#background) and [review and commenting](#comments) sections near the end.
-* If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2021 or 2022.
+* If you want to wait until WCAG 3 is more polished and stable to start learning it, you can read later drafts in 2022 or 2023.
 
 Later drafts of WCAG 3 will have most of the accessibility requirements (“success criteria”) from WCAG 2 and will have additional accessibility requirements, including some from <abbr title="Authoring Tool Accessibility Guidelines">[ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)</abbr> and <abbr title="User Agent Accessibility Guidelines">[UAAG](https://www.w3.org/WAI/standards-guidelines/uaag/)</abbr>.
 
@@ -218,13 +218,13 @@ The conformance model in the 2021 Working Drafts will likely change in future it
 
 ## Development
 
-### Timeline (_updated 8 June 2021_)
+### Timeline (_updated 7 December 2021_)
 
 <img src="{{ "/content-images/wai-intro-wcag/calandara.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 
 The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. It is the first of many drafts.
 
-The Working Draft published on 8 June 2021 has minor changes: editorial fixes, extended Acknowledgements section, and information moved from the introduction to a separate informative document: [Explainer for W3C Accessibility Guidelines (WCAG) 3.0](https://w3c.github.io/silver/explainer/). **Many [issues are still open](https://github.com/w3c/silver/issues), including testing and conformance.**
+The Working Draft published on 07 December 2021 has minor changes. **Many [issues are still open](https://github.com/w3c/silver/issues), including testing and conformance.**
 
 The Working Group will focus on refining the structure and conformance model, and will provide updated drafts for review. Once that is more stable, the Group will focus on developing the accessibility requirements (guidelines, outcomes, and support material). After WCAG 3 is more stable, we will provide material to help those wanting to transition to WCAG 3; for example, mapping between WCAG 2 and 3 requirements.
 
