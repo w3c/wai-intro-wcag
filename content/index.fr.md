@@ -67,8 +67,7 @@ Les documents des WCAG expliquent comment rendre les contenus web plus accessibl
 
 Les WCAG 2.0 ont été publiées le 11 décembre  2008.<br>Les WCAG 2.1 ont été publiées le 5 juin 2018.<br>La publication des WCAG 2.2 est prévue pour 2021.
 
-Toutes les exigences (« critères de succès"
- ») de la version 2.0 sont incluses dans la 2.1. Les critères de succès 2.0 sont exactement les mêmes (verbatim, mot pour mot) dans la 2.1. <br> Toutes les exigences des versions 2.0 et 2.1 seront incluses dans la version 2.2. Le contenu des critères de succès de 2.0 et 2.1 sera exactement le même dans la version 2.2.
+Toutes les exigences (« critères de succès ») de la version 2.0 sont incluses dans la 2.1. Les critères de succès 2.0 sont exactement les mêmes (verbatim, mot pour mot) dans la 2.1. <br> Toutes les exigences des versions 2.0 et 2.1 seront incluses dans la version 2.2. Le contenu des critères de succès de 2.0 et 2.1 sera exactement le même dans la version 2.2.
 
 La version 2.1 comprend des critères de succès supplémentaires qui n'étaient pas dans la version 2.0. Ils sont présentés dans [[Quoi de neuf dans les WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).<br>Les nouveaux critères de succès proposés dans 2.2 sont présentés dans le document de travail [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/).
 
