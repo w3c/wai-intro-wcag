@@ -53,7 +53,7 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
     <li><a href="#techsnot">What would be the negative consequences of allowing <em>only</em> W3C's published techniques to be used for conformance to WCAG 2?</a></li>
     <li><a href="#iso">Is ISO/IEC 40500 the same as WCAG 2.0?</a></li>
     <li><a href="#languages">Is WCAG 2 available in other languages?</a></li>
-    <li><a href="#othertechs">Can I meet WCAG 2 with Javascript/Ajax, Silverlight, and other technologies?</a></li>
+    <li><a href="#othertechs">Can I meet WCAG 2 with JavaScript/Ajax, Silverlight, and other technologies?</a></li>
     <li><a href="#more">Where can I find answers to more of my questions?</a></li>
   </ul>
 {:toc}
@@ -210,7 +210,7 @@ Unofficial translations of other WAI documents are listed at [Translations of W3
 
 For more information on how you can contribute to WAI translations, see [[Translating WAI Documents]](/about/translating/).
 
-## Can I meet WCAG 2 with Javascript/Ajax, Silverlight, and other technologies? {#othertechs}
+## Can I meet WCAG 2 with JavaScript/Ajax, Silverlight, and other technologies? {#othertechs}
 
 WCAG 2 is designed to apply to a broad range of web technologies.
 
