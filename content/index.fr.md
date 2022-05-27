@@ -17,8 +17,8 @@ github:
   path: 'content/index.fr.md'
 
 footer: >
-  <p><strong>Date :</strong> Mis à jour le 3 avril 2021. Première publication en juillet 2005.</p>
-  <p><strong>Auteure :</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p><strong>Date :</strong> Mis à jour le 3 avril 2021. Première publication en juillet 2005.</p>
+  <p><strong>Auteure :</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé avec la contribution du Groupe de travail Éducation et Promotion (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) et le Groupe de travail en charge des règles d’accessibilité (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 feedbackmail: wai@w3.org  
@@ -32,7 +32,7 @@ ref: /standards-guidelines/wcag/
 
 Présentation des règles pour l’accessibilité des contenus web (WCAG), y compris WCAG 2.0 et WCAG 2.1.
 
-Liens vers les ressources :
+Liens vers les ressources :
 * <span lang="en">[How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)</span> ;
 * <span lang="en">[WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)</span> ;
 * <span lang="en">[WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)</span>.
@@ -58,7 +58,7 @@ Liens vers les ressources :
 
 Les règles pour l’accessibilité des contenus web (WCAG) sont développées dans le cadre du [Processus du W3C](/standards-guidelines/w3c-process/) en collaboration avec des personnes et des organismes du monde entier, dans le but de fournir un standard unique commun pour l’accessibilité des contenus web répondant, au niveau international, aux besoins des personnes, des organismes et des gouvernements.
 
-Les documents des WCAG expliquent comment rendre les contenus web plus accessibles aux personnes handicapées. Le terme « contenu » Web fait en général référence à l’information d’une page web ou d’une application web, comprenant :
+Les documents des WCAG expliquent comment rendre les contenus web plus accessibles aux personnes handicapées. Le terme « contenu » Web fait en général référence à l’information d’une page web ou d’une application web, comprenant :
 
 -   les informations générales telles que le texte, les images et les sons ;
 -   le code ou le balisage qui définit la structure, la présentation, etc.
@@ -67,20 +67,20 @@ Les documents des WCAG expliquent comment rendre les contenus web plus accessibl
 
 Les WCAG 2.0 ont été publiées le 11 décembre 2008.<br>Les WCAG 2.1 ont été publiées le 5 juin 2018.<br>La publication des WCAG 2.2 est prévue pour 2021.
 
-Toutes les exigences (« critères de succès ») de la version 2.0 sont incluses dans la 2.1. Les critères de succès 2.0 sont exactement les mêmes (verbatim, mot pour mot) dans la 2.1. <br> Toutes les exigences des versions 2.0 et 2.1 seront incluses dans la version 2.2. Le contenu des critères de succès de 2.0 et 2.1 sera exactement le même dans la version 2.2.
+Toutes les exigences (« critères de succès ») de la version 2.0 sont incluses dans la 2.1. Les critères de succès 2.0 sont exactement les mêmes (verbatim, mot pour mot) dans la 2.1. <br> Toutes les exigences des versions 2.0 et 2.1 seront incluses dans la version 2.2. Le contenu des critères de succès de 2.0 et 2.1 sera exactement le même dans la version 2.2.
 
 La version 2.1 comprend des critères de succès supplémentaires qui n’étaient pas dans la version 2.0. Ils sont présentés dans [[Quoi de neuf dans les WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).<br>Les nouveaux critères de succès proposés dans 2.2 sont présentés dans le document de travail <span lang="en">[[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)</span> (en anglais).
 
 
 **Les contenus conformes aux WCAG 2.1 sont également conformes aux WCAG 2.0**.<br>Et les contenus conformes aux WCAG 2.2 seront également conformes aux versions 2.1 et 2.0. (On appelle souvent cela “la rétro compatibilité”.) Un site web conforme aux WCAG 2.1 ou 2.2 devrait répondre aux exigences des politiques qui font référence aux WCAG 2.0.
 
-Dit autrement : si vous voulez vous conformer à la fois aux WCAG 2.0 et WCAG 2.1, vous pouvez utiliser les ressources des 2.1 et vous n’avez pas besoin de vous préoccuper des 2.0.
+Dit autrement : si vous voulez vous conformer à la fois aux WCAG 2.0 et WCAG 2.1, vous pouvez utiliser les ressources des 2.1 et vous n’avez pas besoin de vous préoccuper des 2.0.
 
 Les WCAG 2.0 et WCAG 2.1 sont toutes deux des normes en vigueur. Les WCAG 2.1 ne déprécient ni ne remplacent les WCAG 2.0. Le W3C vous encourage à utiliser la version la plus récente des WCAG quand vous développez ou mettez à jour des contenus ou une politique d’accessibilité.
 
 ## À qui s’adressent les WCAG {#for}
 
-En premier lieu, les WCAG sont destinées :
+En premier lieu, les WCAG sont destinées :
 
 -   aux personnes qui développent des contenus web (conception de pages, designers de sites, etc.) ;
 -   aux personnes qui développent des outils pour l’édition sur le web ;
