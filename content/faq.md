@@ -7,7 +7,7 @@ nav_title: "FAQ"
 description: Answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG).
 
 lang: en
-last_updated: 2022-03-18
+last_updated: 2022-05-13
 permalink: /standards-guidelines/wcag/faq/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 18 March 2022. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 13 May 2022. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -27,7 +27,7 @@ permalink: /standards-guidelines/wcag/faq/
 {:/}
 
 This page answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG). Let us know what <a href="#more">other questions</a> you have.<br>
-~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 18 March 2022</em>
+~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 13 May 2022</em>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -53,7 +53,7 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
     <li><a href="#techsnot">What would be the negative consequences of allowing <em>only</em> W3C's published techniques to be used for conformance to WCAG 2?</a></li>
     <li><a href="#iso">Is ISO/IEC 40500 the same as WCAG 2.0?</a></li>
     <li><a href="#languages">Is WCAG 2 available in other languages?</a></li>
-    <li><a href="#othertechs">Can I meet WCAG 2 with Javascript/Ajax, Silverlight, and other technologies?</a></li>
+    <li><a href="#othertechs">Can I meet WCAG 2 with JavaScript/Ajax, Silverlight, and other technologies?</a></li>
     <li><a href="#more">Where can I find answers to more of my questions?</a></li>
   </ul>
 {:toc}
@@ -196,6 +196,12 @@ Approval of WCAG 2.0 as an ISO standard benefits countries and organizations tha
 
 W3C has offered our [WCAG 2.0 Authorized Translations](/standards-guidelines/wcag/translations/) to be used for the ISO/IEC translations. We will update this page when more information about translations is available. 
 
+## Does W3C plan to send WCAG 2.1 or WCAG 2.2 to ISO for endorsement? {#iso212}
+
+**W3C does not plan to send WCAG 2.1** to ISO for endorsement and would not support that action, because WCAG 2.2 is expected to be finalized within 2022 and will be an improvement in several respects.
+
+**W3C expects to send WCAG 2.2 to ISO for endorsement**, and has started that process by notifying the ISO/IEC Joint Technical Committee 1 (JTC 1) of our intention to do so.
+
 ## Is WCAG 2 available in other languages? {#languages}
 
 **Yes.** Authorized Translations and unofficial translations of the technical documents WCAG 2, Techniques for WCAG 2, and Understanding WCAG 2 are listed in [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/).
@@ -204,8 +210,7 @@ Unofficial translations of other WAI documents are listed at [Translations of W3
 
 For more information on how you can contribute to WAI translations, see [[Translating WAI Documents]](/about/translating/).
 
-
-## Can I meet WCAG 2 with Javascript/Ajax, Silverlight, and other technologies? {#othertechs}
+## Can I meet WCAG 2 with JavaScript/Ajax, Silverlight, and other technologies? {#othertechs}
 
 WCAG 2 is designed to apply to a broad range of web technologies.
 
