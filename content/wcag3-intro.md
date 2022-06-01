@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2022-05-17
+last_updated: 2022-06-01
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
