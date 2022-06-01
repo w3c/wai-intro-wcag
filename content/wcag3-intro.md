@@ -81,7 +81,7 @@ We received a lot feedback and are using that to rewrite the approach. We will u
 Each normative section is given a status. This status indicates how far along in the development process this section is, how ready it is for experimental adoption, and what kind of feedback we are looking for.
 * **Placeholder:** This content is temporary. It shows the type of content or section to expect. Placeholder text will be replaced. It is hidden by default in the Editor's draft. No feedback is needed on placeholder content.
 * **Exploratory:** The Working Group is exploring what direction to take with this section. This content is not refined; details and definitions may be missing. It is hidden by default in the Editor's draft. We invite feedback on the proposed direction.
-* **Developing:** There is rough agreement on what is needed for this section, although not all high-level concerns have been settled. Details are included, yet they are not all agreed on. We invite general feedback on how understandable, usable, and reasonable the section.
+* **Developing:** There is rough agreement on what is needed for this section, although not all high-level concerns have been settled. Details are included, yet they are not all agreed on. We invite general feedback on how understandable, usable, and reasonable the section is generally.
 * **Refining:** The Working Group has reach consensus on this section. It is ready for broad public review and experimental adoption.  We seek feedback on feasibility and issues with implementations.
 * **Mature:** The Working Group thinks this content is ready for the final standard. Feedback should be focused on edge case scenarios the Working Group might not have anticipated.
 
