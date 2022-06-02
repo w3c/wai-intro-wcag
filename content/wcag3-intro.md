@@ -144,7 +144,7 @@ The _conformance model_ is the way to determine and communicate how well a websi
 * be more flexible for organizations (that is, owners and developers of websites, apps, tools, etc.)
 * encourage more accessible user experiences
 
-We are reworking the conformance model based on feedback and encourage feedback as we iterate. 
+We are reworking the conformance model based on feedback and we encourage additional feedback as we iterate. 
 
 ## Development
 
