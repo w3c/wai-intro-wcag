@@ -104,8 +104,6 @@ Additionally, we welcome comments on ways that the Accessibility Guidelines Work
 * cover more user needs, including more needs of people with cognitive disabilities
 * be flexible to address different types of web content, apps, tools, and organizations
 
-<span style="font-style:italic; margin-left:22px;">(More goals are later on this page, in the [Background section](#background).)</span>
-
 WCAG 3 is **similar** to previous versions in some ways. It has similar:
 * goal of providing guidance on making web content and apps accessible to people with disabilities
 * fundamental and specific accessibility requirements
@@ -146,7 +144,7 @@ The _conformance model_ is the way to determine and communicate how well a websi
 * be more flexible for organizations (that is, owners and developers of websites, apps, tools, etc.)
 * encourage more accessible user experiences
 
-We are reworking the conformance model based on feedback and encourage feedback as we iterate. 
+We are reworking the conformance model based on feedback and we encourage additional feedback as we iterate. 
 
 ## Development
 
@@ -178,8 +176,6 @@ The name of WCAG 3 is different from WCAG 2:
 
 The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) with the AG WG Silver Task Force and the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
 
-We welcome your [comments on the WCAG 3 Working Drafts](#comments).
+We welcome your comments on WCAG 3 Working Drafts. The best way to provide feedback is by opening new [GitHub issues](https://github.com/w3c/silver/issues). Alternatively, e-mail public-silver@w3.org
 
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
-
-{% include_cached excol.html type="start" id="background" %}
