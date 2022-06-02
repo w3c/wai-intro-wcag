@@ -124,7 +124,7 @@ This WCAG 3 draft has:
    * Each guideline has outcomes
 * **Outcomes**
    * Testable statements
-   * Similar to **success criteria** in WCAG 2, more granular and more focused on the desired results than the technical means for achieving them.
+   * Similar to **success criteria** in WCAG 2, more granular and more focused on the desired results than the technical means for achieving them
 
 More _granular_ means they are more specific, instead of broad. That generally makes them simpler. It also means there will be more of WCAG 3 outcomes than WCAG 2 success criteria.
 
