@@ -104,8 +104,6 @@ Additionally, we welcome comments on ways that the Accessibility Guidelines Work
 * cover more user needs, including more needs of people with cognitive disabilities
 * be flexible to address different types of web content, apps, tools, and organizations
 
-<span style="font-style:italic; margin-left:22px;">(More goals are later on this page, in the [Background section](#background).)</span>
-
 WCAG 3 is **similar** to previous versions in some ways. It has similar:
 * goal of providing guidance on making web content and apps accessible to people with disabilities
 * fundamental and specific accessibility requirements
@@ -181,5 +179,3 @@ The WCAG technical documents are developed by the Accessibility Guidelines Worki
 We welcome your [comments on the WCAG 3 Working Drafts](#comments).
 
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
-
-{% include_cached excol.html type="start" id="background" %}
