@@ -113,7 +113,7 @@ WCAG 3 is **similar** to previous versions in some ways. It has similar:
 WCAG 3 is very **different** from previous versions in some ways. It has:
 * different structure
 * different conformance model
-* broader scope
+* broader scope, beyond just web content
 
 ### Structure
 
@@ -124,7 +124,7 @@ This WCAG 3 draft has:
    * Each guideline has outcomes
 * **Outcomes**
    * Testable statements
-   * Similar to **success criteria** in WCAG 2, more granular and more focused on desired outcomes than technical means for achieving those outcomes.
+   * Similar to **success criteria** in WCAG 2, more granular and more focused on the desired results than the technical means for achieving them.
 
 More _granular_ means they are more specific, instead of broad. That generally makes them simpler. It also means there will be more of WCAG 3 outcomes than WCAG 2 success criteria.
 
