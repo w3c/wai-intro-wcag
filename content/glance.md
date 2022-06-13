@@ -57,9 +57,9 @@ Please see the following key resources for learning and using WCAG 2.1:
 
 -   Make all functionality available from a **[keyboard](http://www.w3.org/WAI/WCAG21/quickref/#keyboard-operation)**.
 -   Give users **[enough time](http://www.w3.org/WAI/WCAG21/quickref/#time-limits)** to read and use content.
--   Do not use content that causes **[seizures](http://www.w3.org/WAI/WCAG21/quickref/#seizure)** or physical reactions.
+-   Do not use content that causes **[seizures](http://www.w3.org/WAI/WCAG21/quickref/#seizures-and-physical-reactions)** or physical reactions.
 -   Help users **[navigate and find content](http://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)**.
--   Make it easier to use **[inputs other than keyboard](https://www.w3.org/WAI/WCAG21/quickref/#navigation-mechanisms)**.
+-   Make it easier to use **[inputs other than keyboard](https://www.w3.org/WAI/WCAG21/quickref/#input-modalities)**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
