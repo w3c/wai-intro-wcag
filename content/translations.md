@@ -101,7 +101,7 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
         <th id="de21">German</th>
-        <td><a href="https://outline-rocks.github.io/wcag/translations/WCAG21-de/">German Unofficial Translation of WCAG 2.1 completed {% include_cached external.html %}</a></td>
+        <td><a href="https://outline-rocks.github.io/wcag/translations/WCAG21-de/">German unofficial translation of WCAG 2.1 {% include_cached external.html %}</a></td>
         <td></td>
      </tr>
      <tr>
@@ -151,6 +151,7 @@ Two types of translations are listed on this page:
     </tr>
   </tbody>
 </table>
+
 
 ## WCAG 2.0 Completed and Planned Translations
 
