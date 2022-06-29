@@ -80,7 +80,7 @@ WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate o
 
 ## Who WCAG is for {#for}
 
-WCAG is for those who want a technical standard. It is not an introduction to accessibility. **For links to introductory material, see [“Where should I start?” in the FAQ](/standards-guidelines/wcag/faq/#start).**
+WCAG is for those who want a technical standard. **It is not an introduction to accessibility. For links to introductory material, see [“Where should I start?” in the FAQ](/standards-guidelines/wcag/faq/#start).**
 
 WCAG is primarily intended for:
 
