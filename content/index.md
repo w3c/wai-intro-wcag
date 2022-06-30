@@ -8,7 +8,7 @@ description: Introduces the Web Content Accessibility Guidelines (WCAG) internat
 
 
 lang: en
-last_updated: 2022-03-18
+last_updated: 2022-06-30
 
 permalink: /standards-guidelines/wcag/
 
@@ -17,7 +17,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 18 March 2022. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 30 June 2022. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -30,8 +30,11 @@ ref: /standards-guidelines/wcag/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. (A different page [introduces WCAG 3](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/).) WCAG documents explain how to make web content more accessible to people with disabilities.
+This page introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.
 
+A different page [introduces WCAG 3](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/).
+
+WCAG is not an introduction to accessibility. For introductions, see [Accessibility Fundamentals Overview](/fundamentals/).
 
 Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
