@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2022-06-01
+last_updated: 2022-07-06
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -20,7 +20,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 1 June 2022.</p>
+  <p><strong>Date: </strong>Updated 6 July 2022.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Rachael Bradley Montgomery and Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -77,7 +77,7 @@ The **[latest incomplete, unapproved Editors' Draft](https://w3c.github.io/silve
 
 <img src="{{ "/content-images/wai-intro-wcag/dialogs2.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-We received a lot feedback and are using that to rewrite the approach. We will use an interative approach to create WCAG 3, that makes content visible at various states of maturity.
+We received a lot feedback and are using that to rewrite the approach. We will use an iterative approach to create WCAG 3, that makes content visible at various states of maturity.
 Each normative section is given a status. This status indicates how far along in the development process this section is, how ready it is for experimental adoption, and what kind of feedback we are looking for.
 * **Placeholder:** This content is temporary. It shows the type of content or section to expect. Placeholder text will be replaced. It is hidden by default in the Editor's draft. No feedback is needed on placeholder content.
 * **Exploratory:** The Working Group is exploring what direction to take with this section. This content is not refined; details and definitions may be missing. It is hidden by default in the Editor's draft. We invite feedback on the proposed direction.
