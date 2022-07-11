@@ -15,7 +15,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 17 June 2021. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 11 July 2022. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>, Xueyuan Jia.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -86,8 +86,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="fr21">French</th>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-fr/">French Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021JulSep/0000.html">notification of intent for French Authorized Translation of WCAG 2.1 (2 July 2021)</a> and <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021JulSep/0014.html">list of stakeholder organizations</a></td>
     </tr>
     <tr>
       <th id="da21">Danish</th>
