@@ -28,7 +28,7 @@ ref: /standards-guidelines/wcag/non-web-ict/
 
 This page introduces the document: "Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)".
 
-Quick link: [WCAG2ICT Note](https://www.w3.org/TR/wcag2ict/)
+Quick link: [WCAG2ICT Note](https://www.w3.org/TR/wcag2ict/) (from 2013)
 
 Update in progress: The WCAG2ICT Task Force is currently updating WCAG2ICT to also include WCAG 2.1 and WCAG 2.2.
 
@@ -86,7 +86,7 @@ WCAG2ICT follows the [W3C](https://www.w3.org) format for technical reports, whi
 
 ## Who develops WCAG2ICT {#wg}
 
-WCAG2ICT is developed by the [WCAG2ICT Task Force](https://www.w3.org/WAI/GL/WCAG2ICT-TF/), provided for public review, and approved by the Web Content Accessibility Guidelines Working Group ([WCAG WG](https://www.w3.org/WAI/GL/)), which is part of the World Wide Web Consortium ([W3C](https://www.w3.org/)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
+WCAG2ICT is developed by the [WCAG2ICT Task Force](https://www.w3.org/WAI/GL/WCAG2ICT-TF/), provided for public review, and approved by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)), which is part of the World Wide Web Consortium ([W3C](https://www.w3.org/)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
 
 ### Comments
 
