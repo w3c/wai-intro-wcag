@@ -7,7 +7,7 @@ nav_title: "Applying to Non-Web ICT"
 description: "Introduces the document: “Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)”."
 
 lang: en
-last_updated: 2022-06-15
+last_updated: 2022-07-12
 permalink: /standards-guidelines/wcag/non-web-ict/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 15 June 2022.</p>
+  <p><strong>Date:</strong> Updated 12 July 2022.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the <a href="https://www.w3.org/WAI/GL/WCAG2ICT-TF/">WCAG2ICT Task Force</a> and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/non-web-ict/
@@ -30,7 +30,7 @@ This page introduces the document: "Guidance on Applying WCAG 2.0 to Non-Web Inf
 
 Quick link: [WCAG2ICT Note](https://www.w3.org/TR/wcag2ict/)
 
-Update in progress: The WCAG2ICT Task Force is updating WCAG2ICT to also include WCAG 2.1 and WCAG 2.2.
+Update in progress: The WCAG2ICT Task Force is currently updating WCAG2ICT to also include WCAG 2.1 and WCAG 2.2.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -57,7 +57,7 @@ Update in progress: The WCAG2ICT Task Force is updating WCAG2ICT to also include
 
 *This document:* **WCAG2ICT** is a W3C Working Group Note that is informative — it is not normative and does not set requirements. It provides guidance on the application of WCAG 2.0 principles, guidelines, and success criteria to non-web documents and software. WCAG2ICT was developed to provide an authoritative interpretation of how WCAG 2.0 can apply in different contexts. For information on the scope of WCAG2ICT, see the [WCAG2ICT Introduction](https://www.w3.org/TR/wcag2ict/#intro).
 
-*Note:* **WCAG2ICT is still relevant for later versions of WCAG 2**. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. In 2022, the WCAG2ICT Task Force is updating WCAG2ICT to cover WCAG 2.1 and WCAG 2.2.
+*Note:* **WCAG2ICT is still relevant for later versions of WCAG 2**. For example, WCAG 2.1 does not change the requirements of WCAG 2.0 that are addressed in WCAG2ICT; WCAG 2.1 adds additional requirements. The WCAG2ICT Task Force is currently updating WCAG2ICT to cover WCAG 2.1 and WCAG 2.2.
 
 ## Who WCAG2ICT is for {#for}
 
