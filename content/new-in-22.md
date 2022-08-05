@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2022-08-04
+last_updated: 2022-08-05
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 4 August 2022.</p>
+  <p><strong>Date:</strong> Updated 5 August 2022.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -91,7 +91,7 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the proposed new success criteria in the **Working Draft** of Web Content Accessibility Guidelines (WCAG) 2.2.
+This page lists the proposed new success criteria in the **Working Draft** of Web Content Accessibility Guidelines (WCAG) 2.2. We will update this page when we reach consensus on changes.
 
 **It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
@@ -117,8 +117,8 @@ This page lists the proposed new success criteria in the **Working Draft** of We
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published by December 2022. Current drafts:
-* [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) is approved to be posted as a draft
-* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) has updates that are not yet all approved
+* [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) does not include proposed changes
+* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) includes proposed changes, some are not yet approved
 
 The process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/). WCAG 2.2 is scheduled to go to "Candidate Recommendation" by September 2022.
 
@@ -131,6 +131,10 @@ All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 succe
 WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page. This page will be updated with the next publication.
 
 ### Changes to 2.2 Working Draft
+
+Changes since the 2021 Working Draft:
+* We will provide a list here when we reach consensus on the next draft
+* Proposed changes are include in the [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/)
 
 Changes from the 11 August 2020 to 11 May 2021 Working Draft include:
 * Accessible authentication: Incorporates concepts of ‘steps’ to account for multi-factor authentication, and explicitly allows for ‘mechanisms’ like password managers.
@@ -211,23 +215,8 @@ Provide ways to help users navigate, find content, and determine where they are.
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-enhanced">Understanding Focus Appearance (Enhanced)</a></p>
 
-### 2.4.13 Page Break Navigation (A)
-<blockquote class="sc">
-  <p>For web content with <a href="https://www.w3.org/TR/WCAG22/#dfn-pagebreak-locators" class="internalDFN" data-link-type="dfn">page break locators</a>, a mechanism is available to navigate to each locator.</p>
-</blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Student</a> with dyslexia:<br>
-  and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I increase the text size and spacing in the online textbook. The instructor said: "The activity is on page 37." But it's not on page 37 in my view, and I cannot find it.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>I used the page contents list to get to "page 37". (It's actually page 53 in my view — that's OK, I found it.)</q></span></p>
-    </li>
-  </ul>
-</div>
-<p><a href="https://w3c.github.io/wcag/understanding/page-break-navigation.html">Page Break Navigation</a></p>
+### 2.4.13 Page Break Navigation
+_This was included in the 21 May 2021 draft, and has been removed from the Editors' Draft._
 
 ## Guideline 2.5 Input Modalities
 
