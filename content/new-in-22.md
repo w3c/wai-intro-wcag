@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2022-08-02
+last_updated: 2022-08-04
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 2 August 2022.</p>
+  <p><strong>Date:</strong> Updated 4 August 2022.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -118,17 +118,17 @@ For an introduction to Web Content Accessibility Guidelines (WCAG) and more abou
 
 WCAG 2.2 is scheduled to be completed and published by December 2022. Current drafts:
 * [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) is approved to be posted as a draft
-* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may have more recent updates that are not yet approved
+* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) has updates that are not yet all approved
 
-<!-- Because of the number of comments received <em>(GitHub [pull requests](https://github.com/w3c/wcag/pulls?q=is%3Apr+is%3Aopen+label%3A%22WCAG+2.2%22) and [issues](https://github.com/w3c/wcag/issues?q=is%3Aissue+is%3Aopen+label%3A%22WCAG+2.2%22))</em>, WCAG 2.2 might not be finalized until 2022. --> The process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+The process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/). WCAG 2.2 is scheduled to go to "Candidate Recommendation" by September 2022.
 
-Comments on the proposed new success criteria were requested by 11 June 2021. Comments submitted after that date may be addressed in the next version. To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+<!-- Comments on the proposed new success criteria were requested by 11 June 2021. Comments submitted after that date may be addressed in the next version. -->To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
 All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. **One changed level: [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible)** is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
 
-WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page.
+WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page. This page will be updated with the next publication.
 
 ### Changes to 2.2 Working Draft
 
