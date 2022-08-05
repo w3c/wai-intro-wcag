@@ -117,8 +117,8 @@ This page lists the proposed new success criteria in the **Working Draft** of We
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published by December 2022. Current drafts:
-* [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) is approved to be posted as a draft
-* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) has updates that are not yet all approved
+* [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) does not include proposed changes
+* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) includes proposed changes, some are not yet approved
 
 The process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/). WCAG 2.2 is scheduled to go to "Candidate Recommendation" by September 2022.
 
@@ -131,6 +131,10 @@ All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 succe
 WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page. This page will be updated with the next publication.
 
 ### Changes to 2.2 Working Draft
+
+Changes since the 2021 Working Draft:
+* We will provide a list here when we reach consensus on the next draft
+* Proposed changes are include in the [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/)
 
 Changes from the 11 August 2020 to 11 May 2021 Working Draft include:
 * Accessible authentication: Incorporates concepts of ‘steps’ to account for multi-factor authentication, and explicitly allows for ‘mechanisms’ like password managers.
