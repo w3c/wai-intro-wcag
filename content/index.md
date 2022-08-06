@@ -8,7 +8,7 @@ description: Introduces the Web Content Accessibility Guidelines (WCAG) internat
 
 
 lang: en
-last_updated: 2022-08-02
+last_updated: 2022-08-06
 
 permalink: /standards-guidelines/wcag/
 
@@ -17,7 +17,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 2 August 2022. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 6 August 2022. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -38,7 +38,7 @@ WCAG is not an introduction to accessibility. For introductions, see [Accessibil
 
 Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
-* [WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/)
+* [WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/), **[What's New in WCAG 2.2 Working Draft](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) with status and timeline**
 * [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
 * [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
 
