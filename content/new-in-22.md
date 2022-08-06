@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2022-08-05
+last_updated: 2022-08-06
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 5 August 2022.</p>
+  <p><strong>Date:</strong> Updated 6 August 2022.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -313,35 +313,7 @@ Make Web pages appear and operate in predictable ways.
 <p><a href="https://w3c.github.io/wcag/understanding/consistent-help.html">Understanding Consistent Help</a></p>
 
 ### 3.2.7 Visible Controls (AA)
-<blockquote class="sc">
-  <p>Where receiving pointer hover or keyboard focus triggers <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components" class="internalDFN" data-link-type="dfn">user interface components</a> to be visible, information needed to identify that user interface components are available is visible, except when:</p>
-  <ul>
-    <li>The information needed to identify the user interface components is available through an equivalent component that is visible on the same page or on a different step in a multi-step process without requiring pointer hover or keyboard focus;</li>
-    <li>The component is provided specifically to enhance the experience for keyboard navigation;</li>
-    <li>A mechanism is available to make the information persistently visible;</li>
-    <li>Hiding the information needed to identify the component is essential.</li>
-  </ul>
-  <div class="note" role="note" id="issue-container-generatedID-35">
-    <div role="heading" class="note-title marker" id="h-note-31"><span>Note</span></div>
-    <p class="note-p">User interface components can be available through other visible components such as sub-menus, edit buttons, tabs, or thumbnails of media.</p>
-  </div>
-  <div class="note" id="issue-container-generatedID-36">
-    <div role="heading" class="ednote-title marker" id="h-ednote-3"><span>Editor's note</span></div>
-    <p class="note-p">The working group is interested in feedback about whether there are Components determined by the user agent that should not be in scope.</p>
-  </div>
-</blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I can't tell what options are available. Some buttons appeared when I was mousing around, but now I can't find them.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>The available buttons are all visible, without me having to mouse around.</q></span></p>
-    </li>
-  </ul>
-</div>
-<p><a href="https://w3c.github.io/wcag/understanding/visible-controls.html">Understanding Visible Controls</a></p>
+_This was included in the 21 May 2021 draft, and has been removed from the Editors' Draft._
 
 ## Guideline 3.3 Input Assistance
 
