@@ -111,7 +111,9 @@ This page lists the proposed new success criteria in the **Draft** of Web Conten
 {% include toc.html type="end" %}
 {:/}
 
-_{{ @@ Editor update link reminder: some links go to https://w3c.github.io/wcag/guidelines/22/ and need to be updated to the /TR/ CR when it's ready }}_
+_**@@ Updates To Do**_
+* _check if any other SC wording needs to be updated below_
+* _some links go to https://w3c.github.io/wcag/guidelines/22/ and need to be updated to the /TR/ CR when it's ready_
 
 ## Introduction, Timeline, Comments
 
@@ -123,7 +125,7 @@ WCAG 2.2 is scheduled to be completed and published by December 2022. Current dr
 
 "Candidate Recommendation" and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-Comments: **@@ Month 2022** is the deadline for comments on the Candidate Recommendation Draft. To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+Comments: **@@ Month 2022** is the deadline for comments. To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
@@ -135,7 +137,7 @@ The WCAG 2.2 Draft provides @@ additional success criteria from WCAG 2.1. They a
 
 Changes from the May 2021 Working Draft to the @@ August 2022 Candidate Recommendation Draft include:
 * Updated "[Focus Appearance (AA)](https://w3c.github.io/wcag/guidelines/22/#focus-appearance)" and removed “Focus Appearance (Enhanced) (AAA)”.
-* Added [Focus Not Obscured (Minimum) (AA)](https://w3c.github.io/wcag/guidelines/22/#focus-not-obscured-minimum) and [Focus not obscured (Enhanced)(AAA)](https://w3c.github.io/wcag/guidelines/22/#focus-not-obscured-enhanced).
+* Added [Focus Not Obscured (Minimum) (AA)](https://w3c.github.io/wcag/guidelines/22/#focus-not-obscured-minimum) and [Focus not obscured (Enhanced) (AAA)](https://w3c.github.io/wcag/guidelines/22/#focus-not-obscured-enhanced).
 * Removed "Visible Controls" (because we did not get agreement on what the visual indicator would need to be). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 * Removed "Page Break Navigation" (because we did not get agreement on the level of granularity required for the page-break markers). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 
@@ -147,7 +149,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 
 ### 2.4.11 Focus Appearance (AA)
 <blockquote class="sc">
-  <p>Success Criterion <a href="https://www.w3.org/TR/WCAG22/#focus-appearance" style="font-weight: bold;">2.4.11 Focus Appearance</a> (Level AA): When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> has keyboard focus, one or both of the following is true:</p>
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> has keyboard focus, one or both of the following is true:</p>
   <ol>
     <li>The <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a>:
       <ul>
