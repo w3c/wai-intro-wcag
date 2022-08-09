@@ -48,7 +48,11 @@ inline_css: |
   }
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
-  
+  .sclabel {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: #686868;
+  }
   div.note-title , div.ednote-title, div.warning-title {
       padding-right:  1em;
       min-width: 7.5em;
@@ -156,6 +160,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> has keyboard focus, one or both of the following is true:</p>
   <ol>
@@ -190,13 +195,14 @@ Provide ways to help users navigate, find content, and determine where they are.
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. _(a sticky footer)_ When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
+      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. <em>(a sticky footer)</em> When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
 </blockquote>
@@ -214,6 +220,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, no part of the <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is hidden by author-created content.</p>
 </blockquote>
@@ -235,6 +242,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements" class="internalDFN" data-link-type="dfn">dragging movement</a> for operation can be achieved by a single pointer without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential" class="internalDFN" data-link-type="dfn">essential</a>.</p>
   <div class="note" role="note" id="issue-container-generatedID-29">
@@ -260,6 +268,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p><a href="https://www.w3.org/TR/WCAG22/#dfn-target" class="internalDFN" data-link-type="dfn">Targets</a> have an area of at least 24 by 24 CSS pixels, except where:</p>
   <ul>
@@ -298,6 +307,7 @@ Make Web pages appear and operate in predictable ways.
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>For each <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page-s" class="internalDFN" data-link-type="dfn">web page</a> within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages" class="internalDFN" data-link-type="dfn">set of web pages</a> that provides one or more of the following ways of finding help, access to at least one form of help is included in the same relative order on each page:</p>
   <ul>
@@ -329,6 +339,7 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
   <div class="note" role="note" id="issue-container-generatedID-333">
@@ -350,6 +361,7 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
 </blockquote>
@@ -367,6 +379,7 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>Information previously entered by or provided to the user that is required to be entered again in the same <a href="https://www.w3.org/TR/WCAG22/#dfn-processes" class="internalDFN" data-link-type="dfn">process</a> and in the same user-session is either:</p>
   <ul>
