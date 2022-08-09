@@ -131,8 +131,9 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 ### Changes to the 2.2 Draft
 
 Changes from the May 2021 Working Draft to the @@ August 2022 Candidate Recommendation Draft include:
-* Updated "[Focus Appearance (AA)](https://w3c.github.io/wcag/guidelines/22/#focus-appearance)" and removed “Focus Appearance (Enhanced) (AAA)”.
-* Added [Focus Not Obscured (Minimum) (AA)](https://w3c.github.io/wcag/guidelines/22/#focus-not-obscured-minimum) and [Focus not obscured (Enhanced) (AAA)](https://w3c.github.io/wcag/guidelines/22/#focus-not-obscured-enhanced).
+* Updated "Focus Appearance (AA)" and removed “Focus Appearance (Enhanced) (AAA)”.
+* Added "Focus Not Obscured (Minimum) (AA)" and "Focus Not Obscured (Enhanced) (AAA)".
+* Added "Accessible Authentication (No Exception) (AAA)"
 * Removed "Visible Controls" (because we did not get agreement on what the visual indicator would need to be). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 * Removed "Page Break Navigation" (because we did not get agreement on the level of granularity required for the page-break markers). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 
@@ -143,6 +144,18 @@ More details are in the [changelog](https://w3c.github.io/wcag/guidelines/22/#ch
 Provide ways to help users navigate, find content, and determine where they are.
 
 ### 2.4.11 Focus Appearance (AA)
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
+  and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>I can see where the keyboard focus is as I move around a web page or app.</q></span></p>
+    </li>
+  </ul>
+</div>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> has keyboard focus, one or both of the following is true:</p>
   <ol>
@@ -170,24 +183,9 @@ Provide ways to help users navigate, find content, and determine where they are.
   <p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu. However, it may also be possible to indicate user interaction for such sub-components by relying strictly on a visual indication of which item is <em>selected</em>. Where selectable sub-components have no differentiated focus indicator, the visual indicator for sub-component selection is measured against <a href="https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html">1.4.11 Non-text Contrast</a> requirements, not against this Criterion.</p>
   <p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored. </p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
-  and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>I can see where the keyboard focus is as I move around a web page or app.</q></span></p>
-    </li>
-  </ul>
-</div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
 ### 2.4.12: Focus Not Obscured (Minimum) (AA)
-<blockquote class="sc">
-  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
-</blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
 <div class="quotes">
   <ul>
@@ -199,6 +197,9 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
+<blockquote class="sc">
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
+</blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
 ### 2.4.13: Focus Not Obscured (Enhanced) (AAA)
