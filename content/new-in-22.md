@@ -7,7 +7,7 @@ nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 
-teaser_text: WCAG 2.2 has @@ additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
+teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
 last_updated: 2022-08-@@
@@ -48,7 +48,6 @@ inline_css: |
   }
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
-  
   
   div.note-title , div.ednote-title, div.warning-title {
       padding-right:  1em;
@@ -111,11 +110,6 @@ This page lists the proposed new success criteria in the **Draft** of Web Conten
 {% include toc.html type="end" %}
 {:/}
 
-_**@@ Updates To Do**_
-* _check if any other SC wording needs to be updated below_
-* _some links go to https://w3c.github.io/wcag/guidelines/22/ and need to be updated to the /TR/ CR when it's ready_
-* * _checklinks for all_
-
 ## Introduction, Timeline, Comments
 
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
@@ -132,7 +126,7 @@ Comments: **@@ Month 2022** is the deadline for comments. To comment: Ideally op
 
 All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. **One changed level: [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible)** is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
 
-The WCAG 2.2 Draft provides @@ additional success criteria from WCAG 2.1. They are included on this page.
+The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They are included on this page.
 
 ### Changes to the 2.2 Draft
 
@@ -194,35 +188,35 @@ Provide ways to help users navigate, find content, and determine where they are.
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/@@">@@</a> @@:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>@@.</q></span></p>
+      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. _(a sticky footer)_ When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>@@.</q></span></p>
+      <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/@@">Understanding @@</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
 ### 2.4.13: Focus Not Obscured (Enhanced) (AAA)
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, no part of the <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is hidden by author-created content.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">@@</a> @@:</p>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>@@.</q></span></p>
+      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. _(a sticky footer)_ When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>@@.</q></span></p>
+      <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/@@">Understanding @@</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced">Understanding Focus Not Obscured (Enhanced)</a></p>
 
 ## Guideline 2.5 Input Modalities
 
@@ -358,7 +352,7 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication (No Exception)</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception">Understanding Accessible Authentication (No Exception)</a></p>
 
 ### 3.3.9 Redundant Entry (A)
 <blockquote class="sc">
