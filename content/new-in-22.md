@@ -1,16 +1,16 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "What's New in WCAG 2.2 Working Draft"
-title_html: "What's New in WCAG 2.2 Working Draft"
+title: "What's New in WCAG 2.2 Draft"
+title_html: "What's New in WCAG 2.2 Draft"
 nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 
-teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
+teaser_text: WCAG 2.2 has @@ additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2022-08-06
+last_updated: 2022-08-@@
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 6 August 2022.</p>
+  <p><strong>Date:</strong> Updated @@ August 2022.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -91,7 +91,7 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the proposed new success criteria in the **Working Draft** of Web Content Accessibility Guidelines (WCAG) 2.2. We will update this page when we reach consensus on changes.
+This page lists the proposed new success criteria in the **Draft** of Web Content Accessibility Guidelines (WCAG) 2.2.
 
 **It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
@@ -107,76 +107,71 @@ This page lists the proposed new success criteria in the **Working Draft** of We
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
 {:toc}
-
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
+
+_{{ @@ Editor update link reminder: some links go to https://w3c.github.io/wcag/guidelines/22/ and need to be updated to the /TR/ CR when it's ready }}_
 
 ## Introduction, Timeline, Comments
 
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published by December 2022. Current drafts:
-* [WCAG 2.2 Working Draft](https://www.w3.org/TR/WCAG22/) does not include proposed changes
-* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) includes proposed changes, some are not yet approved
+* [WCAG 2.2 Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) was approved for publication in @@August 2022
+* [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may include more recent proposed changes that are not yet all approved
 
-The process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/). WCAG 2.2 is scheduled to go to "Candidate Recommendation" by September 2022.
+"Candidate Recommendation" and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-<!-- Comments on the proposed new success criteria were requested by 11 June 2021. Comments submitted after that date may be addressed in the next version. -->To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+Comments: **@@ Month 2022** is the deadline for comments on the Candidate Recommendation Draft. To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
 All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. **One changed level: [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible)** is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
 
-WCAG 2.2 Working Draft provides 9 additional success criteria, that are included on this page. This page will be updated with the next publication.
+The WCAG 2.2 Draft provides @@ additional success criteria from WCAG 2.1. They are included on this page.
 
-### Changes to 2.2 Working Draft
+### Changes to the 2.2 Draft
 
-Changes since the 2021 Working Draft:
-* We will provide a list here when we reach consensus on the next draft
-* Proposed changes are include in the [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/)
+Changes from the May 2021 Working Draft to the @@ August 2022 Candidate Recommendation Draft include:
+* Updated "[Focus Appearance (AA)](https://w3c.github.io/wcag/guidelines/22/#focus-appearance)" and removed “Focus Appearance (Enhanced) (AAA)”.
+* Added [Focus Not Obscured (Minimum) (AA)](https://w3c.github.io/wcag/guidelines/22/#focus-not-obscured-minimum) and [Focus not obscured (Enhanced)(AAA)](https://w3c.github.io/wcag/guidelines/22/#focus-not-obscured-enhanced).
+* Removed "Visible Controls" (because we did not get agreement on what the visual indicator would need to be). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
+* Removed "Page Break Navigation" (because we did not get agreement on the level of granularity required for the page-break markers). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 
-Changes from the 11 August 2020 to 11 May 2021 Working Draft include:
-* Accessible authentication: Incorporates concepts of ‘steps’ to account for multi-factor authentication, and explicitly allows for ‘mechanisms’ like password managers.
-* Dragging movement: A very minor wording update.
-* Consistent help: Renamed from “Findable help”, and follows the ‘consistent navigation’ criterion more closely.
-* Page Break Navigation: Renamed, the criterion text is reduced to focus on content which already implements programmatic page break locators.
-* Focus appearance (minimum): Restructured the criterion text, whilst keeping the requirement essentially the same.
-* Focus appearance (enhanced): Aligned with the minimum version.
-* Visible control: Renamed (from Hidden controls), added several exceptions.
-* Target size (minimum): Renamed (from Pointer target Spacing), reduced the core size requirement to 24px, and simplified the criterion text.
-* Redundant entry: Removed the ‘steps in a process’ aspect, added a within-session scope, and added several exceptions.
+More details are in the [changelog](https://w3c.github.io/wcag/guidelines/22/#changelog).
 
 ## Guideline 2.4 Navigable
 
 Provide ways to help users navigate, find content, and determine where they are.
 
-### 2.4.11 Focus Appearance (Minimum) (AA)
+### 2.4.11 Focus Appearance (AA)
 <blockquote class="sc">
-  <p>When <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components" class="internalDFN" data-link-type="dfn">user interface components</a> receive keyboard focus, all of the following are true:</p>
-  <ul>
-    <li><strong>Contrasting area:</strong> There is an area of the <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator" class="internalDFN" data-link-type="dfn">focus indicator</a> that has a contrast ratio of at least 3:1 between the colors in the focused and unfocused states.</li>
-    <li><strong>Minimum area:</strong> The contrasting area is at least as large as:
+  <p>Success Criterion <a href="https://www.w3.org/TR/WCAG22/#focus-appearance" style="font-weight: bold;">2.4.11 Focus Appearance</a> (Level AA): When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> has keyboard focus, one or both of the following is true:</p>
+  <ol>
+    <li>The <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a>:
       <ul>
-        <li><strong>Outline:</strong> the area of a 1 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixels" class="internalDFN" data-link-type="dfn">CSS pixel</a> thick <a href="https://www.w3.org/TR/WCAG22/#dfn-perimeter" class="internalDFN" data-link-type="dfn">perimeter</a> of the unfocused component, or</li>
-        <li><strong>Shape:</strong> the area of a 4 CSS pixel thick line along the shortest side of a <a href="https://www.w3.org/TR/WCAG22/#dfn-minimum-bounding-box" class="internalDFN" data-link-type="dfn">minimum bounding box</a> of the unfocused component, and no thinner than 2 CSS pixels.</li>
+        <li> <a href="https://www.w3.org/TR/WCAG22/#dfn-encloses">encloses</a> the visual presentation of the user interface component, and </li>
+        <li>has a contrast ratio of at least 3:1 between the same pixels in the focused and unfocused states, and </li>
+        <li>has a contrast ratio of at least 3:1 against adjacent colors.</li>
       </ul>
     </li>
-    <li><strong>Adjacent contrast:</strong> The contrasting area also has a contrast ratio of least 3:1 against adjacent colors in the focused component, or the contrasting area has a thickness of at least 2 CSS pixels.</li>
-    <li><strong>Not fully obscured:</strong> The item with focus is not entirely hidden by author-created content.</li>
+    <li>An area of the focus indicator meets all the following:
+      <ul>
+        <li>is at least as large as the area of a 1 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixel">CSS pixel</a> thick <a href="https://www.w3.org/TR/WCAG22/#dfn-perimeter">perimeter</a> of the unfocused component, or is at least as large as a 4 CSS pixel thick line along the shortest side of the <a href="https://www.w3.org/TR/WCAG22/#dfn-minimum-bounding-box">minimum bounding box</a> of the unfocused component, and </li>
+        <li>has a contrast ratio of at least 3:1 between the same pixels in the focused and unfocused states, and </li>
+        <li>has a contrast ratio of at least 3:1 against adjacent non-focus-indicator colors, or is no thinner than 2 CSS pixels.</li>
+      </ul>
+    </li>
+  </ol>
+  <p>Where a user interface component has active sub-components, if a sub-component receives a focus indicator, these requirements may be applied to the sub-component instead. </p>
+  <p>Exceptions:</p>
+  <ul>
+    <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
+    <li>The focus indicator and the indicator's background color are not modified by the author.</li>
   </ul>
-  <div class="note" role="note" id="issue-container-generatedID-22">
-    <div role="heading" class="note-title marker" id="h-note-22"><span>Note</span></div>
-    <p class="note-p">A keyboard focus indicator which has a pattern or gradient may have parts that do not meet the 3:1 contrast ratio for the change of contrast, as long as an area equal to the minimum does meet the contrast ratio.</p>
-  </div>
-  <div class="note" role="note" id="issue-container-generatedID-23">
-    <div role="heading" class="note-title marker" id="h-note-23"><span>Note</span></div>
-    <p class="note-p">If the component has a visible boundary smaller than the hit area, or the size of the component is not available, the minimum area can be taken from the visible boundary.</p>
-  </div>
-  <div class="note" id="issue-container-generatedID-24">
-    <div role="heading" class="ednote-title marker" id="h-ednote"><span>Editor's note</span></div>
-    <p class="note-p">The working group is interested in feedback about the minimum area metric, and if there are unusual scenarios where visible indicators are caught by the wording.</p>
-  </div>
+  <p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu. However, it may also be possible to indicate user interaction for such sub-components by relying strictly on a visual indication of which item is <em>selected</em>. Where selectable sub-components have no differentiated focus indicator, the visual indicator for sub-component selection is measured against <a href="https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html">1.4.11 Non-text Contrast</a> requirements, not against this Criterion.</p>
+  <p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored. </p>
 </blockquote>
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
   and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
@@ -190,33 +185,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-minimum.html">Understanding Focus Appearance (Minimum)</a></p>
-
-### 2.4.12 Focus Appearance (Enhanced) (AAA)
-<blockquote class="sc">
-  <p>When <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components" class="internalDFN" data-link-type="dfn">user interface components</a> have keyboard focus, all of the following are true:</p>
-  <ul>
-    <li><strong>Contrasting area:</strong> There is an area of the <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator" class="internalDFN" data-link-type="dfn">focus indicator</a> that has a contrast ratio of at least 4.5:1 between the colors in the focused and unfocused states.</li>
-    <li><strong>Minimum area:</strong> The contrasting area is at least double the area of a 1 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixels" class="internalDFN" data-link-type="dfn">CSS pixel</a> <a href="https://www.w3.org/TR/WCAG22/#dfn-perimeter" class="internalDFN" data-link-type="dfn">perimeter</a> of the unfocused component;</li>
-    <li><strong>Not obscured:</strong> No part of the focus indicator is hidden by author-created content.</li>
-  </ul>
-</blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
-  and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>I can easily see where the keyboard focus is as I move around a web page or app.</q></span></p>
-    </li>
-  </ul>
-</div>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance-enhanced">Understanding Focus Appearance (Enhanced)</a></p>
-
-### 2.4.13 Page Break Navigation
-_This was included in the 21 May 2021 draft, and has been removed from the Editors' Draft._
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
 ## Guideline 2.5 Input Modalities
 
@@ -312,9 +281,6 @@ Make Web pages appear and operate in predictable ways.
 </div>
 <p><a href="https://w3c.github.io/wcag/understanding/consistent-help.html">Understanding Consistent Help</a></p>
 
-### 3.2.7 Visible Controls (AA)
-_This was included in the 21 May 2021 draft, and has been removed from the Editors' Draft._
-
 ## Guideline 3.3 Input Assistance
 
 Help users avoid and correct mistakes.
@@ -331,7 +297,7 @@ Help users avoid and correct mistakes.
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>I don't understand what they want me to type in or click on to get into this app.</q></span></p>
+      <p><span class="issue">Problem:</span><span><q>I can never remember my password, it’s really hard to get into this app.</q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well:</span><span><q>To get into this app, I can put my e-mail address. Then I get an e-mail message, and I can click a link in the e-mail to get into the app.</q></span></p>
