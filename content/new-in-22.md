@@ -114,6 +114,7 @@ This page lists the proposed new success criteria in the **Draft** of Web Conten
 _**@@ Updates To Do**_
 * _check if any other SC wording needs to be updated below_
 * _some links go to https://w3c.github.io/wcag/guidelines/22/ and need to be updated to the /TR/ CR when it's ready_
+* * _checklinks for all_
 
 ## Introduction, Timeline, Comments
 
@@ -188,6 +189,40 @@ Provide ways to help users navigate, find content, and determine where they are.
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
+
+### 2.4.12: Focus Not Obscured (Minimum) (AA)
+<blockquote class="sc">
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
+</blockquote>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/@@">@@</a> @@:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>@@.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>@@.</q></span></p>
+    </li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/@@">Understanding @@</a></p>
+
+### 2.4.13: Focus Not Obscured (Enhanced) (AAA)
+<blockquote class="sc">
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, no part of the <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is hidden by author-created content.</p>
+</blockquote>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">@@</a> @@:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>@@.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>@@.</q></span></p>
+    </li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/@@">Understanding @@</a></p>
 
 ## Guideline 2.5 Input Modalities
 
@@ -308,7 +343,24 @@ Help users avoid and correct mistakes.
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
 
-### 3.3.8 Redundant Entry (A)
+### 3.3.8 Accessible Authentication (No Exception) (AAA)
+<blockquote class="sc">
+  <p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
+</blockquote>
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>I can never remember my password, it’s really hard to get into this app.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>To get into this app, I can put my e-mail address. Then I get an e-mail message, and I can click a link in the e-mail to get into the app.</q></span></p>
+    </li>
+  </ul>
+</div>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication (No Exception)</a></p>
+
+### 3.3.9 Redundant Entry (A)
 <blockquote class="sc">
   <p>Information previously entered by or provided to the user that is required to be entered again in the same <a href="https://www.w3.org/TR/WCAG22/#dfn-processes" class="internalDFN" data-link-type="dfn">process</a> and in the same user-session is either:</p>
   <ul>
