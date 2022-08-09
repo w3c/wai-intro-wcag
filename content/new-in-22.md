@@ -49,8 +49,8 @@ inline_css: |
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
   .sclabel {
-    padding-bottom: 0;
-    margin-bottom: 0;
+    padding: 0;
+    margin: 0;
     color: #686868;
   }
   div.note-title , div.ednote-title, div.warning-title {
