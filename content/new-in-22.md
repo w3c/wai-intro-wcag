@@ -53,26 +53,11 @@ inline_css: |
     margin: 0;
     color: #686868;
   }
-  div.note-title , div.ednote-title, div.warning-title {
-      padding-right:  1em;
-      min-width: 7.5em;
-      color: #b9ab2d;
-  }
-  div.note-title, div.ednote-title { color: #2b2; }
-  div.warning-title { color: #f22; }
-  div.note-title span, div.ednote-title span, div.warning-title span {
-      text-transform: uppercase;
-  }
   div.note, div.ednote, div.warning {
       margin-top: 1em;
       margin-bottom: 1em;
   }
   .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-  .note, .ednote, .warning {
-      padding: .5em;
-      border-left-width: .5em;
-      border-left-style: solid;
-  }
   div.note , div.ednote,  div.warning {
       padding: 1em 1.2em 0.5em;
       margin: 1em 0;
@@ -85,6 +70,9 @@ inline_css: |
       background: #e9fbe9;
   }
   .note-p {margin-top: 0}
+  #markdown-toc ul li {
+    margin-bottom: 0;
+  }
 
 ref: /standards-guidelines/wcag/new-in-22/
 
@@ -190,7 +178,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
-### 2.4.12: Focus Not Obscured (Minimum) (AA)
+### 2.4.12 Focus Not Obscured (Minimum) (AA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
 <div class="quotes">
   <ul>
@@ -208,7 +196,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
-### 2.4.13: Focus Not Obscured (Enhanced) (AAA)
+### 2.4.13 Focus Not Obscured (Enhanced) (AAA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
 <div class="quotes">
   <ul>
@@ -245,8 +233,8 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movement">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
-<p class="note">This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
-<p class="ednote">Is there an assistive technology that helps for people with mobility impairments? The group would like feedback on the frontier between AT &amp; author responsibility.</p>
+<p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
+<p class="ednote">Editor's Note: Is there an assistive technology that helps for people with mobility impairments? The group would like feedback on the frontier between AT &amp; author responsibility.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
@@ -272,9 +260,9 @@ Make it easier for users to operate functionality through various inputs beyond 
   <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author; </li>
   <li><strong>Equivalent:</strong> The function can be achieved through a different control on the same page that has an area of at least 24 by 24 CSS pixels. </li>
 </ul>
-<p class="note">Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
-<p class="ednote">Are there issues with internationalization when describing inline links?</p>
-<p class="ednote">Are there issues with pop-over content overlapping targets triggering failures?</p>
+<p class="note">Note: Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
+<p class="ednote">Editor's Note: Are there issues with internationalization when describing inline links?</p>
+<p class="ednote">Editor's Note: Are there issues with pop-over content overlapping targets triggering failures?</p>
 </blockquote>
 <p><a href="https://w3c.github.io/wcag/understanding/target-size-minimum.html">Understanding Target Size (Minimum)</a></p>
 
@@ -303,8 +291,8 @@ Make Web pages appear and operate in predictable ways.
   <li>Self-help option;</li>
   <li>A fully automated contact mechanism.</li>
 </ul>
-<p class="note">Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
-<p class="note">For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can cause a change, for example zoom or change orientation, which may trigger a different page variation.</p>
+<p class="note">Note: Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
+<p class="note">Note: For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can cause a change, for example zoom or change orientation, which may trigger a different page variation.</p>
 </blockquote>
 <p><a href="https://w3c.github.io/wcag/understanding/consistent-help.html">Understanding Consistent Help</a></p>
 
@@ -328,8 +316,8 @@ Help users avoid and correct mistakes.
 <blockquote class="sc">
 <p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
 <p>Exception: When the cognitive function test is to recognize objects, or content the user provided to the website.</p>
-<p class="note">Objects and content for the exception may be represented by images, text, video or audio.</p>
-<p class="note">Examples of mechanisms include: 1) support for password entry by password managers to address the memorization cognitive function test, and 2) copy and paste to help address the transcription cognitive function test.</p>
+<p class="note">Note: Objects and content for the exception may be represented by images, text, video or audio.</p>
+<p class="note">Note: Examples of mechanisms include: 1) support for password entry by password managers to address the memorization cognitive function test, and 2) copy and paste to help address the transcription cognitive function test.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
 
