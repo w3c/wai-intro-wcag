@@ -58,6 +58,12 @@ inline_css: |
       margin-bottom: 1em;
   }
   .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
+    .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
+  .note, .ednote, .warning {
+      padding: .5em;
+      border-left-width: 1px;
+      border-left-style: solid;
+  }
   div.note , div.ednote,  div.warning {
       padding: 1em 1.2em 0.5em;
       margin: 1em 0;
@@ -125,7 +131,7 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 Changes from the May 2021 Working Draft to the @@ August 2022 Candidate Recommendation Draft include:
 * Updated "Focus Appearance (AA)" and removed “Focus Appearance (Enhanced) (AAA)”.
 * Added "Focus Not Obscured (Minimum) (AA)" and "Focus Not Obscured (Enhanced) (AAA)".
-* Added "Accessible Authentication (No Exception) (AAA)"
+* Added "Accessible Authentication (No Exception) (AAA)" after "Accessible Authentication (AA)"
 * Removed "Visible Controls" (because we did not get agreement on what the visual indicator would need to be). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 * Removed "Page Break Navigation" (because we did not get agreement on the level of granularity required for the page-break markers). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 
