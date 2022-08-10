@@ -207,7 +207,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 <div class="quotes">
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. _(a sticky footer)_ When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
+      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
