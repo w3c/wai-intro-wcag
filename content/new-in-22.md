@@ -244,15 +244,9 @@ Make it easier for users to operate functionality through various inputs beyond 
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements" class="internalDFN" data-link-type="dfn">dragging movement</a> for operation can be achieved by a single pointer without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential" class="internalDFN" data-link-type="dfn">essential</a>.</p>
-  <div class="note" role="note" id="issue-container-generatedID-29">
-    <div role="heading" class="note-title marker" id="h-note-28"><span>Note</span></div>
-    <p class="note-p">This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
-  </div>
-  <div class="note" id="issue-container-generatedID-30">
-    <div role="heading" class="ednote-title marker" id="h-ednote-0"><span>Editor's note</span></div>
-    <p class="note-p">Is there an assistive technology that helps for people with mobility impairments? The group would like feedback on the frontier between AT &amp; author responsibility.</p>
-  </div>
+<p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movement">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
+<p class="note">This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
+<p class="ednote">Is there an assistive technology that helps for people with mobility impairments? The group would like feedback on the frontier between AT &amp; author responsibility.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
@@ -270,24 +264,17 @@ Make it easier for users to operate functionality through various inputs beyond 
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p><a href="https://www.w3.org/TR/WCAG22/#dfn-target" class="internalDFN" data-link-type="dfn">Targets</a> have an area of at least 24 by 24 CSS pixels, except where:</p>
-  <ul>
-    <li><strong>Spacing:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-target-offsets" class="internalDFN" data-link-type="dfn">target offset</a> is at least 24 CSS pixels to every adjacent target;</li>
-    <li><strong>Inline:</strong> The target is in a sentence or block of text;</li>
-    <li><strong>Essential:</strong> A particular presentation of the target is essential to the information being conveyed.</li>
-  </ul>
-  <div class="note" role="note" id="issue-container-generatedID-31">
-    <div role="heading" class="note-title marker" id="h-note-29"><span>Note</span></div>
-    <p class="note-p">Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
-  </div>
-  <div class="note" id="issue-container-generatedID-32">
-    <div role="heading" class="ednote-title marker" id="h-ednote-1"><span>Editor's note</span></div>
-    <p class="note-p">Are there issues with internationalization when describing inline links?</p>
-  </div>
-  <div class="note" id="issue-container-generatedID-33">
-    <div role="heading" class="ednote-title marker" id="h-ednote-2"><span>Editor's note</span></div>
-    <p class="note-p">Are there issues with pop-over content overlapping targets triggering failures?</p>
-  </div>
+<p>The size of the <a href="https://www.w3.org/TR/WCAG22/#dfn-target">target</a> for <a href="https://www.w3.org/TR/WCAG22/#dfn-pointer-input">pointer inputs</a> is at least 24 by 24 CSS pixels, except where:</p>
+<ul>
+  <li><strong>Spacing:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-target-offset">target offset</a> is at least 24 CSS pixels to every adjacent target; </li>
+  <li><strong>Inline:</strong> The target is in a sentence or block of text; </li>
+  <li><strong>Essential:</strong> A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or is legally required for the information being conveyed; </li>
+  <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author; </li>
+  <li><strong>Equivalent:</strong> The function can be achieved through a different control on the same page that has an area of at least 24 by 24 CSS pixels. </li>
+</ul>
+<p class="note">Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
+<p class="ednote">Are there issues with internationalization when describing inline links?</p>
+<p class="ednote">Are there issues with pop-over content overlapping targets triggering failures?</p>
 </blockquote>
 <p><a href="https://w3c.github.io/wcag/understanding/target-size-minimum.html">Understanding Target Size (Minimum)</a></p>
 
@@ -309,17 +296,15 @@ Make Web pages appear and operate in predictable ways.
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>For each <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page-s" class="internalDFN" data-link-type="dfn">web page</a> within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages" class="internalDFN" data-link-type="dfn">set of web pages</a> that provides one or more of the following ways of finding help, access to at least one form of help is included in the same relative order on each page:</p>
-  <ul>
-    <li>Human contact details;</li>
-    <li>Human contact mechanism;</li>
-    <li>Self-help option;</li>
-    <li>A fully automated contact mechanism.</li>
-  </ul>
-  <div class="note" role="note" id="issue-container-generatedID-34">
-    <div role="heading" class="note-title marker" id="h-note-30"><span>Note</span></div>
-    <p class="note-p">Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
-  </div>
+<p>If a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page">web page</a> contains any of the following help mechanisms, and those mechanisms are repeated on multiple web pages within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a>, they occur in the same relative order to other page content, unless a change is initiated by the user:</p>
+<ul>
+  <li>Human contact details;</li>
+  <li>Human contact mechanism;</li>
+  <li>Self-help option;</li>
+  <li>A fully automated contact mechanism.</li>
+</ul>
+<p class="note">Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
+<p class="note">For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can cause a change, for example zoom or change orientation, which may trigger a different page variation.</p>
 </blockquote>
 <p><a href="https://w3c.github.io/wcag/understanding/consistent-help.html">Understanding Consistent Help</a></p>
 
@@ -327,7 +312,7 @@ Make Web pages appear and operate in predictable ways.
 
 Help users avoid and correct mistakes.
 
-### 3.3.7 Accessible Authentication (A)
+### 3.3.7 Accessible Authentication (AA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
@@ -341,11 +326,10 @@ Help users avoid and correct mistakes.
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
-  <div class="note" role="note" id="issue-container-generatedID-333">
-    <div role="heading" class="note-title marker" id="h-note-333"><span>Note</span></div>
-    <p class="note-p">Examples of mechanisms include: 1) support for password entry by password managers to address the memorization cognitive function test, and 2) copy and paste to help address transcription cognitive function test.</p>
-  </div>
+<p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
+<p>Exception: When the cognitive function test is to recognize objects, or content the user provided to the website.</p>
+<p class="note">Objects and content for the exception may be represented by images, text, video or audio.</p>
+<p class="note">Examples of mechanisms include: 1) support for password entry by password managers to address the memorization cognitive function test, and 2) copy and paste to help address the transcription cognitive function test.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
 
@@ -392,14 +376,6 @@ Help users avoid and correct mistakes.
     <li>the information is required to ensure the security of the content, or</li>
     <li>previously entered information is no longer valid.</li>
   </ul>
-  <div class="note" id="issue-container-generatedID-111">
-    <div role="heading" class="ednote-title marker" id="h-ednote-111"><span>Editor's note</span></div>
-    <p class="note-p">Are there issues storing the data so a user can access it in subsequent steps?</p>
-  </div>
-  <div class="note" id="issue-container-generatedID-222">
-    <div role="heading" class="ednote-title marker" id="h-ednote-222"><span>Editor's note</span></div>
-    <p class="note-p"> Are there broader exceptions needed than essential? E.g. for mandated or required information re-entry.</p>
-  </div>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry">Understanding Redundant Entry</a></p>
 
