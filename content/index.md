@@ -1,4 +1,4 @@
-[---
+---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
 title: "WCAG 2 Overview"
