@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2022-08-@@
+last_updated: 2022-09-@@
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated @@ August 2022.</p>
+  <p><strong>Date:</strong> Updated @@ September 2022.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -113,12 +113,12 @@ This page lists the proposed new success criteria in the **Draft** of Web Conten
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published by December 2022. Current drafts:
-* [WCAG 2.2 Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) was approved for publication in @@August 2022
+* [WCAG 2.2 Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) was approved for publication in September 2022
 * [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may include more recent proposed changes that are not yet all approved
 
-"Candidate Recommendation" and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+The main purpose of "Candidate Recommendation" is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. More about Candidate Recommendation and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-Comments: **@@ Month 2022** is the deadline for comments. To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+Comments: **@@ October 2022** is the deadline for comments. We hope that the normative content in WCAG 2.2 itself does not need changes. We can edit the Understanding documents to provide more clarification. To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
@@ -128,7 +128,7 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 
 ### Changes to the 2.2 Draft
 
-Changes from the May 2021 Working Draft to the @@ August 2022 Candidate Recommendation Draft include:
+Changes from the May 2021 Working Draft to the September 2022 Candidate Recommendation Draft include:
 * Updated "Focus Appearance (AA)" and removed “Focus Appearance (Enhanced) (AAA)”.
 * Added "Focus Not Obscured (Minimum) (AA)" and "Focus Not Obscured (Enhanced) (AAA)".
 * Added "Accessible Authentication (No Exception) (AAA)" after "Accessible Authentication (AA)"
