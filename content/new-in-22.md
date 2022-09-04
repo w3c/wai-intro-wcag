@@ -73,7 +73,7 @@ inline_css: |
   span.note, span.ednote, span.warning { padding: .1em .5em .15em; }
   .note, .ednote {
       border-color: #52e052;
-      background: #e9fbe9;
+/*      background: #e9fbe9;  **color too distracting. indent plues "Note" enough. little green bar to tie to WCAG** */
   }
   .note-p {margin-top: 0}
   #markdown-toc ul li {
@@ -120,7 +120,7 @@ The main purpose of "Candidate Recommendation" is to ensure that the standard ca
 
 More about Candidate Recommendation and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-### Implementations and Comments:
+### Implementations and Comments
 
 **4 October 2022** is the deadline for implementations and comments.
 
