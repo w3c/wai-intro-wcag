@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2022-09-@@
+last_updated: 2022-09-06
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated @@ September 2022.</p>
+  <p><strong>Date:</strong> Updated 6 September 2022.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -88,7 +88,7 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the proposed new success criteria in the **Draft** of Web Content Accessibility Guidelines (WCAG) 2.2.
+This page lists the **proposed** new success criteria for Web Content Accessibility Guidelines (WCAG) 2.2.
 
 **It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
@@ -108,17 +108,25 @@ This page lists the proposed new success criteria in the **Draft** of Web Conten
 {% include toc.html type="end" %}
 {:/}
 
-## Introduction, Timeline, Comments
+## Introduction, Timeline, Changes
 
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-WCAG 2.2 is scheduled to be completed and published by December 2022. Current drafts:
-* [WCAG 2.2 Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) was approved for publication in September 2022
+WCAG 2.2 is scheduled to be completed and published by December 2022. Current versions:
+* [WCAG 2.2 W3C Candidate Recommendation Snapshot](https://www.w3.org/TR/WCAG22/) was approved for publication in September 2022
 * [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may include more recent proposed changes that are not yet all approved
 
-The main purpose of "Candidate Recommendation" is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. More about Candidate Recommendation and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+The main purpose of "Candidate Recommendation" is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. Specifically, 2.4.11 Focus Appearance is "at risk" and might not be included in the final publication.
 
-Comments: **@@ October 2022** is the deadline for comments. We hope that the normative content in WCAG 2.2 itself does not need changes. We can edit the Understanding documents to provide more clarification. To comment: Ideally open one [new GitHub issue]( https://github.com/w3c/wcag/issues/new) per discrete comment. If you’re not comfortable with GitHub, you can send comments to public-agwg-comments@w3.org
+More about Candidate Recommendation and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+
+### Implementations and Comments:
+
+**4 October 2022** is the deadline for implementations and comments.
+
+We welcome examples of the new WCAG 2.2 success criteria implemented in websites and web apps. To share your implementations, please send e-mail to the Accessibility Guidelines Working Group Co-Chairs and W3C staff at: group-ag-chairs@w3.org
+
+We hope that the normative content in WCAG 2.2 itself does not need changes. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
@@ -129,9 +137,9 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 ### Changes to the 2.2 Draft
 
 Changes from the May 2021 Working Draft to the September 2022 Candidate Recommendation Draft include:
-* Updated "Focus Appearance (AA)" and removed “Focus Appearance (Enhanced) (AAA)”.
 * Added "Focus Not Obscured (Minimum) (AA)" and "Focus Not Obscured (Enhanced) (AAA)".
-* Added "Accessible Authentication (No Exception) (AAA)" after "Accessible Authentication (AA)"
+* Updated "Focus Appearance (AA)" and removed “Focus Appearance (Enhanced) (AAA)”.
+* After "Accessible Authentication (AA)", added "Accessible Authentication (No Exception) (AAA)"
 * Removed "Visible Controls" (because we did not get agreement on what the visual indicator would need to be). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 * Removed "Page Break Navigation" (because we did not get agreement on the level of granularity required for the page-break markers). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 
@@ -154,7 +162,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG:</p>
+<p class="sclabel">WCAG: @@ToDo: update SC text</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> has keyboard focus, one or both of the following is true:</p>
   <ol>
@@ -256,7 +264,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG:</p>
+<p class="sclabel">WCAG: @@ToDo: update SC text</p>
 <blockquote class="sc">
 <p>The size of the <a href="https://www.w3.org/TR/WCAG22/#dfn-target">target</a> for <a href="https://www.w3.org/TR/WCAG22/#dfn-pointer-input">pointer inputs</a> is at least 24 by 24 CSS pixels, except where:</p>
 <ul>
@@ -288,7 +296,7 @@ Make Web pages appear and operate in predictable ways.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG:</p>
+<p class="sclabel">WCAG: @@ToDo: update SC text</p>
 <blockquote class="sc">
 <p>If a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page">web page</a> contains any of the following help mechanisms, and those mechanisms are repeated on multiple web pages within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a>, they occur in the same relative order to other page content, unless a change is initiated by the user:</p>
 <ul>
@@ -318,7 +326,7 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG:</p>
+<p class="sclabel">WCAG: @@ToDo: update SC text</p>
 <blockquote class="sc">
 <p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
 <p>Exception: When the cognitive function test is to recognize objects, or content the user provided to the website.</p>
@@ -339,7 +347,7 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG:</p>
+<p class="sclabel">WCAG: @@ToDo: update SC text</p>
 <blockquote class="sc">
   <p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
 </blockquote>
@@ -357,7 +365,7 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG:</p>
+<p class="sclabel">WCAG: @@ToDo: update SC text</p>
 <blockquote class="sc">
   <p>Information previously entered by or provided to the user that is required to be entered again in the same <a href="https://www.w3.org/TR/WCAG22/#dfn-processes" class="internalDFN" data-link-type="dfn">process</a> and in the same user-session is either:</p>
   <ul>
