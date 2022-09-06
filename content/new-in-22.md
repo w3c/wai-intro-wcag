@@ -115,7 +115,7 @@ WCAG 2.2 is scheduled to be completed and published by December 2022. Current ve
 * [WCAG 2.2 W3C Candidate Recommendation Snapshot](https://www.w3.org/TR/WCAG22/) was approved for publication in September 2022
 * [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may include more recent proposed changes that are not yet all approved
 
-The main purpose of "Candidate Recommendation" is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. Specifically, 2.4.11 Focus Appearance is "at risk" and might not be included in the final publication.
+The main purpose of "Candidate Recommendation" is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. Specifically, 2.4.11 Focus Appearance is "<a href="https://www.w3.org/TR/WCAG22/#items-at-risk">at risk</a>" and might not be included in the final publication.
 
 More about Candidate Recommendation and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
@@ -142,7 +142,7 @@ Changes from the May 2021 Working Draft to the September 2022 Candidate Recommen
 * Removed "Visible Controls" (because we did not get agreement on what the visual indicator would need to be). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 * Removed "Page Break Navigation" (because we did not get agreement on the level of granularity required for the page-break markers). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
 
-More details are in the [changelog](https://w3c.github.io/wcag/guidelines/22/#changelog).
+Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#changelog).
 
 ## Guideline 2.4 Navigable
 
@@ -161,33 +161,45 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG: @@ToDo: update SC text</p>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> has keyboard focus, one or both of the following is true:</p>
-  <ol>
-    <li>The <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a>:
-      <ul>
-        <li> <a href="https://www.w3.org/TR/WCAG22/#dfn-encloses">encloses</a> the visual presentation of the user interface component, and </li>
-        <li>has a contrast ratio of at least 3:1 between the same pixels in the focused and unfocused states, and </li>
-        <li>has a contrast ratio of at least 3:1 against adjacent colors.</li>
-      </ul>
-    </li>
-    <li>An area of the focus indicator meets all the following:
-      <ul>
-        <li>is at least as large as the area of a 1 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixel">CSS pixel</a> thick <a href="https://www.w3.org/TR/WCAG22/#dfn-perimeter">perimeter</a> of the unfocused component, or is at least as large as a 4 CSS pixel thick line along the shortest side of the <a href="https://www.w3.org/TR/WCAG22/#dfn-minimum-bounding-box">minimum bounding box</a> of the unfocused component, and </li>
-        <li>has a contrast ratio of at least 3:1 between the same pixels in the focused and unfocused states, and </li>
-        <li>has a contrast ratio of at least 3:1 against adjacent non-focus-indicator colors, or is no thinner than 2 CSS pixels.</li>
-      </ul>
-    </li>
-  </ol>
-  <p>Where a user interface component has active sub-components, if a sub-component receives a focus indicator, these requirements may be applied to the sub-component instead. </p>
-  <p>Exceptions:</p>
-  <ul>
-    <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
-    <li>The focus indicator and the indicator's background color are not modified by the author.</li>
-  </ul>
-  <p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu. However, it may also be possible to indicate user interaction for such sub-components by relying strictly on a visual indication of which item is <em>selected</em>. Where selectable sub-components have no differentiated focus indicator, the visual indicator for sub-component selection is measured against <a href="https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html">1.4.11 Non-text Contrast</a> requirements, not against this Criterion.</p>
-  <p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored. </p>
+<p>When the keyboard <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-focus-indicator-1" title="pixels that are changed to visually indicate when a user interface component is in a focused state">focus indicator</a> is visible, one or both of the following are true:</p>
+<ol>
+  <li>The entire <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-focus-indicator-2" title="pixels that are changed to visually indicate when a user interface component is in a focused state">focus indicator</a> meets all the following:
+    <ul>
+      <li><a href="https://www.w3.org/TR/WCAG22/#dfn-enclose" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-enclose-1" title="solidly bounds or surrounds">encloses</a> the <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-user-interface-components-7" title="a part of the content that is perceived by users as a single control for a distinct function">user interface component</a> or sub-component that is focused, and</li>
+      <li>has a contrast ratio of at least 3:1 between the same pixels in the focused and unfocused states, and</li>
+      <li>has a contrast ratio of at least 3:1 against adjacent non-focus-indicator colors.</li>
+    </ul>
+  </li>
+  <li>An area of the focus indicator meets all the following:
+    <ul>
+      <li>is at least as large as the area of a 1 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixels" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-css-pixels-3" title="visual angle of about 0.0213 degrees">CSS pixel</a> thick <a href="https://www.w3.org/TR/WCAG22/#dfn-perimeter" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-perimeter-1" title="continuous line forming the boundary of a shape not including shared pixels, or the minimum bounding box, whichever is shortest.">perimeter</a> of the unfocused component or sub-component, or is at least as large as a 4 CSS pixel thick line along the shortest side of the <a href="https://www.w3.org/TR/WCAG22/#dfn-minimum-bounding-box" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-minimum-bounding-box-1" title="the smallest enclosing rectangle aligned to the horizontal axis within which all the points of a shape lie. For components which wrap onto multiple lines as part of a sentence or block of text (such as hypertext links), the bounding box is based on how the component would appear on a single line.">minimum bounding box</a> of the unfocused component or sub-component, and</li>
+      <li>has a contrast ratio of at least 3:1 between the same pixels in the focused and unfocused states, and</li>
+      <li>has a contrast ratio of at least 3:1 against adjacent non-focus-indicator colors, or is no thinner than 2 CSS pixels.</li>
+    </ul>
+  </li>
+</ol>
+<p>Exceptions:</p>
+<ul>
+  <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
+  <li>The focus indicator and the indicator's background color are not modified by the author.</li>
+</ul>
+<div class="note" role="note" id="issue-container-generatedID-22">
+  <div role="heading" class="note-title marker" id="h-note-22" aria-level="5"><span>Note</span></div>
+  <p class="">What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
+</div>
+<div class="note" role="note" id="issue-container-generatedID-23">
+  <div role="heading" class="note-title marker" id="h-note-23" aria-level="5"><span>Note</span></div>
+  <p class="">Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
+</div>
+<div class="note" role="note" id="issue-container-generatedID-24">
+  <div role="heading" class="note-title marker" id="h-note-24" aria-level="5"><span>Note</span></div>
+  <p class="">Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
+</div>
+<div class="note" id="issue-container-generatedID-25">
+<div role="heading" class="ednote-title marker" id="h-ednote" aria-level="5"><span>Editor's note</span></div>
+<p class="">This Success Criterion is <a href="https://www.w3.org/TR/WCAG22/#items-at-risk">at risk</a>.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
@@ -247,7 +259,6 @@ Make it easier for users to operate functionality through various inputs beyond 
 <blockquote class="sc">
 <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movement">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
 <p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
-<p class="ednote">Editor's Note: Is there an assistive technology that helps for people with mobility impairments? The group would like feedback on the frontier between AT &amp; author responsibility.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
@@ -263,21 +274,19 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG: @@ToDo: update SC text</p>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>The size of the <a href="https://www.w3.org/TR/WCAG22/#dfn-target">target</a> for <a href="https://www.w3.org/TR/WCAG22/#dfn-pointer-input">pointer inputs</a> is at least 24 by 24 CSS pixels, except where:</p>
-<ul>
-  <li><strong>Spacing:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-target-offset">target offset</a> is at least 24 CSS pixels to every adjacent target; </li>
-  <li><strong>Inline:</strong> The target is in a sentence or block of text; </li>
-  <li><strong>Essential:</strong> A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or is legally required for the information being conveyed; </li>
-  <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author; </li>
-  <li><strong>Equivalent:</strong> The function can be achieved through a different control on the same page that has an area of at least 24 by 24 CSS pixels. </li>
-</ul>
-<p class="note">Note: Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
-<p class="ednote">Editor's Note: Are there issues with internationalization when describing inline links?</p>
-<p class="ednote">Editor's Note: Are there issues with pop-over content overlapping targets triggering failures?</p>
+  <p>The size of the <a href="https://www.w3.org/TR/WCAG22/#dfn-target">target</a> for <a href="https://www.w3.org/TR/WCAG22/#dfn-pointer-input">pointer inputs</a> is at least 24 by 24 CSS pixels, except where:</p>
+  <ul>
+    <li><strong>Spacing:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-target-offset">target offset</a> is at least 24 CSS pixels to every adjacent target;</li>
+    <li><strong>Equivalent:</strong> The function can be achieved through a different control on the same page that has an area of at least 24 by 24 CSS pixels;</li>
+    <li><strong>Inline:</strong> The target is in a sentence or block of text;</li>
+    <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author;</li>
+    <li><strong>Essential:</strong> A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or is legally required for the information being conveyed.</li>
+  </ul>
+  <p class="note">Note: Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
 </blockquote>
-<p><a href="https://w3c.github.io/wcag/understanding/target-size-minimum.html">Understanding Target Size (Minimum)</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.htmll">Understanding Target Size (Minimum)</a></p>
 
 ## Guideline 3.2 Predictable
 
@@ -295,7 +304,7 @@ Make Web pages appear and operate in predictable ways.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG: @@ToDo: update SC text</p>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>If a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page">web page</a> contains any of the following help mechanisms, and those mechanisms are repeated on multiple web pages within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a>, they occur in the same relative order to other page content, unless a change is initiated by the user:</p>
 <ul>
@@ -305,9 +314,9 @@ Make Web pages appear and operate in predictable ways.
   <li>A fully automated contact mechanism.</li>
 </ul>
 <p class="note">Note: Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
-<p class="note">Note: For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can cause a change, for example zoom or change orientation, which may trigger a different page variation.</p>
+<p class="note">Note: For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can initiate a change, such as changing the page's zoom or orientation, which may trigger a different page variation. This criterion is concerned with relative order across pages displayed in the same page variation (e.g., same zoom level and orientation).</p>
 </blockquote>
-<p><a href="https://w3c.github.io/wcag/understanding/consistent-help.html">Understanding Consistent Help</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help">Understanding Consistent Help</a></p>
 
 ## Guideline 3.3 Input Assistance
 
@@ -325,12 +334,32 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG: @@ToDo: update SC text</p>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
-<p>Exception: When the cognitive function test is to recognize objects, or content the user provided to the website.</p>
-<p class="note">Note: Objects and content for the exception may be represented by images, text, video or audio.</p>
-<p class="note">Note: Examples of mechanisms include: 1) support for password entry by password managers to address the memorization cognitive function test, and 2) copy and paste to help address the transcription cognitive function test.</p>
+<p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-1" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
+<dl>
+  <dt>Alternative</dt>
+  <dd>Another authentication method that does not rely on a cognitive function test.</dd>
+  <dt>Mechanism</dt>
+  <dd>A mechanism is available to assist the user in completing the cognitive function test.</dd>
+  <dt>Object Recognition</dt>
+  <dd>The cognitive function test is to recognize objects.</dd>
+  <dt>Personal Content</dt>
+  <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
+</dl>
+<div class="note" role="note" id="issue-container-generatedID-34">
+  <div role="heading" class="note-title marker" id="h-note-33" aria-level="5"><span>Note</span></div>
+  <p class="">Objects to recognize and user provided content may be represented by images, video, or audio.</p>
+</div>
+<div class="note" role="note" id="issue-container-generatedID-35">
+  <div role="heading" class="note-title marker" id="h-note-34" aria-level="5"><span>Note</span></div>
+  <div class="">Examples of mechanisms that satisfy this criterion include:
+    <ol>
+      <li>support for password entry by password managers to reduce memory need, and</li>
+      <li>copy and paste to reduce the cognitive burden of re-typing.</li>
+    </ol>
+  </div>
+</div>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
 
@@ -346,9 +375,15 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG: @@ToDo: update SC text</p>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>For each step in an authentication process that relies on a <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test">cognitive function test</a>, at least one other authentication method is available that does not rely on a cognitive function test, or a mechanism is available to assist the user in completing the cognitive function test.</p>
+<p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-2" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
+<dl>
+  <dt>Alternative</dt>
+  <dd>Another authentication method that does not rely on a cognitive function test.</dd>
+  <dt>Mechanism</dt>
+  <dd>A mechanism is available to assist the user in completing the cognitive function test.</dd>
+</dl>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception">Understanding Accessible Authentication (No Exception)</a></p>
 
@@ -364,9 +399,9 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-<p class="sclabel">WCAG: @@ToDo: update SC text</p>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>Information previously entered by or provided to the user that is required to be entered again in the same <a href="https://www.w3.org/TR/WCAG22/#dfn-processes" class="internalDFN" data-link-type="dfn">process</a> and in the same user-session is either:</p>
+  <p>Information previously entered by or provided to the user that is required to be entered again in the same <a href="https://www.w3.org/TR/WCAG22/#dfn-processes" class="internalDFN" data-link-type="dfn">process</a> is either:</p>
   <ul>
     <li>auto-populated, or</li>
     <li>available for the user to select.</li>
