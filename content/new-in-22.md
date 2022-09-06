@@ -185,21 +185,10 @@ Provide ways to help users navigate, find content, and determine where they are.
   <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
   <li>The focus indicator and the indicator's background color are not modified by the author.</li>
 </ul>
-<div class="note" role="note" id="issue-container-generatedID-22">
-  <div role="heading" class="note-title marker" id="h-note-22" aria-level="5"><span>Note</span></div>
-  <p class="">What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
-</div>
-<div class="note" role="note" id="issue-container-generatedID-23">
-  <div role="heading" class="note-title marker" id="h-note-23" aria-level="5"><span>Note</span></div>
-  <p class="">Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
-</div>
-<div class="note" role="note" id="issue-container-generatedID-24">
-  <div role="heading" class="note-title marker" id="h-note-24" aria-level="5"><span>Note</span></div>
-  <p class="">Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
-</div>
-<div class="note" id="issue-container-generatedID-25">
-<div role="heading" class="ednote-title marker" id="h-ednote" aria-level="5"><span>Editor's note</span></div>
-<p class="">This Success Criterion is <a href="https://www.w3.org/TR/WCAG22/#items-at-risk">at risk</a>.</p>
+<p class="note">What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
+  <p class="note">Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
+  <p class="note">Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
+<p class="note">This Success Criterion is <a href="https://www.w3.org/TR/WCAG22/#items-at-risk">at risk</a>.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
@@ -347,19 +336,12 @@ Help users avoid and correct mistakes.
   <dt>Personal Content</dt>
   <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
 </dl>
-<div class="note" role="note" id="issue-container-generatedID-34">
-  <div role="heading" class="note-title marker" id="h-note-33" aria-level="5"><span>Note</span></div>
-  <p class="">Objects to recognize and user provided content may be represented by images, video, or audio.</p>
-</div>
-<div class="note" role="note" id="issue-container-generatedID-35">
-  <div role="heading" class="note-title marker" id="h-note-34" aria-level="5"><span>Note</span></div>
-  <div class="">Examples of mechanisms that satisfy this criterion include:
+  <p class="note">Objects to recognize and user provided content may be represented by images, video, or audio.</p>
+  <p class="note">Examples of mechanisms that satisfy this criterion include:
     <ol>
       <li>support for password entry by password managers to reduce memory need, and</li>
       <li>copy and paste to reduce the cognitive burden of re-typing.</li>
     </ol>
-  </div>
-</div>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
 
