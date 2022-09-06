@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 6 September 2022 (about 13:30 UTC).</p>
+  <p><strong>Date:</strong> Updated 6 September 2022 (about 18:00 UTC).</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -123,7 +123,7 @@ More about Candidate Recommendation and the process for completing WCAG 2.2 is i
 
 **4 October 2022** is the deadline for implementations and comments.
 
-We welcome examples of the new WCAG 2.2 success criteria implemented in websites and web apps. To share your implementations, please send e-mail to the Accessibility Guidelines Working Group Co-Chairs and W3C staff at: group-ag-chairs@w3.org
+We welcome examples of the new WCAG 2.2 success criteria implemented in websites and web apps. You can share your implementations by logging into [your W3C account](https://www.w3.org/Help/Account/) and using the [WCAG Implementation Information Form](https://www.w3.org/WAI/GL/WCAG22/CR/select_site). Please also send e-mail to the Accessibility Guidelines Working Group Co-Chairs and W3C staff at: group-ag-chairs@w3.org
 
 We hope that the normative content in WCAG 2.2 itself does not need changes. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
 
@@ -206,7 +206,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
@@ -224,7 +224,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-component">user interface component</a> receives keyboard focus, no part of the <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is hidden by author-created content.</p>
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is hidden by author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced">Understanding Focus Not Obscured (Enhanced)</a></p>
 
@@ -246,7 +246,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movement">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
+<p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
 <p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
@@ -265,9 +265,9 @@ Make it easier for users to operate functionality through various inputs beyond 
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>The size of the <a href="https://www.w3.org/TR/WCAG22/#dfn-target">target</a> for <a href="https://www.w3.org/TR/WCAG22/#dfn-pointer-input">pointer inputs</a> is at least 24 by 24 CSS pixels, except where:</p>
+  <p>The size of the <a href="https://www.w3.org/TR/WCAG22/#dfn-targets">target</a> for <a href="https://www.w3.org/TR/WCAG22/#dfn-pointer-inputs">pointer inputs</a> is at least 24 by 24 CSS pixels, except where:</p>
   <ul>
-    <li><strong>Spacing:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-target-offset">target offset</a> is at least 24 CSS pixels to every adjacent target;</li>
+    <li><strong>Spacing:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-target-offsets">target offset</a> is at least 24 CSS pixels to every adjacent target;</li>
     <li><strong>Equivalent:</strong> The function can be achieved through a different control on the same page that has an area of at least 24 by 24 CSS pixels;</li>
     <li><strong>Inline:</strong> The target is in a sentence or block of text;</li>
     <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author;</li>
@@ -275,7 +275,7 @@ Make it easier for users to operate functionality through various inputs beyond 
   </ul>
   <p class="note">Note: Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
 </blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.htmll">Understanding Target Size (Minimum)</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">Understanding Target Size (Minimum)</a></p>
 
 ## Guideline 3.2 Predictable
 
@@ -295,7 +295,7 @@ Make Web pages appear and operate in predictable ways.
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>If a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page">web page</a> contains any of the following help mechanisms, and those mechanisms are repeated on multiple web pages within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a>, they occur in the same relative order to other page content, unless a change is initiated by the user:</p>
+<p>If a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page-s">web page</a> contains any of the following help mechanisms, and those mechanisms are repeated on multiple web pages within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a>, they occur in the same relative order to other page content, unless a change is initiated by the user:</p>
 <ul>
   <li>Human contact details;</li>
   <li>Human contact mechanism;</li>
