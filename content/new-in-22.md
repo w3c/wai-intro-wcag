@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 6 September 2022.</p>
+  <p><strong>Date:</strong> Updated 6 September 2022 (about 13:30 UTC).</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -185,10 +185,10 @@ Provide ways to help users navigate, find content, and determine where they are.
   <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
   <li>The focus indicator and the indicator's background color are not modified by the author.</li>
 </ul>
-<p class="note">What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
-  <p class="note">Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
-  <p class="note">Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
-<p class="note">This Success Criterion is <a href="https://www.w3.org/TR/WCAG22/#items-at-risk">at risk</a>.</p>
+<p class="note">Note: What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
+  <p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
+  <p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
+<p class="note">Editor's note: This Success Criterion is <a href="https://www.w3.org/TR/WCAG22/#items-at-risk">at risk</a>.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
@@ -336,8 +336,8 @@ Help users avoid and correct mistakes.
   <dt>Personal Content</dt>
   <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
 </dl>
-  <p class="note">Objects to recognize and user provided content may be represented by images, video, or audio.</p>
-  <p class="note">Examples of mechanisms that satisfy this criterion include:</p>
+  <p class="note">Note: Objects to recognize and user provided content may be represented by images, video, or audio.</p>
+  <p class="note">Note: Examples of mechanisms that satisfy this criterion include:</p>
     <ol>
       <li>support for password entry by password managers to reduce memory need, and</li>
       <li>copy and paste to reduce the cognitive burden of re-typing.</li>
