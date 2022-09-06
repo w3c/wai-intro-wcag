@@ -337,7 +337,7 @@ Help users avoid and correct mistakes.
   <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
 </dl>
   <p class="note">Objects to recognize and user provided content may be represented by images, video, or audio.</p>
-  <p class="note">Examples of mechanisms that satisfy this criterion include:
+  <p class="note">Examples of mechanisms that satisfy this criterion include:</p>
     <ol>
       <li>support for password entry by password managers to reduce memory need, and</li>
       <li>copy and paste to reduce the cognitive burden of re-typing.</li>
