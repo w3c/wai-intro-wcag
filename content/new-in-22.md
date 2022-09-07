@@ -46,6 +46,11 @@ inline_css: |
   .sc dt:after {
     content: ":";
   }
+  /* new start */	
+  .sc dl dd {margin: 0 0 0.5em 2em;}
+  .sc dd {margin-left: 0;}
+  .sc dd {display: block;  margin-inline-start: 40px;}
+  /* new end */	
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
   .sclabel {
