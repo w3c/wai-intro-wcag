@@ -142,12 +142,17 @@ Two types of translations are listed on this page:
     <tr>
       <th id="sk21">Slovak</th>
       <td><a href="https://s3.eu-central-1.amazonaws.com/w3c-wcag-2.1-sk/index.html">Slovak Candidate Authorized Translation of WCAG 2.1  {% include_cached external.html %}</a></td>
-      <td></td>
+      <td>Review  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021AprJun/0002.html">notification of review of Slovak Candidate Authorized Translation of WCAG 2.1 (13 April 2021)</a></td>
     </tr>
     <tr>
       <th id="es21">Spanish</th>
       <td></td>
       <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2019AprJun/0004.html">notification of intent for Spanish unofficial translation of WCAG 2.1 (12 April 2019)</a></td>
+    </tr>
+    <tr>
+      <th id="uk21">Ukrainian</th>
+      <td><a href="https://eugenerifan.github.io/wcag/ua/">Ukrainian Candidate Authorized Translation of WCAG 2.1 </a></td>
+      <td>Review  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0018.html">notification of review of Ukrainian Candidate Authorized Translation of WCAG 2.1 (20 September 2022)</a></td>
     </tr>
   </tbody>
 </table>
