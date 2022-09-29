@@ -60,7 +60,7 @@ This page introduces the in-progress [W3C Accessibility Guidelines (WCAG) 3.0 Wo
 ## Introduction
 {:.no_toc}
 
-WCAG 3 is currently an incomplete draft. It is intended to develop into a W3C Standard **in a few years**. The current standard, Web Content Accessibiilty Guidelines (WCAG 2), is introduced in the [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+WCAG 3 is currently an incomplete draft. It is intended to develop into a W3C Standard **in a few years**. The current standard, Web Content Accessibility Guidelines (WCAG 2), is introduced in the [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. 
 
