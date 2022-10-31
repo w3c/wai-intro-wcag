@@ -154,6 +154,11 @@ Two types of translations are listed on this page:
       <td><a href="https://eugenerifan.github.io/wcag/ua/">Ukrainian Candidate Authorized Translation of WCAG 2.1 {% include_cached external.html %}</a></td>
       <td>Review  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0018.html">notification of review of Ukrainian Candidate Authorized Translation of WCAG 2.1 (20 September 2022)</a></td>
     </tr>
+    <tr>
+      <th id="ca21">Catalan</th>
+      <td><a href="https://www.ub.edu/adaptabit/wcag21/">Catalan Candidate Authorized Translation of WCAG 2.1 {% include_cached external.html %}</a></td>
+      <td>Review  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2022OctDec/0006.html">notification of review of Catalan Candidate Authorized Translation of WCAG 2.1 (26 October 2022)</a></td>
+    </tr>
   </tbody>
 </table>
 
