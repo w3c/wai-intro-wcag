@@ -75,6 +75,11 @@ Two types of translations are listed on this page:
       <td>Unofficial translation  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2021OctDec/0000.html">draft Bulgarian unofficial translation of WCAG 2.1 (1 October 2021)</a></td>
     </tr>
     <tr>
+      <th id="ca21">Catalan</th>
+      <td><a href="https://www.ub.edu/adaptabit/wcag21/">Catalan Candidate Authorized Translation of WCAG 2.1 {% include_cached external.html %}</a></td>
+      <td>Review  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2022OctDec/0006.html">notification of review of Catalan Candidate Authorized Translation of WCAG 2.1 (26 October 2022)</a></td>
+    </tr>    
+    <tr>
       <th id="zh21">Chinese, Simplified</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
