@@ -124,9 +124,9 @@ The main purpose of "Candidate Recommendation" is to ensure that the standard ca
 
 More about Candidate Recommendation and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-### Comments
+### Implementations and Comments
 
-We are processing comments on the new WCAG 2.2 success criteria. We thank those who have submitted implementations for WCAG 2.2.
+In November 2022, we are processing implementations and comments from the Candidate Recommendation publication. We are looking for additional implementations of [2.5.7 Dragging Movements](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/#257-dragging-movements-aa). You can share your implementations by logging into [your W3C account](https://www.w3.org/Help/Account/) and using the [WCAG Implementation Information Form](https://www.w3.org/WAI/GL/WCAG22/CR/select_site). Please also send e-mail to the Accessibility Guidelines Working Group Co-Chairs and W3C staff at: group-ag-chairs@w3.org
 
 We hope that the normative content in WCAG 2.2 itself does not need changes. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
 
