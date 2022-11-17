@@ -35,7 +35,11 @@ footer: >
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/hidde/">Hidde de Vries</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
    <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
-
+inline_css: |
+  .longdesc ul, li {
+    padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0;
+  }
+  
 ---
 
 {::nomarkdown}
@@ -149,16 +153,17 @@ Not included in the old diagram:
 * Supplemental Guidance
 
 **Long description:**
+<div class="longdesc">
 
 Four connected boxes:
 * Top: _Customizable Quick Reference_ ; **How to Meet WCAG 2**
    * Guidelines
-    * Success Criteria
-	  * Techniques
+     * Success Criteria
+       * Techniques
 * Middle: _W3C Standard_. WCAG 2.
   * Principles
     * Guidelines
-	    * Success Criteria
+      * Success Criteria
   * Conformance
 * Left: _Instructions for Developers_ ; **Techniques for WCAG 2** _(HTML, CSS, scripting, ...)_
   * Browser and assistive technology support notes
@@ -177,6 +182,8 @@ Lines indicate links for users to get from one document to others:
 * From the Standard to the Quick Reference, Understanding
 * From Techniques to Understanding
 * From Understanding to the Standard, Techniques
+
+</div>
 
 {% include_cached excol.html type="end" %}
 
