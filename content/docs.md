@@ -150,21 +150,21 @@ Not included in the old diagram:
 **Long description:**
 
 Four connected boxes:
-* Top: _Customizable Quick Reference_ ; **How to Meet WCAG 2**
+* Top: _Customizable Quick Reference_ ; **How to Meet WCAG 2.0**
   * Guidelines
     * Success Criteria
       * Techniques
-* Middle: _W3C Standard_. WCAG 2.
+* Middle: _W3C Standard_. **WCAG 2.0**
   * Principles
     * Guidelines
       * Success Criteria
   * Conformance
-* Left: _Instructions for Developers_ ; **Techniques for WCAG 2** _(HTML, CSS, scripting, ...)_
+* Left: _Instructions for Developers_ ; **Techniques for WCAG 2.0** _ ; (HTML, CSS, scripting, ...)_
   * Browser and assistive technology support notes
   * Examples, code
   * Resources
   * Test procedures
-* Right: _Detailed Reference_ **Understanding WCAG 2**
+* Right: _Detailed Reference_ ; **Understanding WCAG 2.0**
   * Intent
   * Benefits to people with disabilities
   * Examples scenarios
