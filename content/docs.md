@@ -35,7 +35,6 @@ footer: >
    <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/hidde/">Hidde de Vries</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
    <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
-
 ---
 
 {::nomarkdown}
@@ -132,3 +131,51 @@ Other resources cover specific topics, for example:
 * [[Making Audio and Video Media Accessible]](/media/av/) covers multimedia
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
+
+
+{% include_cached excol.html type="start" id="diagram" %}
+
+## Diagram
+
+{% include_cached excol.html type="middle" %}
+
+The diagram below shows the different WCAG 2 documents for different purposes. It uses "WCAG 2.0" yet still applies for WCAG 2.1 and WCAG 2.2.
+
+{% include image.html src="wcag20docs.png" alt="" %}
+
+Not included in the old diagram:
+* Test Rules
+* Supplemental Guidance
+
+**Long description:**
+
+Four connected boxes:
+* Top: _Customizable Quick Reference_ ; **How to Meet WCAG 2.0**
+  * Guidelines
+    * Success Criteria
+      * Techniques
+* Middle: _W3C Standard_. **WCAG 2.0**
+  * Principles
+    * Guidelines
+      * Success Criteria
+  * Conformance
+* Left: _Instructions for Developers_ ; **Techniques for WCAG 2.0** _ ; (HTML, CSS, scripting, ...)_
+  * Browser and assistive technology support notes
+  * Examples, code
+  * Resources
+  * Test procedures
+* Right: _Detailed Reference_ ; **Understanding WCAG 2.0**
+  * Intent
+  * Benefits to people with disabilities
+  * Examples scenarios
+  * Resources
+  * Techniques
+
+Lines indicate links for users to get from one document to others:
+* From the Quick Reference to the Standard, Techniques, Understanding
+* From the Standard to the Quick Reference, Understanding
+* From Techniques to Understanding
+* From Understanding to the Standard, Techniques
+
+{% include_cached excol.html type="end" %}
+
