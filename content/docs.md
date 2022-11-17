@@ -37,7 +37,7 @@ footer: >
 
 inline_css: |
   .longdesc ul, li {
-    padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0;
+    padding-top: 0; padding-bottom: 0; margin-top: 0; margin-bottom: 0; color:red;
   }
   
 ---
@@ -157,9 +157,9 @@ Not included in the old diagram:
 
 Four connected boxes:
 * Top: _Customizable Quick Reference_ ; **How to Meet WCAG 2**
-   * Guidelines
-     * Success Criteria
-       * Techniques
+  * Guidelines
+    * Success Criteria
+      * Techniques
 * Middle: _W3C Standard_. WCAG 2.
   * Principles
     * Guidelines
