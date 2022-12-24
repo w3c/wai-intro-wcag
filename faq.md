@@ -5,8 +5,6 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'faq.md'
-description: Answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG).
-image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
     <p><strong>Date:</strong> Updated 22 June 2018. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>

@@ -6,8 +6,6 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'glance.md'
-description: This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.1.
-image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 5 June 2018. First published July 2008.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> and Wayne Dick.</p>

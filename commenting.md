@@ -5,8 +5,6 @@ layout: default
 github:
   repository: w3c/wai-intro-wcag
   path: 'commenting.md'
-description: How you can comment on WCAG 2 documents and submit Techniques.
-image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 24 May 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Cooper/">Michael Cooper</a></p>
