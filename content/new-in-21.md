@@ -1,15 +1,24 @@
 ---
-title: What's New in WCAG 2.1
-nav: New in 2.1
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
+title: "What’s New in WCAG 2.1"
+nav_title: "New in 2.1"
+
+description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
+
+teaser_text: WCAG 2.1 has 17 additional requirements (“success criteria”) that address mobile accessibility, people with low vision, and people with cognitive and learning disabilities. The What’s New in WCAG 2.1 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
+
+lang: en
+last_updated: 2020-08-13
 permalink: /standards-guidelines/wcag/new-in-21/
-layout: default
+
 github:
   repository: w3c/wai-intro-wcag
-  path: 'new-in-21.md'
-description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1. It includes quotes from personas (fictional people) to help you understand some aspects of the success criteria.
-image: /content-images/wai-intro-wcag/general-social.jpg
+  path: 'content/new-in-21.md'
+
+image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 1 June 2018.</p>
+  <p><strong>Date:</strong> Updated 13 August 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -18,7 +27,7 @@ inline_css: |
   blockquote.sc {padding: 0 10px 15px 20px;border: solid #ccc 1px;background: #f0f0f0;color: #000; margin-right: 0; margin-bottom:40px;}
   .quotes {margin-bottom:40px;}
   .quotes ul {list-style-type: none;}
-  .quotes li>p {display:table-row; padding-bottom:}
+  .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
   .issue {font-weight: bold; display:table-cell; width: 6em;}
   q:before {content: open-quote;color: #005a6a;font-weight: bold;}
@@ -37,6 +46,7 @@ inline_css: |
   }
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
+ref: /standards-guidelines/wcag/new-in-21/
 ---
 
 {::nomarkdown}
@@ -66,21 +76,21 @@ This page lists the new success criteria in Web Content Accessibility Guidelines
 
 ## Introduction
 
-For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](https://w3c.github.io/wai-intro-wcag/standards-guidelines/wcag/).
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 All success criteria from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
 
 WCAG 2.1 provides 17 additional success criteria to address:
 
-- [mobile accessibility](https://www.w3.org/WAI/standards-guidelines/mobile/#intro)
+- [mobile accessibility](/standards-guidelines/mobile/)
 - people with low vision
-- people with cognitive and learning disabilities
+- [people with cognitive and learning disabilities](/cognitive/)
 
 ## Guideline 1.3 Adaptable
 
 Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
 
-### 1.3.4 Orientation (Level AA)
+### 1.3.4 Orientation (AA)
 
 <blockquote class="sc">
   <p>Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
@@ -111,7 +121,7 @@ Create content that can be presented in different ways (for example simpler layo
       <em>Note: </em>This works because the fields use autocomplete. </span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html">Understanding Identify Input Purpose</a> </p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html">Understanding Identify Input Purpose</a></p>
 
 ### 1.3.6 Identify Purpose (AAA)
 
@@ -156,7 +166,7 @@ Make it easier for users to see and hear content including separating foreground
   <p>The visual <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentation</a> of the following have a <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">contrast ratio</a> of at least 3:1 against adjacent color(s):</p>
   <dl>
     <dt>User Interface Components</dt>
-    <dd>Visual information used to indicate <a href="https://www.w3.org/TR/WCAG21/#dfn-states" data-link-type="dfn">states</a> and boundaries of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a>, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;</dd>
+    <dd>Visual information required to identify <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">user interface components</a> and <a href="https://www.w3.org/TR/WCAG21/#dfn-states" data-link-type="dfn">states</a>, except for inactive components or where the appearance of the component is determined by the user agent and not modified by the author;</dd>
     <dt>Graphical Objects</dt>
     <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
   </dl>
@@ -186,8 +196,8 @@ Make it easier for users to see and hear content including separating foreground
   and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
 <div class="quotes">
   <ul>
-    <li><p><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but  I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work with my CSS.</q></span></p></li>
+    <li><p><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words. However, some websites don't work right &mdash; some of the text gets cut off and even buttons disappear.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work well with my CSS.</q></span></p></li>
   </ul>
 </div>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Understanding Text Spacing</a>
@@ -213,7 +223,7 @@ Make it easier for users to see and hear content including separating foreground
     <li><p><span class="issue">Works well:</span><span><q>I hovered over a word and a box popped up with the definition, but it was mostly off the screen with my magnification. I moved my mouse pointer to the definition box and scrolled the magnified area over to  the definition box and it stayed popped up so I could read it.</q></span></p></li>
   </ul>
 </div>
-<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Understanding Content on Hover or Focus</a> </p>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Understanding Content on Hover or Focus</a></p>
 
 ## Guideline 2.1 Keyboard Accessible
 
@@ -236,7 +246,7 @@ Make all functionality available from a keyboard.
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>When I was using my mail app with  voice commands, it kept deleting the messages instead of opening them.</q><br/>
-      <em>Note: </em>There was a shortcut key for delete that was triggered by something he was saying, and no way to turn off the shortcut  keys.</span></p></li>
+      <em>Note: </em>There was a shortcut key for delete that was triggered by something the reporter was saying, and no way to turn off the shortcut  keys.</span></p></li>
     <li><p><span class="issue">Works well:</span><span><q>In my spreadsheet application,  there's a setting to turn off or modify character key shortcuts.</q></span></p></li>
   </ul>
 </div>
@@ -258,7 +268,7 @@ Provide users enough time to read and use content.
     <li><p><span class="issue">Works well:</span><span><q>When I started the Employee  Benefits app, it told me how many minutes I had to complete the forms.</q></span></p></li>
   </ul>
 </div>
-<a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Understanding Timeouts</a>
+<p><a href="https://www.w3.org/WAI/WCAG21/Understanding/timeouts.html">Understanding Timeouts</a></p>
 
 ## Guideline 2.3 Seizures and Physical Reactions
 
@@ -329,7 +339,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <div class="quotes">
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>It understood most of my voice  commands until I got to the Send button. I kept saying 'Send' and it didn't work.</q><br/>
-      <em>Note:  </em>It was visually labelled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</span></p></li>
+      <em>Note:  </em>It was visually labeled 'send' but the 'name' in the  code was 'submit'. It would have worked if the 'name' started with 'send'.</span></p></li>
   </ul>
 </div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/label-in-name.html">Understanding Label in Name</a></p>
@@ -411,5 +421,9 @@ Maximize compatibility with current and future user agents, including assistive 
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html">Understanding Status Messages</a></p>
 
 ## About the Personas Quotes
-<p>The linked persona roles go to the <a href="https://www.w3.org/WAI/people-use-web/user-stories/">Stories of Web Users</a>. That page has other personas with different disabilities. We might add more in the future.</p>
-<p>After we've reviewed these persona quotes sufficiently, we plan to add them to the Understanding documents.</p>
+
+The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities. We might add more in the future.
+
+After we’ve reviewed these persona quotes sufficiently, we plan to add
+them to the Understanding documents.
+
