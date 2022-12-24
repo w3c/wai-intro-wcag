@@ -1,6 +1,4 @@
 _site
-.*-cache
+.sass-cache
 .jekyll-metadata
 .DS_Store
-.netlify
-.nosync

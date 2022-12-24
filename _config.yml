@@ -38,11 +38,6 @@ remote_theme: w3c/wai-website-theme
 collections:
 
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
 
 plugins:
   - jekyll-seo-tag
@@ -50,4 +45,3 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-remote-theme
-  - wai-website-plugin

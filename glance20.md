@@ -1,41 +1,23 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
-title: "WCAG 2.0 at a Glance"
-nav_title: "2.0 at a Glance"
-
-description: This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.0.
-
-lang: en
-last_updated: 2012-02-22
+title: WCAG 2.0 at a Glance
 permalink: /standards-guidelines/wcag/20/glance/
-
-parent: /standards-guidelines/wcag/glance/
-
+layout: default
+parent: '/standards-guidelines/wcag/'
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/glance20.md'
-
+  path: 'glance.md'
+description: This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.0.
+image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 22 February 2012. First published July 2008.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> and Wayne Dick.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
-image: /content-images/wai-intro-wcag/general-social.jpg
 doc-note-type: archived
 doc-note-message-md: >
  **Updated document: [WCAG 2.1 at a Glance](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)**
-ref: /standards-guidelines/wcag/20/glance/
 ---
 
-{::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
-{:/}
-
 This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.0. For the normative technical specification, see [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/).
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 Please see the following key resources for learning and using WCAG 2.0:
 
@@ -94,7 +76,7 @@ Please see the following key resources for learning and using WCAG 2.0:
 ## Print Version
 
 This page is formatted for printing (without the navigation) as PDF
-files for A4 and 8.5" &times; 11" paper:
+files for A4 and 8.5" x 11" paper:
 
 -   [WCAG 2 at a Glance (PDF) A4](https://www.w3.org/WAI/WCAG20/glance/WCAG2-at-a-Glance-a4.pdf)
--   [WCAG 2 at a Glance (PDF) 8.5&times;11](https://www.w3.org/WAI/WCAG20/glance/WCAG2-at-a-Glance.pdf)
+-   [WCAG 2 at a Glance (PDF) 8.5x11](https://www.w3.org/WAI/WCAG20/glance/WCAG2-at-a-Glance.pdf)
