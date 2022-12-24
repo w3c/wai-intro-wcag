@@ -58,8 +58,7 @@ updated periodically.** Your comments will help inform the updates.
 Before commenting, please read WCAG introductory and education material,
 including:
 
--   [Web Content Accessibility Guidelines (WCAG)
-    Overview]( https://www.w3.org/WAI/standards-guidelines/wcag/)
+-   [Web Content Accessibility Guidelines (WCAG) Overview]( https://www.w3.org/WAI/standards-guidelines/wcag/)
 -   [The WCAG 2.0 Documents](http://www.w3.org/WAI/intro/wcag20)
 
 ## How to Comment {#how}
@@ -73,20 +72,9 @@ documents:
 
 ### GitHub pull request {#how_github}
 
-The [source XML documents for WCAG 2.0 and related documents are
-available on
-GitHub](https://github.com/w3c/wcag/tree/master/wcag20/sources).
-Commenters familiar with GitHub can
-[fork](https://help.github.com/articles/working-with-forks/) the [WCAG
-2.0 repository](https://github.com/w3c/wcag/), clone that to their local
-machine, edit the source files, and submit a well-commented [pull
-request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-as a way to provide comments and edits to the working group for review.
-If you later decide to make another pull request, first [sync your
-fork](https://help.github.com/articles/syncing-a-fork/) to be sure your
-edits will be based on the the latest content.
+The [source XML documents for WCAG 2.0 and related documents are available on GitHub {% include_cached external.html %}](https://github.com/w3c/wcag/tree/master/wcag20/sources). Commenters familiar with GitHub can [fork {% include_cached external.html %}](https://help.github.com/articles/working-with-forks/) the [WCAG 2.0 repository {% include_cached external.html %}](https://github.com/w3c/wcag/), clone that to their local machine, edit the source files, and submit a well-commented [pull request {% include_cached external.html %}](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) as a way to provide comments and edits to the working group for review. If you later decide to make another pull request, first [sync your fork {% include_cached external.html %}](https://help.github.com/articles/syncing-a-fork/) to be sure your edits will be based on the the latest content.
 
-The [WCAG 2.0 sources](http://www.w3.org/WAI/GL/WCAG20/sources/) page
+The [WCAG 2.0 sources {% include_cached different.html %}](http://www.w3.org/WAI/GL/WCAG20/sources/) page
 includes basic information about the files contained in the GitHub
 repository to help commenters understand which files to edit.
 
@@ -125,12 +113,12 @@ list.
 
 ### Online Form {#how_form}
 
-**Please use [online comment form](onlineform) to comment on:**
+**Please use [online comment form {% include_cached different.html %}](https://www.w3.org/WAI/WCAG20/comments/onlineform.html) to comment on:**
 
--   [Web Content Accessibility Guidelines 2.0 (WCAG 2.0)](http://www.w3.org/TR/WCAG20/)
--   [How to Meet WCAG 2.0](http://www.w3.org/WAI/WCAG20/quickref/)
--   [Understanding WCAG 2.0](http://www.w3.org/TR/UNDERSTANDING-WCAG20/)
--   [Techniques for WCAG 2.0](http://www.w3.org/TR/WCAG20-TECHS/)
+-   [Web Content Accessibility Guidelines 2.0 (WCAG 2.0) {% include_cached different.html %}](https://www.w3.org/TR/WCAG20/)
+-   [How to Meet WCAG (Quickref) {% include_cached different.html %}](https://www.w3.org/WAI/WCAG21/quickref/)
+-   [Understanding WCAG 2.0 {% include_cached different.html %}](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
+-   [Techniques for WCAG 2.0 {% include_cached different.html %}](https://www.w3.org/TR/WCAG20-TECHS/)
 
 *(For WCAG 2.0 documents not in the list above, send comments to
 <wai-eo-editors@w3.org>, a publicly archived list.)*
@@ -155,27 +143,18 @@ issues, or needed clarifications.
 Please note that these forms should not be used to ask questions about
 particular websites or implementation issues. Questions about how to
 apply WCAG to a particular page or site should be directed to one of the
-many consultants working in the area, to the [WAI Interest Group (IG)
-mailing list](http://www.w3.org/WAI/IG/Overview.html#mailinglist)
-(<w3c-wai-ig@w3.org>), or to one of the many other mailing lists and
-forums that focus on Web accessibility.
+many consultants working in the area, to the [WAI Interest Group (IG) mailing list](http://www.w3.org/WAI/IG/Overview.html#mailinglist) (<w3c-wai-ig@w3.org>), or to one of the many other mailing lists and forums that focus on Web accessibility.
 
-**Note:** Comments submitted via the form and via e-mail are publicly
-available in the [archive for the WCAG 2.0 public comments mailing
-list](http://lists.w3.org/Archives/Public/public-comments-wcag20/).
+**Note:** Comments submitted via the form and via e-mail are publicly available in the [archive for the WCAG 2.0 public comments mailing list {% include_cached different.html %}](http://lists.w3.org/Archives/Public/public-comments-wcag20/).
 
 ## Submitting Techniques {#techs}
 
 To submit techniques for consideration by the WCAG Working Group, please
-use the [**Techniques for WCAG 2 submission
-form**](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
+use the [**Techniques for WCAG 2 submission form** {% include_cached different.html %}](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
 
 ## For more info {#QandA}
 
 Please see the following resources for more information:
 
--   WCAG documents listed in the [navigation area of this
-    page](#subhomenav)
--   [How WAI Develops Accessibility Guidelines through the W3C Process:
-    Milestones and Opportunities to
-    Contribute](http://www.w3.org/WAI/intro/w3c-process)
+-   WCAG documents listed in the navigation area of this page
+-   [How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute](http://www.w3.org/WAI/intro/w3c-process)
