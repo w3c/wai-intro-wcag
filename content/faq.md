@@ -44,7 +44,7 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
     <li><a href="#v21">What about WCAG 2.1?</a></li>
     <li><a href="#v22">What about WCAG 2.2?</a></li>
     <li><a href="#next">What about WCAG 3.0? What about “Silver”?</a></li>
-    <li><a href="#parsing411">Why is success criteria 4.1.1 Parsing obsolete?</a></li>
+    <li><a href="#parsing411">Why is success criteria 4.1.1 Parsing obsolete? What about Parsing in WCAG 2.0 and 2.1?</a></li>
     <li><a href="#getnews">How Can I Get Updates?</a></li>
     <li><a href="#vpat21">Does VPAT 2.1 include WCAG 2.1?</a></li> 
     <li><a href="#mobile">Does WCAG address mobile accessibility?</a></li>
@@ -111,7 +111,7 @@ WCAG 2 and WCAG 3 have different names.
 
 The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
 
-## Why is success criteria 4.1.1 Parsing obsolete in WCAG 2.2? What about Parsing WCAG 2.0 and 2.1? {#parsing411}
+## Why is success criteria 4.1.1 Parsing obsolete in WCAG 2.2? What about Parsing in WCAG 2.0 and 2.1? {#parsing411}
 
 Success criteria (SC) 4.1.1 Parsing is obsolete and removed from WCAG 2.2. Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assisitve technology did their own markup parsing. Now they reply on the browser.
 
