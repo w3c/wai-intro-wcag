@@ -7,7 +7,7 @@ nav_title: "FAQ"
 description: Answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG).
 
 lang: en
-last_updated: 2022-08-02
+last_updated: 2023-01-25
 permalink: /standards-guidelines/wcag/faq/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 2 August 2022. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 25 January 2023. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -27,7 +27,7 @@ permalink: /standards-guidelines/wcag/faq/
 {:/}
 
 This page answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG). Let us know what <a href="#more">other questions</a> you have.<br>
-~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 13 May 2022</em>
+~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 25 January 2023</em>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -44,7 +44,8 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
     <li><a href="#v21">What about WCAG 2.1?</a></li>
     <li><a href="#v22">What about WCAG 2.2?</a></li>
     <li><a href="#next">What about WCAG 3.0? What about “Silver”?</a></li>
-    <li><a href="#getnews"> How Can I Get Updates?</a></li>
+    <li><a href="#parsing411">Why is success criteria 4.1.1 Parsing obsolete?</a></li>
+    <li><a href="#getnews">How Can I Get Updates?</a></li>
     <li><a href="#vpat21">Does VPAT 2.1 include WCAG 2.1?</a></li> 
     <li><a href="#mobile">Does WCAG address mobile accessibility?</a></li>
     <li><a href="#start">Where should I start?</a></li>
@@ -109,6 +110,14 @@ WCAG 3.0 is the result of the project previously temporarily referred to as “S
 WCAG 2 and WCAG 3 have different names.
 
 The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
+
+## Why is success criteria 4.1.1 Parsing obsolete in WCAG 2.2? What about Parsing WCAG 2.0 and 2.1? {#parsing411}
+
+Success criteria (SC) 4.1.1 Parsing is obsolete and removed from WCAG 2.2. Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assisitve technology did their own markup parsing. Now they reply on the browser.
+
+With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
+
+We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We may obsolete it in those versions as well. In the meantime, web content that is required to meeting WCAG 2.0 or 2.a may need to meet 4.1.1.
 
 ## How Can I Get Updates? {#getnews}
 
