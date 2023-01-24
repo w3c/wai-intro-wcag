@@ -132,7 +132,7 @@ We hope that the normative content in WCAG 2.2 itself does not need changes. We 
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
-The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **two expections**:
+The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **two exceptions**:
 *  [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
 *  [4.1.1 Parsing](https://www.w3.org/TR/WCAG22/#parsing) is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
@@ -141,11 +141,11 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 ### Changes to the 2.2 Draft
 
 Changes from the September 2022 CR to the January 2023 CR include:
-* 2.5.8 Target Size (Minimum): Changed the exception bullets for Spacing and Inline. Added a note about inline targets and line-height.
-* 3.2.6 Consistent Help: Changed the first note.
-* 3.3.8 Accessible Authentication: Changed the first note.
-* 3.3.9 Accessible Authentication (No Exception): Renamed to Accessible Authentication (Enhanced).
-* 4.1.1 Parsing: Removed. Added note explaning why it is obsolete. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+* [2.5.8](https://www.w3.org/TR/WCAG22/#target-size-minimum) Target Size (Minimum): Changed the exception bullets for Spacing and Inline. Added a note about inline targets and line-height.
+* [3.2.6](https://www.w3.org/TR/WCAG22/#consistent-help) Consistent Help: Changed the first note.
+* [3.3.8](https://www.w3.org/TR/WCAG22/#accessible-authentication-no-exception) Accessible Authentication: Changed the first note.
+* [3.3.9](https://www.w3.org/TR/WCAG22/#redundant-entry) Accessible Authentication (No Exception): Renamed to Accessible Authentication (Enhanced).
+* [4.1.1](https://www.w3.org/TR/WCAG22/#parsing) Parsing: Removed. Added note explaning why it is obsolete. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
 Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#changelog).
 
