@@ -117,7 +117,7 @@ Success criteria (SC) 4.1.1 Parsing is obsolete and removed from WCAG 2.2. Parsi
 
 With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
 
-We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We may obsolete it in those versions as well. In the meantime, web content that is required to meeting WCAG 2.0 or 2.a may need to meet 4.1.1.
+We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We may obsolete it in those versions as well. In the meantime, web content that is required to meet WCAG 2.0 or 2.1 may need to meet 4.1.1.
 
 ## How Can I Get Updates? {#getnews}
 
