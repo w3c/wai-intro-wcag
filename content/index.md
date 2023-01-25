@@ -8,7 +8,7 @@ description: Introduces the Web Content Accessibility Guidelines (WCAG) internat
 
 
 lang: en
-last_updated: 2022-11-01
+last_updated: 2023-01-25
 
 permalink: /standards-guidelines/wcag/
 
@@ -17,7 +17,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 1 November 2022. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 25 January 2023. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -67,17 +67,21 @@ The WCAG documents explain how to make web content more accessible to people wit
 -   natural information such as text, images, and sounds
 -   code or markup that defines structure, presentation, etc.
 
-## WCAG 2.0, 2.1, 2.2  {#versions}
+## WCAG 2.0, 2.1, 2.2 {#versions}
 
-The Web Content Accessibility Guidelines (WCAG) standards are stable and referenceable; they do not change after they are published.
+The Web Content Accessibility Guidelines (WCAG) standards are stable and referenceable<!--; they do not change after they are published -->.
 
-**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)**  was published on 5 June 2018. <br>**[WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/)** is scheduled to be finalized in early 2023. More information is in [What's New in WCAG 2.2 Draft](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
+**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** was published on 5 June 2018. <br>**[WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/)** is scheduled to be finalized in April 2023. More information is in [What's New in WCAG 2.2 Draft](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
 
-All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1. <br>All requirements in 2.0 and 2.1 will be included in 2.2. The wording of the 2.0 and 2.1 success criteria will be exactly the same in 2.2.
+All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
 
-There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [[What's New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/). <br>The proposed new success criteria in 2.2 are introduced in [[What's New in WCAG 2.2 Draft]](/standards-guidelines/wcag/new-in-22/).
+The 2.0 and 2.1 success criteria are exactly the same in 2.2, with **two expections**:
+*  [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
+*  [4.1.1 Parsing](https://www.w3.org/TR/WCAG22/#parsing) is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
-**Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**.<br>And content that conforms to WCAG 2.2 will also conform to 2.1 and 2.0. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 or 2.2 should meet the requirements of policies that reference WCAG 2.0. To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0. (Same for WCAG 2.2 when is it done.)
+There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [[What's New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).<br>The proposed new success criteria in 2.2 are introduced in [[What's New in WCAG 2.2 Draft]](/standards-guidelines/wcag/new-in-22/).
+
+**Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**.<!-- And content that conforms to WCAG 2.2 will also conform to 2.1 and 2.0. --> (This is often called “backwards compatible”.) A website that meets WCAG 2.1 <!-- or 2.2 --> should meet the requirements of policies that reference WCAG 2.0. To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.<!-- (Same for WCAG 2.2 when is it done.) -->
 
 WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
 

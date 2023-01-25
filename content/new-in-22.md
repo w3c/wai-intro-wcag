@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2022-11-01
+last_updated: 2023-01-25
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 1 November 2022 (about 18:00 UTC).</p>
+  <p><strong>Date:</strong> Updated 25 January 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -116,34 +116,36 @@ This page lists the **proposed** new success criteria for Web Content Accessibil
 
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-WCAG 2.2 is scheduled to be completed and published in early 2023. Current versions:
-* [WCAG 2.2 W3C Candidate Recommendation Snapshot](https://www.w3.org/TR/WCAG22/) was approved for publication in September 2022
+WCAG 2.2 is scheduled to be completed and published in April 2023. Current versions:
+* [WCAG 2.2 W3C Candidate Recommendation Snapshot](https://www.w3.org/TR/WCAG22/) was approved for publication in January 2023
 * [Editors' Draft of WCAG 2.2](https://w3c.github.io/wcag/guidelines/22/) may include more recent proposed changes that are not yet all approved
 
-The main purpose of "Candidate Recommendation" is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. Specifically, 2.4.11 Focus Appearance is "<a href="https://www.w3.org/TR/WCAG22/#items-at-risk">at risk</a>" and might not be included in the final publication.
+The main purpose of "Candidate Recommendation" (CR) is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. Specifically, 2.4.11 Focus Appearance is "<a href="https://www.w3.org/TR/WCAG22/#items-at-risk">at risk</a>" and might not be included in the final publication.
 
 More about Candidate Recommendation and the process for completing WCAG 2.2 is introduced in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 ### Implementations and Comments
 
-In November 2022, we are processing implementations and comments from the Candidate Recommendation publication. We are looking for additional implementations of [2.5.7 Dragging Movements](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/#257-dragging-movements-aa). You can share your implementations by logging into [your W3C account](https://www.w3.org/Help/Account/) and using the [WCAG Implementation Information Form](https://www.w3.org/WAI/GL/WCAG22/CR/select_site). Please also send e-mail to the Accessibility Guidelines Working Group Co-Chairs and W3C staff at: group-ag-chairs@w3.org
+In January 2023, we are processing implementations and comments from the Candidate Recommendation publications. We are looking for additional implementations of [2.5.7 Dragging Movements](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/#257-dragging-movements-aa). You can share your implementations by logging into [your W3C account](https://www.w3.org/Help/Account/) and using the [WCAG Implementation Information Form](https://www.w3.org/WAI/GL/WCAG22/CR/select_site). Please also send e-mail to the Accessibility Guidelines Working Group Co-Chairs and W3C staff at: group-ag-chairs@w3.org
 
 We hope that the normative content in WCAG 2.2 itself does not need changes. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
-All success criteria from 2.0 and 2.1 are included in 2.2. The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2. **One changed level: [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible)** is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
+The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **two exceptions**:
+*  [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
+*  [4.1.1 Parsing](https://www.w3.org/TR/WCAG22/#parsing) is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
 The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They are included on this page.
 
 ### Changes to the 2.2 Draft
 
-Changes from the May 2021 Working Draft to the September 2022 Candidate Recommendation Draft include:
-* Added "Focus Not Obscured (Minimum) (AA)" and "Focus Not Obscured (Enhanced) (AAA)".
-* Updated "Focus Appearance (AA)" and removed “Focus Appearance (Enhanced) (AAA)”.
-* After "Accessible Authentication (AA)", added "Accessible Authentication (No Exception) (AAA)"
-* Removed "Visible Controls" (because we did not get agreement on what the visual indicator would need to be). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
-* Removed "Page Break Navigation" (because we did not get agreement on the level of granularity required for the page-break markers). We plan to add this to [Supplemental Guidance](https://www.w3.org/WAI/WCAG2/supplemental/).
+Changes from the September 2022 CR to the January 2023 CR include:
+* [2.5.8](https://www.w3.org/TR/WCAG22/#target-size-minimum) Target Size (Minimum): Changed the exception bullets for Spacing and Inline. Added a note about inline targets and line-height.
+* [3.2.6](https://www.w3.org/TR/WCAG22/#consistent-help) Consistent Help: Changed the first note.
+* [3.3.8](https://www.w3.org/TR/WCAG22/#accessible-authentication-no-exception) Accessible Authentication: Changed the first note.
+* [3.3.9](https://www.w3.org/TR/WCAG22/#redundant-entry) Accessible Authentication (No Exception): Renamed to Accessible Authentication (Enhanced).
+* [4.1.1](https://www.w3.org/TR/WCAG22/#parsing) Parsing: Removed. Added note explaning why it is obsolete. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
 Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#changelog).
 
