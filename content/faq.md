@@ -113,11 +113,11 @@ The new standard is currently referred to as “W3C Accessibility Guidelines (WC
 
 ## Why is success criteria 4.1.1 Parsing obsolete in WCAG 2.2? What about Parsing in WCAG 2.0 and 2.1? {#parsing411}
 
-Success criteria (SC) 4.1.1 Parsing is obsolete and removed from WCAG 2.2. Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assisitve technology did their own markup parsing. Now they reply on the browser.
+Success criteria (SC) 4.1.1 Parsing is obsolete and removed from WCAG 2.2. Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assistive technology did their own markup parsing. Now they rely on the browser.
 
 With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
 
-We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We may obsolete it in those versions as well. In the meantime, web content that is required to meet WCAG 2.0 or 2.1 may need to meet 4.1.1.
+We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We may deprecate it in those versions as well. In the meantime, web content that is required to meet WCAG 2.0 or 2.1 may need to meet 4.1.1.
 
 ## How Can I Get Updates? {#getnews}
 
