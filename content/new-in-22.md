@@ -147,7 +147,7 @@ Changes from the September 2022 CR to the January 2023 CR include:
 * [3.3.9](https://www.w3.org/TR/WCAG22/#redundant-entry) Accessible Authentication (No Exception): Renamed to Accessible Authentication (Enhanced).
 * [4.1.1](https://www.w3.org/TR/WCAG22/#parsing) Parsing: Removed. Added note explaning why it is obsolete. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
-Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#changelog).
+Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#change-log).
 
 ## Guideline 2.4 Navigable
 
