@@ -75,7 +75,7 @@ The Web Content Accessibility Guidelines (WCAG) standards are stable and referen
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
 
-The 2.0 and 2.1 success criteria are exactly the same in 2.2, with **two expections**:
+The 2.0 and 2.1 success criteria are exactly the same in 2.2, with **two exceptions**:
 *  [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
 *  [4.1.1 Parsing](https://www.w3.org/TR/WCAG22/#parsing) is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
