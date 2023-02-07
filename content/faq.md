@@ -7,7 +7,7 @@ nav_title: "FAQ"
 description: Answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG).
 
 lang: en
-last_updated: 2023-01-25
+last_updated: 2023-02-06
 permalink: /standards-guidelines/wcag/faq/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 25 January 2023. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 6 February 2023. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -74,6 +74,8 @@ The supporting resources — Techniques for WCAG 2 and Understanding WCAG 2 — 
 *See also important information in the next answer about WCAG 2.1:*
 
 ## What about WCAG 2.1? {#v21}
+
+[WCAG 2.1](http://www.w3.org/TR/WCAG21/) was published as a final W3C Recommendation Web Standard on 5 June 2018.
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
 
