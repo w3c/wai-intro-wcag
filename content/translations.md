@@ -76,8 +76,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="ca21">Catalan</th>
-      <td><a href="https://www.ub.edu/adaptabit/wcag21/">Catalan Candidate Authorized Translation of WCAG 2.1 {% include_cached external.html %}</a></td>
-      <td>Review  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2022OctDec/0006.html">notification of review of Catalan Candidate Authorized Translation of WCAG 2.1 (26 October 2022)</a></td>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-ca/">Catalan Authorized Translation of WCAG 2.1 completed</a></strong></td>
+      <td></td>
     </tr>    
     <tr>
       <th id="zh21">Chinese, Simplified</th>
