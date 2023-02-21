@@ -16,7 +16,7 @@ github:
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
   <p><strong>Date:</strong> Updated 11 July 2022. First published 2 March 2009.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou_Zahra</a>, Xueyuan Jia.</p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Shadi Abou_Zahra, Xueyuan Jia.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
 
@@ -26,7 +26,7 @@ ref: /standards-guidelines/wcag/translations/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
+This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0. Translations of other accessibility resources are listed in **[All WAI Translations](https://www.w3.org/WAI/translations/)**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -156,8 +156,8 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="uk21">Ukrainian</th>
-      <td><a href="https://eugenerifan.github.io/wcag/ua/">Ukrainian Candidate Authorized Translation of WCAG 2.1 {% include_cached external.html %}</a></td>
-      <td>Review  — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0018.html">notification of review of Ukrainian Candidate Authorized Translation of WCAG 2.1 (20 September 2022)</a></td>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG21-ua/">Ukrainian Authorized Translation of WCAG 2.1 completed</a></strong></td>
+      <td>&nbsp;</td>
     </tr>
   </tbody>
 </table>
@@ -356,4 +356,4 @@ For information on translating W3C documents, see:
 
 **Note:** If you are interested in translating a specific document, make sure to announce it (as instructed in the links above) to facilitate collaboration, to avoid duplication of effort, to ensure that you have the latest version, and to appropriately address pending updates and errata.
 
-For additional information on WCAG translations, contact Shadi Abou-Zahra <shadi@w3.org>.
+For additional information on WCAG translations, contact Shawn Lawton Henry <shawn@w3.org>.
