@@ -26,7 +26,7 @@ ref: /standards-guidelines/wcag/translations/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
+This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0. Translations of other accessibility resources are listed in **[All WAI Translations](https://www.w3.org/WAI/translations/)**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -356,4 +356,4 @@ For information on translating W3C documents, see:
 
 **Note:** If you are interested in translating a specific document, make sure to announce it (as instructed in the links above) to facilitate collaboration, to avoid duplication of effort, to ensure that you have the latest version, and to appropriately address pending updates and errata.
 
-For additional information on WCAG translations, contact Shadi Abou-Zahra <shadi@w3.org>.
+For additional information on WCAG translations, contact Shawn Lawton Henry <shawn@w3.org>.
