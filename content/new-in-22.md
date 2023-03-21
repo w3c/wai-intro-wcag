@@ -126,7 +126,7 @@ More about Candidate Recommendation and the process for completing WCAG 2.2 is i
 
 ### Implementations and Comments
 
-In January 2023, we are processing implementations and comments from the Candidate Recommendation publications. We are looking for additional implementations of [2.5.7 Dragging Movements](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/#257-dragging-movements-aa). You can share your implementations by logging into [your W3C account](https://www.w3.org/Help/Account/) and using the [WCAG Implementation Information Form](https://www.w3.org/WAI/GL/WCAG22/CR/select_site). Please also send e-mail to the Accessibility Guidelines Working Group Co-Chairs and W3C staff at: group-ag-chairs@w3.org
+In March 2023, we are processing implementations and comments from the Candidate Recommendation publication. We are looking for additional implementations of [2.5.7 Dragging Movements](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/#257-dragging-movements-aa). You can share your implementations by logging into [your W3C account](https://www.w3.org/Help/Account/) and using the [WCAG Implementation Information Form](https://www.w3.org/WAI/GL/WCAG22/CR/select_site). Please also send e-mail to the Accessibility Guidelines Working Group Co-Chairs and W3C staff at: group-ag-chairs@w3.org
 
 We hope that the normative content in WCAG 2.2 itself does not need changes. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
 
@@ -229,7 +229,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 </div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is hidden by author-created content.</p>
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the component is hidden by author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced">Understanding Focus Not Obscured (Enhanced)</a></p>
 
@@ -271,14 +271,15 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>The size of the <a href="https://www.w3.org/TR/WCAG22/#dfn-targets">target</a> for <a href="https://www.w3.org/TR/WCAG22/#dfn-pointer-inputs">pointer inputs</a> is at least 24 by 24 CSS pixels, except where:</p>
-  <ul>
-    <li><strong>Spacing:</strong> The <a href="https://www.w3.org/TR/WCAG22/#dfn-target-offsets">target offset</a> is at least 24 CSS pixels to every adjacent target;</li>
-    <li><strong>Equivalent:</strong> The function can be achieved through a different control on the same page that has an area of at least 24 by 24 CSS pixels;</li>
-    <li><strong>Inline:</strong> The target is in a sentence or block of text;</li>
-    <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author;</li>
-    <li><strong>Essential:</strong> A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or is legally required for the information being conveyed.</li>
-  </ul>
+    <ul>
+        <li><strong>Spacing:</strong> The target does not overlap any other target and has a <a href="https://www.w3.org/TR/WCAG22/#dfn-target-offsets">target offset</a> of at least 24 CSS pixels to every adjacent target;</li>
+        <li><strong>Equivalent:</strong> The function can be achieved through a different control on the same page that meets this criterion;</li>
+        <li><strong>Inline:</strong> The target is in a sentence, or is in a bulleted or numbered list, or its size is otherwise constrained by the line-height of non-target text;</li>
+        <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author;</li>
+        <li><strong>Essential:</strong> A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or is legally required for the information being conveyed.</li>
+    </ul>
   <p class="note">Note: Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
+  <p class="note">Note: For inline targets the line-height should be interpreted as perpendicular to the flow of text. For example, in a language displayed top to bottom, the line-height would be horizontal.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">Understanding Target Size (Minimum)</a></p>
 
@@ -307,7 +308,7 @@ Make Web pages appear and operate in predictable ways.
   <li>Self-help option;</li>
   <li>A fully automated contact mechanism.</li>
 </ul>
-<p class="note">Note: Access to help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
+<p class="note">Note: Help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
 <p class="note">Note: For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can initiate a change, such as changing the page's zoom or orientation, which may trigger a different page variation. This criterion is concerned with relative order across pages displayed in the same page variation (e.g., same zoom level and orientation).</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help">Understanding Consistent Help</a></p>
@@ -369,7 +370,7 @@ Help users avoid and correct mistakes.
   <dt>Personal Content</dt>
   <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
 </dl>
-  <p class="note">Note: Objects to recognize and user provided content may be represented by images, video, or audio.</p>
+  <p class="note">Note: "Object recognition" and "Personal content" may be represented by images, video, or audio.</p>
   <p class="note">Note: Examples of mechanisms that satisfy this criterion include:</p>
     <ol>
       <li>support for password entry by password managers to reduce memory need, and</li>
@@ -378,7 +379,7 @@ Help users avoid and correct mistakes.
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
 
-### 3.3.9 Accessible Authentication (No Exception) (AAA)
+### 3.3.9 Accessible Authentication (Enhanced) (AAA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
