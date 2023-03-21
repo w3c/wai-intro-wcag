@@ -316,7 +316,35 @@ Make Web pages appear and operate in predictable ways.
 
 Help users avoid and correct mistakes.
 
-### 3.3.7 Accessible Authentication (AA)
+### 3.3.7 Redundant Entry (A)
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>The app automatically fills in information that I entered in previous steps.</q></span></p>
+    </li>
+  </ul>
+</div>
+<p class="sclabel">WCAG:</p>
+<blockquote class="sc">
+  <p>Information previously entered by or provided to the user that is required to be entered again in the same <a href="https://www.w3.org/TR/WCAG22/#dfn-processes" class="internalDFN" data-link-type="dfn">process</a> is either:</p>
+  <ul>
+    <li>auto-populated, or</li>
+    <li>available for the user to select.</li>
+  </ul>
+  <p>Except when:</p>
+  <ul>
+    <li>re-entering the information is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential" class="internalDFN" data-link-type="dfn">essential</a>,</li>
+    <li>the information is required to ensure the security of the content, or</li>
+    <li>previously entered information is no longer valid.</li>
+  </ul>
+</blockquote>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry">Understanding Redundant Entry</a></p>
+
+### 3.3.8 Accessible Authentication (AA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
@@ -350,7 +378,7 @@ Help users avoid and correct mistakes.
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
 
-### 3.3.8 Accessible Authentication (No Exception) (AAA)
+### 3.3.9 Accessible Authentication (No Exception) (AAA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
@@ -373,34 +401,6 @@ Help users avoid and correct mistakes.
 </dl>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception">Understanding Accessible Authentication (No Exception)</a></p>
-
-### 3.3.9 Redundant Entry (A)
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>The app automatically fills in information that I entered in previous steps.</q></span></p>
-    </li>
-  </ul>
-</div>
-<p class="sclabel">WCAG:</p>
-<blockquote class="sc">
-  <p>Information previously entered by or provided to the user that is required to be entered again in the same <a href="https://www.w3.org/TR/WCAG22/#dfn-processes" class="internalDFN" data-link-type="dfn">process</a> is either:</p>
-  <ul>
-    <li>auto-populated, or</li>
-    <li>available for the user to select.</li>
-  </ul>
-  <p>Except when:</p>
-  <ul>
-    <li>re-entering the information is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential" class="internalDFN" data-link-type="dfn">essential</a>,</li>
-    <li>the information is required to ensure the security of the content, or</li>
-    <li>previously entered information is no longer valid.</li>
-  </ul>
-</blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry">Understanding Redundant Entry</a></p>
 
 ## About the Personas Quotes
 
