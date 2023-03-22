@@ -401,7 +401,7 @@ Help users avoid and correct mistakes.
   <dd>A mechanism is available to assist the user in completing the cognitive function test.</dd>
 </dl>
 </blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-no-exception">Understanding Accessible Authentication (No Exception)</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced">Understanding Accessible Authentication (Enhanced)</a></p>
 
 ## About the Personas Quotes
 
