@@ -8,7 +8,7 @@ description: Introduces the Web Content Accessibility Guidelines (WCAG) internat
 
 
 lang: en
-last_updated: 2023-03-21
+last_updated: 2023-04-19
 
 permalink: /standards-guidelines/wcag/
 
@@ -17,7 +17,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 21 March 2023. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 19 April 2023. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -71,7 +71,7 @@ The WCAG documents explain how to make web content more accessible to people wit
 
 The Web Content Accessibility Guidelines (WCAG) standards are stable and referenceable<!--; they do not change after they are published -->.
 
-**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** was published on 5 June 2018. <br>**[WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/)** is scheduled to be finalized in May 2023. More information is in [What's New in WCAG 2.2 Draft](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
+**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** was published on 5 June 2018. <br>**[WCAG 2.2 Draft](https://www.w3.org/TR/WCAG22/)** is scheduled to be finalized in 2023. More information is in [What's New in WCAG 2.2 Draft](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
 
 All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
 
