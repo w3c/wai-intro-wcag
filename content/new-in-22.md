@@ -92,9 +92,10 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists the **proposed** new success criteria for Web Content Accessibility Guidelines (WCAG) 2.2.
-
-**It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
+This page includes:
+* The **proposed** new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2
+* Quotes from personas (fictional people) to help you understand some aspects of the success criteria
+* Links to Understanding documents that explain the success criteria in detail and provide more examples
 
 {::nomarkdown}
 {% include box.html type="end" %}
