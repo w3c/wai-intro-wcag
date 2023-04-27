@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2023-04-19
+last_updated: 2023-05-02
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 19 April 2023.</p>
+  <p><strong>Date:</strong> Updated 2 May 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -118,8 +118,8 @@ This page includes:
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published in 2023 Q3 (July, August, September). Drafts:
-* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) was approved for publication in January 2023; it does not include recent changes
-* [WCAG 2.2 Editors' Draft](https://w3c.github.io/wcag/guidelines/22/) includes proposed changes that are not yet all approved
+* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) is the official published version, which does not have the latest updates; we plan to publish the recent updates there in May
+* [WCAG 2.2 Editors' Draft](https://w3c.github.io/wcag/guidelines/22/) includes proposed changes that may not be approved for publication yet
 
 The main purpose of "Candidate Recommendation" (CR) is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. More about Candidate Recommendation and the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
@@ -129,22 +129,21 @@ We are processing implementations and comments from the Candidate Recommendation
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
-The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **two exceptions**:
-*  [2.4.7 Focus Visible](https://www.w3.org/TR/WCAG22/#focus-visible) is changed from Level AA in WCAG 2.1 to Level A in WCAG 2.2.
-*  [4.1.1 Parsing](https://www.w3.org/TR/WCAG22/#parsing) is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **one exception**: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
 The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They are included on this page.
 
 ### Changes to the 2.2 Draft
 
-_Note: A few more changes are in progress in April 2023. We will updated this section when they are approved and published._
+Changes from the January 2022 CR to the May 2023 update <!-- CR --> include:
 
-Changes from the September 2022 CR to the January 2023 CR include:
-* [2.5.8](https://www.w3.org/TR/WCAG22/#target-size-minimum) Target Size (Minimum): Changed the exception bullets for Spacing and Inline. Added a note about inline targets and line-height.
-* [3.2.6](https://www.w3.org/TR/WCAG22/#consistent-help) Consistent Help: Changed the first note.
-* [3.3.8](https://www.w3.org/TR/WCAG22/#accessible-authentication-no-exception) Accessible Authentication: Changed the first note.
-* [3.3.9](https://www.w3.org/TR/WCAG22/#redundant-entry) Accessible Authentication (No Exception): Renamed to Accessible Authentication (Enhanced).
-* [4.1.1](https://www.w3.org/TR/WCAG22/#parsing) Parsing: Removed. Added note explaning why it is obsolete. More information is in the [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+* @@ DO BELOW @@ 2.4.11 Focus Appearance &mdash; Moved to Level AAA. Edited to simplify and be more rigorous.
+* @@ DO BELOW @@Two exceptions in Target size have been modified:
+  * The phrase "or is in a bulleted or numbered list" has been removed from the Inline exception.   
+  * The spacing exception was reworded to use a 24 CSS pixel diameter circle centered on the bounding box instead of a target offset.
+* 2.4.7 Focus Visible &mdash; Moved from Level A back to Level AA, as it is in WCAG 2.1.
+* 2.4.12 Focus Not Obscured (Minimum) &mdash; Changed the Notes.
+* 3.3.8 Understanding Accessible Authentication (Minimum) &mdash; Added "(Minimum)".
 
 Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#change-log).
 
@@ -211,6 +210,8 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
+  <p class="note">Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
+  <p class="note">Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
@@ -344,7 +345,7 @@ Help users avoid and correct mistakes.
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry">Understanding Redundant Entry</a></p>
 
-### 3.3.8 Accessible Authentication (AA)
+### 3.3.8 Accessible Authentication (Minimum) (AA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
@@ -376,7 +377,7 @@ Help users avoid and correct mistakes.
       <li>copy and paste to reduce the cognitive burden of re-typing.</li>
     </ol>
 </blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum">Understanding Accessible Authentication (Minimum)</a></p>
 
 ### 3.3.9 Accessible Authentication (Enhanced) (AAA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
