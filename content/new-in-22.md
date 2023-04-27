@@ -115,10 +115,10 @@ This page includes:
 
 ## Introduction, Timeline, Changes
 
-For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published in 2023 Q3 (July, August, September). Drafts:
-* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) is the official published version, which does not have the latest updates; we plan to publish the recent updates here in May
+* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) is the official published version, which does not yet have the latest updates; we plan to publish the recent updates here in May 2023
 * [WCAG 2.2 Editors' Draft](https://w3c.github.io/wcag/guidelines/22/) includes proposed changes
 
 The main purpose of "Candidate Recommendation" (CR) is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. More about Candidate Recommendation and the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
@@ -137,9 +137,9 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 
 Changes from the January 2022 CR to the May 2023 update <!-- CR --> include:
 
+* 2.4.7 Focus Visible &mdash; Changed from Level A back to Level AA, as it is in WCAG 2.1.
 * 2.4.11 Focus Appearance &mdash; Moved to Level AAA. Edited to simplify and be more rigorous.
-* Target Size (Minimum) &mdash; Changed the "Spacing" exception. From the "**Inline**" exception, deleted: "or is in a bulleted or numbered list".
-* 2.4.7 Focus Visible &mdash; Moved from Level A back to Level AA, as it is in WCAG 2.1.
+* 2.5.8 Target Size (Minimum) &mdash; Changed the "Spacing" exception. Deleted "or is in a bulleted or numbered list" from the "Inline" exception.
 * 2.4.12 Focus Not Obscured (Minimum) &mdash; Changed the Notes.
 * 3.3.8 Understanding Accessible Authentication (Minimum) &mdash; Added "(Minimum)".
 
@@ -174,9 +174,9 @@ Provide ways to help users navigate, find content, and determine where they are.
   <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
   <li>The focus indicator and the indicator's background color are not modified by the author.</li>
 </ul>
-<p class="note">What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
-<p class="note">Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
-<p class="note">Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
+<p class="note">Note: What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
+<p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
+<p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
@@ -195,8 +195,8 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
-  <p class="note">Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
-  <p class="note">Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
+  <p class="note">Note: Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
+  <p class="note">Note: Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
