@@ -152,7 +152,7 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 
 ### Changes to the 2.2 Draft
 
-Changes from the January 2022 CR to the May 2023 update <!-- CR --> include:
+Changes from the January 2023 CR to the May 2023 update <!-- CR --> include:
 
 * 2.4.7 Focus Visible &mdash; Changed from Level A back to Level AA, as it is in WCAG 2.1.
 * 2.4.11 Focus Appearance &mdash; Changed to Level AAA. Edited to simplify and be more rigorous.
