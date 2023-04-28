@@ -179,14 +179,17 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
-     <section id="brief">
-        <p>In brief:</p>
-        <dl>
-            <dt>Objective:</dt><dd>Make it easier to see what has keyboard focus</dd>
-            <dt>Author task:</dt><dd>The focus indicator contrasts 3:1 with both the component’s unfocused state and its surroundings</dd>
-            <dt>Key beneficiaries:</dt><dd>Sighted users reliant on keyboard interaction</dd>
-        </dl>
-    </section>
+<section class="brief">
+  <p>In brief:</p>
+  <dl>
+    <dt>Objective:</dt>
+    <dd>Make it easier to see what has keyboard focus</dd>
+    <dt>Author task:</dt>
+    <dd>The focus indicator contrasts 3:1 with both the component’s unfocused state and its surroundings</dd>
+    <dt>Key beneficiaries:</dt>
+    <dd>Sighted users reliant on keyboard interaction</dd>
+  </dl>
+</section>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>When the keyboard <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is visible, an area of the focus indicator meets all the following:</p>
@@ -217,7 +220,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
-<section id="brief">
+<section class="brief">
       <p>In brief:</p>
       <dl>
          <dt>Objective:</dt><dd>Do not hide the item with focus</dd>
@@ -257,7 +260,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
- <section id="brief">
+ <section class="brief">
       <p>In brief:</p>
       <dl>
          <dt>Objective:</dt><dd>Don’t rely on dragging for user actions</dd>
@@ -373,14 +376,17 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-    <section class="brief">
-        <p>In brief:</p>
-        <dl>
-            <dt>Objective:</dt><dd>Make logins possible with less mental effort</dd>
-            <dt>Author task:</dt><dd>Don’t make people memorize or transcribe something in order to log in</dd>
-            <dt>Key beneficiaries:</dt><dd>Users with some cognitive disabilities</dd>
-        </dl>
-    </section>
+<section class="brief">
+  <p>In brief:</p>
+  <dl>
+    <dt>Objective:</dt>
+    <dd>Make logins possible with less mental effort</dd>
+    <dt>Author task:</dt>
+    <dd>Don’t make people memorize or transcribe something in order to log in</dd>
+    <dt>Key beneficiaries:</dt>
+    <dd>Users with some cognitive disabilities</dd>
+  </dl>
+</section>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-1" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
