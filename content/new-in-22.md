@@ -83,6 +83,23 @@ inline_css: |
   #markdown-toc ul li {
     margin-bottom: 0;
   }
+  .brief dt {
+    display: list-item;
+    list-style-type: disc;
+    float: left;
+    font-weight: bold;
+    margin-left: 2em;
+    margin-right: 1ex;
+    margin-top: 0;
+  }
+  .brief dt:after {
+    content: ":";
+  }
+  /* new start */	
+  .brief dl dd {margin: 0 0 0.5em 2em;}
+  .brief dd {margin-left: 0;}
+  .brief dd {display: block;  margin-inline-start: 40px;}
+
 
 ref: /standards-guidelines/wcag/new-in-22/
 
@@ -162,6 +179,14 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
+     <section id="brief">
+        <p>In brief:</p>
+        <dl>
+            <dt>Objective:</dt><dd>Make it easier to see what has keyboard focus</dd>
+            <dt>Author task:</dt><dd>The focus indicator contrasts 3:1 with both the component’s unfocused state and its surroundings</dd>
+            <dt>Key beneficiaries:</dt><dd>Sighted users reliant on keyboard interaction</dd>
+        </dl>
+    </section>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>When the keyboard <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is visible, an area of the focus indicator meets all the following:</p>
@@ -192,6 +217,14 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
+<section id="brief">
+      <p>In brief:</p>
+      <dl>
+         <dt>Objective:</dt><dd>Do not hide the item with focus</dd>
+         <dt>Author task:</dt><dd>The item with focus should be at least partially visible in the viewport</dd>
+         <dt>Key beneficiaries:</dt><dd>Some users with cognitive disabilities and sighted users reliant on keyboard interaction</dd>
+      </dl>
+  </section>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
@@ -201,17 +234,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
 ### 2.4.13 Focus Not Obscured (Enhanced) (AAA)
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
-    </li>
-  </ul>
-</div>
+<p><em>(Persona, problem, works well, and "in brief" same as 2.4.12 above.)</em></p>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the component is hidden by author-created content.</p>
@@ -234,6 +257,14 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
+ <section id="brief">
+      <p>In brief:</p>
+      <dl>
+         <dt>Objective:</dt><dd>Don’t rely on dragging for user actions</dd>
+         <dt>Author task:</dt><dd>Provide a simple pointer alternative to any action that involves dragging</dd>
+         <dt>Key beneficiaries:</dt><dd>Users with some physical disabilities</dd>
+      </dl>
+  </section>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
@@ -342,6 +373,14 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
+    <section class="brief">
+        <p>In brief:</p>
+        <dl>
+            <dt>Objective:</dt><dd>Make logins possible with less mental effort</dd>
+            <dt>Author task:</dt><dd>Don’t make people memorize or transcribe something in order to log in</dd>
+            <dt>Key beneficiaries:</dt><dd>Users with some cognitive disabilities</dd>
+        </dl>
+    </section>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-1" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
@@ -365,18 +404,7 @@ Help users avoid and correct mistakes.
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum">Understanding Accessible Authentication (Minimum)</a></p>
 
 ### 3.3.9 Accessible Authentication (Enhanced) (AAA)
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I can never remember my password, it’s really hard to get into this app.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>To get into this app, I can put my e-mail address. Then I get an e-mail message, and I can click a link in the e-mail to get into the app.</q></span></p>
-    </li>
-  </ul>
-</div>
-<p class="sclabel">WCAG:</p>
+<p><em>(Persona, problem, and works well same as 3.3.8 above.)</em></p><p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-2" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
 <dl>
