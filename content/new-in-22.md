@@ -83,6 +83,9 @@ inline_css: |
   #markdown-toc ul li {
     margin-bottom: 0;
   }
+  
+  .brief p {padding-bottom:.25em; margin-bottom:0;}
+  .brief dl {padding-top:0; margin-top:0;}
   .brief dt {
     display: list-item;
     list-style-type: disc;
@@ -95,11 +98,9 @@ inline_css: |
   .brief dt:after {
     content: ":";
   }
-  /* new start */	
-  .brief dl dd {margin: 0 0 0.5em 2em;}
+  .brief dd {margin: 0 0 0.5em 2em;}
   .brief dd {margin-left: 0;}
   .brief dd {display: block;  margin-inline-start: 40px;}
-
 
 ref: /standards-guidelines/wcag/new-in-22/
 
@@ -110,9 +111,10 @@ ref: /standards-guidelines/wcag/new-in-22/
 {:/}
 
 This page includes:
-* The **proposed** new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2
-* Quotes from personas (fictional people) to help you understand some aspects of the success criteria
-* Links to Understanding documents that explain the success criteria in detail and provide more examples
+* The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2
+* The **proposed** new success criteria (SC) in WCAG 2.2
+* **Quotes from personas** (fictional people) to help you understand some aspects of the success criteria<br>(and for a some SCs, information on the objective, author task, and who benefits, under "In brief")
+* **Links to Understanding documents** that explain the success criteria in detail and provide more examples
 
 {::nomarkdown}
 {% include box.html type="end" %}
