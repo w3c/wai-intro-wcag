@@ -182,11 +182,11 @@ Provide ways to help users navigate, find content, and determine where they are.
 <section class="brief">
   <p>In brief:</p>
   <dl>
-    <dt>Objective:</dt>
+    <dt>Objective</dt>
     <dd>Make it easier to see what has keyboard focus</dd>
-    <dt>Author task:</dt>
+    <dt>Author task</dt>
     <dd>The focus indicator contrasts 3:1 with both the component’s unfocused state and its surroundings</dd>
-    <dt>Key beneficiaries:</dt>
+    <dt>Key beneficiaries</dt>
     <dd>Sighted users reliant on keyboard interaction</dd>
   </dl>
 </section>
@@ -223,9 +223,9 @@ Provide ways to help users navigate, find content, and determine where they are.
 <section class="brief">
       <p>In brief:</p>
       <dl>
-         <dt>Objective:</dt><dd>Do not hide the item with focus</dd>
-         <dt>Author task:</dt><dd>The item with focus should be at least partially visible in the viewport</dd>
-         <dt>Key beneficiaries:</dt><dd>Some users with cognitive disabilities and sighted users reliant on keyboard interaction</dd>
+         <dt>Objective</dt><dd>Do not hide the item with focus</dd>
+         <dt>Author task</dt><dd>The item with focus should be at least partially visible in the viewport</dd>
+         <dt>Key beneficiaries</dt><dd>Some users with cognitive disabilities and sighted users reliant on keyboard interaction</dd>
       </dl>
   </section>
 <p class="sclabel">WCAG:</p>
@@ -263,9 +263,9 @@ Make it easier for users to operate functionality through various inputs beyond 
  <section class="brief">
       <p>In brief:</p>
       <dl>
-         <dt>Objective:</dt><dd>Don’t rely on dragging for user actions</dd>
-         <dt>Author task:</dt><dd>Provide a simple pointer alternative to any action that involves dragging</dd>
-         <dt>Key beneficiaries:</dt><dd>Users with some physical disabilities</dd>
+         <dt>Objective</dt><dd>Don't rely on dragging for user actions</dd>
+         <dt>Author task</dt><dd>Provide a simple pointer alternative to any action that involves dragging</dd>
+         <dt>Key beneficiaries</dt><dd>Users with some physical disabilities</dd>
       </dl>
   </section>
 <p class="sclabel">WCAG:</p>
