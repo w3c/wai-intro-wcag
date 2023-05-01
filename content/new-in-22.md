@@ -111,10 +111,10 @@ ref: /standards-guidelines/wcag/new-in-22/
 {:/}
 
 This page includes:
-* The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2
-* The proposed new success criteria (SC) in WCAG 2.2
-* Quotes from personas (fictional people) to help you understand some aspects of the success criteria<!-- <br>(and for a some SCs, information on the objective, author task, and who benefits, under "In brief") -->
-* Links to Understanding documents that explain the success criteria in detail and provide more examples
+* The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2.
+* The proposed new success criteria (SC) in WCAG 2.2.
+* Quotes from personas (fictional people) to help you understand some aspects of the success criteria.<!-- <br>(and for a some SCs, information on the objective, author task, and who benefits, under "In brief") -->
+* Links to Understanding documents that explain the success criteria in detail and provide more examples.
 
 {::nomarkdown}
 {% include box.html type="end" %}
