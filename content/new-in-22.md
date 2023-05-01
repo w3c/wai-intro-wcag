@@ -112,9 +112,9 @@ ref: /standards-guidelines/wcag/new-in-22/
 
 This page includes:
 * The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2
-* The **proposed** new success criteria (SC) in WCAG 2.2
-* **Quotes from personas** (fictional people) to help you understand some aspects of the success criteria<!-- <br>(and for a some SCs, information on the objective, author task, and who benefits, under "In brief") -->
-* **Links to Understanding documents** that explain the success criteria in detail and provide more examples
+* The proposed new success criteria (SC) in WCAG 2.2
+* Quotes from personas (fictional people) to help you understand some aspects of the success criteria<!-- <br>(and for a some SCs, information on the objective, author task, and who benefits, under "In brief") -->
+* Links to Understanding documents that explain the success criteria in detail and provide more examples
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -137,7 +137,7 @@ This page includes:
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published in 2023 Q3 (July, August, September). Drafts:
-* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) is the official published version, which does not yet have the latest updates; we plan to publish the recent updates here in May 2023
+* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) is the official published version, which does not yet have the latest updates; we plan to publish the recent updates there in May 2023
 * [WCAG 2.2 Editors' Draft](https://w3c.github.io/wcag/guidelines/22/) includes proposed changes
 
 The main purpose of "Candidate Recommendation" (CR) is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. More about Candidate Recommendation and the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
@@ -158,7 +158,7 @@ Changes from the January 2023 CR to the May 2023 update <!-- CR --> include:
 
 * 2.4.7 Focus Visible &mdash; Changed from Level A back to Level AA, as it is in WCAG 2.1.
 * 2.4.11 Focus Appearance &mdash; Changed to Level AAA. Edited to simplify and be more rigorous.
-* 2.5.8 Target Size (Minimum) &mdash; Changed the "Spacing" exception. Deleted "or is in a bulleted or numbered list" from the "Inline" exception.
+* 2.5.8 Target Size (Minimum) &mdash; Changed the "Spacing" exception and the "Inline" exception.
 * 2.4.12 Focus Not Obscured (Minimum) &mdash; Changed the Notes.
 * 3.3.8 Understanding Accessible Authentication (Minimum) &mdash; Added "(Minimum)".
 
