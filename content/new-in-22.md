@@ -157,7 +157,8 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 Changes from the January 2023 CR to the May 2023 update <!-- CR --> include:
 
 * 2.4.7 Focus Visible &mdash; Changed from Level A back to Level AA, as it is in WCAG 2.1.
-* 2.4.11 Focus Appearance &mdash; Changed to Level AAA. Edited to simplify and be more rigorous.
+* 2.4.11, 2.4.12, 2.4.13  &mdash; Changed numbering.
+* 2.4.13 Focus Appearance &mdash; Changed to Level AAA. Edited to simplify and be more rigorous.
 * 2.5.8 Target Size (Minimum) &mdash; Changed the "Spacing" exception and the "Inline" exception.
 * 2.4.12 Focus Not Obscured (Minimum) &mdash; Changed the Notes.
 * 3.3.8 Understanding Accessible Authentication (Minimum) &mdash; Added "(Minimum)".
@@ -168,7 +169,45 @@ Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#cha
 
 Provide ways to help users navigate, find content, and determine where they are.
 
-### 2.4.11 Focus Appearance (AAA)
+### 2.4.11 Focus Not Obscured (Minimum) (AA)
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. <em>(a sticky footer)</em> When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
+    </li>
+  </ul>
+</div>
+<!--
+<section class="brief">
+      <p>In brief:</p>
+      <dl>
+         <dt>Objective</dt><dd>Do not hide the item with focus</dd>
+         <dt>Author task</dt><dd>The item with focus should be at least partially visible in the viewport</dd>
+         <dt>Key beneficiaries</dt><dd>Some users with cognitive disabilities and sighted users reliant on keyboard interaction</dd>
+      </dl>
+  </section>
+  -->
+<p class="sclabel">WCAG:</p>
+<blockquote class="sc">
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
+  <p class="note">Note: Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
+  <p class="note">Note: Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
+</blockquote>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
+
+### 2.4.12 Focus Not Obscured (Enhanced) (AAA)
+<p><em>(Persona, problem, and works well<!--, and "in brief" --> same as 2.4.12 above.)</em></p>
+<p class="sclabel">WCAG:</p>
+<blockquote class="sc">
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the component is hidden by author-created content.</p>
+</blockquote>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced">Understanding Focus Not Obscured (Enhanced)</a></p>
+
+### 2.4.13 Focus Appearance (AAA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
   and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
@@ -211,44 +250,6 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
-
-### 2.4.12 Focus Not Obscured (Minimum) (AA)
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. <em>(a sticky footer)</em> When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
-    </li>
-  </ul>
-</div>
-<!--
-<section class="brief">
-      <p>In brief:</p>
-      <dl>
-         <dt>Objective</dt><dd>Do not hide the item with focus</dd>
-         <dt>Author task</dt><dd>The item with focus should be at least partially visible in the viewport</dd>
-         <dt>Key beneficiaries</dt><dd>Some users with cognitive disabilities and sighted users reliant on keyboard interaction</dd>
-      </dl>
-  </section>
-  -->
-<p class="sclabel">WCAG:</p>
-<blockquote class="sc">
-  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
-  <p class="note">Note: Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
-  <p class="note">Note: Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
-</blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
-
-### 2.4.13 Focus Not Obscured (Enhanced) (AAA)
-<p><em>(Persona, problem, and works well<!--, and "in brief" --> same as 2.4.12 above.)</em></p>
-<p class="sclabel">WCAG:</p>
-<blockquote class="sc">
-  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the component is hidden by author-created content.</p>
-</blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced">Understanding Focus Not Obscured (Enhanced)</a></p>
 
 ## Guideline 2.5 Input Modalities
 
