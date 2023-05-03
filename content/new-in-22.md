@@ -157,7 +157,7 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 Changes from the January 2023 CR to the May 2023 update <!-- CR --> include:
 
 * 2.4.7 Focus Visible &mdash; Changed from Level A back to Level AA, as it is in WCAG 2.1.
-* 2.4.11, 2.4.12, 2.4.13 numbering changed.
+* 2.4.11, 2.4.12, 2.4.13  &mdash; Changed numbering.
 * 2.4.13 Focus Appearance &mdash; Changed to Level AAA. Edited to simplify and be more rigorous.
 * 2.5.8 Target Size (Minimum) &mdash; Changed the "Spacing" exception and the "Inline" exception.
 * 2.4.12 Focus Not Obscured (Minimum) &mdash; Changed the Notes.
@@ -207,39 +207,6 @@ Provide ways to help users navigate, find content, and determine where they are.
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced">Understanding Focus Not Obscured (Enhanced)</a></p>
 
-## Guideline 2.5 Input Modalities
-
-Make it easier for users to operate functionality through various inputs beyond keyboard.
-
-### 2.5.7 Dragging Movements (AA)
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
-<div class="quotes">
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>When I click on an item in the list, I get up and down arrows and I can click those to change the order.</q></span></p>
-    </li>
-  </ul>
-</div>
-<!--
- <section class="brief">
-      <p>In brief:</p>
-      <dl>
-         <dt>Objective</dt><dd>Don't rely on dragging for user actions</dd>
-         <dt>Author task</dt><dd>Provide a simple pointer alternative to any action that involves dragging</dd>
-         <dt>Key beneficiaries</dt><dd>Users with some physical disabilities</dd>
-      </dl>
-  </section>
-  -->
-<p class="sclabel">WCAG:</p>
-<blockquote class="sc">
-<p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
-<p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
-</blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
-
 ### 2.4.13 Focus Appearance (AAA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
   and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
@@ -283,6 +250,39 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
+
+## Guideline 2.5 Input Modalities
+
+Make it easier for users to operate functionality through various inputs beyond keyboard.
+
+### 2.5.7 Dragging Movements (AA)
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>When I click on an item in the list, I get up and down arrows and I can click those to change the order.</q></span></p>
+    </li>
+  </ul>
+</div>
+<!--
+ <section class="brief">
+      <p>In brief:</p>
+      <dl>
+         <dt>Objective</dt><dd>Don't rely on dragging for user actions</dd>
+         <dt>Author task</dt><dd>Provide a simple pointer alternative to any action that involves dragging</dd>
+         <dt>Key beneficiaries</dt><dd>Users with some physical disabilities</dd>
+      </dl>
+  </section>
+  -->
+<p class="sclabel">WCAG:</p>
+<blockquote class="sc">
+<p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
+<p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
+</blockquote>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
 ### 2.5.8 Target Size (Minimum) (AA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
