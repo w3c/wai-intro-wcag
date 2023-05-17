@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2023-05-02
+last_updated: 2023-05-17
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 2 May 2023.</p>
+  <p><strong>Date:</strong> Updated 17 May 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -137,8 +137,8 @@ This page includes:
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published in 2023 Q3 (July, August, September). Drafts:
-* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) is the official published version, which does not yet have the latest updates; we plan to publish the recent updates there in May 2023
-* [WCAG 2.2 Editors' Draft](https://w3c.github.io/wcag/guidelines/22/) includes proposed changes
+* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) is the published version
+* [WCAG 2.2 Editors' Draft](https://w3c.github.io/wcag/guidelines/22/) may include additional proposed changes
 
 The main purpose of "Candidate Recommendation" (CR) is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. More about Candidate Recommendation and the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
@@ -154,7 +154,7 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 
 ### Changes to the 2.2 Draft
 
-Changes from the January 2023 CR to the May 2023 update <!-- CR --> include:
+Changes from the January 2023 CR to the May 2023 CR include:
 
 * 2.4.7 Focus Visible &mdash; Changed from Level A back to Level AA, as it is in WCAG 2.1.
 * 2.4.11, 2.4.12, 2.4.13  &mdash; Changed numbering.
