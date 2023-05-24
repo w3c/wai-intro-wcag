@@ -1,7 +1,7 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "What's New in WCAG 2.2 Draft"
+title: "[discussion draft] What's New in WCAG 2.2 Draft"
 title_html: "What's New in WCAG 2.2 Draft"
 nav_title: "New in 2.2 Draft"
 
@@ -113,7 +113,8 @@ ref: /standards-guidelines/wcag/new-in-22/
 This page includes:
 * The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2.
 * The proposed new success criteria (SC) in WCAG 2.2.
-* Quotes from personas (fictional people) to help you understand some aspects of the success criteria.<!-- <br>(and for a some SCs, information on the objective, author task, and who benefits, under "In brief") -->
+* @@ summary
+* Quotes from personas (fictional people) to help you understand some aspects of the success criteria.
 * Links to Understanding documents that explain the success criteria in detail and provide more examples.
 
 {::nomarkdown}
@@ -169,7 +170,7 @@ Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#cha
 
 Provide ways to help users navigate, find content, and determine where they are.
 
-### 2.4.11 Focus Not Obscured (Minimum) (AA)
+### [current wording] 2.4.11 Focus Not Obscured (Minimum) (AA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
 <div class="quotes">
   <ul>
@@ -181,7 +182,6 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
-<!--
 <section class="brief">
       <p>In brief:</p>
       <dl>
@@ -190,7 +190,30 @@ Provide ways to help users navigate, find content, and determine where they are.
          <dt>Key beneficiaries</dt><dd>Some users with cognitive disabilities and sighted users reliant on keyboard interaction</dd>
       </dl>
   </section>
-  -->
+<p class="sclabel">WCAG:</p>
+<blockquote class="sc">
+  <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
+  <p class="note">Note: Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
+  <p class="note">Note: Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
+</blockquote>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
+
+### [A - draft ideas in-progress] 2.4.11 Focus Not Obscured (Minimum) (AA)
+Summary:
+* What: When items have focus, they are at least partially visible.
+* Why example: A reporter uses speech recognition software to navigate to items.
+
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. <em>(a sticky footer)</em> When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
+    </li>
+  </ul>
+</div>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
@@ -200,7 +223,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
 ### 2.4.12 Focus Not Obscured (Enhanced) (AAA)
-<p><em>(Persona, problem, and works well<!--, and "in brief" --> same as 2.4.12 above.)</em></p>
+<p><em>(Summary, persona, problem, and works well same as 2.4.12 above.)</em></p>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the component is hidden by author-created content.</p>
@@ -220,7 +243,6 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
-<!--
 <section class="brief">
   <p>In brief:</p>
   <dl>
@@ -232,7 +254,6 @@ Provide ways to help users navigate, find content, and determine where they are.
     <dd>Sighted users reliant on keyboard interaction</dd>
   </dl>
 </section>
--->
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>When the keyboard <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is visible, an area of the focus indicator meets all the following:</p>
@@ -255,7 +276,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 
 Make it easier for users to operate functionality through various inputs beyond keyboard.
 
-### 2.5.7 Dragging Movements (AA)
+### [current version] 2.5.7 Dragging Movements (AA)
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
 <div class="quotes">
   <ul>
@@ -267,7 +288,6 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
-<!--
  <section class="brief">
       <p>In brief:</p>
       <dl>
@@ -276,7 +296,30 @@ Make it easier for users to operate functionality through various inputs beyond 
          <dt>Key beneficiaries</dt><dd>Users with some physical disabilities</dd>
       </dl>
   </section>
-  -->
+<p class="sclabel">WCAG:</p>
+<blockquote class="sc">
+<p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
+<p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
+</blockquote>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
+
+### [A - draft ideas in-progress] 2.5.7 Dragging Movements (AA)
+Summary:
+* What: For any action that involves dragging, provide a simple pointer alternative.
+* Why example: A retiree with hand tremor cannot hold down the mouse button and drag it accurately.
+
+<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>When I click on an item in the list, I get up and down arrows and I can click those to change the order.</q></span></p>
+    </li>
+  </ul>
+</div>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
@@ -385,7 +428,6 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
-<!--
 <section class="brief">
   <p>In brief:</p>
   <dl>
@@ -397,7 +439,6 @@ Help users avoid and correct mistakes.
     <dd>Users with some cognitive disabilities</dd>
   </dl>
 </section>
--->
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-1" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
