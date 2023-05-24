@@ -170,7 +170,7 @@ Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#cha
 
 Provide ways to help users navigate, find content, and determine where they are.
 
-### [current wording] 2.4.11 Focus Not Obscured (Minimum) (AA)
+### [current] 2.4.11 Focus Not Obscured (Minimum) (AA)
 <section class="brief">
       <p>In brief:</p>
       <dl>
@@ -311,7 +311,7 @@ Summary:
 
 Make it easier for users to operate functionality through various inputs beyond keyboard.
 
-### [current version] 2.5.7 Dragging Movements (AA)
+### [current] 2.5.7 Dragging Movements (AA)
 
 <section class="brief">
       <p>In brief:</p>
@@ -511,7 +511,9 @@ Make Web pages appear and operate in predictable ways.
 
 Help users avoid and correct mistakes.
 
-### [draft idea] 3.3.7 Redundant Entry (A)
+### [missing?] 3.3.7 Redundant Entry (A)
+
+_[@@ SLH didn't find In Brief for this one.]_
 
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
