@@ -198,7 +198,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
-### [A - draft ideas in-progress] 2.4.11 Focus Not Obscured (Minimum) (AA)
+### [draft idea] 2.4.11 Focus Not Obscured (Minimum) (AA)
 Summary:
 * When items have focus, they are at least partially visible.
 * Why example: A reporter uses speech recognition software to navigate to items.
@@ -222,7 +222,7 @@ Summary:
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
-### 2.4.12 Focus Not Obscured (Enhanced) (AAA)
+### [same as above] 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 <p><em>(Summary, persona, problem, and works well same as 2.4.12 above.)</em></p>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
@@ -340,7 +340,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
-### [A - draft ideas in-progress] 2.5.7 Dragging Movements (AA)
+### [draft idea] 2.5.7 Dragging Movements (AA)
 Summary:
 * For any action that involves dragging, provide a simple pointer alternative.
 * Why example: A retiree with hand tremor cannot hold down the mouse button and drag it accurately.
@@ -364,7 +364,7 @@ Summary:
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
-### 2.5.8 [current] Target Size (Minimum) (AA)
+### [current] 2.5.8 Target Size (Minimum) (AA)
 
 <section id="brief">
       <h2>In brief</h2>
@@ -511,7 +511,8 @@ Make Web pages appear and operate in predictable ways.
 
 Help users avoid and correct mistakes.
 
-### 3.3.7 Redundant Entry (A)
+### [draft idea] 3.3.7 Redundant Entry (A)
+
 <p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
@@ -624,8 +625,8 @@ Summary:
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication (Minimum)</a></p>
 
-### 3.3.9 Accessible Authentication (Enhanced) (AAA)
-<p><em>(Persona, problem, and works well same as 3.3.8 above.)</em></p><p class="sclabel">WCAG:</p>
+### [same as above] 3.3.9 Accessible Authentication (Enhanced) (AAA)
+<p><em>(Summary, persona, problem, and works well same as 3.3.8 above.)</em></p><p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-2" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
 <dl>
