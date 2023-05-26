@@ -183,9 +183,9 @@ Provide ways to help users navigate, find content, and determine where they are.
 ### [draft idea] 2.4.11 Focus Not Obscured (Minimum) (AA)
 Briefly:
 * When items have focus, they are at least partially visible.
-* Why: Some people do not use a mouse and rely on seeing what has keyboard focus.
+* Why: Some people cannnot use a mouse and rely on seeing what has keyboard focus.
 
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who uses speech recognition software:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
 <div class="quotes">
   <ul>
     <li>
@@ -204,8 +204,13 @@ Briefly:
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
-### [same as above] 2.4.12 Focus Not Obscured (Enhanced) (AAA)
-<p><em>(Briefly,persona, problem, and works well same as 2.4.12 above.)</em></p>
+### [draft idea] 2.4.12 Focus Not Obscured (Enhanced) (AAA)
+
+Briefly:
+* When items have focus, they are fully visible.
+* Why: Some people cannnot use a mouse and rely on seeing what has keyboard focus.
+
+<p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the component is hidden by author-created content.</p>
@@ -219,7 +224,7 @@ Briefly:
     <dt>Objective</dt>
     <dd>Make it easier to see what has keyboard focus</dd>
     <dt>Author task</dt>
-    <dd>The focus indicator contrasts 3:1 with both the component’s unfocused state and its surroundings</dd>
+    <dd>The focus indicator color contrasts 3:1 with both the component’s unfocused state and its surroundings</dd>
     <dt>Key beneficiaries</dt>
     <dd>Sighted users reliant on keyboard interaction</dd>
   </dl>
@@ -228,10 +233,10 @@ Briefly:
 ### [draft idea] 2.4.13 Focus Appearance (AAA)
 
 Briefly:
-* The focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings
-* Why: People with low contrast sensitivity cannot see small contrast differences
+* The focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.
+* Why: People with low contrast sensitivity cannot see small contrast differences.
 
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">Reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
   and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
   <ul>
@@ -281,7 +286,7 @@ Briefly:
 * For any action that involves dragging, provide a simple pointer alternative.
 * Why: Some people cannot use a mouse to drag items.
 
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
 <div class="quotes">
   <ul>
     <li>
@@ -303,7 +308,7 @@ Briefly:
 ### [current] 2.5.8 Target Size (Minimum) (AA)
 
 <section id="brief">
-      <h2>In brief</h2>
+      <p>In brief:</p>
       <dl>
           <dt>Objective</dt><dd>Make controls easier to activate</dd>
           <dt>Author task</dt><dd>Ensure targets meet a minimum size or have sufficient spacing around them</dd>
@@ -315,9 +320,9 @@ Briefly:
 
 Briefly:
 * Ensure targets meet a minimum size or have sufficient spacing around them.
-* Why: Some peole with physical impairments canoot click small buttons that are close together.
+* Why: Some people with physical impairments cannot click small buttons that are close together.
 
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with hand tremor:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
 <div class="quotes">
   <ul>
     <li>
@@ -350,7 +355,7 @@ Make Web pages appear and operate in predictable ways.
 ### [current] 3.2.6 Consistent Help (A)
 
 <section id="brief">
-      <h2>In brief</h2>
+      <p>In brief:</p>
       <dl>
           <dt>Objective</dt><dd>Consistently locate user help</dd>
           <dt>Author task</dt><dd>If you provide a help mechanism, provide it in a consistent location</dd>
@@ -362,9 +367,9 @@ Make Web pages appear and operate in predictable ways.
 
 Briefly:
 * If you provide help, put  it in the same place on all web pages and app windows.
-* Why: People who have difficulty finding help are more likely to find it when it is at the same place.
+* Why: People who have difficulty finding help are more likely to find it when it is in the same place.
 
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
     <li>
@@ -399,9 +404,9 @@ _[@@ SLH didn't find In Brief for this one.]_
 
 Briefly:
 * If you have data that needs to be entered again, auto-populate it or make it avaliable for the user to select.
-* Why: Some users with cognitive disabilities have difficulty with memory.
+* Why: Some people with cognitive disabilities have difficulty remembering what they entered before..
 
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
     <li>
@@ -433,11 +438,11 @@ Briefly:
 <section class="brief">
   <p>In brief:</p>
   <dl>
-    <dt>Objective:</dt>
+    <dt>Objective</dt>
     <dd>Make logins possible with less mental effort</dd>
-    <dt>Author task:</dt>
+    <dt>Author task</dt>
     <dd>Don’t make people memorize or transcribe something in order to log in</dd>
-    <dt>Key beneficiaries:</dt>
+    <dt>Key beneficiaries</dt>
     <dd>Users with some cognitive disabilities</dd>
   </dl>
 </section>
@@ -447,7 +452,7 @@ Briefly:
 * Provide an accessible, easy-to-use, and secure method to log in. Don’t make people memorize or transcribe something in order to log in. 
 * Why:  Some people with cognitive disabilities cannot memorize a username and password, or type them.
 
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
   <ul>
     <li>
@@ -480,8 +485,35 @@ Briefly:
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication (Minimum)</a></p>
 
-### [same as above] 3.3.9 Accessible Authentication (Enhanced) (AAA)
-<p><em>(Briefly,persona, problem, and works well same as 3.3.8 above.)</em></p><p class="sclabel">WCAG:</p>
+### [current] 3.3.9 Accessible Authentication (Enhanced) (AAA)
+
+<section id="brief">
+        <p>In brief</p>
+        <dl>
+            <dt>Objective</dt><dd>Make logins possible with less mental effort</dd>
+            <dt>Author task</dt><dd>Don’t make people recognize objects or user-supplied information in order to login</dd>
+            <dt>Key beneficiaries</dt><dd>Users with some cognitive disabilities</dd>
+        </dl>
+ </section>
+
+### [draft idea] 3.3.9 Accessible Authentication (Enhanced) (AAA)
+
+Breifly:
+* Don't make people recognize objects or information they previous provided in order to login.
+* Why: Some people with cognitive disabilities cannot identify objects.@@
+
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+<div class="quotes">
+  <ul>
+    <li>
+      <p><span class="issue">Problem:</span><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats. @@needs review, along with previous one@@</q></span></p>
+    </li>
+    <li>
+      <p><span class="issue">Works well:</span><span><q>To get into this app, I can copy and paste my password. @@needs review, along with previous one@@</q></span></p>
+    </li>
+  </ul>
+</div>
+<p class="sclabel">WCAG:</p>
 <blockquote class="sc">
 <p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-2" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
 <dl>
