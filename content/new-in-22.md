@@ -31,6 +31,7 @@ inline_css: |
   .quotes ul {list-style-type: none;}
   .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
+  .whatwhy {font-weight: bold; display:table-cell; width: 3.5em;}
   .issue {font-weight: bold; display:table-cell; width: 6em;}
   q:before {content: open-quote;color: #005a6a;font-weight: bold;}
   q:after {content: close-quote;color: #005a6a;font-weight: bold;}
@@ -113,7 +114,7 @@ ref: /standards-guidelines/wcag/new-in-22/
 This page includes:
 * The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2.
 * The proposed new success criteria (SC) in WCAG 2.2.
-* A brief introduction to each success criteria.
+* A brief introduction to each success criteria. **Note:** The "What" does not cover all aspects of the success criteria. The "Why" does not include all users or situations. They are just brief examples.
 * Quotes from [personas](#about-the-personas-quotes) to help you understand some aspects of the success criteria.
 * Links to Understanding documents that explain the success criteria in detail and provide more examples.
 
@@ -180,13 +181,20 @@ Provide ways to help users navigate, find content, and determine where they are.
       </dl>
   </section>
 
-### [draft idea] 2.4.11 Focus Not Obscured (Minimum) (AA)
+### [EOWG draft] 2.4.11 Focus Not Obscured (Minimum) (AA)
 In brief:
-* <strong>What: </strong>When items have focus, they are at least partially visible.
-* <strong>Why: </strong>Some people cannot use a mouse and rely on seeing what has keyboard focus {@@ can we add a short, clear, specific example for COGA? [benefits](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits)}
+<div class="quotes">
+	<ul>
+  <li>
+    <p><span class="whatwhy">What: </span>When items have focus, they are at least partially visible.</p>
+  </li>
+  <li>
+    <p><span class="whatwhy">Why: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus. {@@ can we add a short, clear, specific example for COGA? <a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits">benefits</a>}</p>
+  </li>
+</ul>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
-<div class="quotes">
+
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. <em>(a sticky footer)</em> When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
@@ -204,7 +212,7 @@ In brief:
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
-### [draft idea] 2.4.12 Focus Not Obscured (Enhanced) (AAA)
+### [EOWG draft] 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 
 In brief:
 * <strong>What: </strong>When items have focus, they are fully visible.
@@ -230,7 +238,7 @@ In brief:
   </dl>
 </section>
 
-### [draft idea] 2.4.13 Focus Appearance (AAA)
+### [EOWG draft] 2.4.13 Focus Appearance (AAA)
 
 In brief:
 * <strong>What: </strong>The focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.
@@ -281,7 +289,7 @@ Make it easier for users to operate functionality through various inputs beyond 
       </dl>
  </section>
 
-### [draft idea] 2.5.7 Dragging Movements (AA)
+### [EOWG draft] 2.5.7 Dragging Movements (AA)
 In brief:
 * <strong>What: </strong>For any action that involves dragging, provide a simple pointer alternative.
 * <strong>Why: </strong>Some people cannot use a mouse to drag items.
@@ -316,7 +324,7 @@ In brief:
       </dl>
 </section>
 
-### [draft idea] 2.5.8 Target Size (Minimum) (AA)
+### [EOWG draft] 2.5.8 Target Size (Minimum) (AA)
 
 In brief:
 * <strong>What: </strong>Ensure targets meet a minimum size or have sufficient spacing around them.
@@ -363,7 +371,7 @@ Make Web pages appear and operate in predictable ways.
       </dl>
 </section>
 
-### [draft idea] 3.2.6 Consistent Help (A)
+### [EOWG draft] 3.2.6 Consistent Help (A)
 
 In brief:
 * <strong>What: </strong>If you provide help, put  it in the same place on all web pages and app windows.
@@ -398,7 +406,7 @@ In brief:
 
 Help users avoid and correct mistakes.
 
-### [draft idea] 3.3.7 Redundant Entry (A)
+### [EOWG draft] 3.3.7 Redundant Entry (A)
 
 _[@@ SLH didn't find In Brief for this one.]_
 
@@ -447,7 +455,7 @@ In brief:
   </dl>
 </section>
 
-### [draft idea] 3.3.8 Accessible Authentication (Minimum) (AA)
+### [EOWG draft] 3.3.8 Accessible Authentication (Minimum) (AA)
 In brief:
 * <strong>What: </strong>Provide an accessible, easy-to-use, and secure method to log in. Don’t make people memorize or transcribe something in order to log in. 
 * <strong>Why: </strong> Some people with cognitive disabilities cannot memorize a username and password, or type them.
@@ -496,7 +504,7 @@ In brief:
         </dl>
  </section>
 
-### [draft idea] 3.3.9 Accessible Authentication (Enhanced) (AAA)
+### [EOWG draft] 3.3.9 Accessible Authentication (Enhanced) (AAA)
 
 In brief::
 * <strong>What: </strong>Don't make people recognize objects or information they previous provided in order to login.
