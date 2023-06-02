@@ -84,25 +84,6 @@ inline_css: |
   #markdown-toc ul li {
     margin-bottom: 0;
   }
-/*  
-  .brief p {padding-bottom:.25em; margin-bottom:0;}
-  .brief dl {padding-top:0; margin-top:0;}
-  .brief dt {
-    display: list-item;
-    list-style-type: disc;
-    float: left;
-    font-weight: bold;
-    margin-left: 2em;
-    margin-right: 1ex;
-    margin-top: 0;
-  }
-  .brief dt:after {
-    content: ":";
-  }
-  .brief dd {margin: 0 0 0.5em 2em;}
-  .brief dd {margin-left: 0;}
-  .brief dd {display: block;  margin-inline-start: 40px;}
-*/
 
 ref: /standards-guidelines/wcag/new-in-22/
 
