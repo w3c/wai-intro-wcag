@@ -214,10 +214,19 @@ In brief:
 
 ### [EOWG draft] 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 
-In brief:
-* <strong>What: </strong>When items have focus, they are fully visible.
-* <strong>Why: </strong>Some people cannot use a mouse and rely on seeing what has keyboard focus.
-
+<div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What: </span>
+          When items have focus, they are fully visible.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>
+          Some people cannot use a mouse and rely on seeing what has keyboard focus.</p>
+      </li>
+</ul>
+</div>
 <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
@@ -239,14 +248,20 @@ In brief:
 </section>
 
 ### [EOWG draft] 2.4.13 Focus Appearance (AAA)
-
-In brief:
-* <strong>What: </strong>The focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.
-* <strong>Why: </strong>People with low contrast sensitivity cannot see small contrast differences.
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
-  and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What: </span>
+          The focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>
+          People with low contrast sensitivity cannot see small contrast differences.</p>
+      </li>
+</ul>
+    <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br />
+      and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></p>
@@ -290,12 +305,19 @@ Make it easier for users to operate functionality through various inputs beyond 
  </section>
 
 ### [EOWG draft] 2.5.7 Dragging Movements (AA)
-In brief:
-* <strong>What: </strong>For any action that involves dragging, provide a simple pointer alternative.
-* <strong>Why: </strong>Some people cannot use a mouse to drag items.
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What: </span>
+          For any action that involves dragging, provide a simple pointer alternative.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>
+          Some people cannot use a mouse to drag items.</p>
+      </li>
+</ul>
+    <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></p>
@@ -326,12 +348,19 @@ In brief:
 
 ### [EOWG draft] 2.5.8 Target Size (Minimum) (AA)
 
-In brief:
-* <strong>What: </strong>Ensure targets meet a minimum size or have sufficient spacing around them.
-* <strong>Why: </strong>Some people with physical impairments cannot click small buttons that are close together.
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What: </span>
+          Ensure targets meet a minimum size or have sufficient spacing around them.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>
+          Some people with physical impairments cannot click small buttons that are close together.</p>
+      </li>
+</ul>
+    <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>The buttons are so close together, I hit "Cancel" when going for "Submit". Then I have to start all over again.</q></span></p>
@@ -373,12 +402,19 @@ Make Web pages appear and operate in predictable ways.
 
 ### [EOWG draft] 3.2.6 Consistent Help (A)
 
-In brief:
-* <strong>What: </strong>If you provide help, put  it in the same place on all web pages and app windows.
-* <strong>Why: </strong>People who have difficulty finding help are more likely to find it when it is in the same place.
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What: </span>
+          If you provide help, put  it in the same place on all web pages and app windows.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>
+          People who have difficulty finding help are more likely to find it when it is in the same place.</p>
+      </li>
+</ul>
+    <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step. I've seen a Chat option in some places, but can't find it now.</q></span></p>
@@ -410,12 +446,19 @@ Help users avoid and correct mistakes.
 
 _[@@ SLH didn't find In Brief for this one.]_
 
-In brief:
-* <strong>What: </strong>If you have data that needs to be entered again, auto-populate it or make it avaliable for the user to select.
-* <strong>Why: </strong>Some people with cognitive disabilities have difficulty remembering what they entered before..
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What: </span>
+          If you have data that needs to be entered again, auto-populate it or make it avaliable for the user to select.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>
+          Some people with cognitive disabilities have difficulty remembering what they entered before..</p>
+      </li>
+</ul>
+    <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></p>
@@ -456,12 +499,19 @@ In brief:
 </section>
 
 ### [EOWG draft] 3.3.8 Accessible Authentication (Minimum) (AA)
-In brief:
-* <strong>What: </strong>Provide an accessible, easy-to-use, and secure method to log in. Don’t make people memorize or transcribe something in order to log in. 
-* <strong>Why: </strong> Some people with cognitive disabilities cannot memorize a username and password, or type them.
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What: </span>
+          Provide an accessible, easy-to-use, and secure method to log in. Don’t make people memorize or transcribe something in order to log in.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>
+          Some people with cognitive disabilities cannot memorize a username and password, or type them.</p>
+      </li>
+  </ul>
+    <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>I can never remember my password, it’s really hard to get into this app.</q></span></p>
@@ -505,13 +555,19 @@ In brief:
  </section>
 
 ### [EOWG draft] 3.3.9 Accessible Authentication (Enhanced) (AAA)
-
-In brief::
-* <strong>What: </strong>Don't make people recognize objects or information they previous provided in order to login.
-* <strong>Why: </strong>Some people with cognitive disabilities cannot identify objects.@@
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What: </span>
+          Don’t make people recognize objects or information they previous provided in order to login.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>
+          Some people with cognitive disabilities cannot identify objects.@@</p>
+      </li>
+  </ul>
+    <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats. @@needs review, along with previous one@@</q></span></p>
