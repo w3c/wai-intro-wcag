@@ -84,7 +84,7 @@ inline_css: |
   #markdown-toc ul li {
     margin-bottom: 0;
   }
-  
+/*  
   .brief p {padding-bottom:.25em; margin-bottom:0;}
   .brief dl {padding-top:0; margin-top:0;}
   .brief dt {
@@ -102,6 +102,7 @@ inline_css: |
   .brief dd {margin: 0 0 0.5em 2em;}
   .brief dd {margin-left: 0;}
   .brief dd {display: block;  margin-inline-start: 40px;}
+*/
 
 ref: /standards-guidelines/wcag/new-in-22/
 
@@ -337,7 +338,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 
 ### [current] 2.5.8 Target Size (Minimum) (AA)
 
-<section id="brief">
+<section class="brief">
       <p>In brief:</p>
       <dl>
           <dt>Objective</dt><dd>Make controls easier to activate</dd>
@@ -391,7 +392,7 @@ Make Web pages appear and operate in predictable ways.
 
 ### [current] 3.2.6 Consistent Help (A)
 
-<section id="brief">
+<section class="brief">
       <p>In brief:</p>
       <dl>
           <dt>Objective</dt><dd>Consistently locate user help</dd>
@@ -545,7 +546,7 @@ _[@@ SLH didn't find In Brief for this one.]_
 
 ### [current] 3.3.9 Accessible Authentication (Enhanced) (AAA)
 
-<section id="brief">
+<section class="brief">
         <p>In brief</p>
         <dl>
             <dt>Objective</dt><dd>Make logins possible with less mental effort</dd>
