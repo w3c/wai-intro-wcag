@@ -181,9 +181,9 @@ Provide ways to help users navigate, find content, and determine where they are.
   </section>
 
 ### [draft idea] 2.4.11 Focus Not Obscured (Minimum) (AA)
-Briefly:
-* When items have focus, they are at least partially visible.
-* Why: Some people cannnot use a mouse and rely on seeing what has keyboard focus.
+In brief:
+* <strong>What: </strong>When items have focus, they are at least partially visible.
+* <strong>Why: </strong>Some people cannot use a mouse and rely on seeing what has keyboard focus {@@ can we add a short, clear, specific example for COGA? [benefits](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits)}
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
 <div class="quotes">
@@ -206,9 +206,9 @@ Briefly:
 
 ### [draft idea] 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 
-Briefly:
-* When items have focus, they are fully visible.
-* Why: Some people cannnot use a mouse and rely on seeing what has keyboard focus.
+In brief:
+* <strong>What: </strong>When items have focus, they are fully visible.
+* <strong>Why: </strong>Some people cannot use a mouse and rely on seeing what has keyboard focus.
 
 <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
 <p class="sclabel">WCAG:</p>
@@ -232,9 +232,9 @@ Briefly:
 
 ### [draft idea] 2.4.13 Focus Appearance (AAA)
 
-Briefly:
-* The focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.
-* Why: People with low contrast sensitivity cannot see small contrast differences.
+In brief:
+* <strong>What: </strong>The focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.
+* <strong>Why: </strong>People with low contrast sensitivity cannot see small contrast differences.
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br>
   and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
@@ -282,9 +282,9 @@ Make it easier for users to operate functionality through various inputs beyond 
  </section>
 
 ### [draft idea] 2.5.7 Dragging Movements (AA)
-Briefly:
-* For any action that involves dragging, provide a simple pointer alternative.
-* Why: Some people cannot use a mouse to drag items.
+In brief:
+* <strong>What: </strong>For any action that involves dragging, provide a simple pointer alternative.
+* <strong>Why: </strong>Some people cannot use a mouse to drag items.
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
 <div class="quotes">
@@ -318,9 +318,9 @@ Briefly:
 
 ### [draft idea] 2.5.8 Target Size (Minimum) (AA)
 
-Briefly:
-* Ensure targets meet a minimum size or have sufficient spacing around them.
-* Why: Some people with physical impairments cannot click small buttons that are close together.
+In brief:
+* <strong>What: </strong>Ensure targets meet a minimum size or have sufficient spacing around them.
+* <strong>Why: </strong>Some people with physical impairments cannot click small buttons that are close together.
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
 <div class="quotes">
@@ -365,9 +365,9 @@ Make Web pages appear and operate in predictable ways.
 
 ### [draft idea] 3.2.6 Consistent Help (A)
 
-Briefly:
-* If you provide help, put  it in the same place on all web pages and app windows.
-* Why: People who have difficulty finding help are more likely to find it when it is in the same place.
+In brief:
+* <strong>What: </strong>If you provide help, put  it in the same place on all web pages and app windows.
+* <strong>Why: </strong>People who have difficulty finding help are more likely to find it when it is in the same place.
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
@@ -402,9 +402,9 @@ Help users avoid and correct mistakes.
 
 _[@@ SLH didn't find In Brief for this one.]_
 
-Briefly:
-* If you have data that needs to be entered again, auto-populate it or make it avaliable for the user to select.
-* Why: Some people with cognitive disabilities have difficulty remembering what they entered before..
+In brief:
+* <strong>What: </strong>If you have data that needs to be entered again, auto-populate it or make it avaliable for the user to select.
+* <strong>Why: </strong>Some people with cognitive disabilities have difficulty remembering what they entered before..
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
@@ -448,9 +448,9 @@ Briefly:
 </section>
 
 ### [draft idea] 3.3.8 Accessible Authentication (Minimum) (AA)
-Briefly:
-* Provide an accessible, easy-to-use, and secure method to log in. Don’t make people memorize or transcribe something in order to log in. 
-* Why:  Some people with cognitive disabilities cannot memorize a username and password, or type them.
+In brief:
+* <strong>What: </strong>Provide an accessible, easy-to-use, and secure method to log in. Don’t make people memorize or transcribe something in order to log in. 
+* <strong>Why: </strong> Some people with cognitive disabilities cannot memorize a username and password, or type them.
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
@@ -498,9 +498,9 @@ Briefly:
 
 ### [draft idea] 3.3.9 Accessible Authentication (Enhanced) (AAA)
 
-Breifly:
-* Don't make people recognize objects or information they previous provided in order to login.
-* Why: Some people with cognitive disabilities cannot identify objects.@@
+In brief::
+* <strong>What: </strong>Don't make people recognize objects or information they previous provided in order to login.
+* <strong>Why: </strong>Some people with cognitive disabilities cannot identify objects.@@
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <div class="quotes">
@@ -527,6 +527,6 @@ Breifly:
 
 ## About the Personas Quotes
 
-Personas are ... @@
+Personas represent users@@. They are based on @@
 
 The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities.
