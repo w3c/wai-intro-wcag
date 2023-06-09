@@ -168,10 +168,10 @@ In brief:
 <div class="quotes">
 	<ul>
   <li>
-    <p><span class="whatwhy">What: </span>When items have focus, they are at least partially visible.</p>
+    <p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are at least partially visible.</p>
   </li>
   <li>
-    <p><span class="whatwhy">Why: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus. {@@ can we add a short, clear, specific example for COGA? <a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits">benefits</a>}</p>
+    <p><span class="whatwhy">Why do it: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus. {@@ can we add a short, clear, specific example for COGA? <a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits">benefits</a>}</p>
   </li>
 </ul>
 
@@ -200,8 +200,7 @@ In brief:
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What: </span>
-          When items have focus, they are fully visible.</p>
+        <p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are fully visible.</p>
       </li>
       <li>
         <p><span class="whatwhy">Why: </span>
@@ -234,8 +233,7 @@ In brief:
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What: </span>
-          The focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.</p>
+        <p><span class="whatwhy">What to do: </span>Ensure that the focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.</p>
       </li>
       <li>
         <p><span class="whatwhy">Why: </span>
@@ -291,7 +289,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What: </span>
+        <p><span class="whatwhy">What to do: </span>
           For any action that involves dragging, provide a simple pointer alternative.</p>
       </li>
       <li>
@@ -334,7 +332,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What: </span>
+        <p><span class="whatwhy">What to do: </span>
           Ensure targets meet a minimum size or have sufficient spacing around them.</p>
       </li>
       <li>
@@ -388,7 +386,7 @@ Make Web pages appear and operate in predictable ways.
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What: </span>
+        <p><span class="whatwhy">What to do: </span>
           If you provide help, put  it in the same place on all web pages and app windows.</p>
       </li>
       <li>
@@ -432,7 +430,7 @@ _[@@ SLH didn't find In Brief for this one.]_
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What: </span>
+        <p><span class="whatwhy">What to do: </span>
           If you have data that needs to be entered again, auto-populate it or make it avaliable for the user to select.</p>
       </li>
       <li>
@@ -485,7 +483,7 @@ _[@@ SLH didn't find In Brief for this one.]_
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What: </span>
+        <p><span class="whatwhy">What to do: </span>
           Provide an accessible, easy-to-use, and secure method to log in. Don’t make people memorize or transcribe something in order to log in.</p>
       </li>
       <li>
@@ -541,7 +539,7 @@ _[@@ SLH didn't find In Brief for this one.]_
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What: </span>
+        <p><span class="whatwhy">What to do: </span>
           Don’t make people recognize objects or information they previous provided in order to login.</p>
       </li>
       <li>
