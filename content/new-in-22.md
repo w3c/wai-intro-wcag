@@ -171,7 +171,7 @@ In brief:
     <p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are at least partially visible.</p>
   </li>
   <li>
-    <p><span class="whatwhy">Why it's important: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus. {@@ can we add a short, clear, specific example for COGA? <a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits">benefits</a>}</p>
+    <p><span class="whatwhy">Why: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus. {@@ can we add a short, clear, specific example for COGA? <a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits">benefits</a>}</p>
   </li>
 </ul>
 
@@ -236,7 +236,7 @@ In brief:
         <p><span class="whatwhy">What to do: </span>Ensure that the focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.</p>
       </li>
       <li>
-        <p><span class="whatwhy">Why: </span>
+        <p><span class="whatwhy">Why it's important: </span>
           People with low contrast sensitivity cannot see small contrast differences.</p>
       </li>
 </ul>
