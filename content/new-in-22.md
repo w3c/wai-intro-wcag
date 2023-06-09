@@ -171,7 +171,7 @@ In brief:
     <p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are at least partially visible.</p>
   </li>
   <li>
-    <p><span class="whatwhy">Why do it: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus. {@@ can we add a short, clear, specific example for COGA? <a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits">benefits</a>}</p>
+    <p><span class="whatwhy">Why it's important: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus. {@@ can we add a short, clear, specific example for COGA? <a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits">benefits</a>}</p>
   </li>
 </ul>
 
@@ -203,7 +203,7 @@ In brief:
         <p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are fully visible.</p>
       </li>
       <li>
-        <p><span class="whatwhy">Why: </span>
+        <p><span class="whatwhy">Why do it: </span>
           Some people cannot use a mouse and rely on seeing what has keyboard focus.</p>
       </li>
 </ul>
