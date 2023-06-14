@@ -18,7 +18,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated @@ 2023.</p>
+  <p><strong>Date:</strong> Updated 13 August 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -55,7 +55,7 @@ ref: /standards-guidelines/wcag/new-in-21/
 
 This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.1.
 
-**It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
+@@ **It includes quotes from personas (fictional people)** to help you understand some aspects of the success criteria. It also includes links to Understanding documents that explain the success criteria in detail and provide more examples.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -92,20 +92,56 @@ Create content that can be presented in different ways (for example simpler layo
 
 ### 1.3.4 Orientation (AA)
 
-<blockquote class="sc">
-  <p>Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
-</blockquote>
-<p class="persona">Comic with cerebral palsy who uses a wheelchair:</p>
+<ul>
+<li>AG author task: "Don't lock content to either portrait or landscape presentation"</li>
+<li>Consider using 'restrict' and 'orientation' as in the SC wording</li>
+</ul>
+
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What to do: </span>Don't restrict content to either portrait or landscape orientation</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>@@why</p>
+      </li>
+  </ul>
+<p class="persona">For example, comic with cerebral palsy who uses a wheelchair:</p>
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>I can't rotate my tablet &mdash;  it's attached to my wheelchair.</q></span></p></li>
     <li><p><span class="issue">Works well:</span><span><q>The application works whether I  attach my tablet horizontally or vertically.</q></span></p></li>
   </ul>
 </div>
+<blockquote class="sc">
+  <p>Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a>.</p>
+</blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/orientation.html">Understanding Orientation</a></p>
 
 ### 1.3.5 Identify Input Purpose (AA)
 
+<ul>
+<li>AG author task: "Indicate the purpose of common inputs, where technology allows"</li>
+<li>Delete ", where technology allows" because in brief does not have to cover all exceptions</li>
+</ul>
+
+<div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What to do: </span>Indicate the purpose of common inputs</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>Some people have difficulty remembering or typing information, and benefit from autocomplete.</p>
+      </li>
+  </ul>
+<p class="persona">For example, <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with dyslexia and dyscalculia:</p>
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the numbers and spelling right.</q><br/>
+      <em>Note: </em>This works because the fields use autocomplete. </span></p></li>
+  </ul>
+</div>
 <blockquote class="sc">
   <p>The purpose of each input field collecting information about the user can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a> when:</p>
   <ul>
@@ -113,28 +149,35 @@ Create content that can be presented in different ways (for example simpler layo
     <li>The content is implemented using technologies with support for identifying the expected meaning for form input data.</li>
   </ul>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">Supermarket assistant</a> with dyslexia and dyscalculia:</p>
-<div class="quotes">
-  <ul>
-    <li><p><span class="issue">Problem:</span><span><q>My address is so complicated. There's lots of numbers and long words. It's hard to type it all without making mistakes.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>I love websites that can automatically fill it all in for me. Then I don't have to work so hard to get the numbers and spelling right.</q><br/>
-      <em>Note: </em>This works because the fields use autocomplete. </span></p></li>
-  </ul>
-</div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html">Understanding Identify Input Purpose</a></p>
 
 ### 1.3.6 Identify Purpose (AAA)
+<ul>
+<li>AG author task: "Indicate the meaning of all controls and other key information, where available"</li>
+<li>Make it more specific so it's more clear what to actually do :-)</li>
+<li>Use terminology from the SC wording</li>
+<li>Delete "", where available" because in brief does not need to cover all exceptions</li>
+</ul>
 
-<blockquote class="sc">
-  <p>In content implemented using markup languages, the purpose of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">User Interface Components</a>, icons, and <a href="https://www.w3.org/TR/WCAG21/#dfn-regions" data-link-type="dfn">regions</a> can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a>.</p>
-</blockquote>
-<p class="persona">Gamer with language processing disability:</p>
 <div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What to do: </span>Use  semantics or metadata to indicate the purpose of user interface components, icons, and regions.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>Some people with cognitive disabilites need to change presentation, such as using specific symbols and hiding distracting information.</p>
+      </li>
+  </ul>
+<p class="persona">For example, gamer with language processing disability:</p>
   <ul>
     <li><p><span class="issue">Problem:</span><span><q>I have software that changes the words in the navigation into symbols. It doesn't work at all with some websites.</q></span></p></li>
     <li><p><span class="issue">Works well:</span><span><q>It works pretty good with some websites.</q></span></p></li>
   </ul>
 </div>
+<blockquote class="sc">
+  <p>In content implemented using markup languages, the purpose of <a href="https://www.w3.org/TR/WCAG21/#dfn-user-interface-components" data-link-type="dfn">User Interface Components</a>, icons, and <a href="https://www.w3.org/TR/WCAG21/#dfn-regions" data-link-type="dfn">regions</a> can be <a href="https://www.w3.org/TR/WCAG21/#dfn-programmatically-determinable" data-link-type="dfn">programmatically determined</a>.</p>
+</blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/identify-purpose.html">Understanding Identify Purpose</a></p>
 
 ## Guideline 1.4 Distinguishable
@@ -142,7 +185,29 @@ Create content that can be presented in different ways (for example simpler layo
 Make it easier for users to see and hear content including separating foreground from background.
 
 ### 1.4.10 Reflow (AA)
+<ul>
+<li>AG objective: Content can be enlarged without requiring horizontal scrolling</li>
+<li>AG author task: "Make text reflow within the width of the viewport"</li>
+<li>"horizontal scrolling" applies to right-to-left and left-to-right, but not top-to-bottom languages.<br>Is "width" here appropriate for right-to-left, left-to-right, and top-to-bottom languages?</li>
+<li>"viewport" is a bit jargony</li>
+</ul>
 
+<div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What to do: </span>Make text reflow so users don't have to scroll horizontally and vertically to read a block of text.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>Some users with low vision and some users with cognitive disabilities increase the text size and line spacing significantly.</p>
+      </li>
+  </ul>
+<p class="persona">For example, parent with low vision – 20/400:</p>
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>It's nearly impossible to read  text if I have to scroll right and left to read each line. It's disorienting and I lose my place. It makes it hard to understand what I'm reading.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I increase the text size 400% and it reflowed within the width of the window. I can read it easily without scrolling back and forth.</q></span></p></li>
+  </ul>
+</div>
 <blockquote class="sc">
   <p>Content can be presented without loss of information or functionality, and without requiring scrolling in two dimensions for:</p>
   <ul>
@@ -151,17 +216,30 @@ Make it easier for users to see and hear content including separating foreground
   </ul>
   <p>Except for parts of the content which require two-dimensional layout for usage or meaning.</p>
 </blockquote>
-<p class="persona">Parent with low vision – 20/400:</p>
-<div class="quotes">
-  <ul>
-    <li><p><span class="issue">Problem:</span><span><q>It's nearly impossible to read  text if I have to scroll right and left to read each line. It's disorienting and I lose my place. It makes it hard to understand what I'm reading.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>I increase the text size 400% and  it reflowed within the width of the window. I can read it easily without scrolling back and forth.</q></span></p></li>
-  </ul>
-</div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/reflow.html">Understanding Reflow</a></p>
 
 ### 1.4.11 Non-Text Contrast (AA)
+<ul>
+<li>AG objective: Important visual information meets the same minimum contrast required for larger text</li>
+<li>AG author task: Ensure meaningful visual cues achieve 3:1 against the background</li>
+</ul>
 
+<div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What to do: </span>Ensure that user interface components and important graphics contrast 3:1 with their background.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>People with low contrast sensitivity cannot see small contrast differences.</p>
+      </li>
+  </ul>
+<p class="persona">For example, <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with low contrast sensitivity:</p>
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.</q></span></p></li>
+  </ul>
+</div>
 <blockquote class="sc">
   <p>The visual <a href="https://www.w3.org/TR/WCAG21/#dfn-presentation" data-link-type="dfn">presentation</a> of the following have a <a href="https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio" data-link-type="dfn">contrast ratio</a> of at least 3:1 against adjacent color(s):</p>
   <dl>
@@ -171,17 +249,33 @@ Make it easier for users to see and hear content including separating foreground
     <dd>Parts of graphics required to understand the content, except when a particular presentation of graphics is <a href="https://www.w3.org/TR/WCAG21/#dfn-essential" data-link-type="dfn">essential</a> to the information being conveyed.</dd>
   </dl>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
-<div class="quotes">
-  <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I couldn't use the &quot;Order Form&quot;  &mdash; there were no text boxes. After a long call with customer service, I learned there were text box borders that were too light for me to see.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>It's easy for me to see all the  icons and buttons and everything &mdash; even in the sunlight.</q></span></p></li>
-  </ul>
-</div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html">Understanding Non-text Contrast</a></p>
 
 ### 1.4.12 Text Spacing (AA)
+<ul>
+<li>AG objective: Users can adjust text spacing to make it easier to read</li>
+<li>AG author task: Ensure content adapts to user-defined text settings</li>
+<li>Understanding intent: The intent of this Success Criterion (SC) is to ensure that when people override author specified text spacing to improve their reading experience, content is still readable and operable. </li>
+<li>Consider covering both aspects -- that users can do it and "no loss of content or functionality"</li>
+</ul>
 
+<div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What to do: </span>Ensure that users can adjust text spacing, and content is still readable and operable.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>Some users with cognitive disabilities and some users with low vision increase text spacing so they can read text.</p>
+      </li>
+  </ul>
+<p class="persona">For example, <a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">student</a> with dyslexia:<br/>
+  and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with low vision:</p>
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words. However, some websites don't work right &mdash; some of the text gets cut off and even buttons disappear.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work well with my CSS.</q></span></p></li>
+  </ul>
+</div>
 <blockquote class="sc">
   <p>In content implemented using markup languages that support the following <a href="https://www.w3.org/TR/WCAG21/#dfn-text" data-link-type="dfn">text</a> <a href="https://www.w3.org/TR/WCAG21/#dfn-style-properties" data-link-type="dfn">style properties</a>, no loss of content or functionality occurs by setting all of the following and by changing no other style property:</p>
   <ul>
@@ -192,18 +286,33 @@ Make it easier for users to see and hear content including separating foreground
   </ul>
   <p>Exception: Human languages and scripts that do not make use of one or more of these text style properties in written text can conform using only the properties that exist for that combination of language and script.</p>
 </blockquote>
-<p class="persona"><a href="https://www.w3.org/WAI/people-use-web/user-stories/#classroomstudent">Student</a> with dyslexia:<br/>
-  and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low vision:</p>
-<div class="quotes">
-  <ul>
-    <li><p><span class="issue">Problem:</span><span><q>Most text is hard to read. It's so cluttered I can't keep my focus. Just increasing the space between lines makes all the difference. When I'm really tired, I also increase the space between words. However, some websites don't work right &mdash; some of the text gets cut off and even buttons disappear.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>OK, I know I'm a bit of a geek, but I've perfected a user style sheet to make text spacing just right for me. It's a relief when websites work well with my CSS.</q></span></p></li>
-  </ul>
-</div>
 <a href="https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html">Understanding Text Spacing</a>
 
 ### 1.4.13 Content on Hover or Focus (AA)
+<ul>
+<li>AG author task: "If hover or focus causes content changes, ensure interaction is predictable"</li>
+<li>Consider @@</li>
+</ul>
 
+<div class="quotes">
+    <p>In brief:</p>
+    <ul>
+      <li>
+        <p><span class="whatwhy">What to do: </span>If content appears from pointer hover or keyboard focus (such as toolips and popups), make it dismissable, hoverable, and persistent.</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Why: </span>@@HERE</p>
+      </li>
+      <li>
+        <p><span class="whatwhy">Note: </span>Consider avoiding making content appear with hover or focus; instead, for example, have it appear when users click or select to see it.</p>
+      </li>
+  </ul>
+<p class="persona">For example, teacher with low vision who uses screen magnification software:</p>
+  <ul>
+    <li><p><span class="issue">Problem:</span><span><q>I was moving my mouse around to  track what I was looking at on a web page. It helps me keep focused. Then -boom- this little box popped up. It covered what I was trying to read and I couldn't get it to go away.</q></span></p></li>
+    <li><p><span class="issue">Works well:</span><span><q>I hovered over a word and a box popped up with the definition, but it was mostly off the screen with my magnification. I moved my mouse pointer to the definition box and scrolled the magnified area over to  the definition box and it stayed popped up so I could read it.</q></span></p></li>
+  </ul>
+</div>
 <blockquote class="sc">
   <p>Where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden, the following are true:</p>
   <dl>
@@ -216,13 +325,6 @@ Make it easier for users to see and hear content including separating foreground
   </dl>
   <p>Exception: The visual presentation of the additional content is controlled by the user agent and is not modified by the author.</p>
 </blockquote>
-<p class="persona">Teacher with low vision who uses screen magnification software:</p>
-<div class="quotes">
-  <ul>
-    <li><p><span class="issue">Problem:</span><span><q>I was moving my mouse around to  track what I was looking at on a web page. It helps me keep focused. Then -boom- this little box popped up. It covered what I was trying to read and I couldn't get it to go away.</q></span></p></li>
-    <li><p><span class="issue">Works well:</span><span><q>I hovered over a word and a box popped up with the definition, but it was mostly off the screen with my magnification. I moved my mouse pointer to the definition box and scrolled the magnified area over to  the definition box and it stayed popped up so I could read it.</q></span></p></li>
-  </ul>
-</div>
 <p><a href="https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html">Understanding Content on Hover or Focus</a></p>
 
 ## Guideline 2.1 Keyboard Accessible
@@ -422,8 +524,8 @@ Maximize compatibility with current and future user agents, including assistive 
 
 ## About the Personas Quotes
 
+@@
 The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities. We might add more in the future.
 
 After we’ve reviewed these persona quotes sufficiently, we plan to add
 them to the Understanding documents.
-
