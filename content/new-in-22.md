@@ -171,7 +171,7 @@ In brief:
     <p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are at least partially visible.</p>
   </li>
   <li>
-    <p><span class="whatwhy">Why: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus. {@@ can we add a short, clear, specific example for COGA? <a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum#benefits">benefits</a>}</p>
+    <p><span class="whatwhy">Why: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus.</p>
   </li>
 </ul>
 
@@ -435,7 +435,7 @@ _[@@ SLH didn't find In Brief for this one.]_
       </li>
       <li>
         <p><span class="whatwhy">Why: </span>
-          Some people with cognitive disabilities have difficulty remembering what they entered before..</p>
+          Some people with cognitive disabilities have difficulty remembering what they entered before.</p>
       </li>
 </ul>
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
@@ -483,8 +483,7 @@ _[@@ SLH didn't find In Brief for this one.]_
     <p>In brief:</p>
     <ul>
       <li>
-        <p><span class="whatwhy">What to do: </span>
-          Provide an accessible, easy-to-use, and secure method to log in. Don’t make people memorize or transcribe something in order to log in.</p>
+        <p><span class="whatwhy">What to do: </span>Don’t make people memorize or transcribe something in order to log in.</p>
       </li>
       <li>
         <p><span class="whatwhy">Why: </span>
@@ -544,16 +543,16 @@ _[@@ SLH didn't find In Brief for this one.]_
       </li>
       <li>
         <p><span class="whatwhy">Why: </span>
-          Some people with cognitive disabilities cannot identify objects.@@</p>
+          Some people with cognitive disabilities cannot identify objects.</p>
       </li>
   </ul>
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats. @@needs review, along with previous one@@</q></span></p>
+      <p><span class="issue">Problem:</span><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats.</q></span></p>
     </li>
     <li>
-      <p><span class="issue">Works well:</span><span><q>To get into this app, I can copy and paste my password. @@needs review, along with previous one@@</q></span></p>
+      <p><span class="issue">Works well:</span><span><q>To get into this app, I can copy and paste my password.</q></span></p>
     </li>
   </ul>
 </div>
