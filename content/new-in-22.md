@@ -236,7 +236,7 @@ In brief:
         <p><span class="whatwhy">What to do: </span>Ensure that the focus indicator contrasts 3:1 with the component’s unfocused state and with its surroundings.</p>
       </li>
       <li>
-        <p><span class="whatwhy">Why it's important: </span>
+        <p><span class="whatwhy">Why users need it: </span>
           People with low contrast sensitivity cannot see small contrast differences.</p>
       </li>
 </ul>
@@ -293,7 +293,7 @@ Make it easier for users to operate functionality through various inputs beyond 
           For any action that involves dragging, provide a simple pointer alternative.</p>
       </li>
       <li>
-        <p><span class="whatwhy">Why: </span>
+        <p><span class="whatwhy">Why it's important: </span>
           Some people cannot use a mouse to drag items.</p>
       </li>
 </ul>
