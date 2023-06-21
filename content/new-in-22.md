@@ -442,7 +442,7 @@ _[@@ SLH didn't find In Brief for this one.]_
 ### [EOWG draft] 3.3.8 Accessible Authentication (Minimum) (AA)
 <p>In brief:</p>
    <ul>
-      <li><p><span class="whatwhy">What to do: </span>Don’t make people memorize or transcribe something in order to log in.</p></li>
+      <li><p><span class="whatwhy">What to do: </span>Don’t make people memorize or transcribe something to log in.</p></li>
       <li><p><span class="whatwhy">Why: </span>Some people with cognitive disabilities cannot memorize a username and password, or type them.</p></li>
   </ul>
 <div class="quotes">
