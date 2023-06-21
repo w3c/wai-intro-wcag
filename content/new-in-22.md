@@ -493,7 +493,7 @@ _[@@ SLH didn't find In Brief for this one.]_
 
 <p>In brief:</p>
    <ul>
-      <li><p><span class="whatwhy">What to do: </span>Don’t make people recognize objects or information they previous provided in order to login.</p></li>
+      <li><p><span class="whatwhy">What to do: </span>Don’t make people recognize objects or personal information in order to login.</p></li>
       <li><p><span class="whatwhy">Why: </span>Some people with cognitive disabilities cannot identify objects.</p></li>
   </ul>
 <div class="quotes">
