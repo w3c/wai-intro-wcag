@@ -1,8 +1,8 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "[for review] What's New in WCAG 2.2 Draft"
-title_html: "[for review] What's New in WCAG 2.2 Draft"
+title: "What's New in WCAG 2.2 Draft"
+title_html: "What's New in WCAG 2.2 Draft"
 nav_title: "New in 2.2 Draft"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas to help you understand some aspects of the success criteria.
@@ -10,7 +10,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2023-05-26
+last_updated: 0000-00-00 # update if do translations
 permalink: /standards-guidelines/wcag/new-in-22/
 
 github:
@@ -21,7 +21,7 @@ feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
   <p><strong>Date:</strong> Updated @@ June 2023.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mike Gower, Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
   blockquote {font-style: normal !important;}
@@ -95,11 +95,11 @@ ref: /standards-guidelines/wcag/new-in-22/
 {:/}
 
 This page includes:
-* The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2.
-* The proposed new success criteria (SC) in WCAG 2.2.
-* A brief introduction to each success criteria. **Note:** The "What" does not cover all aspects of the success criteria. The "Why" does not include all users or situations. They are just brief examples.
-* Quotes from [personas](#about-the-personas-quotes) to help you understand some aspects of the success criteria.
-* Links to Understanding documents that explain the success criteria in detail and provide more examples.
+* The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2
+* The proposed new success criteria (SC) in WCAG 2.2
+  * A brief introduction to each success criteria
+  * Quotes from [personas](#about-the-personas-quotes) to help you understand some aspects of the success criteria
+  * Links to Understanding documents that explain the success criteria in detail and provide more examples
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -122,14 +122,14 @@ This page includes:
 For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.2 is scheduled to be completed and published in 2023 Q3 (July, August, September). Drafts:
-* [WCAG 2.2 W3C Candidate Recommendation Draft](https://www.w3.org/TR/WCAG22/) is the published version
+* [WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/) is the published version
 * [WCAG 2.2 Editors' Draft](https://w3c.github.io/wcag/guidelines/22/) may include additional proposed changes
 
-The main purpose of "Candidate Recommendation" (CR) is to ensure that the standard can be implemented. It is stable at this stage; however, it could change based on implementation experience. More about Candidate Recommendation and the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+A "Proposed Recommendation" has been accepted by W3C. W3C Members vote on publishing the document as a "W3C Recommendation" web standard, or returning it for further work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 ### Comments
 
-We are processing implementations and comments from the Candidate Recommendation publication. We hope that the normative content in WCAG 2.2 itself does not need changes. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
+We do not plan to change the normative content in WCAG 2.2 itself. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
@@ -139,14 +139,9 @@ The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They ar
 
 ### Changes to the 2.2 Draft
 
-Changes from the January 2023 CR to the May 2023 CR include:
+Changes from the May 2023 Draft to the June 2023 publication include:
 
-* 2.4.7 Focus Visible &mdash; Changed from Level A back to Level AA, as it is in WCAG 2.1.
-* 2.4.11, 2.4.12, 2.4.13  &mdash; Changed numbering.
-* 2.4.13 Focus Appearance &mdash; Changed to Level AAA. Edited to simplify and be more rigorous.
-* 2.5.8 Target Size (Minimum) &mdash; Changed the "Spacing" exception and the "Inline" exception.
-* 2.4.12 Focus Not Obscured (Minimum) &mdash; Changed the Notes.
-* 3.3.8 Understanding Accessible Authentication (Minimum) &mdash; Added "(Minimum)".
+* @@
 
 Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#change-log).
 
@@ -184,7 +179,7 @@ In brief:
 <p>In brief:</p>
 <ul>
       <li><p><span class="whatwhy">What to do: </span>Ensure when an item gets keyboard focus, it is fully visible.</p></li>
-      <li><p><span class="whatwhy">Why do it: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
+      <li><p><span class="whatwhy">Why it's important: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
 </ul>
 <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
 <p class="sclabel">WCAG:</p>
@@ -197,7 +192,7 @@ In brief:
 <p>In brief:</p>
 <ul>
       <li><p><span class="whatwhy">What to do: </span>Use a focus indicator of sufficient size and contrast.</p></li>
-      <li><p><span class="whatwhy">Why users need it: </span>Many people can't see small contrast differences, including older people.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>Many people can't see small contrast differences, including older people.</p></li>
 </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br />
@@ -434,8 +429,8 @@ Help users avoid and correct mistakes.
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced">Understanding Accessible Authentication (Enhanced)</a></p>
 
-## About the Personas Quotes
+## About the Personas
 
-Personas represent users@@. They are based on @@
+These personas are representations of people with disabilities based on facts and qualitative data about real users.
 
 The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities.
