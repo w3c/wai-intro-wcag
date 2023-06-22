@@ -154,21 +154,11 @@ Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#cha
 
 Provide ways to help users navigate, find content, and determine where they are.
 
-### [AG version] 2.4.11 Focus Not Obscured (Minimum) (AA)
-<section class="brief">
-      <p>In brief:</p>
-      <dl>
-         <dt>Objective</dt><dd>Do not hide the item with focus</dd>
-         <dt>Author task</dt><dd>The item with focus should be at least partially visible in the viewport</dd>
-         <dt>Key beneficiaries</dt><dd>Some users with cognitive disabilities and sighted users reliant on keyboard interaction</dd>
-      </dl>
-  </section>
-
-### [EOWG draft] 2.4.11 Focus Not Obscured (Minimum) (AA)
+### 2.4.11 Focus Not Obscured (Minimum) (AA)
 In brief:
 <ul>
-  <li><p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are at least partially visible.</p> </li>
-  <li><p><span class="whatwhy">Why: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
+  <li><p><span class="whatwhy">What to do: </span>Ensure when an item gets keyboard focus, it is at least partially visible.</p> </li>
+  <li><p><span class="whatwhy">Why it's important: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
 </ul>
 <div class="quotes">
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
@@ -189,11 +179,11 @@ In brief:
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
-### [EOWG draft] 2.4.12 Focus Not Obscured (Enhanced) (AAA)
+### 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 
 <p>In brief:</p>
 <ul>
-      <li><p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are fully visible.</p></li>
+      <li><p><span class="whatwhy">What to do: </span>Ensure when an item gets keyboard focus, it is fully visible.</p></li>
       <li><p><span class="whatwhy">Why do it: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
 </ul>
 <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
@@ -203,20 +193,7 @@ In brief:
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced">Understanding Focus Not Obscured (Enhanced)</a></p>
 
-### [AG version] 2.4.13 Focus Appearance (AAA)
-<section class="brief">
-  <p>In brief:</p>
-  <dl>
-    <dt>Objective</dt>
-    <dd>Make it easier to see what has keyboard focus</dd>
-    <dt>Author task</dt>
-    <dd>The focus indicator color contrasts 3:1 with both the component’s unfocused state and its surroundings</dd>
-    <dt>Key beneficiaries</dt>
-    <dd>Sighted users reliant on keyboard interaction</dd>
-  </dl>
-</section>
-
-### [EOWG draft] 2.4.13 Focus Appearance (AAA)
+### 2.4.13 Focus Appearance (AAA)
 <p>In brief:</p>
 <ul>
       <li><p><span class="whatwhy">What to do: </span>Use a focus indicator of sufficient size and contrast.</p></li>
@@ -256,18 +233,7 @@ In brief:
 
 Make it easier for users to operate functionality through various inputs beyond keyboard.
 
-### [AG version] 2.5.7 Dragging Movements (AA)
-
-<section class="brief">
-<p>In brief:</p>
-<dl>
-         <dt>Objective</dt><dd>Don't rely on dragging for user actions</dd>
-         <dt>Author task</dt><dd>Provide a simple pointer alternative to any action that involves dragging</dd>
-         <dt>Key beneficiaries</dt><dd>Users with some physical disabilities</dd>
-      </dl>
- </section>
-
-### [EOWG draft] 2.5.7 Dragging Movements (AA)
+### 2.5.7 Dragging Movements (AA)
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>For any action that involves dragging, provide a simple pointer alternative.</p></li>
@@ -292,23 +258,12 @@ Make it easier for users to operate functionality through various inputs beyond 
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
-### [AG version] 2.5.8 Target Size (Minimum) (AA)
-
-<section class="brief">
-<p>In brief:</p>
-   <dl>
-          <dt>Objective</dt><dd>Make controls easier to activate</dd>
-          <dt>Author task</dt><dd>Ensure targets meet a minimum size or have sufficient spacing around them</dd>
-          <dt>Key beneficiaries</dt><dd>Users with some physical disabilities</dd>
-      </dl>
-</section>
-
-### [EOWG draft] 2.5.8 Target Size (Minimum) (AA)
+### 2.5.8 Target Size (Minimum) (AA)
 
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>Ensure targets meet a minimum size or have sufficient spacing around them.</p></li>
-      <li><p><span class="whatwhy">Why: </span>Some people with physical impairments cannot click small buttons that are close together.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>Some people with physical impairments cannot click small buttons that are close together.</p></li>
 </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
@@ -340,23 +295,12 @@ Make it easier for users to operate functionality through various inputs beyond 
 
 Make Web pages appear and operate in predictable ways.
 
-### [AG version] 3.2.6 Consistent Help (A)
-
-<section class="brief">
-<p>In brief:</p>
-   <dl>
-          <dt>Objective</dt><dd>Consistently locate user help</dd>
-          <dt>Author task</dt><dd>If you provide a help mechanism, provide it in a consistent location</dd>
-          <dt>Key beneficiaries</dt><dd>Users with some cognitive disabilities</dd>
-      </dl>
-</section>
-
-### [EOWG draft] 3.2.6 Consistent Help (A)
+### 3.2.6 Consistent Help (A)
 
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>Put help in the same place when it is on multiple pages.</p></li>
-      <li><p><span class="whatwhy">Why: </span>People who have difficulty finding help are more likely to find it when it is in the same place.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>People who have difficulty finding help are more likely to find it when it is in the same place.</p></li>
 </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
@@ -387,16 +331,12 @@ Make Web pages appear and operate in predictable ways.
 
 Help users avoid and correct mistakes.
 
-### [AG version] 3.3.7 Redundant Entry (A)
-
-_[@@ SLH didn't find In Brief for this one.]_
-
-### [EOWG draft] 3.3.7 Redundant Entry (A)
+### 3.3.7 Redundant Entry (A)
 
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>Don't ask for the same information twice in the same process.</p></li>
-      <li><p><span class="whatwhy">Why: </span>Some people with cognitive disabilities have difficulty remembering what they entered before.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>Some people with cognitive disabilities have difficulty remembering what they entered before.</p></li>
 </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
@@ -425,25 +365,11 @@ _[@@ SLH didn't find In Brief for this one.]_
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry">Understanding Redundant Entry</a></p>
 
-### [AG version] 3.3.8 Accessible Authentication (Minimum) (AA)
-
-<section class="brief">
-  <p>In brief:</p>
-  <dl>
-    <dt>Objective</dt>
-    <dd>Make logins possible with less mental effort</dd>
-    <dt>Author task</dt>
-    <dd>Don’t make people memorize or transcribe something in order to log in</dd>
-    <dt>Key beneficiaries</dt>
-    <dd>Users with some cognitive disabilities</dd>
-  </dl>
-</section>
-
-### [EOWG draft] 3.3.8 Accessible Authentication (Minimum) (AA)
+### 3.3.8 Accessible Authentication (Minimum) (AA)
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>Don’t make people memorize or transcribe something to log in.</p></li>
-      <li><p><span class="whatwhy">Why: </span>Some people with cognitive disabilities cannot memorize a username and password, or type them.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>Some people with cognitive disabilities cannot memorize a username and password, or type them.</p></li>
   </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
@@ -478,23 +404,12 @@ _[@@ SLH didn't find In Brief for this one.]_
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication (Minimum)</a></p>
 
-### [AG version] 3.3.9 Accessible Authentication (Enhanced) (AAA)
-
-<section class="brief">
-<p>In brief</p>
-   <dl>
-            <dt>Objective</dt><dd>Make logins possible with less mental effort</dd>
-            <dt>Author task</dt><dd>Don’t make people recognize objects or user-supplied information in order to login</dd>
-            <dt>Key beneficiaries</dt><dd>Users with some cognitive disabilities</dd>
-        </dl>
- </section>
-
-### [EOWG draft] 3.3.9 Accessible Authentication (Enhanced) (AAA)
+### 3.3.9 Accessible Authentication (Enhanced) (AAA)
 
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>Don’t make people recognize objects or personal information in order to login.</p></li>
-      <li><p><span class="whatwhy">Why: </span>Some people with cognitive disabilities cannot identify objects.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>Some people with cognitive disabilities cannot identify objects.</p></li>
   </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
