@@ -219,7 +219,7 @@ In brief:
 ### [EOWG draft] 2.4.13 Focus Appearance (AAA)
 <p>In brief:</p>
 <ul>
-      <li><p><span class="whatwhy">What to do: </span>Ensure that the focus indicator is at least 2px and contrasts 3:1 with the component’s unfocused state and with its surroundings.</p></li>
+      <li><p><span class="whatwhy">What to do: </span>Use a focus indicator of sufficient size and contrast.</p></li>
       <li><p><span class="whatwhy">Why users need it: </span>Many people can't see small contrast differences, including older people.</p></li>
 </ul>
 <div class="quotes">
