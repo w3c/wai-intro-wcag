@@ -395,7 +395,7 @@ _[@@ SLH didn't find In Brief for this one.]_
 
 <p>In brief:</p>
    <ul>
-      <li><p><span class="whatwhy">What to do: </span>If you have data that needs to be entered again, auto-populate it or make it avaliable for the user to select.</p></li>
+      <li><p><span class="whatwhy">What to do: </span>Don't ask for the same information twice in the same process.</p></li>
       <li><p><span class="whatwhy">Why: </span>Some people with cognitive disabilities have difficulty remembering what they entered before.</p></li>
 </ul>
 <div class="quotes">
