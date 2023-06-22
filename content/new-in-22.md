@@ -355,7 +355,7 @@ Make Web pages appear and operate in predictable ways.
 
 <p>In brief:</p>
    <ul>
-      <li><p><span class="whatwhy">What to do: </span>If you provide help, put  it in the same place on all web pages and app windows.</p></li>
+      <li><p><span class="whatwhy">What to do: </span>Put help in the same place when it is on multiple pages.</p></li>
       <li><p><span class="whatwhy">Why: </span>People who have difficulty finding help are more likely to find it when it is in the same place.</p></li>
 </ul>
 <div class="quotes">
