@@ -168,7 +168,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 In brief:
 <ul>
   <li><p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are at least partially visible.</p> </li>
-  <li><p><span class="whatwhy">Why: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus.</p> </li>
+  <li><p><span class="whatwhy">Why: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
 </ul>
 <div class="quotes">
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
