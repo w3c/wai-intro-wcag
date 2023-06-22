@@ -220,7 +220,7 @@ In brief:
 <p>In brief:</p>
 <ul>
       <li><p><span class="whatwhy">What to do: </span>Ensure that the focus indicator is at least 2px and contrasts 3:1 with the component’s unfocused state and with its surroundings.</p></li>
-      <li><p><span class="whatwhy">Why users need it: </span>People with low contrast sensitivity cannot see small contrast differences.</p></li>
+      <li><p><span class="whatwhy">Why users need it: </span>Many people can't see small contrast differences, including older people.</p></li>
 </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br />
