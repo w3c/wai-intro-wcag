@@ -194,7 +194,7 @@ In brief:
 <p>In brief:</p>
 <ul>
       <li><p><span class="whatwhy">What to do: </span>Ensure that when items have focus, they are fully visible.</p></li>
-      <li><p><span class="whatwhy">Why do it: </span>Some people cannot use a mouse and rely on seeing what has keyboard focus.</p> </li>
+      <li><p><span class="whatwhy">Why do it: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
 </ul>
 <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
 <p class="sclabel">WCAG:</p>
