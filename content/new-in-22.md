@@ -20,6 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
+  <p><strong>Important note on using this text:</strong> The what and why information under "In brief" should always have the success criteria wording with it. You may use this content without modifying it, with a link to this page, and with attribution. See details in: <a href="https://www.w3.org/WAI/about/using-wai-material/">Using WAI Material: Permission to Use with Attribution</a>.</p>
   <p><strong>Date:</strong> Updated @@ June 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mike Gower, Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
@@ -98,7 +99,7 @@ This page includes:
 * The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2
 * The proposed new success criteria (SC) in WCAG 2.2
   * A brief introduction to each success criteria
-  * Quotes from [personas](#about-the-personas-quotes) to help you understand some aspects of the success criteria
+  * Quotes from [personas](#about-the-personas) to help you understand some aspects of the success criteria
   * Links to Understanding documents that explain the success criteria in detail and provide more examples
 
 {::nomarkdown}
@@ -431,6 +432,6 @@ Help users avoid and correct mistakes.
 
 ## About the Personas
 
-These personas are representations of people with disabilities based on facts and qualitative data about real users.
+These personas are representations of people with disabilities developed from qualitative data on real people.
 
 The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/). That page has other personas with different disabilities.
