@@ -1,9 +1,9 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "What's New in WCAG 2.2 Draft"
-title_html: "What's New in WCAG 2.2 Draft"
-nav_title: "New in 2.2 Draft"
+title: "What's New in WCAG 2.2"
+title_html: "What's New in WCAG 2.2"
+nav_title: "New in 2.2"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas to help you understand some aspects of the success criteria.
 
@@ -118,15 +118,13 @@ This page includes:
 {% include toc.html type="end" %}
 {:/}
 
-## Introduction, Timeline, Changes
+## Status, Timeline, Changes
 
-For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
+Background: For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-WCAG 2.2 is scheduled to be completed and published in 2023 Q3 (July, August, September). Drafts:
-* [WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/) is the published version
-* [WCAG 2.2 Editors' Draft](https://w3c.github.io/wcag/guidelines/22/) may include additional proposed changes
+WCAG 2.2 is scheduled to be completed and published in August 2023. {{@@or Q3 (July, August, September).}}
 
-A "Proposed Recommendation" has been accepted by W3C. W3C Members vote on publishing the document as a "W3C Recommendation" web standard, or returning it for further work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the lastest update published on @@ June 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 ### Comments
 
@@ -136,9 +134,9 @@ We do not plan to change the normative content in WCAG 2.2 itself. We will conti
 
 The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **one exception**: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
-The WCAG 2.2 Draft provides 9 additional success criteria from WCAG 2.1. They are included on this page.
+WCAG 2.2 provides 9 additional success criteria from WCAG 2.1. They are included on this page.
 
-### Changes to the 2.2 Draft
+### Changes to 2.2 Drafts
 
 Changes from the May 2023 Draft to the June 2023 publication include:
 
