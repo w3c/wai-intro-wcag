@@ -363,7 +363,7 @@ Help users avoid and correct mistakes.
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>Don’t make people memorize or transcribe something to log in.</p></li>
-      <li><p><span class="whatwhy">Why it's important: </span>Some people with cognitive disabilities cannot memorize a username and password, or type them.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>Some people with cognitive disabilities cannot recall usernames and passwords, or type them.</p></li>
   </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
