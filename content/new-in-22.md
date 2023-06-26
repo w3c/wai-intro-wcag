@@ -403,7 +403,7 @@ Help users avoid and correct mistakes.
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>Don’t make people recognize objects or personal information in order to login.</p></li>
-      <li><p><span class="whatwhy">Why it's important: </span>Some people with cognitive disabilities cannot identify objects.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>Some people with cognitive disabilities cannot identify objects or recall information.</p></li>
   </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
