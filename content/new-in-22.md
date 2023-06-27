@@ -259,13 +259,13 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p>In brief:</p>
    <ul>
       <li><p><span class="whatwhy">What to do: </span>Ensure targets meet a minimum size or have sufficient spacing around them.</p></li>
-      <li><p><span class="whatwhy">Why it's important: </span>Some people with physical impairments cannot click small buttons that are close together.</p></li>
+      <li><p><span class="whatwhy">Why it's important: </span>Some people with physical impairments cannot click small buttons that are close.</p></li>
 </ul>
 <div class="quotes">
     <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
   <ul>
     <li>
-      <p><span class="issue">Problem:</span><span><q>The buttons are so close together, I hit "Cancel" when going for "Submit". Then I have to start all over again.</q></span></p>
+      <p><span class="issue">Problem:</span><span><q>The buttons are so close, I hit "Cancel" when going for "Submit". Then I have to start all over again.</q></span></p>
     </li>
     <li>
       <p><span class="issue">Works well:</span><span><q>There is more space between the buttons so I don't hit the wrong button even when I'm riding on the bumpy bus.</q></span></p>
