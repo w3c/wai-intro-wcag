@@ -95,12 +95,12 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page includes:
-* The updated publication schedule for Web Content Accessibility Guidelines (WCAG) 2.2
-* The proposed new success criteria (SC) in WCAG 2.2
-  * A brief introduction to each success criteria
-  * Quotes from [personas](#about-the-personas) to help you understand some aspects of the success criteria
-  * Links to Understanding documents that explain the success criteria in detail and provide more examples
+We plan to publish WCAG 2.2 as a completed web standard in August 2023.<br>The latest update is [WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/).
+
+This page lists the new success criteria (SC) in WCAG 2.2, with:
+* A brief introduction of what to do and why it's important
+* Quotes from [personas](#about-the-personas) to help you understand some aspects of the success criteria
+* Links to Understanding documents that explain the success criteria in detail and provide more examples
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -122,9 +122,9 @@ This page includes:
 
 Background: For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-WCAG 2.2 is scheduled to be completed and published in August 2023.
+We plan to publish WCAG 2.2 as a completed web standard in August 2023.
 
-**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the lastest update published on @@ July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on @@ July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 <!--
 ### Comments
