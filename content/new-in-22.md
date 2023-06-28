@@ -33,58 +33,26 @@ inline_css: |
   .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
   .what, .issue {font-weight: bold; display:table-cell; width: 6em;}
-  .why {font-weight: bold; display:table-cell; width: 8em;}  
+  .why {font-weight: bold; display:table-cell; width: 9em;}  
   q:before {content: open-quote;color: #005a6a;font-weight: bold;}
   q:after {content: close-quote;color: #005a6a;font-weight: bold;}
-  .sc dt {
-    display: list-item;
-    list-style-type: disc;
-    float: left;
-    font-weight: bold;
-    margin-left: 2em;
-    margin-right: 1ex;
-    margin-top: 0;
-  }
-  .sc dt:after {
-    content: ":";
-  }
-  /* new start */	
+  .sc dt {display: list-item; list-style-type: disc; float: left; font-weight: bold; margin-left: 2em; margin-right: 1ex; margin-top: 0;}
+  .sc dt:after {content: ":";}
   .sc dl dd {margin: 0 0 0.5em 2em;}
   .sc dd {margin-left: 0;}
   .sc dd {display: block;  margin-inline-start: 40px;}
-  /* new end */	
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
-  .sclabel {
-    padding: 0;
-    margin: 0;
-    color: #686868;
-  }
-  div.note, div.ednote, div.warning {
-      margin-top: 1em;
-      margin-bottom: 1em;
-  }
+  .sclabel {padding: 0; margin: 0;}
+  div.note, div.ednote, div.warning {margin-top: 1em; margin-bottom: 1em;}
   .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-    .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-  .note, .ednote, .warning {
-      padding: .5em;
-      border-left-width: 1px;
-      border-left-style: solid;
-  }
-  div.note , div.ednote,  div.warning {
-      padding: 1em 1.2em 0.5em;
-      margin: 1em 0;
-      position: relative;
-      clear: both;
-  }
+  .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
+  .note, .ednote, .warning {padding: .5em; border-left-width: 1px; border-left-style: solid;}
+  div.note , div.ednote,  div.warning {padding: 1em 1.2em 0.5em; margin: 1em 0; position: relative; clear: both;}
   span.note, span.ednote, span.warning { padding: .1em .5em .15em; }
-  .note, .ednote {
-      border-color: #52e052;
-  }
+  .note, .ednote {border-color: #52e052;}
   .note-p {margin-top: 0}
-  #markdown-toc ul li {
-    margin-bottom: 0;
-  }
+  #markdown-toc ul li {margin-bottom: 0;}
   .brief {font-style: italic; border: 1px gray dotted; padding: 3px;}
 
 ref: /standards-guidelines/wcag/new-in-22/
@@ -126,15 +94,13 @@ We plan to publish WCAG 2.2 as a completed web standard in August 2023.
 
 **[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on @@ July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-<!--
 ### Comments
 
 We do not plan to change the normative content in WCAG 2.2 itself. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
--->
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
-The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **one exception**: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **one exception: 4.1.1 Parsing is obsolete and removed from WCAG 2.2**. More information is in the [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
 WCAG 2.2 provides 9 additional success criteria from WCAG 2.1. They are included on this page.
 
@@ -151,13 +117,18 @@ Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#cha
 Provide ways to help users navigate, find content, and determine where they are.
 
 ### 2.4.11 Focus Not Obscured (Minimum) (AA)
+
 <div class="quotes">
-<p>In brief:</p>
-<ul>
-  <li><p><span class="what">What to do:</span>Ensure when an item gets keyboard focus, it is at least partially visible.</p> </li>
-  <li><p><span class="why">Why it's important:</span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
-</ul>
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>Ensure when an item gets keyboard focus, it is at least partially visible.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>People who can't use a mouse need to see what has keyboard focus.</p>
+    </li>
+  </ul>
+  <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. <em>(a sticky footer)</em> When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
@@ -167,6 +138,7 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
@@ -174,16 +146,21 @@ Provide ways to help users navigate, find content, and determine where they are.
   <p class="note">Note: Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
-
+	
 ### 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 
 <div class="quotes">
 <p>In brief:</p>
 <ul>
-      <li><p><span class="what">What to do:</span>Ensure when an item gets keyboard focus, it is fully visible.</p></li>
-      <li><p><span class="why">Why it's important:</span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
+  <li>
+    <p><span class="what">What to do:</span>Ensure when an item gets keyboard focus, it is fully visible.</p>
+  </li>
+  <li>
+    <p><span class="why">Why it's important:</span>People who can't use a mouse need to see what has keyboard focus.</p>
+  </li>
 </ul>
 <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, no part of the component is hidden by author-created content.</p>
@@ -191,14 +168,19 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-enhanced">Understanding Focus Not Obscured (Enhanced)</a></p>
 
 ### 2.4.13 Focus Appearance (AAA)
-<div class="quotes">
-<p>In brief:</p>
-<ul>
-      <li><p><span class="what">What to do:</span>Use a focus indicator of sufficient size and contrast.</p></li>
-      <li><p><span class="why">Why it's important:</span>Many people can't see small contrast differences, including older people.</p></li>
-</ul>
 
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br /> and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
+<div class="quotes">
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>Use a focus indicator of sufficient size and contrast.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>Many people can't see small contrast differences, including older people.</p>
+    </li>
+  </ul>
+  <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br />
+    and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></p>
@@ -208,21 +190,22 @@ Provide ways to help users navigate, find content, and determine where they are.
     </li>
   </ul>
 </div>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>When the keyboard <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is visible, an area of the focus indicator meets all the following:</p>
-<ul>
-  <li>is at least as large as the area of a 2 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixels">CSS pixel</a> thick <a href="https://www.w3.org/TR/WCAG22/#dfn-perimeter">perimeter</a> of the unfocused component or sub-component, and</li>
-  <li>has a contrast ratio of at least 3:1 between the same pixels in the focused and unfocused states</li>
-</ul>
-<p>Exceptions:</p>
-<ul>
-  <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
-  <li>The focus indicator and the indicator's background color are not modified by the author.</li>
-</ul>
-<p class="note">Note: What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
-<p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
-<p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
+  <p>When the keyboard <a href="https://www.w3.org/TR/WCAG22/#dfn-focus-indicator">focus indicator</a> is visible, an area of the focus indicator meets all the following:</p>
+  <ul>
+    <li>is at least as large as the area of a 2 <a href="https://www.w3.org/TR/WCAG22/#dfn-css-pixels">CSS pixel</a> thick <a href="https://www.w3.org/TR/WCAG22/#dfn-perimeter">perimeter</a> of the unfocused component or sub-component, and</li>
+    <li>has a contrast ratio of at least 3:1 between the same pixels in the focused and unfocused states</li>
+  </ul>
+  <p>Exceptions:</p>
+  <ul>
+    <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
+    <li>The focus indicator and the indicator's background color are not modified by the author.</li>
+  </ul>
+  <p class="note">Note: What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
+  <p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
+  <p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
@@ -231,14 +214,18 @@ Provide ways to help users navigate, find content, and determine where they are.
 Make it easier for users to operate functionality through various inputs beyond keyboard.
 
 ### 2.5.7 Dragging Movements (AA)
-<div class="quotes">
-<p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do:</span>For any action that involves dragging, provide a simple pointer alternative.</p></li>
-      <li><p><span class="why">Why it's important:</span>Some people cannot use a mouse to drag items.</p></li>
-   </ul>
 
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
+<div class="quotes">
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>For any action that involves dragging, provide a simple pointer alternative.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>Some people cannot use a mouse to drag items.</p>
+    </li>
+  </ul>
+  <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></p>
@@ -249,23 +236,27 @@ Make it easier for users to operate functionality through various inputs beyond 
   </ul>
 </div>
 
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
-<p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
+  <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
+  <p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
 ### 2.5.8 Target Size (Minimum) (AA)
 
 <div class="quotes">
-<p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do:</span>Ensure targets meet a minimum size or have sufficient spacing around them.</p></li>
-      <li><p><span class="why">Why it's important:</span>Some people with physical impairments cannot click small buttons that are close.</p></li>
-</ul>
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>Ensure targets meet a minimum size or have sufficient spacing around them.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>Some people with physical impairments cannot click small buttons that are close.</p>
+    </li>
+  </ul>
+  <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>The buttons are so close, I hit "Cancel" when going for "Submit". Then I have to start all over again.</q></span></p>
@@ -275,6 +266,7 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>The size of the <a href="https://www.w3.org/TR/WCAG22/#dfn-targets">target</a> for <a href="https://www.w3.org/TR/WCAG22/#dfn-pointer-inputs">pointer inputs</a> is at least 24 by 24 CSS pixels, except where:</p>
@@ -297,13 +289,16 @@ Make Web pages appear and operate in predictable ways.
 ### 3.2.6 Consistent Help (A)
 
 <div class="quotes">
-<p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do:</span>Put help in the same place when it is on multiple pages.</p></li>
-      <li><p><span class="why">Why it's important:</span>People who need help can find it more easily if it's in the same place.</p></li>
-</ul>
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>Put help in the same place when it is on multiple pages.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>People who need help can find it more easily if it's in the same place.</p>
+    </li>
+  </ul>
+  <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step. I've seen a Chat option in some places, but can't find it now.</q></span></p>
@@ -313,17 +308,18 @@ Make Web pages appear and operate in predictable ways.
     </li>
   </ul>
 </div>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>If a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page-s">web page</a> contains any of the following help mechanisms, and those mechanisms are repeated on multiple web pages within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a>, they occur in the same relative order to other page content, unless a change is initiated by the user:</p>
-<ul>
-  <li>Human contact details;</li>
-  <li>Human contact mechanism;</li>
-  <li>Self-help option;</li>
-  <li>A fully automated contact mechanism.</li>
-</ul>
-<p class="note">Note: Help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
-<p class="note">Note: For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can initiate a change, such as changing the page's zoom or orientation, which may trigger a different page variation. This criterion is concerned with relative order across pages displayed in the same page variation (e.g., same zoom level and orientation).</p>
+  <p>If a <a href="https://www.w3.org/TR/WCAG22/#dfn-web-page-s">web page</a> contains any of the following help mechanisms, and those mechanisms are repeated on multiple web pages within a <a href="https://www.w3.org/TR/WCAG22/#dfn-set-of-web-pages">set of web pages</a>, they occur in the same relative order to other page content, unless a change is initiated by the user:</p>
+  <ul>
+    <li>Human contact details;</li>
+    <li>Human contact mechanism;</li>
+    <li>Self-help option;</li>
+    <li>A fully automated contact mechanism.</li>
+  </ul>
+  <p class="note">Note: Help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
+  <p class="note">Note: For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can initiate a change, such as changing the page's zoom or orientation, which may trigger a different page variation. This criterion is concerned with relative order across pages displayed in the same page variation (e.g., same zoom level and orientation).</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help">Understanding Consistent Help</a></p>
 
@@ -334,13 +330,16 @@ Help users avoid and correct mistakes.
 ### 3.3.7 Redundant Entry (A)
 
 <div class="quotes">
-<p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do:</span>Don't ask for the same information twice in the same process.</p></li>
-      <li><p><span class="why">Why it's important:</span>Some people with cognitive disabilities have difficulty remembering what they entered before.</p></li>
-</ul>
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>Don't ask for the same information twice in the same process.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>Some people with cognitive disabilities have difficulty remembering what they entered before.</p>
+    </li>
+  </ul>
+  <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></p>
@@ -350,6 +349,7 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
   <p>Information previously entered by or provided to the user that is required to be entered again in the same <a href="https://www.w3.org/TR/WCAG22/#dfn-processes" class="internalDFN" data-link-type="dfn">process</a> is either:</p>
@@ -367,14 +367,18 @@ Help users avoid and correct mistakes.
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry">Understanding Redundant Entry</a></p>
 
 ### 3.3.8 Accessible Authentication (Minimum) (AA)
-<div class="quotes">
-<p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do:</span>Don’t make people memorize or transcribe something to log in.</p></li>
-      <li><p><span class="why">Why it's important:</span>Some people with cognitive disabilities cannot recall usernames and passwords, or type them.</p></li>
-  </ul>
 
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+<div class="quotes">
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>Don’t make people memorize or transcribe something to log in.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>Some people with cognitive disabilities cannot recall usernames and passwords, or type them.</p>
+    </li>
+  </ul>
+  <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>I can never remember my password, it’s really hard to get into this app.</q></span></p>
@@ -384,38 +388,42 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-1" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
-<dl>
-  <dt>Alternative</dt>
-  <dd>Another authentication method that does not rely on a cognitive function test.</dd>
-  <dt>Mechanism</dt>
-  <dd>A mechanism is available to assist the user in completing the cognitive function test.</dd>
-  <dt>Object Recognition</dt>
-  <dd>The cognitive function test is to recognize objects.</dd>
-  <dt>Personal Content</dt>
-  <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
-</dl>
+  <p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-1" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
+  <dl>
+    <dt>Alternative</dt>
+    <dd>Another authentication method that does not rely on a cognitive function test.</dd>
+    <dt>Mechanism</dt>
+    <dd>A mechanism is available to assist the user in completing the cognitive function test.</dd>
+    <dt>Object Recognition</dt>
+    <dd>The cognitive function test is to recognize objects.</dd>
+    <dt>Personal Content</dt>
+    <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
+  </dl>
   <p class="note">Note: "Object recognition" and "Personal content" may be represented by images, video, or audio.</p>
   <p class="note">Note: Examples of mechanisms that satisfy this criterion include:</p>
-   <ol>
-      <li>support for password entry by password managers to reduce memory need, and</li>
-      <li>copy and paste to reduce the cognitive burden of re-typing.</li>
-    </ol>
+  <ol>
+    <li>support for password entry by password managers to reduce memory need, and</li>
+    <li>copy and paste to reduce the cognitive burden of re-typing.</li>
+  </ol>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication (Minimum)</a></p>
 
 ### 3.3.9 Accessible Authentication (Enhanced) (AAA)
 
 <div class="quotes">
-<p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do:</span>Don’t make people recognize objects or personal information in order to login.</p></li>
-      <li><p><span class="why">Why it's important:</span>Some people with cognitive disabilities cannot identify objects or recall information.</p></li>
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>Don’t make people recognize objects or personal information in order to login.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>Some people with cognitive disabilities cannot identify objects or recall information.</p>
+    </li>
   </ul>
-
-<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+  <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats.</q></span></p>
@@ -425,15 +433,16 @@ Help users avoid and correct mistakes.
     </li>
   </ul>
 </div>
+
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
-<p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-2" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
-<dl>
-  <dt>Alternative</dt>
-  <dd>Another authentication method that does not rely on a cognitive function test.</dd>
-  <dt>Mechanism</dt>
-  <dd>A mechanism is available to assist the user in completing the cognitive function test.</dd>
-</dl>
+  <p>A <a href="https://www.w3.org/TR/WCAG22/#dfn-cognitive-function-test" class="internalDFN" data-link-type="dfn" id="ref-for-dfn-cognitive-function-test-2" title="A task that requires the user to remember, manipulate, or transcribe information. Examples include, but are not limited to:">cognitive function test</a> (such as remembering a password or solving a puzzle) is not required for any step in an authentication process unless that step provides at least one of the following:</p>
+  <dl>
+    <dt>Alternative</dt>
+    <dd>Another authentication method that does not rely on a cognitive function test.</dd>
+    <dt>Mechanism</dt>
+    <dd>A mechanism is available to assist the user in completing the cognitive function test.</dd>
+  </dl>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-enhanced">Understanding Accessible Authentication (Enhanced)</a></p>
 
