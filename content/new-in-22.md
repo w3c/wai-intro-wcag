@@ -33,7 +33,7 @@ inline_css: |
   .quotes li>p {display:table-row;}
   .quotes li>p span {display:table-cell;}
   .what, .issue {font-weight: bold; display:table-cell; width: 6em;}
-  .why {font-weight: bold; display:table-cell; width: 9em;}  
+  .why {font-weight: bold; display:table-cell; width: 10em;}  
   q:before {content: open-quote;color: #005a6a;font-weight: bold;}
   q:after {content: close-quote;color: #005a6a;font-weight: bold;}
   .sc dt {display: list-item; list-style-type: disc; float: left; font-weight: bold; margin-left: 2em; margin-right: 1ex; margin-top: 0;}
@@ -150,16 +150,16 @@ Provide ways to help users navigate, find content, and determine where they are.
 ### 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 
 <div class="quotes">
-<p>In brief:</p>
-<ul>
-  <li>
-    <p><span class="what">What to do:</span>Ensure when an item gets keyboard focus, it is fully visible.</p>
-  </li>
-  <li>
-    <p><span class="why">Why it's important:</span>People who can't use a mouse need to see what has keyboard focus.</p>
-  </li>
-</ul>
-<p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
+  <p>In brief:</p>
+  <ul>
+    <li>
+      <p><span class="what">What to do:</span>Ensure when an item gets keyboard focus, it is fully visible.</p>
+    </li>
+    <li>
+      <p><span class="why">Why it's important:</span>People who can't use a mouse need to see what has keyboard focus.</p>
+    </li>
+  </ul>
+  <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
 
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
@@ -235,7 +235,6 @@ Make it easier for users to operate functionality through various inputs beyond 
     </li>
   </ul>
 </div>
-
 
 <p class="sclabel">WCAG:</p>
 <blockquote class="sc">
