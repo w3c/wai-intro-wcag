@@ -427,7 +427,7 @@ Help users avoid and correct mistakes.
 <p>In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
-  <dd>Don’t make people recognize objects or personal information in order to login.</dd>
+  <dd>Don’t make people recognize objects or personal information to login.</dd>
   <dt><span class="why">Why it’s important</span></dt>
   <dd>Some people with cognitive disabilities cannot identify objects or recall information.</dd>
 </dl>
