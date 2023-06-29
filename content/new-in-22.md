@@ -152,20 +152,20 @@ Provide ways to help users navigate, find content, and determine where they are.
 
 <div class="quotes">
 <p>In brief:</p>
-<ul>
-  <li><p><span class="what">What to do: </span>Ensure when an item gets keyboard focus, it is at least partially visible.</p> </li>
-  <li><p><span class="why">Why it’s important: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
-</ul>
+<dl>
+  <dt><span class="what">What to do: </span></dt>
+  <dd>Ensure when an item gets keyboard focus, it is at least partially visible.</dd>
+  <dt><span class="why">Why it’s important: </span></dt>
+  <dd>People who can't use a mouse need to see what has keyboard focus.</dd>
+</dl>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>This page has a big banner that's always across the bottom. <em>(a sticky footer)</em> When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>When I move focus to items, I can see them all.</q></span></p>
-    </li>
-  </ul>
+<dl>
+  <dt><span class="issue">Problem:</span></dt>
+  <dd><span><q>This page has a big banner that's always across the bottom. <em>(a sticky footer)</em> When I move focus to items, some are hidden behind the banner and I can't see them.</q></span></dd>
+  <dt><span class="issue">Works well:</span></dt>
+  <dd><span><q>When I move focus to items, I can see them all.</q></span></dd>
+</dl>
 </div>
 
 <p class="sclabel">WCAG:</p>
@@ -180,10 +180,12 @@ Provide ways to help users navigate, find content, and determine where they are.
 
 <div class="quotes">
 <p>In brief:</p>
-<ul>
-      <li><p><span class="what">What to do: </span>Ensure when an item gets keyboard focus, it is fully visible.</p></li>
-      <li><p><span class="why">Why it’s important: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
-</ul>
+<dl>
+  <dt><span class="what">What to do:</span></dt>
+  <dd>Ensure when an item gets keyboard focus, it is fully visible.</dd>
+  <dt><span class="why">Why it’s important:</span></dt>
+  <dd>People who can't use a mouse need to see what has keyboard focus.</dd>
+</dl>
 
 <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
 </div>
@@ -198,21 +200,21 @@ Provide ways to help users navigate, find content, and determine where they are.
 
 <div class="quotes">
 <p>In brief:</p>
-<ul>
-      <li><p><span class="what">What to do: </span>Use a focus indicator of sufficient size and contrast.</p></li>
-      <li><p><span class="why">Why it’s important: </span>Many people can't see small contrast differences, including older people.</p></li>
-</ul>
+<dl>
+  <dt><span class="what">What to do: </span></dt>
+  <dd>Use a focus indicator of sufficient size and contrast.</dd>
+  <dt><span class="why">Why it’s important: </span></dt>
+  <dd>Many people can't see small contrast differences, including older people.</dd>
+</dl>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br />
       and <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">Retiree</a> with low contrast sensitivity:</p>
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>I can see where the keyboard focus is as I move around a web page or app.</q></span></p>
-    </li>
-  </ul>
+<dl>
+  <dt><span class="issue">Problem:</span></dt>
+  <dd><span><q>I can't tell where the keyboard focus is as I move around a web page or app.</q></span></dd>
+  <dt><span class="issue">Works well:</span></dt>
+  <dd><span><q>I can see where the keyboard focus is as I move around a web page or app.</q></span></dd>
+</dl>
 </div>
 
 <p class="sclabel">WCAG:</p>
@@ -241,20 +243,20 @@ Make it easier for users to operate functionality through various inputs beyond 
 
 <div class="quotes">
 <p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do: </span>For any action that involves dragging, provide a simple pointer alternative.</p></li>
-      <li><p><span class="why">Why it’s important: </span>Some people cannot use a mouse to drag items.</p></li>
-   </ul>
+<dl>
+  <dt><span class="what">What to do: </span></dt>
+  <dd>For any action that involves dragging, provide a simple pointer alternative.</dd>
+  <dt><span class="why">Why it’s important: </span></dt>
+  <dd>Some people cannot use a mouse to drag items.</dd>
+</dl>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>When I click on an item in the list, I get up and down arrows and I can click those to change the order.</q></span></p>
-    </li>
-  </ul>
+<dl>
+  <dt><span class="issue">Problem:</span></dt>
+  <dd><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></dd>
+  <dt><span class="issue">Works well:</span></dt>
+  <dd><span><q>When I click on an item in the list, I get up and down arrows and I can click those to change the order.</q></span></dd>
+</dl>
 </div>
 
 <p class="sclabel">WCAG:</p>
@@ -268,20 +270,20 @@ Make it easier for users to operate functionality through various inputs beyond 
 
 <div class="quotes">
 <p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do: </span>Ensure targets meet a minimum size or have sufficient spacing around them.</p></li>
-      <li><p><span class="why">Why it’s important: </span>Some people with physical impairments cannot click small buttons that are close.</p></li>
-</ul>
+<dl>
+  <dt><span class="what">What to do: </span></dt>
+  <dd>Ensure targets meet a minimum size or have sufficient spacing around them.</dd>
+  <dt><span class="why">Why it’s important:</span></dt>
+  <dd>Some people with physical impairments cannot click small buttons that are close.</dd>
+</dl>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>The buttons are so close, I hit "Cancel" when going for "Submit". Then I have to start all over again.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>There is more space between the buttons so I don't hit the wrong button even when I'm riding on the bumpy bus.</q></span></p>
-    </li>
-  </ul>
+<dl>
+  <dt><span class="issue">Problem:</span></dt>
+  <dd><span><q>The buttons are so close, I hit "Cancel" when going for "Submit". Then I have to start all over again.</q></span></dd>
+  <dt><span class="issue">Works well:</span></dt>
+  <dd><span><q>There is more space between the buttons so I don't hit the wrong button even when I'm riding on the bumpy bus.</q></span></dd>
+</dl>
 </div>
 
 <p class="sclabel">WCAG:</p>
@@ -307,20 +309,20 @@ Make Web pages appear and operate in predictable ways.
 
 <div class="quotes">
 <p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do: </span>Put help in the same place when it is on multiple pages.</p></li>
-      <li><p><span class="why">Why it’s important: </span>People who need help can find it more easily if it's in the same place.</p></li>
-</ul>
+<dl>
+  <dt><span class="what">What to do: </span></dt>
+  <dd>Put help in the same place when it is on multiple pages.</dd>
+  <dt><span class="why">Why it’s important:</span></dt>
+  <dd>People who need help can find it more easily if it's in the same place.</dd>
+</dl>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step. I've seen a Chat option in some places, but can't find it now.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>When I need help, I can easily find the Chat option that's always in the lower right corner of the page.</q></span></p>
-    </li>
-  </ul>
+<dl>
+  <dt><span class="issue">Problem:</span></dt>
+  <dd><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step. I've seen a Chat option in some places, but can't find it now.</q></span></dd>
+  <dt><span class="issue">Works well:</span></dt>
+  <dd><span><q>When I need help, I can easily find the Chat option that's always in the lower right corner of the page.</q></span></dd>
+</dl>
 </div>
 
 <p class="sclabel">WCAG:</p>
@@ -345,20 +347,20 @@ Help users avoid and correct mistakes.
 
 <div class="quotes">
 <p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do: </span>Don't ask for the same information twice in the same process.</p></li>
-      <li><p><span class="why">Why it’s important: </span>Some people with cognitive disabilities have difficulty remembering what they entered before.</p></li>
-</ul>
+<dl>
+  <dt><span class="what">What to do: </span></dt>
+  <dd>Don't ask for the same information twice in the same process.</dd>
+  <dt><span class="why">Why it’s important:</span></dt>
+  <dd>Some people with cognitive disabilities have difficulty remembering what they entered before.</dd>
+</dl>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>The app automatically fills in information that I entered in previous steps.</q></span></p>
-    </li>
-  </ul>
+<dl>
+  <dt><span class="issue">Problem:</span></dt>
+  <dd><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></dd>
+  <dt><span class="issue">Works well:</span></dt>
+  <dd><span><q>The app automatically fills in information that I entered in previous steps.</q></span></dd>
+</dl>
 </div>
 
 <p class="sclabel">WCAG:</p>
@@ -381,20 +383,20 @@ Help users avoid and correct mistakes.
 
 <div class="quotes">
 <p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do: </span>Don’t make people memorize or transcribe something to log in.</p></li>
-      <li><p><span class="why">Why it’s important: </span>Some people with cognitive disabilities cannot recall usernames and passwords, or type them.</p></li>
-  </ul>
+<dl>
+  <dt><span class="what">What to do:</span></dt>
+  <dd>Don’t make people memorize or transcribe something to log in.</dd>
+  <dt><span class="why">Why it’s important:</span></dt>
+  <dd>Some people with cognitive disabilities cannot recall usernames and passwords, or type them.</dd>
+</dl>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>I can never remember my password, it’s really hard to get into this app.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>To get into this app, I can put my e-mail address. Then I get an e-mail message, and I can click a link in the e-mail to get into the app.</q></span></p>
-    </li>
-  </ul>
+<dl>
+  <dt><span class="issue">Problem:</span></dt>
+  <dd><span><q>I can never remember my password, it’s really hard to get into this app.</q></span></dd>
+  <dt><span class="issue">Works well:</span></dt>
+  <dd><span><q>To get into this app, I can put my e-mail address. Then I get an e-mail message, and I can click a link in the e-mail to get into the app.</q></span></dd>
+</dl>
 </div>
 
 <p class="sclabel">WCAG:</p>
@@ -423,20 +425,20 @@ Help users avoid and correct mistakes.
 
 <div class="quotes">
 <p>In brief:</p>
-   <ul>
-      <li><p><span class="what">What to do: </span>Don’t make people recognize objects or personal information in order to login.</p></li>
-      <li><p><span class="why">Why it’s important: </span>Some people with cognitive disabilities cannot identify objects or recall information.</p></li>
-  </ul>
+<dl>
+  <dt><span class="what">What to do:</span></dt>
+  <dd>Don’t make people recognize objects or personal information in order to login.</dd>
+  <dt><span class="why">Why it’s important:</span></dt>
+  <dd>Some people with cognitive disabilities cannot identify objects or recall information.</dd>
+</dl>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
-  <ul>
-    <li>
-      <p><span class="issue">Problem:</span><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats.</q></span></p>
-    </li>
-    <li>
-      <p><span class="issue">Works well:</span><span><q>To get into this app, I can copy and paste my password.</q></span></p>
-    </li>
-  </ul>
+<dl>
+  <dt><span class="issue">Problem</span></dt>
+  <dd><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats.</q></span></dd>
+  <dt><span class="issue">Works well</span></dt>
+  <dd><span><q>To get into this app, I can copy and paste my password.</q></span></dd>
+</dl>
 </div>
 
 <p class="sclabel">WCAG:</p>
