@@ -146,7 +146,7 @@ Provide ways to help users navigate, find content, and determine where they are.
   <p class="note">Note: Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
-	
+
 ### 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 
 <div class="quotes">
