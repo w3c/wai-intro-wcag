@@ -7,7 +7,7 @@ nav_title: "New in 2.2"
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas to help you understand some aspects of the success criteria.
 
-teaser_text: WCAG 2.2 has 9 additional requirements (“success criteria”) that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
+teaser_text: WCAG 2.2 has 9 additional requirements ("success criteria") that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
 last_updated: 0000-00-00 # update if do translations
@@ -153,8 +153,8 @@ Provide ways to help users navigate, find content, and determine where they are.
 <div class="quotes">
 <p>In brief:</p>
 <ul>
-  <li><p><span class=“what”>What to do: </span>Ensure when an item gets keyboard focus, it is at least partially visible.</p> </li>
-  <li><p><span class=“why”>Why it’s important: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
+  <li><p><span class="what">What to do: </span>Ensure when an item gets keyboard focus, it is at least partially visible.</p> </li>
+  <li><p><span class="why">Why it’s important: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
 </ul>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
@@ -181,8 +181,8 @@ Provide ways to help users navigate, find content, and determine where they are.
 <div class="quotes">
 <p>In brief:</p>
 <ul>
-      <li><p><span class=“what”>What to do: </span>Ensure when an item gets keyboard focus, it is fully visible.</p></li>
-      <li><p><span class=“why”>Why it’s important: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
+      <li><p><span class="what">What to do: </span>Ensure when an item gets keyboard focus, it is fully visible.</p></li>
+      <li><p><span class="why">Why it’s important: </span>People who can't use a mouse need to see what has keyboard focus.</p> </li>
 </ul>
 
 <p><em>(Persona, problem, and works well same as 2.4.12 above.)</em></p>
@@ -199,8 +199,8 @@ Provide ways to help users navigate, find content, and determine where they are.
 <div class="quotes">
 <p>In brief:</p>
 <ul>
-      <li><p><span class=“what”>What to do: </span>Use a focus indicator of sufficient size and contrast.</p></li>
-      <li><p><span class=“why”>Why it’s important: </span>Many people can't see small contrast differences, including older people.</p></li>
+      <li><p><span class="what">What to do: </span>Use a focus indicator of sufficient size and contrast.</p></li>
+      <li><p><span class="why">Why it’s important: </span>Many people can't see small contrast differences, including older people.</p></li>
 </ul>
 
 <p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br />
@@ -242,11 +242,11 @@ Make it easier for users to operate functionality through various inputs beyond 
 <div class="quotes">
 <p>In brief:</p>
    <ul>
-      <li><p><span class=“what”>What to do: </span>For any action that involves dragging, provide a simple pointer alternative.</p></li>
-      <li><p><span class=“why”>Why it’s important: </span>Some people cannot use a mouse to drag items.</p></li>
+      <li><p><span class="what">What to do: </span>For any action that involves dragging, provide a simple pointer alternative.</p></li>
+      <li><p><span class="why">Why it’s important: </span>Some people cannot use a mouse to drag items.</p></li>
    </ul>
 
-<p class=“persona”>For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>I cannot hold down the mouse button and drag it accurately enough to move the items in this list.</q></span></p>
@@ -269,11 +269,11 @@ Make it easier for users to operate functionality through various inputs beyond 
 <div class="quotes">
 <p>In brief:</p>
    <ul>
-      <li><p><span class=“what”>What to do: </span>Ensure targets meet a minimum size or have sufficient spacing around them.</p></li>
-      <li><p><span class=“why”>Why it’s important: </span>Some people with physical impairments cannot click small buttons that are close.</p></li>
+      <li><p><span class="what">What to do: </span>Ensure targets meet a minimum size or have sufficient spacing around them.</p></li>
+      <li><p><span class="why">Why it’s important: </span>Some people with physical impairments cannot click small buttons that are close.</p></li>
 </ul>
 
-<p class=“persona”>For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>The buttons are so close, I hit "Cancel" when going for "Submit". Then I have to start all over again.</q></span></p>
@@ -308,11 +308,11 @@ Make Web pages appear and operate in predictable ways.
 <div class="quotes">
 <p>In brief:</p>
    <ul>
-      <li><p><span class=“what”>What to do: </span>Put help in the same place when it is on multiple pages.</p></li>
-      <li><p><span class=“why”>Why it’s important: </span>People who need help can find it more easily if it's in the same place.</p></li>
+      <li><p><span class="what">What to do: </span>Put help in the same place when it is on multiple pages.</p></li>
+      <li><p><span class="why">Why it’s important: </span>People who need help can find it more easily if it's in the same place.</p></li>
 </ul>
 
-<p class=“persona”>For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I can't remember what to do at each step. I've seen a Chat option in some places, but can't find it now.</q></span></p>
@@ -346,11 +346,11 @@ Help users avoid and correct mistakes.
 <div class="quotes">
 <p>In brief:</p>
    <ul>
-      <li><p><span class=“what”>What to do: </span>Don't ask for the same information twice in the same process.</p></li>
-      <li><p><span class=“why”>Why it’s important: </span>Some people with cognitive disabilities have difficulty remembering what they entered before.</p></li>
+      <li><p><span class="what">What to do: </span>Don't ask for the same information twice in the same process.</p></li>
+      <li><p><span class="why">Why it’s important: </span>Some people with cognitive disabilities have difficulty remembering what they entered before.</p></li>
 </ul>
 
-<p class=“persona”>For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>Whenever I use the online app to schedule my medical appointments, I have to re-type some information that I entered in a previous step.</q></span></p>
@@ -382,11 +382,11 @@ Help users avoid and correct mistakes.
 <div class="quotes">
 <p>In brief:</p>
    <ul>
-      <li><p><span class=“what”>What to do: </span>Don’t make people memorize or transcribe something to log in.</p></li>
-      <li><p><span class=“why”>Why it’s important: </span>Some people with cognitive disabilities cannot recall usernames and passwords, or type them.</p></li>
+      <li><p><span class="what">What to do: </span>Don’t make people memorize or transcribe something to log in.</p></li>
+      <li><p><span class="why">Why it’s important: </span>Some people with cognitive disabilities cannot recall usernames and passwords, or type them.</p></li>
   </ul>
 
-<p class=“persona”>For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>I can never remember my password, it’s really hard to get into this app.</q></span></p>
@@ -424,11 +424,11 @@ Help users avoid and correct mistakes.
 <div class="quotes">
 <p>In brief:</p>
    <ul>
-      <li><p><span class=“what”>What to do: </span>Don’t make people recognize objects or personal information in order to login.</p></li>
-      <li><p><span class=“why”>Why it’s important: </span>Some people with cognitive disabilities cannot identify objects or recall information.</p></li>
+      <li><p><span class="what">What to do: </span>Don’t make people recognize objects or personal information in order to login.</p></li>
+      <li><p><span class="why">Why it’s important: </span>Some people with cognitive disabilities cannot identify objects or recall information.</p></li>
   </ul>
 
-<p class=“persona”>For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
+<p class="persona">For example, a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
   <ul>
     <li>
       <p><span class="issue">Problem:</span><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats.</q></span></p>
