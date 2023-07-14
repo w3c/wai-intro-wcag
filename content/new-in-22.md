@@ -137,9 +137,9 @@ The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) 
 
 WCAG 2.2 provides 9 additional success criteria from WCAG 2.1. They are included on this page.
 
-### Changes to 2.2 Drafts
+### Changes to 2.2 Draft
 
-From the May 2023 Draft to the June 2023 publication, there are not substantive changes, only editorial changes to add links and correct punctuation.
+From the May 2023 Draft to the June 2023 publication, there are no substantive changes (only editorial changes to add links and correct punctuation).
 
 Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#change-log).
 
