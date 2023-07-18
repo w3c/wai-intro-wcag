@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2023-05-16
+last_updated: 2023-07-18
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -20,7 +20,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 16 May 2023.</p>
+  <p><strong>Date: </strong>Updated 18 July 2023.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Rachael Bradley Montgomery and Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -38,12 +38,11 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the in-progress W3C Accessibility Guidelines (WCAG) 3 Working **Draft**. It explains how WCAG 3 is related to WCAG 2.
+Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. The [WCAG 3 Editors' Draft](https://w3c.github.io/silver/guidelines/) has proposed revisions that are not yet approved for publication. (The previously published [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) is significantly outdated.)
 
-WCAG 3 has similar fundamental and specific accessibility requirements. WCAG 3 has a different structure, different conformance model, and 
-broader scope.
+WCAG 3 will have similar fundamental and specific accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.
 
-This page is the starting point for information about WCAG 3 now and in the future.
+Please share this page as the starting point for official information about WCAG 3 now and in the future.
 
 {::nomarkdown}
 {% include box.html type="end" %}
