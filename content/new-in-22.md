@@ -57,10 +57,11 @@ inline_css: |
   .sc dd {display: block;  margin-inline-start: 40px;}
   .sc p:last-of-type {margin-bottom: 1em}
   .sc p:last-child, .sc *:last-child {margin-bottom: 0}
-  .sclabel {
+  .sclabel, .brief, .persona {
     padding: 0;
     margin: 0;
   }
+  .sclabel {color: #005a6a; font-weight: bold; }
   div.note, div.ednote, div.warning {
       margin-top: 1em;
       margin-bottom: 1em;
@@ -125,7 +126,7 @@ Background: For an introduction to Web Content Accessibility Guidelines (WCAG) a
 
 We expect to publish WCAG 2.2 as a 'W3C Recommendation' web standard in August 2023.
 
-**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 18 July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. The voting ends in early August. WCAG 2.2 might be ready to publish soon after that, or additional W3C Member input could require more work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 18 July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. The voting ends in August. WCAG 2.2 might be ready to publish soon after that, or additional W3C Member input could require more work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 ### Comments
 
@@ -150,7 +151,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 ### 2.4.11 Focus Not Obscured (Minimum) (AA)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>Ensure when an item gets keyboard focus, it is at least partially visible.</dd>
@@ -178,7 +179,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 ### 2.4.12 Focus Not Obscured (Enhanced) (AAA)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>Ensure when an item gets keyboard focus, it is fully visible.</dd>
@@ -198,7 +199,7 @@ Provide ways to help users navigate, find content, and determine where they are.
 ### 2.4.13 Focus Appearance (AAA)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>Use a focus indicator of sufficient size and contrast.</dd>
@@ -241,7 +242,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 ### 2.5.7 Dragging Movements (AA)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>For any action that involves dragging, provide a simple pointer alternative.</dd>
@@ -268,7 +269,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 ### 2.5.8 Target Size (Minimum) (AA)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>Ensure targets meet a minimum size or have sufficient spacing around them.</dd>
@@ -307,7 +308,7 @@ Make Web pages appear and operate in predictable ways.
 ### 3.2.6 Consistent Help (A)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>Put help in the same place when it is on multiple pages.</dd>
@@ -345,7 +346,7 @@ Help users avoid and correct mistakes.
 ### 3.3.7 Redundant Entry (A)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>Don't ask for the same information twice in the same process.</dd>
@@ -381,7 +382,7 @@ Help users avoid and correct mistakes.
 ### 3.3.8 Accessible Authentication (Minimum) (AA)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>Don’t make people memorize or transcribe something to log in.</dd>
@@ -423,7 +424,7 @@ Help users avoid and correct mistakes.
 ### 3.3.9 Accessible Authentication (Enhanced) (AAA)
 
 <div class="quotes">
-<p>In brief:</p>
+<p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
   <dd>Don’t make people recognize objects or personal information to login.</dd>
