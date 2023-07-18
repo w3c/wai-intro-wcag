@@ -87,7 +87,6 @@ inline_css: |
   #markdown-toc ul li {
     margin-bottom: 0;
   }
-  .brief {font-style: italic; border: 1px gray dotted; padding: 3px;}
 
 ref: /standards-guidelines/wcag/new-in-22/
 
