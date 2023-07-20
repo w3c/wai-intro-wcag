@@ -20,8 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Important note on using this text:</strong> The what and why information under "In brief" should always have the success criteria wording with it. You may use this content without modifying it, with a link to this page, and with attribution. See details in: <a href="https://www.w3.org/WAI/about/using-wai-material/">Using WAI Material: Permission to Use with Attribution</a>.</p>
-  <p><strong>Date:</strong> Updated 18 July 2023.</p>
+  <p><strong>Date:</strong> Updated 20 July 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mike Gower, Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
