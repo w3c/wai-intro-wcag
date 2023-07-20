@@ -121,7 +121,7 @@ Background: For an introduction to Web Content Accessibility Guidelines (WCAG) a
 
 We expect to publish WCAG 2.2 as a 'W3C Recommendation' web standard in August 2023.
 
-**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 18 July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. The voting ends in August. WCAG 2.2 might be ready to publish soon after that, or additional W3C Member input could require more work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 20 July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. The voting ends in August. WCAG 2.2 might be ready to publish soon after that, or additional W3C Member input could require more work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
 ### Comments
 
