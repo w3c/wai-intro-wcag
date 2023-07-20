@@ -42,7 +42,7 @@ Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phas
 
 WCAG 3 will have similar fundamental and specific accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.
 
-Please share this page as the starting point for official information about WCAG 3 now and in the future. shortlink: w3.org/WAI/wcag3
+Please share this page as the starting point for official information about WCAG 3 now and in the future. short link: w3.org/WAI/wcag3
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -72,7 +72,7 @@ We will update this page regularly as work on the WCAG 3 Draft progresses.
 
 ## Status: Exploratory Draft
 
-The first draft was published in December 2021. It included a proposed structure, draft conformance model, and 5 draft example guidelines. The published [published draft](https://www.w3.org/TR/wcag-3.0/) is significantly outdated, and may be updated in July 2023 with the content from the Editors' Draft.
+The first draft was published in December 2021. It included a proposed structure, draft conformance model, and 5 draft example guidelines. The [published draft](https://www.w3.org/TR/wcag-3.0/) is significantly outdated, and may be updated in July 2023 with the content from the Editors' Draft.
 
 **The [latest Editors' Draft](https://w3c.github.io/silver/guidelines/) better communicates that most of the content is a placeholder or exploratory. There are substantial open issues that are still being discussed, particularly about testing and conformance. This draft provides an updated description of a possible approach to conformance,  along with specific questions that the group is working on.**
 
@@ -179,7 +179,7 @@ The name of WCAG 3 is different from WCAG 2:
 
 ### Who Develops WCAG 3
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) with the AG WG Silver Task Force and the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
+The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) with the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
 
 We welcome your comments on WCAG 3 Working Drafts. The best way to provide feedback is by opening new [GitHub issues](https://github.com/w3c/silver/issues). Alternatively, e-mail public-silver@w3.org
 
