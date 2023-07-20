@@ -123,19 +123,15 @@ We expect to publish WCAG 2.2 as a 'W3C Recommendation' web standard in August 2
 
 **[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 20 July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. The voting ends in August. WCAG 2.2 might be ready to publish soon after that, or additional W3C Member input could require more work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-### Comments
-
-We do not plan to change the normative content in WCAG 2.2 itself. We will continue to update the Understanding documents based on feedback. To comment, please open a [new issue in the WCAG GitHub repository](https://github.com/w3c/wcag/issues/new). Create separate GitHub issues for each topic, rather than commenting on multiple topics in a single issue. If it’s not feasible for you to use GitHub, send comments in e-mail to: public-agwg-comments@w3.org
-
 ### Changes from WCAG 2.1 to WCAG 2.2
 
 The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **one exception**: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 
 WCAG 2.2 provides 9 additional success criteria from WCAG 2.1. They are included on this page.
 
-### Changes to 2.2 Draft
+### Changes to 2.2 from May to June
 
-From the May 2023 Draft to the June 2023 publication, there are no substantive changes (only editorial changes to add links and correct punctuation).
+There are no substantive changes from the May 2023 to the June 2023 publication. There are only minor editorial changes to add links and correct punctuation.
 
 Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#change-log).
 
