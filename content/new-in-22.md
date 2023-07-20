@@ -5,9 +5,6 @@ title: "What's New in WCAG 2.2"
 title_html: "What's New in WCAG 2.2"
 nav_title: "New in 2.2"
 
-doc-note-type: draft
-doc-note-message-md: This is an unpublished draft preview that might include content that is not yet approved. The published resource is at [https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
-
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas to help you understand some aspects of the success criteria.
 
 teaser_text: WCAG 2.2 has 9 additional requirements ("success criteria") that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
