@@ -38,11 +38,11 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. The [WCAG 3 Editors' Draft](https://w3c.github.io/silver/guidelines/) has proposed revisions that are not yet approved for publication. (The previously published [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) is significantly outdated.)
+Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. The [WCAG 3 Editors' Draft](https://w3c.github.io/silver/guidelines/) has proposed revisions to be published in July 2023.
 
 WCAG 3 will have similar fundamental and specific accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.
 
-Please share this page as the starting point for official information about WCAG 3 now and in the future.
+Please share this page as the starting point for official information about WCAG 3 now and in the future. shortlink: w3.org/WAI/wcag3
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -64,7 +64,7 @@ Please share this page as the starting point for official information about WCAG
 ## Introduction
 {:.no_toc}
 
-WCAG 3 is currently an incomplete draft. Many aspects of WCAG 3 are in an exploratory phase, and will change. WCAG 3 is intended to develop into a W3C Standard **in a few years**. The current standard, Web Content Accessibility Guidelines (WCAG 2), is introduced in the [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+WCAG 3 is currently an incomplete draft. WCAG 3 is intended to develop into a W3C Standard **in a few years**. The current standard, Web Content Accessibility Guidelines (WCAG 2), is introduced in the [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. 
 
@@ -72,11 +72,9 @@ We will update this page regularly as work on the WCAG 3 Draft progresses.
 
 ## Status: Exploratory Draft
 
-The first draft was published in December 2021. It included a proposed structure, draft conformance model, and 5 draft example guidelines. The published [W3C Accessibility Guidelines (WCAG) 3.0 Working Draft](https://www.w3.org/TR/wcag-3.0/) is significantly outdated, and may be updated in July 2023 with the content from the Editors' Draft.
+The first draft was published in December 2021. It included a proposed structure, draft conformance model, and 5 draft example guidelines. The published [published draft](https://www.w3.org/TR/wcag-3.0/) is significantly outdated, and may be updated in July 2023 with the content from the Editors' Draft.
 
-**The [latest Editors' Draft](https://w3c.github.io/silver/guidelines/) better communicates that most of the content is a placeholder or exploratory. There are substantial open issues that are still being discussed, particularly with the conformance model. This draft provides an updated description of a possible approach to conformance,  along with specific questions that the group is working on.**
-
-<img src="{{ "/content-images/wai-intro-wcag/dialogs2.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
+**The [latest Editors' Draft](https://w3c.github.io/silver/guidelines/) better communicates that most of the content is a placeholder or exploratory. There are substantial open issues that are still being discussed, particularly about testing and conformance. This draft provides an updated description of a possible approach to conformance,  along with specific questions that the group is working on.**
 
 ### Status of Sections
 
@@ -87,6 +85,8 @@ Each normative section has a status that indicates how far along in the developm
 * **Developing:** There is rough agreement on what is needed for this section, although not all high-level concerns have been settled. Details are included, yet they are not all agreed on. We invite general feedback on how understandable, usable, and reasonable the section is generally.
 * **Refining:** The Working Group has reach consensus on this section. It is ready for broad public review and experimental adoption. We seek feedback on feasibility and issues with implementations.
 * **Mature:** The Working Group thinks this content is ready for the final standard. Feedback should be focused on edge case scenarios the Working Group might not have anticipated.
+
+<img src="{{ "/content-images/wai-intro-wcag/dialogs2.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
 ### Comments
 
@@ -157,11 +157,13 @@ We are reworking the conformance model based on feedback and we encourage additi
 
 <img src="{{ "/content-images/wai-intro-wcag/calandara.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 
-The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. It is the first of many drafts. The Working Draft published on 07 December 2021 has minor changes. **Many [issues are still open](https://github.com/w3c/silver/issues), including testing and conformance.** An updated draft may be published in July 2023.
+The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. We plan to publish an updated draft in July 2023, and then every 3-6 months.
+
+**WCAG 3 is not expected to be a completed W3C standard for a few more years.** 
 
 The Working Group will focus on refining the structure and conformance model, and will provide updated drafts for review. Once that is more stable, the Group will focus on developing the accessibility requirements (guidelines, outcomes, and support material). After WCAG 3 is more stable, we will provide material to help those wanting to transition to WCAG 3; for example, mapping between WCAG 2 and 3 requirements.
 
-**WCAG 3 is not expected to be a completed W3C standard for a few more years.** WCAG 3 will not supersede WCAG 2, and WCAG 2 will not be deprecated, for at least several years after WCAG 3 is finalized.
+WCAG 3 will not supersede WCAG 2, and WCAG 2 will not be deprecated, for at least several years after WCAG 3 is finalized.
 
 We will update this section with more specific timeline information as it is available.
 
