@@ -119,7 +119,7 @@ This page lists the new success criteria in WCAG 2.2, with:
 
 Background: For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-We expect to publish WCAG 2.2 as a 'W3C Recommendation' web standard in August 2023.
+We expect to publish WCAG 2.2 as a "W3C Recommendation" web standard in August 2023.
 
 **[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 20 July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. The voting ends in August. WCAG 2.2 might be ready to publish soon after that, or additional W3C Member input could require more work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
@@ -129,9 +129,9 @@ The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) 
 
 WCAG 2.2 provides 9 additional success criteria from WCAG 2.1. They are included on this page.
 
-### Changes to 2.2 from May to June
+### Changes to 2.2 from May to July
 
-There are no substantive changes from the May 2023 to the June 2023 publication. There are only minor editorial changes to add links and correct punctuation.
+There are no substantive changes from the May 2023 to the July 2023 publication. There are only minor editorial changes to add links and correct punctuation.
 
 Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#change-log).
 
