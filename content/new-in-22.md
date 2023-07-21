@@ -148,6 +148,7 @@ Provide ways to help users navigate, find content, and determine where they are.
   <dd>Ensure when an item gets keyboard focus, it is at least partially visible.</dd>
   <dt><span class="why">Why it’s important</span></dt>
   <dd>People who can't use a mouse need to see what has keyboard focus.</dd>
+  
 </dl>
 
 <p class="persona">Persona example &mdash; a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
@@ -195,7 +196,7 @@ Provide ways to help users navigate, find content, and determine where they are.
   <dt><span class="what">What to do</span></dt>
   <dd>Use a focus indicator of sufficient size and contrast.</dd>
   <dt><span class="why">Why it’s important</span></dt>
-  <dd>Many people can't see small contrast differences, including older people.</dd>
+  <dd>Many people can't see small changes in visual appearance, including older people.</dd>
 </dl>
 
 <p class="persona">Persona example &mdash; a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who doesn't use a mouse:<br />
@@ -265,7 +266,7 @@ Make it easier for users to operate functionality through various inputs beyond 
   <dt><span class="what">What to do</span></dt>
   <dd>Ensure targets meet a minimum size or have sufficient spacing around them.</dd>
   <dt><span class="why">Why it’s important</span></dt>
-  <dd>Some people with physical impairments cannot click small buttons that are close.</dd>
+  <dd>Some people with physical impairments cannot click small buttons that are close together.</dd>
 </dl>
 
 <p class="persona">Persona example &mdash; a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#retiree">retiree</a> with hand tremor:</p>
@@ -340,7 +341,7 @@ Help users avoid and correct mistakes.
 <p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
-  <dd>Don't ask for the same information twice in the same process.</dd>
+  <dd>Don't ask for the same information twice in the same session.</dd>
   <dt><span class="why">Why it’s important</span></dt>
   <dd>Some people with cognitive disabilities have difficulty remembering what they entered before.</dd>
 </dl>
@@ -376,9 +377,9 @@ Help users avoid and correct mistakes.
 <p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
-  <dd>Don’t make people memorize or transcribe something to log in.</dd>
+  <dd>Don’t make people solve, recall, or transcribe something to log in.</dd>
   <dt><span class="why">Why it’s important</span></dt>
-  <dd>Some people with cognitive disabilities cannot recall usernames and passwords, or type them.</dd>
+  <dd>Some people with cognitive disabilities cannot solve puzzles, memorize a username and password, or retype one-time passcodes.</dd>
 </dl>
 
 <p class="persona">Persona example &mdash; a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
@@ -418,9 +419,9 @@ Help users avoid and correct mistakes.
 <p class="brief">In brief:</p>
 <dl>
   <dt><span class="what">What to do</span></dt>
-  <dd>Don’t make people recognize objects or personal information to login.</dd>
+  <dd>Don’t make people recognize objects or user-supplied images and media to login.</dd>
   <dt><span class="why">Why it’s important</span></dt>
-  <dd>Some people with cognitive disabilities cannot identify objects or recall information.</dd>
+  <dd>Some people with cognitive disabilities can't do puzzles, including identifying objects and non-text information they previously supplied.</dd>
 </dl>
 
 <p class="persona">Persona example &mdash; a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
