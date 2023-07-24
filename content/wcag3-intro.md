@@ -94,7 +94,7 @@ We welcome input from evaluators, developers, designers, project managers, polic
 
 We also welcome comments on the goals and parameters in [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).
 
-The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/silver/issues). Alternatively, e-mail public-silver@w3.org
+The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/silver/issues). Alternatively, e-mail public-agwg-comments@w3.org
 Please put each topic in a separate GitHub issue or e-mail.
 
 Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, and inclusion in the process of creating WCAG 3. Please e-mail these to group-ag-chairs@w3.org
@@ -188,6 +188,6 @@ The name of WCAG 3 is different from WCAG 2:
 
 The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) (previously under the Silver Task Force) with the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
 
-We welcome your comments on WCAG 3 Working Drafts. The best way to provide feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues). Alternatively, e-mail public-silver@w3.org
+We welcome your comments on WCAG 3 Working Drafts. The best way to provide feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues). Alternatively, e-mail public-agwg-comments@w3.org
 
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
