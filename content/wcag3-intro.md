@@ -9,7 +9,7 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: en
 
-last_updated: 2023-07-20 ## update when have translations
+last_updated: 2023-10-10 ## update when have translations
 permalink: /standards-guidelines/wcag/wcag3-intro/
 
 github:
@@ -20,7 +20,7 @@ ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 20 July 2023.</p>
+  <p><strong>Date: </strong>Updated 24 July 2023.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Rachael Bradley Montgomery and Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 
@@ -38,7 +38,7 @@ inline_css: |
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. The [WCAG 3 Editors' Draft](https://w3c.github.io/silver/guidelines/) has proposed revisions to be published in July 2023.
+Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. We published an updated [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) on 24 July 2023.
 
 WCAG 3 will have similar fundamental and specific accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.
 
@@ -66,15 +66,15 @@ Please share this page as the starting point for official information about WCAG
 
 WCAG 3 is currently an incomplete draft. WCAG 3 is intended to develop into a W3C Standard **in a few years**. The current standard, Web Content Accessibility Guidelines (WCAG 2), is introduced in the [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-The WCAG 3 documents explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. 
+The WCAG 3 documents will explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. 
 
 We will update this page regularly as work on the WCAG 3 Draft progresses.
 
 ## Status: Exploratory Draft
 
-The first draft was published in December 2021. It included a proposed structure, draft conformance model, and 5 draft example guidelines. The [published draft](https://www.w3.org/TR/wcag-3.0/) is significantly outdated, and may be updated in July 2023 with the content from the Editors' Draft.
+**The July 2023  [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) better communicates that most of the content is a placeholder or exploratory. It removes the previous draft guidance to reduce confusion about whether it was ready to use.**
 
-**The [latest Editors' Draft](https://w3c.github.io/silver/guidelines/) better communicates that most of the content is a placeholder or exploratory. There are substantial open issues that are still being discussed, particularly about testing and conformance. This draft provides an updated description of a possible approach to conformance,  along with specific questions that the group is working on.**
+**There are substantial open issues that are still being discussed, particularly about testing and conformance. This draft provides an updated description of a possible approach to conformance,  along with specific questions that the group is working on.**
 
 ### Status of Sections
 
@@ -94,7 +94,8 @@ We welcome input from evaluators, developers, designers, project managers, polic
 
 We also welcome comments on the goals and parameters in [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).
 
-The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/silver/issues). Alternatively, e-mail public-silver@w3.org
+The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues/new). Alternatively, e-mail public-agwg-comments@w3.org
+Please put each topic in a separate GitHub issue or e-mail.
 
 Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, and inclusion in the process of creating WCAG 3. Please e-mail these to group-ag-chairs@w3.org
 
@@ -126,10 +127,16 @@ This WCAG 3 draft has:
    * More **granular** than the guidelines in WCAG 2
    * Each guideline has outcomes
 * **Outcomes**
-   * Testable statements
-   * Similar to **success criteria** in WCAG 2, more granular and more focused on the desired results than the technical means for achieving them
+   * Verifiable statements
+   * Similar to **success criteria** in WCAG 2
+   * More granular and more focused on the desired results than the technical means for achieving them<br>(More _granular_ means they are more specific, instead of broad. That generally makes them simpler. It also means there will be more of WCAG 3 outcomes than WCAG 2 success criteria.)
+* **Assertions**
+   * Formal claim of fact, attributed to a person or organization
+   * Assertions in WCAG 3 state that an organization has completed a procedure that can improve accessibility
+   * Example procedures include usability testing, assistive technology testing, and plain language reviews
+   * Assertions are used when the results of the same usability would be very different between testers
 
-More _granular_ means they are more specific, instead of broad. That generally makes them simpler. It also means there will be more of WCAG 3 outcomes than WCAG 2 success criteria.
+<!-- @@ ??? SLH needs more clarity -->
 
 WCAG 3 supporting material includes:
 * **Methods**
@@ -145,7 +152,7 @@ WCAG 3 supporting material includes:
 
 ### Draft Conformance Model {#model}
 
-The _conformance model_ is the way to determine and communicate how well a website (or app, tool, etc.) meets WCAG. The conformance model in this draft of WCAG 3 is very different from WCAG 2. It is intended to:
+The _conformance model_ is the way to determine and communicate how well a website (or app, tool, etc.) meets WCAG. The conformance model in this draft of WCAG 3 will be very different from WCAG 2. It is intended to:
 * be more flexible for organizations (that is, owners and developers of websites, apps, tools, etc.)
 * encourage more accessible user experiences
 
@@ -157,11 +164,11 @@ We are reworking the conformance model based on feedback and we encourage additi
 
 <img src="{{ "/content-images/wai-intro-wcag/calandara.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 
-The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. We plan to publish an updated draft in July 2023, and then every 3-6 months.
+The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. The July 2023 draft has many changes that resulted from public feedback. We plan to publish updated drafts every 3-6 months.
 
 **WCAG 3 is not expected to be a completed W3C standard for a few more years.** 
 
-The Working Group will focus on refining the structure and conformance model, and will provide updated drafts for review. Once that is more stable, the Group will focus on developing the accessibility requirements (guidelines, outcomes, and support material). After WCAG 3 is more stable, we will provide material to help those wanting to transition to WCAG 3; for example, mapping between WCAG 2 and 3 requirements.
+The Working Group will focus on creating an initial set of guidelines and outcomes. Then will focus on refining the structure and conformance model. They will provide updated drafts for review throughout this process. Once the conformance approach is more stable, the Group will focus on refining the accessibility requirements (guidelines, outcomes, assertions, and support material). We will then provide material to help those wanting to transition to WCAG 3; for example, mapping between WCAG 2 and 3 requirements.
 
 WCAG 3 will not supersede WCAG 2, and WCAG 2 will not be deprecated, for at least several years after WCAG 3 is finalized.
 
@@ -179,8 +186,8 @@ The name of WCAG 3 is different from WCAG 2:
 
 ### Who Develops WCAG 3
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) with the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
+The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) (previously under the Silver Task Force) with the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
 
-We welcome your comments on WCAG 3 Working Drafts. The best way to provide feedback is by opening new [GitHub issues](https://github.com/w3c/silver/issues). Alternatively, e-mail public-silver@w3.org
+We welcome your comments on WCAG 3 Working Drafts. The best way to provide feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues). Alternatively, e-mail public-agwg-comments@w3.org
 
 Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
