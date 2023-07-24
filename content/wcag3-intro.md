@@ -94,7 +94,7 @@ We welcome input from evaluators, developers, designers, project managers, polic
 
 We also welcome comments on the goals and parameters in [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).
 
-The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/silver/issues). Alternatively, e-mail public-agwg-comments@w3.org
+The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues/new). Alternatively, e-mail public-agwg-comments@w3.org
 Please put each topic in a separate GitHub issue or e-mail.
 
 Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, and inclusion in the process of creating WCAG 3. Please e-mail these to group-ag-chairs@w3.org
