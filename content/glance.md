@@ -27,15 +27,17 @@ ref: /standards-guidelines/wcag/glance/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.1 and WCAG 2.2. For the normative technical specification, see [www.w3.org/TR/WCAG22](http://www.w3.org/TR/WCAG22/). or [www.w3.org/TR/WCAG21](http://www.w3.org/TR/WCAG21/).
+This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.2.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-Please see the following key resources for learning and using WCAG 2:
+The normative technical specifications are at [www.w3.org/TR/WCAG22](http://www.w3.org/TR/WCAG22/) and [www.w3.org/TR/WCAG21](http://www.w3.org/TR/WCAG21/)
+
+Please see the following key resources for learning about WCAG 2:
 -   **[[WCAG Overview]](/standards-guidelines/wcag/)**
--   **[How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)** &mdash; A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (success criteria) and techniques
+-   **[[The WCAG 2 Documents]](/standards-guidelines/wcag/docs/)**
 
 {::nomarkdown}
 {% include box.html type="start" title="Perceivable" h=2 class="large" %}
@@ -92,5 +94,5 @@ Please see the following key resources for learning and using WCAG 2:
 This page has summaries at the guideline level. The guidelines are the same in WCAG 2.1 and WCAG 2.2. To learn about the new success criteria, see [[What's New in WCAG 2.2]](standards-guidelines/wcag/new-in-22/).
 
 [[WCAG 2.0 at a Glance]](/standards-guidelines/wcag/20/glance/) has two differences from above:
-    * "Do not use content that causes seizures or physical reactions." does not include "or physical reactions".
-    * It does not include "Make it easier to use inputs other than keyboard."
+* "Do not use content that causes seizures or physical reactions." does not include "or physical reactions".
+* It does not include "Make it easier to use inputs other than keyboard."
