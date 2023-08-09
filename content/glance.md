@@ -33,14 +33,16 @@ This page provides a paraphrased summary of Web Content Accessibility Guidelines
 {% include box.html type="end" %}
 {:/}
 
-The normative technical specifications are at [www.w3.org/TR/WCAG22](http://www.w3.org/TR/WCAG22/) and [www.w3.org/TR/WCAG21](http://www.w3.org/TR/WCAG21/)
-
 Please see the following key resources for learning about WCAG 2:
 -   **[[WCAG Overview]](/standards-guidelines/wcag/)**
 -   **[[The WCAG 2 Documents]](/standards-guidelines/wcag/docs/)**
 
+The normative technical specifications are at [www.w3.org/TR/WCAG22](http://www.w3.org/TR/WCAG22/) and [www.w3.org/TR/WCAG21](http://www.w3.org/TR/WCAG21/)
+
+## Guidelines
+
 {::nomarkdown}
-{% include box.html type="start" title="Perceivable" h=2 class="large" %}
+{% include box.html type="start" title="Perceivable" h=3 class="large" %}
 {:/}
 
 -   Provide **[text alternatives](http://www.w3.org/WAI/WCAG21/quickref/#text-equiv)** for non-text content.
@@ -54,7 +56,7 @@ Please see the following key resources for learning about WCAG 2:
 
 
 {::nomarkdown}
-{% include box.html type="start" title="Operable" h=2 class="large" %}
+{% include box.html type="start" title="Operable" h=3 class="large" %}
 {:/}
 
 -   Make all functionality available from a **[keyboard](http://www.w3.org/WAI/WCAG21/quickref/#keyboard-operation)**.
@@ -68,7 +70,7 @@ Please see the following key resources for learning about WCAG 2:
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Understandable" h=2 class="large" %}
+{% include box.html type="start" title="Understandable" h=3 class="large" %}
 {:/}
 
 -   Make text **[readable and understandable](http://www.w3.org/WAI/WCAG21/quickref/#meaning)**.
@@ -80,7 +82,7 @@ Please see the following key resources for learning about WCAG 2:
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Robust" h=2 class="large" %}
+{% include box.html type="start" title="Robust" h=3 class="large" %}
 {:/}
 
 -   Maximize **[compatibility](http://www.w3.org/WAI/WCAG21/quickref/#ensure-compat)** with current and future user tools.
