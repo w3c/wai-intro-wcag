@@ -29,7 +29,7 @@ ref: /standards-guidelines/wcag/non-web-ict/
 This page introduces the document: "Guidance on Applying WCAG 2.0 to Non-Web Information and Communications Technologies (WCAG2ICT)".
 
 Quick links:
-* [WCAG2ICT Note for WCAG 2.o, 2013](https://www.w3.org/TR/wcag2ict/)
+* [WCAG2ICT Note for WCAG 2.0, 2013](https://www.w3.org/TR/wcag2ict/)
 * [WCAG2ICT Working Draft Note for WCAG 2.2](https://www.w3.org/@@) @@link
 
 Update in progress: The WCAG2ICT Task Force is currently updating WCAG2ICT to also include WCAG 2.1 and WCAG 2.2.
