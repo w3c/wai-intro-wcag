@@ -53,9 +53,9 @@ This page introduces the draft document: "Guidance on Applying WCAG 2.2 to Non-W
 
 *Background:* **WCAG 2.0** is a normative web standard — it is a W3C Recommendation and an ISO International Standard ([ISO/IEC 40500:2012](https://www.w3.org/QA/2012/10/wcag_20_is_now_also_isoiec_405.html)) — that explains how to make web content (including static web pages, dynamic web applications, etc.) more accessible to people with disabilities. WCAG 2.1 was published in 2018 and **WCAG 2.2** may be published in 2023. The [WCAG Overview](/standards-guidelines/wcag/) introduces the WCAG documents and links to supporting resources such as [[WCAG 2.0 at a Glance]](/standards-guidelines/wcag/20/glance/) and [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/).
 
-*This document:* **WCAG2ICT** is a draft W3C Group Note that is informative — it is not normative and does not set requirements. It provides guidance on the application of WCAG 2 principles, guidelines, and success criteria to non-web documents and software. WCAG2ICT was developed to provide an authoritative interpretation of how WCAG 2 can apply in different contexts. For information on the scope of WCAG2ICT, see the [WCAG2ICT Introduction](https://www.w3.org/TR/wcag2ict/#intro).
+*This document:* **WCAG2ICT** is a draft W3C Group Note that is informative — it is not normative and does not set requirements. It provides guidance on the application of WCAG 2 principles, guidelines, and success criteria to non-web documents and software. WCAG2ICT was developed to provide an authoritative interpretation of how WCAG 2 can apply in different contexts. For information on the scope of WCAG2ICT, see the [Introduction section of WCAG2ICT](https://www.w3.org/TR/wcag2ict/#intro).
 
-*Update in progress:* The [previous WCAG2ICT Note covered WCAG 2.0](https://www.w3.org/TR/2013/NOTE-wcag2ict-20130905/). The [WCAG2ICT Draft Note](https://www.w3.org/TR/wcag2ict/)** currently includes guidance for WCAG 2.1 success criteria and will include guidance for WCAG 2.2 success criteria. The [WCAG2ICT Editor's Draft](https://w3c.github.io/wcag2ict) may include additional proposed updates that are not yet apporved and published.
+*Update in progress:* The [previous WCAG2ICT Note covered WCAG 2.0](https://www.w3.org/TR/2013/NOTE-wcag2ict-20130905/). The **[WCAG2ICT Draft Note](https://www.w3.org/TR/wcag2ict/)** dated 15 August 2023 includes guidance for WCAG 2.1 success criteria. Later updates will include guidance for WCAG 2.2 success criteria. The [WCAG2ICT Editor's Draft](https://w3c.github.io/wcag2ict) may include proposed updates that are not yet approved and published.
 
 ## Who WCAG2ICT is for {#for}
 
@@ -88,10 +88,8 @@ WCAG2ICT is developed by the [WCAG2ICT Task Force](https://www.w3.org/WAI/GL/WCA
 
 ### Comments
 
-If you have any comments on the Additional Guidance sections of WCAG2ICT, you can [open a new GitHub issue](https://github.com/w3c/wcag2ict/issues/new). It is free to create a GitHub account.       
-
-Please open a separate GitHub issue for each topic, rather than commenting on multiple topics in a single issue.
+**If you have any comments on the Additional Guidance sections of WCAG2ICT**, you can [open a new GitHub issue](https://github.com/w3c/wcag2ict/issues/new). It is free to create a GitHub account. Please open a separate GitHub issue for each topic, rather than commenting on multiple topics in a single issue.
 
 If it is not feasible for you to use GitHub, you can put your comments in the body of an e-mail message and send them to: <public-wcag2ict-comments@w3.org>.
 
-If you have comments on the wording taken from WCAG 2 or Understanding WCAG 2, please read the [[Instructions for Commenting on WCAG 2 Documents]](/standards-guidelines/wcag/commenting/).
+**If you have comments on the wording taken from WCAG 2 or Understanding WCAG 2**, please read the [[Instructions for Commenting on WCAG 2 Documents]](/standards-guidelines/wcag/commenting/).
