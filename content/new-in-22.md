@@ -20,7 +20,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 28 August 2023.</p>
+  <p><strong>Date:</strong> Updated 25 August 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mike Gower, Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -121,7 +121,7 @@ Background: For an introduction to Web Content Accessibility Guidelines (WCAG) a
 
 **[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 20 July 2023. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-**We expect to publish WCAG 2.2 as a "W3C Recommendation" web standard in 2023.** We are addresssing new comments that we received in August 2023. Depending how that goes, the final publication could be in August or September or later in 2023. We will update information here as soon as we reach consensus.
+**We expect to publish WCAG 2.2 as a "W3C Recommendation" web standard in 2023.** We are addresssing new comments that we received in August 2023. Depending on how that goes, the final publication could be in August or September or later in 2023. We will update information here as soon as we reach consensus.
 
 <!-- We don't expect changes to the new WCAG 2.2 success criteria. The changes **might** be informative notes:
 * Added to WCAG 2.0 and 2.1 that success criteria 4.1.1 is obsolete with today's technology
