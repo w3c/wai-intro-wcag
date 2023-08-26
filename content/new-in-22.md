@@ -121,13 +121,12 @@ Background: For an introduction to Web Content Accessibility Guidelines (WCAG) a
 
 **[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 20 July 2023. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
 
-**We expect to publish WCAG 2.2 as a "W3C Recommendation" web standard in 2023.** We are addresssing new comments that we received in August 2023. Depending on how that goes, the final publication could be in August or September or later in 2023. We will update information here as soon as we reach consensus.
+**We expect to publish WCAG 2.2 as a "W3C Recommendation" web standard in 2023.** We are addresssing new comments that we received in August 2023. Depending how that goes, the final publication could be in August or September or later in 2023. We will update information here as soon as we reach consensus and have more information on the expected final publication date.
 
-<!-- We don't expect changes to the new WCAG 2.2 success criteria. The changes **might** be informative notes:
+We are not planning to change the new WCAG 2.2 success criteria. The changes **might** be informative notes:
 * Added to WCAG 2.0 and 2.1 that success criteria 4.1.1 is obsolete with today's technology
-* To clarify that success criteria 1.4.12 (AA) does not require content to use those text settings, only to work when users set those text settings; and does not apply to certain language scripts
+* To clarify that success criteria 1.4.12 (AA) does not require content to use those text settings, only to work when users set those settings; and does not apply to certain language scripts
 * To clarify applicability of success criteria 1.4.8 (AAA)
--->
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
