@@ -7,7 +7,7 @@ nav_title: "Applying to Non-Web ICT"
 description: "Introduces the document: Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)."
 
 lang: en
-last_updated: 2023-08-15
+last_updated: 2023-08-31
 permalink: /standards-guidelines/wcag/non-web-ict/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 15 August 2023.</p>
+  <p><strong>Date:</strong> Updated 31 August 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mary Jo Mueller, Judy Brewer, and Daniel Montalvo.</p>
   <p>Developed with input from the <a href="https://www.w3.org/groups/tf/wcag2ict/">WCAG2ICT Task Force</a> and the Education and Outreach Working Group (<a href="https://www.w3.org/groups/wg/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/non-web-ict/
@@ -28,7 +28,10 @@ ref: /standards-guidelines/wcag/non-web-ict/
 
 This page introduces the draft document: "Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT)". It is an in-progress update of the previous WCAG2ICT Note that covered WCAG 2.0.
 
-**Quick link: [WCAG2ICT Draft Note](https://www.w3.org/TR/wcag2ict/)**
+**Quick links:**
+* [WCAG2ICT for WCAG 2.2 Draft](https://www.w3.org/TR/wcag2ict-22/)
+* [WCAG2ICT for WCAG 2.0 Note, September 2013](https://www.w3.org/TR/wcag2ict-20/)
+* _The URI https://www.w3.org/TR/wcag2ict/ points to the latest completed version. Currently that is the 2.0 version. When the 2.2 version is finalized, that URI will point to the 2.2 version._
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -49,13 +52,13 @@ This page introduces the draft document: "Guidance on Applying WCAG 2.2 to Non-W
 
 ## Introduction {#intro}
 
-[Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT)](https://www.w3.org/TR/wcag2ict/) describes how the Web Content Accessibility Guidelines (WCAG) can be applied to non-web information and communications technologies (ICT), including documents and software. It supports harmonized accessibility solutions across a range of technologies.
+<cite>Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)</cite> describes how the Web Content Accessibility Guidelines (WCAG) can be applied to non-web information and communications technologies (ICT), including documents and software. It supports harmonized accessibility solutions across a range of technologies.
 
 *Background:* **WCAG 2.0** is a normative web standard — it is a W3C Recommendation and an ISO International Standard ([ISO/IEC 40500:2012](https://www.w3.org/QA/2012/10/wcag_20_is_now_also_isoiec_405.html)) — that explains how to make web content (including static web pages, dynamic web applications, etc.) more accessible to people with disabilities. WCAG 2.1 was published in 2018 and **WCAG 2.2** may be published in 2023. The [WCAG Overview](/standards-guidelines/wcag/) introduces the WCAG documents and links to supporting resources such as [[WCAG 2.0 at a Glance]](/standards-guidelines/wcag/20/glance/) and [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/).
 
-*This document:* **WCAG2ICT** is a draft W3C Group Note that is informative — it is not normative and does not set requirements. It provides guidance on the application of WCAG 2 principles, guidelines, and success criteria to non-web documents and software. WCAG2ICT was developed to provide an authoritative interpretation of how WCAG 2 can apply in different contexts. For information on the scope of WCAG2ICT, see the [Introduction section of WCAG2ICT](https://www.w3.org/TR/wcag2ict/#intro).
+*This document:* **WCAG2ICT** is a W3C Group Note that is informative — it is not normative and does not set requirements. It provides guidance on the application of WCAG 2 principles, guidelines, and success criteria to non-web documents and software. WCAG2ICT was developed to provide an authoritative interpretation of how WCAG 2 can apply in different contexts. For information on the scope of WCAG2ICT, see the [Introduction section of WCAG2ICT](https://www.w3.org/TR/wcag2ict/#intro).
 
-*Update in progress:* The [previous WCAG2ICT Note covered WCAG 2.0](https://www.w3.org/TR/2013/NOTE-wcag2ict-20130905/). The **[WCAG2ICT Draft Note](https://www.w3.org/TR/wcag2ict/)** dated 15 August 2023 includes guidance for WCAG 2.1 success criteria. Later updates will include guidance for WCAG 2.2 success criteria. The [WCAG2ICT Editor's Draft](https://w3c.github.io/wcag2ict) may include proposed updates that are not yet approved and published.
+*Update in progress:* The [previous WCAG2ICT 2.0 Note](https://www.w3.org/TR/wcag2ict-20/) covered WCAG 2.0. The **[WCAG2ICT 2.2 Note ](https://www.w3.org/TR/wcag2ict-22/) will cover WCAG 2.2**. It curently includes guidance for WCAG 2.1 success criteria. Later updates will include guidance for WCAG 2.2 success criteria. The [WCAG2ICT Editor's Draft](https://w3c.github.io/wcag2ict) may include proposed updates that are not yet approved and published.
 
 ## Who WCAG2ICT is for {#for}
 
