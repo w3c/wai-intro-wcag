@@ -1,3 +1,4 @@
+![TN_GTOReport_es](https://github.com/w3c/wai-intro-wcag/assets/141457487/ec66eb6c-92b5-47d4-a281-a3a29a9a024b)
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
