@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 29 March 2023. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 19 September 2023. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -116,7 +116,7 @@ Success criteria (SC) 4.1.1 Parsing is obsolete and removed from WCAG 2.2. Parsi
 
 With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
 
-We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We may deprecate it in those versions or add a note referencing the update in WCAG 2.2. In some cases, web content that is required to meet WCAG 2.0 or 2.1 may need to meet 4.1.1.
+We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We plan to update this information in September 2023.
 
 ## How Can I Get Updates? {#getnews}
 
