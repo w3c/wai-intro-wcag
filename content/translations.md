@@ -65,11 +65,6 @@ Two types of translations are listed on this page:
   </thead>
   <tbody>
     <tr>
-      <th id="zh-hant22">Chinese, Traditional</th>
-      <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0010.html">notification of intent for Traditional Chinese Authorized Translation of WCAG&nbsp;2.2 (5 September 2023)</a></td>
-    </tr>
-    <tr>
       <th id="nl22">Dutch</th>
       <td></td>
       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023AprJun/0016.html">notification of intent for Dutch Authorized Translation of WCAG&nbsp;2.2 (5 June 2023)</a></td>
@@ -114,9 +109,14 @@ Two types of translations are listed on this page:
       <td></td>
     </tr>    
     <tr>
-      <th id="zh21">Chinese, Simplified</th>
+      <th id="zh-hans21">Chinese, Simplified</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
+    </tr>
+    <tr>
+      <th id="zh-hant21">Chinese, Traditional</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0010.html">notification of intent for Traditional Chinese Authorized Translation of WCAG&nbsp;2.1 (5 September 2023)</a></td>
     </tr>
     <tr>
       <th id="fi21">Finnish</th>
