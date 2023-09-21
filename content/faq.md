@@ -40,7 +40,7 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
 {::options toc_levels="2" /}
 
   <ul class="questions">
-    <li>New: <a href="#Sept2023">What is getting updated in September 2023?</a></li>
+    <li>New: <a href="#Sept2023">What is being updated in September 2023?</a></li>
     <li>New: <a href="#parsing411">How and why is success criteria 4.1.1 Parsing obsolete?</a></li>
     <li><a href="#done">When was WCAG 2.0 published?</a></li>
     <li><a href="#v21">What about WCAG 2.1?</a></li>
@@ -64,11 +64,11 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
 {% include_cached toc.html type="end" %}
 {:/}
 
-## What is getting updated in September 2023? {#Sept2023}
+## What is being updated in September 2023? {#Sept2023}
 
-_We will update this section throughout September 2023._
+_We will update this section throughout September 2023 as we publish updates._
 
-On 21 September, we published an update to WCAG 2.1. The update:
+**WCAG 2.1:** On 21 September, we published an update to WCAG 2.1. The update:
 * Adds informative notes to success criteria 4.1.1 Parsing. More information is under [Why is success criteria 4.1.1 Parsing obsolete](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 * Incorporates existing errata that are mostly minor wording corrections. The changes are listed in the [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog).
 
@@ -79,19 +79,23 @@ You can link to the latest version or specific versions of WCAG 2.1:
 
 More info on linking is in [Referencing and Linking to WAI Guidelines](https://www.w3.org/WAI/standards-guidelines/linking/).
 
+**WCAG 2.2:** We plan to provide an update on WCAG 2.2 publication by 29 September 2023.
+
+Updates for success criteria 4.1.1 Parsing are listed under the next question.
 
 ## How and why is success criteria 4.1.1 Parsing obsolete? {#parsing411}
 
-Success criteria 4.1.1 Parsing is obsolete and removed from WCAG 2.2. For WCAG 2.0 and WCAG 2.1, we are adding informative notes in:
-* the WCAG 2.0 errata
-* the WCAG 2.1 update that incorporates errata ([WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog)
-* the Understanding documents
-We plan to complete these in September 2023.
+Success criteria 4.1.1 Parsing is obsolete as documented in:
+* WCAG 2.2 [4.1.1 Parsing (Obsolete and removed)](https://www.w3.org/TR/WCAG22/#parsing)
+* updated WCAG 2.1 that incorporates errata, [4.1.1 Parsing Notes](https://www.w3.org/TR/WCAG21/#parsing), [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog)
+* WCAG [2.0 errata](https://www.w3.org/WAI/WCAG20/errata/)
+* Understanding documents
 
 Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assistive technology did their own markup parsing. Now they rely on the browser.
 
 With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
 
+<!-- update links when WCAG 2.2 Understanding docs published -->
 
 ## When was WCAG 2.0 published? {#done}
 
