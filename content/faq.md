@@ -63,15 +63,30 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Is WCAG 2.0 stable? {#done}
+## What about the September 2023 updates? {#Sept2023}
 
-Yes. WCAG standards (called "W3C Recommendations") are stable, referenceable standards. There may be later versions published.
+_We will update this section throughout September 2023._
+
+On 21 September, we published an update to WCAG 2.1. The update:
+* Adds informative notes to success criteria 4.1.1 Parsing. More information is on this page under [Why is success criteria 4.1.1 Parsing obsolete](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+* Incorporates existing 'errata' that are mostly minor wording corrections. The changes are listed in the [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog).
+
+You can link to the latest version or specific versions of WCAG 2.1:
+* For the latest version of WCAG 2.1: https://www.w3.org/TR/WCAG21/
+* The version published today, 21 September 2023: https://www.w3.org/TR/2023/REC-WCAG21-20230921/
+* The version published 5 June 2018: https://www.w3.org/TR/2018/REC-WCAG21-20180605/
+
+More info on linking is in [Referencing and Linking to WAI Guidelines](https://www.w3.org/WAI/standards-guidelines/linking/).
+
+## When was WCAG 2.0 published? {#done}
+
+<!-- Yes. WCAG standards (called "W3C Recommendations") are stable, referenceable standards. There may be later versions published. -->
 
 [WCAG 2.0](http://www.w3.org/TR/WCAG20/) was published as a final W3C Recommendation Web Standard on 11 December 2008. [WCAG 2.1](http://www.w3.org/TR/WCAG21/) was published as a final W3C Recommendation Web Standard on 5 June 2018.
 
-The supporting resources — Techniques for WCAG 2 and Understanding WCAG 2 — are updated periodically to reflect updates in technologies and best practices.
+<!-- The supporting resources — Techniques for WCAG 2 and Understanding WCAG 2 — are updated periodically to reflect updates in technologies and best practices.
 
-*See also important information in the next answer about WCAG 2.1:*
+*See also important information in the next answer about WCAG 2.1:* -->
 
 ## What about WCAG 2.1? {#v21}
 
@@ -112,7 +127,7 @@ The new standard is currently referred to as “W3C Accessibility Guidelines (WC
 
 ## Why is success criteria 4.1.1 Parsing obsolete? {#parsing411}
 
-**Success criteria 4.1.1 Parsing is obsolete and removed from WCAG 2.2. For WCAG 2.0 and WCAG 2.1, we are adding informative Notes: in the WCAG 2.0 errata, in a WCAG 2.1 updated version that incorporates errata, and in the Understanding documents.** These should be completed in September 2023.
+**Success criteria 4.1.1 Parsing is obsolete and removed from WCAG 2.2. For WCAG 2.0 and WCAG 2.1, we are adding informative Notes in the WCAG 2.0 errata, in a WCAG 2.1 updated version that incorporates errata, and in the Understanding documents.** These should be completed in September 2023.
 
 Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assistive technology did their own markup parsing. Now they rely on the browser.
 
