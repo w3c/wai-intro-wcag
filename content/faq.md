@@ -69,13 +69,13 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
 _We will update this section throughout September 2023._
 
 On 21 September, we published an update to WCAG 2.1. The update:
-* Adds informative notes to success criteria 4.1.1 Parsing. More information is on this page under [Why is success criteria 4.1.1 Parsing obsolete](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+* Adds informative notes to success criteria 4.1.1 Parsing. More information is under [Why is success criteria 4.1.1 Parsing obsolete](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 * Incorporates existing 'errata' that are mostly minor wording corrections. The changes are listed in the [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog).
 
 You can link to the latest version or specific versions of WCAG 2.1:
-* For the latest version of WCAG 2.1: https://www.w3.org/TR/WCAG21/
-* The version published today, 21 September 2023: https://www.w3.org/TR/2023/REC-WCAG21-20230921/
-* The version published 5 June 2018: https://www.w3.org/TR/2018/REC-WCAG21-20180605/
+* For the latest version of WCAG 2.1: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/)
+* The version published today, 21 September 2023: [https://www.w3.org/TR/2023/REC-WCAG21-20230921/](https://www.w3.org/TR/2023/REC-WCAG21-20230921/)
+* The version published 5 June 2018: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/)
 
 More info on linking is in [Referencing and Linking to WAI Guidelines](https://www.w3.org/WAI/standards-guidelines/linking/).
 
