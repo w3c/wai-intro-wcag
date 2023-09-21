@@ -65,9 +65,9 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
 
 ## Is WCAG 2.0 stable? {#done}
 
-Yes. WCAG standards (called "W3C Recommendations") are a stable, referenceable standards that do not change. There may be later versions published.
+Yes. WCAG standards (called "W3C Recommendations") are stable, referenceable standards. There may be later versions published.
 
-[WCAG 2.0](http://www.w3.org/TR/WCAG20/) was published as a final W3C Recommendation Web Standard on 11 December 2008. [WCAG 2.1](http://www.w3.org/TR/WCAG21/) was published as a final W3C Recommendation Web Standard on 5 June 2018. **They will not change.**
+[WCAG 2.0](http://www.w3.org/TR/WCAG20/) was published as a final W3C Recommendation Web Standard on 11 December 2008. [WCAG 2.1](http://www.w3.org/TR/WCAG21/) was published as a final W3C Recommendation Web Standard on 5 June 2018.
 
 The supporting resources — Techniques for WCAG 2 and Understanding WCAG 2 — are updated periodically to reflect updates in technologies and best practices.
 
