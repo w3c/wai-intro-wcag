@@ -7,7 +7,7 @@ nav_title: "FAQ"
 description: Answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG).
 
 lang: en
-last_updated: 2023-03-29
+last_updated: 2222-00-00  # not needed since no translations
 permalink: /standards-guidelines/wcag/faq/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 19 September 2023. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 21 September 2023. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -27,7 +27,7 @@ permalink: /standards-guidelines/wcag/faq/
 {:/}
 
 This page answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG). Let us know what <a href="#more">other questions</a> you have.<br>
-~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 25 January 2023</em>
+~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 21 September 2023</em>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -65,9 +65,9 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
 
 ## Is WCAG 2.0 stable? {#done}
 
-Yes. WCAG standards (called "W3C Recommendations") are a stable, referenceable standards that do not change. There may be later versions published.
+Yes. WCAG standards (called "W3C Recommendations") are stable, referenceable standards. There may be later versions published.
 
-[WCAG 2.0](http://www.w3.org/TR/WCAG20/) was published as a final W3C Recommendation Web Standard on 11 December 2008. [WCAG 2.1](http://www.w3.org/TR/WCAG21/) was published as a final W3C Recommendation Web Standard on 5 June 2018. **They will not change.**
+[WCAG 2.0](http://www.w3.org/TR/WCAG20/) was published as a final W3C Recommendation Web Standard on 11 December 2008. [WCAG 2.1](http://www.w3.org/TR/WCAG21/) was published as a final W3C Recommendation Web Standard on 5 June 2018.
 
 The supporting resources — Techniques for WCAG 2 and Understanding WCAG 2 — are updated periodically to reflect updates in technologies and best practices.
 
@@ -110,13 +110,13 @@ WCAG 2 and WCAG 3 have different names.
 
 The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
 
-## Why is success criteria 4.1.1 Parsing obsolete in WCAG 2.2? What about Parsing in WCAG 2.0 and 2.1? {#parsing411}
+## Why is success criteria 4.1.1 Parsing obsolete? {#parsing411}
 
-Success criteria (SC) 4.1.1 Parsing is obsolete and removed from WCAG 2.2. Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assistive technology did their own markup parsing. Now they rely on the browser.
+**Success criteria 4.1.1 Parsing is obsolete and removed from WCAG 2.2. For WCAG 2.0 and WCAG 2.1, we are adding informative Notes: in the WCAG 2.0 errata, in a WCAG 2.1 updated version that incorporates errata, and in the Understanding documents.** These should be completed in September 2023.
+
+Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assistive technology did their own markup parsing. Now they rely on the browser.
 
 With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
-
-We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We plan to update this information in September 2023.
 
 ## How Can I Get Updates? {#getnews}
 
