@@ -85,7 +85,7 @@ Updates for success criteria 4.1.1 Parsing are listed under the next question.
 
 ## How and why is success criteria 4.1.1 Parsing obsolete? {#parsing411}
 
-Success criteria 4.1.1 Parsing is obsolete as documented in:
+Success criteria 4.1.1 Parsing is obsolete. That's documented in:
 * WCAG 2.2 [4.1.1 Parsing (Obsolete and removed)](https://www.w3.org/TR/WCAG22/#parsing)
 * updated WCAG 2.1 that incorporates errata, [4.1.1 Parsing Notes](https://www.w3.org/TR/WCAG21/#parsing), [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog)
 * WCAG [2.0 errata](https://www.w3.org/WAI/WCAG20/errata/)
