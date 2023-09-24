@@ -16,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 21 September 2023. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 23 September 2023. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -85,15 +85,22 @@ Updates for success criteria 4.1.1 Parsing are listed under the next question.
 
 ## How and why is success criteria 4.1.1 Parsing obsolete? {#parsing411}
 
-Success criteria 4.1.1 Parsing is obsolete. That's documented in:
-* WCAG 2.2 [4.1.1 Parsing (Obsolete and removed)](https://www.w3.org/TR/WCAG22/#parsing)
-* updated WCAG 2.1 that incorporates errata, [4.1.1 Parsing Notes](https://www.w3.org/TR/WCAG21/#parsing), [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog)
+Success criteria 4.1.1 Parsing is obsolete. WCAG 2.2 indicates it as [4.1.1 Parsing (Obsolete and removed)](https://www.w3.org/TR/WCAG22/#parsing), along with a note.
+
+WCAG 2.1 and WCAG 2.0 now include this note from a conformance perspective:
+<blockquote>This Success Criterion should be considered as always satisfied for any content using HTML or XML.</blockquote>
+
+That note is in:
+
+* updated WCAG 2.1 that includes new notes under [4.1.1 Parsing](https://www.w3.org/TR/WCAG21/#parsing) and incorporates errata listed in the [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog)
 * WCAG [2.0 errata](https://www.w3.org/WAI/WCAG20/errata/)
 * Understanding documents
 
 Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assistive technology did their own markup parsing. Now they rely on the browser.
 
 With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
+
+(Using tools that assess parsing errors and fixing parsing issues may still be useful &mdash; it's just not required for accessibility.)
 
 <!-- update links when WCAG 2.2 Understanding docs published -->
 
