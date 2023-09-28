@@ -25,6 +25,7 @@ footer: >
 ref: /standards-guidelines/wcag/glance/
 layout: default
 
+# Read Translations Notes for this resource at https://github.com/w3c/wai-intro-wcag#readme
 ---
 
 {::nomarkdown}
