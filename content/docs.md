@@ -125,7 +125,7 @@ Before you start working with WCAG, you probably want to read these resources:
 * [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
 * [[Accessibility Principles]](/fundamentals/accessibility-principles/)
 * [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/)
-
+https://m.mediawiki.org/wiki/Special:MyLanguage/wikitexthttps://www.facebook.com/profile.php?id=100069124483477CC BY-SA 4.0CC BY-SA 4.0
 Other resources cover specific topics, for example: 
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) cover page structure, menus, images, tables, carousels, forms
 * [[Making Audio and Video Media Accessible]](/media/av/) covers multimedia
