@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Introducción a las Pautas de Accesibilidad para el Contenido Web (WCAG)"
 nav_title: "Contenido Web – WCAG"
 
