@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Novedades en WCAG 2.1"
 nav_title: "Novedades en 2.1"
 
