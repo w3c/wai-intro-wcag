@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "WCAG 3 Introduction"
 nav_title: "WCAG 3 Draft"
 
