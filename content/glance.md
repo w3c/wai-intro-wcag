@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "WCAG 2.1 at a Glance"
 nav_title: "At a Glance"
 
@@ -21,6 +19,8 @@ footer: >
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> and Wayne Dick.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/glance/
+
+# Read Translations Notes for this resource at https://github.com/w3c/wai-intro-wcag#readme
 ---
 
 {::nomarkdown}

@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "WCAG 2.1 de un vistazo"
 nav_title: "De un vistazo"
 
@@ -25,6 +23,8 @@ footer: >
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) y el Grupo de Trabajo de Pautas de Accesibilidad (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/glance/
 layout: default
+
+# Read Translations Notes for this resource at https://github.com/w3c/wai-intro-wcag#readme
 ---
 
 {::nomarkdown}
