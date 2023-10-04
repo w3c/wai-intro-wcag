@@ -56,28 +56,6 @@ inline_css: |
     margin: 0;
   }
   .sclabel {color: #005a6a; font-weight: bold; }
-  div.note, div.ednote, div.warning {
-      margin-top: 1em;
-      margin-bottom: 1em;
-  }
-  .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-    .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-  .note, .ednote, .warning {
-      padding: .5em;
-      border-left-width: 1px;
-      border-left-style: solid;
-  }
-  div.note , div.ednote,  div.warning {
-      padding: 1em 1.2em 0.5em;
-      margin: 1em 0;
-      position: relative;
-      clear: both;
-  }
-  span.note, span.ednote, span.warning { padding: .1em .5em .15em; }
-  .note, .ednote {
-      border-color: #52e052;
-  }
-  .note-p {margin-top: 0}
   #markdown-toc ul li {
     margin-bottom: 0;
   }
@@ -151,7 +129,7 @@ Provide ways to help users navigate, find content, and determine where they are.
   <dd>Ensure when an item gets keyboard focus, it is at least partially visible.</dd>
   <dt><span class="why">Why it’s important</span></dt>
   <dd>People who can't use a mouse need to see what has keyboard focus.</dd>
-  
+
 </dl>
 
 <p class="persona">Persona example &mdash; a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
@@ -166,8 +144,8 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p class="sclabel">WCAG success criteria:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
-  <p class="note">Note: Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
-  <p class="note">Note: Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
+  <p class="note"><em>Note:</em> Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
+  <p class="note"><em>Note:</em> Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
@@ -224,9 +202,9 @@ Provide ways to help users navigate, find content, and determine where they are.
   <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
   <li>The focus indicator and the indicator's background color are not modified by the author.</li>
 </ul>
-<p class="note">Note: What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
-<p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
-<p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
+<p class="note"><em>Note:</em> What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
+<p class="note"><em>Note:</em> Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
+<p class="note"><em>Note:</em> Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
@@ -257,7 +235,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="sclabel">WCAG success criteria:</p>
 <blockquote class="sc">
 <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
-<p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
+<p class="note"><em>Note:</em> This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
@@ -291,8 +269,8 @@ Make it easier for users to operate functionality through various inputs beyond 
     <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author;</li>
     <li><strong>Essential:</strong> A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or is legally required for the information being conveyed.</li>
   </ul>
-  <p class="note">Note: Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
-  <p class="note">Note: For inline targets the line-height should be interpreted as perpendicular to the flow of text. For example, in a language displayed top to bottom, the line-height would be horizontal.</p>
+  <p class="note"><em>Note:</em> Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
+  <p class="note"><em>Note:</em> For inline targets the line-height should be interpreted as perpendicular to the flow of text. For example, in a language displayed top to bottom, the line-height would be horizontal.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">Understanding Target Size (Minimum)</a></p>
 
@@ -329,8 +307,8 @@ Make Web pages appear and operate in predictable ways.
   <li>Self-help option;</li>
   <li>A fully automated contact mechanism.</li>
 </ul>
-<p class="note">Note: Help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
-<p class="note">Note: For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can initiate a change, such as changing the page's zoom or orientation, which may trigger a different page variation. This criterion is concerned with relative order across pages displayed in the same page variation (e.g., same zoom level and orientation).</p>
+<p class="note"><em>Note:</em> Help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
+<p class="note"><em>Note:</em> For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can initiate a change, such as changing the page's zoom or orientation, which may trigger a different page variation. This criterion is concerned with relative order across pages displayed in the same page variation (e.g., same zoom level and orientation).</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help">Understanding Consistent Help</a></p>
 
@@ -407,8 +385,8 @@ Help users avoid and correct mistakes.
   <dt>Personal Content</dt>
   <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
 </dl>
-  <p class="note">Note: "Object recognition" and "Personal content" may be represented by images, video, or audio.</p>
-  <p class="note">Note: Examples of mechanisms that satisfy this criterion include:</p>
+  <p class="note"><em>Note:</em> "Object recognition" and "Personal content" may be represented by images, video, or audio.</p>
+  <p class="note"><em>Note:</em> Examples of mechanisms that satisfy this criterion include:</p>
    <ol>
       <li>support for password entry by password managers to reduce memory need, and</li>
       <li>copy and paste to reduce the cognitive burden of re-typing.</li>
