@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Vue d'ensemble des Règles pour l'accessibilité des contenus Web,  (WCAG)"
 nav_title: "Web Content – WCAG"
 

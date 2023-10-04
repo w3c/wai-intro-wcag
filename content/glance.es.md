@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "WCAG 2.1 de un vistazo"
 nav_title: "De un vistazo"
 
