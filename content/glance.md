@@ -7,7 +7,7 @@ nav_title: "At a Glance"
 description: This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.
 
 lang: en
-last_updated: 2023-08-24
+last_updated: 2023-10-05
 permalink: /standards-guidelines/wcag/glance/
 
 github:
@@ -17,7 +17,7 @@ github:
 image: /content-images/wai-intro-wcag/general-social.jpg
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 24 August 2023. First published July 2008.</p>
+  <p><strong>Date:</strong> Updated 5 October 2023. First published July 2008.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> and Wayne Dick.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/glance/
