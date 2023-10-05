@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "What's New in WCAG 2.2"
 title_html: "What's New in WCAG 2.2"
 nav_title: "New in 2.2"
@@ -20,7 +18,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 20 July 2023.</p>
+  <p><strong>Date:</strong> Updated 5 October 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mike Gower, Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -58,28 +56,6 @@ inline_css: |
     margin: 0;
   }
   .sclabel {color: #005a6a; font-weight: bold; }
-  div.note, div.ednote, div.warning {
-      margin-top: 1em;
-      margin-bottom: 1em;
-  }
-  .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-    .note > p:first-child, .ednote > p:first-child,.warning > p:first-child { margin-top: 0 }
-  .note, .ednote, .warning {
-      padding: .5em;
-      border-left-width: 1px;
-      border-left-style: solid;
-  }
-  div.note , div.ednote,  div.warning {
-      padding: 1em 1.2em 0.5em;
-      margin: 1em 0;
-      position: relative;
-      clear: both;
-  }
-  span.note, span.ednote, span.warning { padding: .1em .5em .15em; }
-  .note, .ednote {
-      border-color: #52e052;
-  }
-  .note-p {margin-top: 0}
   #markdown-toc ul li {
     margin-bottom: 0;
   }
@@ -91,8 +67,6 @@ ref: /standards-guidelines/wcag/new-in-22/
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
-
-We plan to publish WCAG 2.2 as a completed web standard in August 2023.<br>The latest update is [WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/).
 
 This page lists the new success criteria in WCAG 2.2, with:
 * A brief introduction of what to do and why it's important
@@ -115,25 +89,17 @@ This page lists the new success criteria in WCAG 2.2, with:
 {% include toc.html type="end" %}
 {:/}
 
-## Status, Timeline, Changes
+## Introduction
 
-Background: For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-We expect to publish WCAG 2.2 as a "W3C Recommendation" web standard in August 2023.
-
-**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 20 July 2023. "Proposed Recommendation" means that W3C accepted it and W3C Members vote on publishing the document as a "W3C Recommendation" web standard. The voting ends in August. WCAG 2.2 might be ready to publish soon after that, or additional W3C Member input could require more work. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
+[WCAG 2.2](https://www.w3.org/TR/WCAG22/) was published as a "W3C Recommendation" web standard on 5 October 2023.
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
-The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **one exception**: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+**WCAG 2.2 provides 9 additional success criteria since WCAG 2.1. They are introduced on this page.**
 
-WCAG 2.2 provides 9 additional success criteria from WCAG 2.1. They are included on this page.
-
-### Changes to 2.2 from May to July
-
-There are no substantive changes from the May 2023 to the July 2023 publication. There are only minor editorial changes to add links and correct punctuation.
-
-Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#change-log).
+The 2.0 and 2.1 success criteria are essentially the same in 2.2, with one exception: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 includes Notes about different languages; more information is in [WCAG 2 FAQ, internationalization](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22).
 
 ## Guideline 2.4 Navigable
 
@@ -148,7 +114,7 @@ Provide ways to help users navigate, find content, and determine where they are.
   <dd>Ensure when an item gets keyboard focus, it is at least partially visible.</dd>
   <dt><span class="why">Why it’s important</span></dt>
   <dd>People who can't use a mouse need to see what has keyboard focus.</dd>
-  
+
 </dl>
 
 <p class="persona">Persona example &mdash; a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#reporter">reporter</a> with repetitive stress injury who uses speech recognition software:</p>
@@ -163,8 +129,8 @@ Provide ways to help users navigate, find content, and determine where they are.
 <p class="sclabel">WCAG success criteria:</p>
 <blockquote class="sc">
   <p>When a <a href="https://www.w3.org/TR/WCAG22/#dfn-user-interface-components">user interface component</a> receives keyboard focus, the component is not entirely hidden due to author-created content.</p>
-  <p class="note">Note: Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
-  <p class="note">Note: Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
+  <p class="note"><em>Note:</em> Where content in a configurable interface can be repositioned by the user, then only the initial positions of user-movable content is considered for testing and conformance of this Success Criterion.</p>
+  <p class="note"><em>Note:</em> Content opened by the <em>user</em> may obscure the component receiving focus. If the user can reveal the focused component without advancing the keyboard focus, the component with focus is not considered hidden due to author-created content.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum">Understanding Focus Not Obscured (Minimum)</a></p>
 
@@ -221,9 +187,9 @@ Provide ways to help users navigate, find content, and determine where they are.
   <li>The focus indicator is determined by the user agent and cannot be adjusted by the author, or</li>
   <li>The focus indicator and the indicator's background color are not modified by the author.</li>
 </ul>
-<p class="note">Note: What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
-<p class="note">Note: Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
-<p class="note">Note: Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
+<p class="note"><em>Note:</em> What is perceived as the user interface component or sub-component (to determine enclosure or size) depends on its visual presentation. The visual presentation includes the component's visible content, border, and component-specific background. It does not include shadow and glow effects outside the component's content, background, or border.</p>
+<p class="note"><em>Note:</em> Examples of sub-components that may receive a focus indicator are menu items in an opened drop-down menu, or focusable cells in a grid.</p>
+<p class="note"><em>Note:</em> Contrast calculations can be based on colors defined within the technology (such as HTML, CSS and SVG). Pixels modified by user agent resolution enhancements and anti-aliasing can be ignored.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html">Understanding Focus Appearance</a></p>
 
@@ -254,7 +220,7 @@ Make it easier for users to operate functionality through various inputs beyond 
 <p class="sclabel">WCAG success criteria:</p>
 <blockquote class="sc">
 <p>All functionality that uses a <a href="https://www.w3.org/TR/WCAG22/#dfn-dragging-movements">dragging movement</a> for operation can be achieved by a <a href="https://www.w3.org/TR/WCAG22/#dfn-single-pointer">single pointer</a> without dragging, unless dragging is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or the functionality is determined by the user agent and not modified by the author.</p>
-<p class="note">Note: This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
+<p class="note"><em>Note:</em> This requirement applies to web content that interprets pointer actions (i.e. this does not apply to actions that are required to operate the user agent or assistive technology).</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements">Understanding Dragging Movements</a></p>
 
@@ -288,8 +254,8 @@ Make it easier for users to operate functionality through various inputs beyond 
     <li><strong>User agent control:</strong> The size of the target is determined by the user agent and is not modified by the author;</li>
     <li><strong>Essential:</strong> A particular presentation of the target is <a href="https://www.w3.org/TR/WCAG22/#dfn-essential">essential</a> or is legally required for the information being conveyed.</li>
   </ul>
-  <p class="note">Note: Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
-  <p class="note">Note: For inline targets the line-height should be interpreted as perpendicular to the flow of text. For example, in a language displayed top to bottom, the line-height would be horizontal.</p>
+  <p class="note"><em>Note:</em> Targets that allow for values to be selected spatially based on position within the target are considered one target for the purpose of the success criterion. Examples include sliders with granular values, color pickers displaying a gradient of colors, or editable areas where you position the cursor.</p>
+  <p class="note"><em>Note:</em> For inline targets the line-height should be interpreted as perpendicular to the flow of text. For example, in a language displayed top to bottom, the line-height would be horizontal.</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html">Understanding Target Size (Minimum)</a></p>
 
@@ -326,8 +292,8 @@ Make Web pages appear and operate in predictable ways.
   <li>Self-help option;</li>
   <li>A fully automated contact mechanism.</li>
 </ul>
-<p class="note">Note: Help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
-<p class="note">Note: For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can initiate a change, such as changing the page's zoom or orientation, which may trigger a different page variation. This criterion is concerned with relative order across pages displayed in the same page variation (e.g., same zoom level and orientation).</p>
+<p class="note"><em>Note:</em> Help mechanisms may be provided directly on the page, or may be provided via a direct link to a different page containing the information.</p>
+<p class="note"><em>Note:</em> For this Success Criterion, the same relative order can be thought of as how the content is ordered when the page is serialized. The visual position of a help mechanism is likely to be consistent across pages for the same page variation (e.g., CSS break-point). The user can initiate a change, such as changing the page's zoom or orientation, which may trigger a different page variation. This criterion is concerned with relative order across pages displayed in the same page variation (e.g., same zoom level and orientation).</p>
 </blockquote>
 <p><a href="https://www.w3.org/WAI/WCAG22/Understanding/consistent-help">Understanding Consistent Help</a></p>
 
@@ -404,8 +370,8 @@ Help users avoid and correct mistakes.
   <dt>Personal Content</dt>
   <dd>The cognitive function test is to identify non-text content the user provided to the website.</dd>
 </dl>
-  <p class="note">Note: "Object recognition" and "Personal content" may be represented by images, video, or audio.</p>
-  <p class="note">Note: Examples of mechanisms that satisfy this criterion include:</p>
+  <p class="note"><em>Note:</em> "Object recognition" and "Personal content" may be represented by images, video, or audio.</p>
+  <p class="note"><em>Note:</em> Examples of mechanisms that satisfy this criterion include:</p>
    <ol>
       <li>support for password entry by password managers to reduce memory need, and</li>
       <li>copy and paste to reduce the cognitive burden of re-typing.</li>

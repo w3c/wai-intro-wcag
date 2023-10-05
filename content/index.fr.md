@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Vue d'ensemble des Règles pour l'accessibilité des contenus Web,  (WCAG)"
 nav_title: "Web Content – WCAG"
 
@@ -58,7 +56,7 @@ Liens vers les ressources :
 
 Les règles pour l'accessibilité des contenus web (WCAG) sont développées dans le cadre du [Processus du W3C](/standards-guidelines/w3c-process/) en collaboration avec des personnes et des organismes du monde entier, dans le but de fournir un standard unique commun pour l'accessibilité des contenus web répondant, au niveau international, aux besoins des personnes, des organismes et des gouvernements.
 
-Les documents des WCAG expliquent comment rendre les contenus web plus accessibles aux personnes handicapées. Le terme « contenu » Web fait en général référence à l'information d'une page web ou d'une application web, comprenant :
+Les documents des WCAG expliquent comment rendre les contenus web plus accessibles aux personnes handicapées. Le terme « contenu » Web fait en général référence à l'information d'une page web ou d'une application web, comprenant :
 
 -   les informations générales telles que le texte, les images et les sons
 -   le code ou le balisage qui définit la structure, la présentation, etc.
@@ -67,8 +65,7 @@ Les documents des WCAG expliquent comment rendre les contenus web plus accessibl
 
 Les WCAG 2.0 ont été publiées le 11 décembre  2008.<br>Les WCAG 2.1 ont été publiées le 5 juin 2018.<br>La publication des WCAG 2.2 est prévue pour 2021.
 
-Toutes les exigences (« critères de succès"
- ») de la version 2.0 sont incluses dans la 2.1. Les critères de succès 2.0 sont exactement les mêmes (verbatim, mot pour mot) dans la 2.1. <br> Toutes les exigences des versions 2.0 et 2.1 seront incluses dans la version 2.2. Le contenu des critères de succès de 2.0 et 2.1 sera exactement le même dans la version 2.2.
+Toutes les exigences (« critères de succès ») de la version 2.0 sont incluses dans la 2.1. Les critères de succès 2.0 sont exactement les mêmes (verbatim, mot pour mot) dans la 2.1. <br> Toutes les exigences des versions 2.0 et 2.1 seront incluses dans la version 2.2. Le contenu des critères de succès de 2.0 et 2.1 sera exactement le même dans la version 2.2.
 
 La version 2.1 comprend des critères de succès supplémentaires qui n'étaient pas dans la version 2.0. Ils sont présentés dans [[Quoi de neuf dans les WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).<br>Les nouveaux critères de succès proposés dans 2.2 sont présentés dans le document de travail [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/).
 
@@ -103,7 +100,7 @@ Pour en savoir plus sur les principes et les règles de l'accessibilité du web,
 Les documents techniques d'accompagnement des WCAG 2 comprennent :
 
 -   [**How to Meet WCAG 2**: A customizable quick reference to Web Content Accessibility Guidelines 2 requirements (success criteria) and techniques](http://www.w3.org/WAI/WCAG21/quickref/) is essentially the [WCAG 2 checklist](http://www.w3.org/WAI/WCAG21/quickref/). La plupart des gens utilisent cette référence rapide comme ressource principale pour travailler avec les  WCAG.
--   **Techniques for WCAG 2** ([2.1 Techniques](https://www.w3.org/WAI/WCAG21/Techniques/), [2.0 Techniques](https://www.w3.org/TR/WCAG20-TECHS/)) vous donnent des détails spécifiques sur la façon de développer des contenus web accessibles, tels que des exemples de code HTML. Les techniques sont « informatives », c'est-à-dire que vous n'êtes pas obligés de les utiliser. La base sur laquelle déterminer la conformité aux WCAG 2 est les *critères de succès* de la norme des WCAG 2, et non les techniques. Lire plus d'informations dans [Techniques in the FAQ](/standards-guidelines/wcag/faq/#techs).
+-   **Techniques for WCAG 2** ([2.1 Techniques](https://www.w3.org/WAI/WCAG21/Techniques/), [2.0 Techniques](https://www.w3.org/TR/WCAG20-TECHS/)) vous donnent des détails spécifiques sur la façon de développer des contenus web accessibles, tels que des exemples de code HTML. Les techniques sont « informatives », c'est-à-dire que vous n'êtes pas obligés de les utiliser. La base sur laquelle déterminer la conformité aux WCAG 2 est les *critères de succès* de la norme des WCAG 2, et non les techniques. Lire plus d'informations dans [Techniques in the FAQ](/standards-guidelines/wcag/faq/#techs).
 -  **Comprendre les WCAG 2** ([Comprendre 2.1](https://www.w3.org/WAI/WCAG21/Understanding/), [Comprendre 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)) donne une aide supplémentaire pour apprendre à implémenter les WCAG 2 pour les personnes souhaitant comprendre les règles et les critères de succès plus en détail.
 
 Pour plus de détails sur ces documents et comment ils sont liés, voir **[[Les documents des WCAG]](/standards-guidelines/wcag/docs/)**.

@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "What’s New in WCAG 2.1"
 nav_title: "New in 2.1"
 
@@ -9,7 +7,7 @@ description: This page lists the new success criteria in Web Content Accessibili
 teaser_text: WCAG 2.1 has 17 additional requirements (“success criteria”) that address mobile accessibility, people with low vision, and people with cognitive and learning disabilities. The What’s New in WCAG 2.1 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
 lang: en
-last_updated: 2020-08-13
+last_updated: 2023-10-05
 permalink: /standards-guidelines/wcag/new-in-21/
 
 github:
@@ -18,7 +16,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 13 August 2020.</p>
+  <p><strong>Date:</strong> Updated 5 October 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Shadi Abou-Zahra, Jonathan Avila, Brent Bakken, Laura Carlson, Stéphane Deschamps, Eric Eggert, James Green, Becky Gibson, Marc Johlic, Robert Jolly, Howard Kramer, Chris O'Brien, Sharron Rush, Nic Steenhout, Glenda Sims, Bill Tyler.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -76,9 +74,7 @@ This page lists the new success criteria in Web Content Accessibility Guidelines
 
 ## Introduction
 
-For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
-
-All success criteria from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
 WCAG 2.1 provides 17 additional success criteria to address:
 
@@ -207,7 +203,7 @@ Make it easier for users to see and hear content including separating foreground
 <blockquote class="sc">
   <p>Where receiving and then removing pointer hover or keyboard focus triggers additional content to become visible and then hidden, the following are true:</p>
   <dl>
-    <dt>Dismissable</dt>
+    <dt>Dismissible</dt>
     <dd>A <a href="https://www.w3.org/TR/WCAG21/#dfn-mechanism" data-link-type="dfn">mechanism</a> is available to dismiss the additional content without moving pointer hover or keyboard focus, unless the additional content communicates an <a href="https://www.w3.org/TR/WCAG21/#dfn-input-error" data-link-type="dfn">input error</a> or does not obscure or replace other content;</dd>
     <dt>Hoverable</dt>
     <dd>If pointer hover can trigger the additional content, then the pointer can be moved over the additional content without the additional content disappearing;</dd>

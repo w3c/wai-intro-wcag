@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "WCAG 2 Overview"
 nav_title: "Web Content – WCAG 2"
 
@@ -8,7 +6,7 @@ description: Introduces the Web Content Accessibility Guidelines (WCAG) internat
 
 
 lang: en
-last_updated: 2023-07-24
+last_updated: 2023-10-05
 
 permalink: /standards-guidelines/wcag/
 
@@ -17,7 +15,7 @@ github:
   path: 'content/index.md'
 
 footer: >
-  <p><strong>Date:</strong> Updated 24 July 2023. First published July 2005.</p>
+  <p><strong>Date:</strong> Updated 5 October 2023. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
@@ -38,9 +36,8 @@ WCAG is not an introduction to accessibility. For introductions, see [Accessibil
 
 Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
-* [WCAG 2.2 Proposed](https://www.w3.org/TR/WCAG22/), **[What's New in WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) with status and timeline**
+* [WCAG 2.2 Standard](https://www.w3.org/TR/WCAG22/), [What's New in WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/)
 * [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
-* [WCAG 2.0 Standard](http://www.w3.org/TR/WCAG20/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -67,21 +64,6 @@ The WCAG documents explain how to make web content more accessible to people wit
 -   natural information such as text, images, and sounds
 -   code or markup that defines structure, presentation, etc.
 
-## WCAG 2.0, 2.1, 2.2 {#versions}
-
-The Web Content Accessibility Guidelines (WCAG) standards are stable and referenceable; they do not change after they are published.
-
-**[WCAG 2.0](https://www.w3.org/TR/WCAG20/)** was published on 11 December 2008. <br>**[WCAG 2.1](https://www.w3.org/TR/WCAG21/)** was published on 5 June 2018. <br>**[WCAG 2.2](https://www.w3.org/TR/WCAG22/)** is scheduled to be finalized in August 2023. More information is in [What's New in WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
-
-### WCAG 2.0 and WCAG 2.1
-
-All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1. 
-There are additional success criteria in 2.1 that are not in 2.0. They are introduced in [[What's New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
-
-**Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**.<!-- And content that conforms to WCAG 2.2 will also conform to 2.1 and 2.0. --> (This is often called “backwards compatible”.) A website that meets WCAG 2.1 <!-- or 2.2 --> should meet the requirements of policies that reference WCAG 2.0. To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.<!-- (Same for WCAG 2.2 when is it done.) -->
-
-WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG.
-
 ## Who WCAG is for {#for}
 
 WCAG is for those who want a technical standard. **It is not an introduction to accessibility. For links to introductory material, see [“Where should I start?” in the FAQ](/standards-guidelines/wcag/faq/#start).**
@@ -97,7 +79,7 @@ To meet the needs of others &mdash; including policy makers, managers, and resea
 
 ## What is in WCAG 2 {#whatis2}
 
-The WCAG standards have 12-13 guidelines. The guidelines are organized under [4 principles: perceivable, operable, understandable, and robust](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility).
+The WCAG 2.2 has 13 guidelines. The guidelines are organized under [4 principles: perceivable, operable, understandable, and robust](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility).
 
 For each guideline, there are testable *success criteria*. The success criteria are at [three levels: A, AA, and AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
@@ -116,6 +98,25 @@ The following resources help you understand and implement WCAG, and improve acce
 
 **Please read about these WCAG 2 resources from [WCAG 2 Documents](/standards-guidelines/wcag/docs/).**
 
+## WCAG 2.0, 2.1, 2.2 {#versions}
+
+The Web Content Accessibility Guidelines (WCAG) standards are stable and referenceable when they are published as a 'W3C Recommendation' web standard.
+
+* [WCAG 2.0](https://www.w3.org/TR/WCAG20/) was published on 11 December 2008.
+* [WCAG 2.1](https://www.w3.org/TR/WCAG21/) was published on 5 June 2018, and an update was published on 21 September 2023. The [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/) has information about the update.
+* [WCAG 2.2](https://www.w3.org/TR/WCAG22/) was published on 5 October 2023.
+
+WCAG 2.0, 2.1, and 2.2 are designed to be "backwards compatible", which means content that conforms to WCAG 2.2 also conforms to WCAG 2.1 and WCAG 2.0. If you want to meet the all versions, you can use the WCAG 2.2 resources and you don’t need to bother looking earlier versions.
+
+All the success criteria from 2.0 are included in 2.1, and all from 2.1 are in 2.2 (except 4.1.1, explained in the next paragraph).
+* WCAG 2.0 has 12 guidelines.
+* WCAG 2.1 adds 1 guideline and 17 success criteria. They are introduced in [What's New in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
+* WCAG 2.2 adds 9 success criteria. They are introduced in [What's New in WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
+
+A few things have changed, and we intend the updates in the related documents to support backwards compatibility in practice. The main change is that in WCAG 2.2, one success criteria (4.1.1 Parsing) is obsolete. Notes added to WCAG 2.1 and WCAG 2.0 errata address this, as explained in [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 also includes Notes about different languages; more information is in [WCAG 2 FAQ, internationalization](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22).
+
+WCAG 2.0, WCAG 2.1, and WCAG 2.2 are all existing standards. WCAG 2.2 does not deprecate or supersede WCAG 2.1, and WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG.
+
 ## Translations
 
 Authorized Translations and unofficial translations of WCAG 2 are listed in [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/).
@@ -128,6 +129,8 @@ The content of ISO/IEC 40500 is freely available from [www.w3.org/TR/WCAG20](htt
 
 Benefits of WCAG 2.0 as an ISO standard are summarized in [ISO in the FAQ](/standards-guidelines/wcag/faq/#iso). More information on W3C and the ISO process is in the [W3C PAS FAQ](http://www.w3.org/2010/04/pasfaq).
 
+**W3C plans to submit WCAG 2.2 through the ISO process.**
+
 ## Who develops WCAG {#wg}
 
 The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) *(formerly the Web Content Accessibility Guidelines Working Group)*, which is part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
@@ -136,14 +139,14 @@ WAI updates Techniques for WCAG 2 and Understanding WCAG 2 periodically. We welc
 
 Opportunities for contributing to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
 
-## WCAG 3 and More Information {#more}
+## WCAG 3 and more information {#more}
 
 WCAG is part of a series of accessibility guidelines, including the Authoring Tool Accessibility Guidelines (ATAG) and the User Agent Accessibility Guidelines (UAAG). [[Essential Components of Web Accessibility]](/fundamentals/components/) explains the relationship between the different guidelines.
 
 See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
 
 -   **WCAG 2 coverage of [mobile accessibility](/standards-guidelines/wcag/faq/#mobile)**
--   **WCAG 2 applicability to [non-W3C technologies](/standards-guidelines/wcag/faq/#othertechs)**
+-   **Applying WCAG 2 to [documents and software](/standards-guidelines/wcag/faq/#wcag2ict)**
 -   and more...
 
 For information on the early draft of W3C Accessibility Guidelines 3.0 (formerly known as "Sliver"), see the **[WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)**.

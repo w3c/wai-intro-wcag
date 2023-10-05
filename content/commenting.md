@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Instructions for Commenting on WCAG 2 Documents"
 nav_title: "Commenting"
 

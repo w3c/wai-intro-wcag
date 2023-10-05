@@ -1,13 +1,11 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "WCAG 2 FAQ"
 nav_title: "FAQ"
 
 description: Answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG).
 
 lang: en
-last_updated: 2023-03-29
+last_updated: 2222-00-00  # not needed since no translations
 permalink: /standards-guidelines/wcag/faq/
 
 github:
@@ -16,7 +14,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-    <p><strong>Date:</strong> Updated 29 March 2023. First published October 2006.</p>
+    <p><strong>Date:</strong> Updated 5 October 2023. First published October 2006.</p>
     <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
     <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 permalink: /standards-guidelines/wcag/faq/
@@ -26,8 +24,10 @@ permalink: /standards-guidelines/wcag/faq/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page answers to some frequently asked questions (FAQ) about Web Content Accessibility Guidelines (WCAG). Let us know what <a href="#more">other questions</a> you have.<br>
-~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 25 January 2023</em>
+The starting place for information about Web Content Accessibility Guidelines (WCAG) is the  [WCAG Overview](/standards-guidelines/wcag/).
+
+This page answers to some frequently asked questions (FAQ) about (WCAG. Let us know what <a href="#more">other questions</a> you have.<br>
+~<em><a href="http://w3.org/People/Shawn/">Shawn Henry</a></em>, <abbr title="World Wide Web Consortium">W3C</abbr> <abbr title="Web Accessibility Initiative">WAI</abbr>, <em>updated 5 October 2023</em>
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -40,21 +40,21 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
 {::options toc_levels="2" /}
 
   <ul class="questions">
-    <li><a href="#done">Is WCAG 2 stable?</a></li>
-    <li><a href="#v21">What about WCAG 2.1?</a></li>
-    <li><a href="#v22">What about WCAG 2.2?</a></li>
+    <li>New: <a href="#parsing411">How and why is success criteria 4.1.1 Parsing obsolete?</a></li>
+    <li>New: <a href="#Sept2023">What was updated WCAG 2.1 in September 2023?</a></li>
+    <li>New: <a href="#i18n22">What was updated in WCAG 2.2 for internationalization?</a></li>
+    <li><a href="#done">What is different in WCAG 2.0, 2.1, and 2.2?</a></li>
     <li><a href="#next">What about WCAG 3.0? What about “Silver”?</a></li>
-    <li><a href="#parsing411">Why is success criteria 4.1.1 Parsing obsolete? What about Parsing in WCAG 2.0 and 2.1?</a></li>
     <li><a href="#getnews">How Can I Get Updates?</a></li>
-    <li><a href="#vpat21">Does VPAT 2.1 include WCAG 2.1?</a></li> 
     <li><a href="#mobile">Does WCAG address mobile accessibility?</a></li>
+    <li><a href="#wcag2ict">Does WCAG 2 apply to documents and non-web software?</a></li>
     <li><a href="#start">Where should I start?</a></li>
     <li><a href="#docs">What are the different WCAG 2 documents?</a></li>
     <li><a href="#techs">Do content authors (developers, designers, etc.) have to follow W3C's techniques to meet WCAG?</a></li>
     <li><a href="#techsnot">What would be the negative consequences of allowing <em>only</em> W3C's published techniques to be used for conformance to WCAG 2?</a></li>
     <li><a href="#iso">Is ISO/IEC 40500 the same as WCAG 2.0?</a></li>
     <li><a href="#languages">Is WCAG 2 available in other languages?</a></li>
-    <li><a href="#othertechs">Can I meet WCAG 2 with JavaScript/Ajax, Silverlight, and other technologies?</a></li>
+    <li><a href="#othertechs">Can I meet WCAG 2 with JavaScript and other technologies?</a></li>
     <li><a href="#more">Where can I find answers to more of my questions?</a></li>
   </ul>
 {:toc}
@@ -63,40 +63,59 @@ This page answers to some frequently asked questions (FAQ) about Web Content Acc
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Is WCAG 2.0 stable? {#done}
+## How and why is success criteria 4.1.1 Parsing obsolete? {#parsing411}
 
-Yes. WCAG standards (called "W3C Recommendations") are a stable, referenceable standards that do not change. There may be later versions published.
+Success criteria 4.1.1 Parsing is obsolete. WCAG 2.2 indicates it as [4.1.1 Parsing (Obsolete and removed)](https://www.w3.org/TR/WCAG22/#parsing), along with a note.
 
-[WCAG 2.0](http://www.w3.org/TR/WCAG20/) was published as a final W3C Recommendation Web Standard on 11 December 2008. [WCAG 2.1](http://www.w3.org/TR/WCAG21/) was published as a final W3C Recommendation Web Standard on 5 June 2018. **They will not change.**
+WCAG 2.1 and WCAG 2.0 now include this note from a conformance perspective:
+<blockquote>This Success Criterion should be considered as always satisfied for any content using HTML or XML.</blockquote>
 
-The supporting resources — Techniques for WCAG 2 and Understanding WCAG 2 — are updated periodically to reflect updates in technologies and best practices.
+That note is in:
 
-*See also important information in the next answer about WCAG 2.1:*
+* updated WCAG 2.1 that includes new notes under [4.1.1 Parsing](https://www.w3.org/TR/WCAG21/#parsing) and incorporates errata listed in the [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog)
+* WCAG [2.0 errata](https://www.w3.org/WAI/WCAG20/errata/)
+* Understanding documents
 
-## What about WCAG 2.1? {#v21}
+Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assistive technology did their own markup parsing. Now they rely on the browser.
 
-All requirements ("success criteria") from 2.0 are included in 2.1. The 2.0 success criteria are exactly the same (verbatim, word-for-word) in 2.1.
+With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
 
-The primary focus for WCAG 2.1 is additional accessibility requirements for:
-* [mobile accessibility](/standards-guidelines/mobile/)
-* people with low vision,
-* [people with cognitive and learning disabilities](/cognitive/)
+(Using tools that assess parsing errors and fixing parsing issues may still be useful &mdash; it's just not required for accessibility.)
 
-There are 17 additional success criteria in 2.1 that are not in 2.0. They are introduced in [[What's New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
+<!-- @@ update links when WCAG 2.2 Understanding docs published -->
 
-**Content that conforms to WCAG 2.1 also conforms to WCAG 2.0**. (This is often called “backwards compatible”.) A website that meets WCAG 2.1 should meet the requirements of policies that reference WCAG 2.0.
+## What was updated WCAG 2.1 in September 2023? {#Sept2023}
 
-To put it another way: If you want to meet both WCAG 2.0 and WCAG 2.1, you can use the 2.1 resources and you don't need to bother looking at 2.0.
+**WCAG 2.1:** On 21 September, we published an update to WCAG 2.1. The update:
+* Adds informative notes to success criteria 4.1.1 Parsing. More information is above in [Why is success criteria 4.1.1 Parsing obsolete](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+* Incorporates existing errata that are mostly minor wording corrections. The changes are listed in the [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog).
 
-WCAG 2.0 and WCAG 2.1 are both existing standards. WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG when developing or updating content or accessibility policies.
+You can link to the latest version or specific versions of WCAG 2.1:
+* For the latest version of WCAG 2.1: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/)
+* The version published today, 21 September 2023: [https://www.w3.org/TR/2023/REC-WCAG21-20230921/](https://www.w3.org/TR/2023/REC-WCAG21-20230921/)
+* The version published 5 June 2018: [https://www.w3.org/TR/2018/REC-WCAG21-20180605/](https://www.w3.org/TR/2018/REC-WCAG21-20180605/)
 
-## What about WCAG 2.2? {#v22}
+More info on linking is in [Referencing and Linking to WAI Guidelines](https://www.w3.org/WAI/standards-guidelines/linking/).
 
-The Accessibility Guidelines Working Group (AG WG) is developing WCAG 2.2, and plans to publish the final standard in 2023. The structure and content of WCAG 2.2 is the same as 2.1 and 2.0. Version 2.2 will include new accessibility requirements, called “success criteria”.
 
-For the latest information on dates and changes for WCAG 2.2, please see [What's New in WCAG 2.2 Working Draft](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
+## What was updated in WCAG 2 for internationalization? {#i18n22}
 
-AG WG will probably not do another version of WCAG 2, that is, not do WCAG 2.3. AG WG is working on WCAG 3.0.
+Updates to WCAG documents will better support accessibility in different languages.
+
+In October 2023, we added Notes to WCAG 2.2 to clarify that differences in languages do not impact conformance:
+* [1.4.8 Visual Presentation, AAA](https://www.w3.org/TR/2023/REC-WCAG22-20231005/#visual-presentation)
+* [1.4.13 Text Spacing, AA](https://www.w3.org/TR/2023/REC-WCAG22-20231005/#text-spacing)
+
+We are updating Understanding WCAG 2.2 documents to address internationalization considerations more thoroughly.
+
+## What is different in WCAG 2.0, 2.1, and 2.2? {#done} {#v21} {#v22}
+
+See:
+* [WCAG 2.0, 2.1, 2.2 section of WCAG 2 Overview ](https://www.w3.org/WAI/standards-guidelines/wcag/#versions)
+* [What's New in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/)
+* [What's New in WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/)
+
+The Accessibility Guidelines Working Group (AG WG) will probably not do another version of WCAG 2, that is, not do WCAG 2.3. AG WG is working on WCAG 3.0.
 
 ## What about WCAG 3.0? What about “Silver”? {#next}
 
@@ -110,14 +129,6 @@ WCAG 2 and WCAG 3 have different names.
 
 The new standard is currently referred to as “W3C Accessibility Guidelines (WCAG) 3.0”. This name was chosen because of wide-spread familiarity with the “WCAG” acronym, and to encompass the broader scope beyond “content”.
 
-## Why is success criteria 4.1.1 Parsing obsolete in WCAG 2.2? What about Parsing in WCAG 2.0 and 2.1? {#parsing411}
-
-Success criteria (SC) 4.1.1 Parsing is obsolete and removed from WCAG 2.2. Parsing was included in WCAG 2.0 to ensure that browsers and assistive technologies could accurately parse markup and content. Since then, specifications (such as HTML) and browsers have improved how they handle parsing errors. Also, previously assistive technology did their own markup parsing. Now they rely on the browser.
-
-With today's technology, accessibility issues that would have failed 4.1.1, will fail other criteria, such as Info and Relationships ([SC 1.3.1](https://w3c.github.io/wcag/understanding/info-and-relationships)) or Name, Role, Value ([SC 4.1.2](https://w3c.github.io/wcag/understanding/name-role-value)). Therefore 4.1.1 is no longer needed for accessibility.
-
-We are exploring options for handling 4.1.1 in WCAG 2.0 and 2.1. We may deprecate it in those versions or add a note referencing the update in WCAG 2.2. In some cases, web content that is required to meet WCAG 2.0 or 2.1 may need to meet 4.1.1.
-
 ## How Can I Get Updates? {#getnews}
 
 We will announce when more information is available on WCAG 2.2 and WCAG 3.0. To get announcements of updated drafts for review in e-mail, tweets, and RSS, see [Get WAI News](https://www.w3.org/WAI/news/subscribe/).
@@ -126,12 +137,14 @@ We will announce when more information is available on WCAG 2.2 and WCAG 3.0. To
 
 **Yes.** See the [[Mobile Accessibility at W3C]](/standards-guidelines/mobile/) page.
 
-## Does VPAT 2.1 include WCAG 2.1? {#vpat21}
+## Does WCAG 2 apply to documents and non-web software? {#wcag2ict}
 
-No. Voluntary Product Accessibility Template (VPAT) 2.1 includes information from WCAG 2.0. VPAT 2.1 does not include information from WCAG 2.1. (VPAT is not developed by W3C.)
+For an introduction to "Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT)", see the  [WCAG2ICT Overview](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
 
   
 ## Where should I start? {#start}
+
+For introductory resources, see [Accessibility Fundamentals Overview](/fundamentals/).
 
 If you want a really short introduction to 3 web accessibility issues (alternative text for images, keyboard input, and transcripts), see [Examples of Web Accessibility](/fundamentals/accessibility-intro/#examples).
 
@@ -206,25 +219,23 @@ W3C has offered our [WCAG 2.0 Authorized Translations](/standards-guidelines/wca
 
 ## Does W3C plan to send WCAG 2.1 or WCAG 2.2 to ISO for endorsement? {#iso212}
 
-**W3C does not plan to send WCAG 2.1** to ISO for endorsement and would not support that action, because WCAG 2.2 is expected to be finalized within 2022 and will be an improvement in several respects.
+W3C does not plan to send WCAG 2.1 to ISO for endorsement and would not support that action, because WCAG 2.2 was finalized on 5 October 2022 and is an improvement in several respects.
 
 **W3C expects to send WCAG 2.2 to ISO for endorsement**, and has started that process by notifying the ISO/IEC Joint Technical Committee 1 (JTC 1) of our intention to do so.
 
-## Is WCAG 2 available in other languages? {#languages}
+## Is WCAG 2 available in other languages? {#languages} 
 
-**Yes.** Authorized Translations and unofficial translations of the technical documents WCAG 2, Techniques for WCAG 2, and Understanding WCAG 2 are listed in [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/).
+**Yes.** Authorized Translations and unofficial translations of the technical documents WCAG 2 are listed in [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/).
 
-Unofficial translations of other WAI documents are listed at [Translations of W3C Documents - WAI documents - listed by languages](http://www.w3.org/2005/11/Translations/Query?lang=any&translator=any&date=any&docSelection=choose&rec=none&note=none&xg=none&tut=none&wai=any&i18n=none&qa=none&misc=none&sorting=byLanguage&output=FullHTML&submit=Submit) and [Translations of W3C Documents - WAI documents - listed by document](http://www.w3.org/2005/11/Translations/Query?lang=any&translator=any&date=any&docSelection=choose&rec=none&note=none&xg=none&tut=none&wai=any&i18n=none&qa=none&misc=none&sorting=byTechnology&output=FullHTML&submit=Submit).
+Unofficial translations of other WAI documents are listed in [[All WAI Translations]](/translations/).
 
 For more information on how you can contribute to WAI translations, see [[Translating WAI Documents]](/about/translating/).
 
-## Can I meet WCAG 2 with JavaScript/Ajax, Silverlight, and other technologies? {#othertechs}
+## Can I meet WCAG 2 with JavaScript and other technologies? {#othertechs}
 
 WCAG 2 is designed to apply to a broad range of web technologies.
 
 [Techniques for WCAG 2](https://www.w3.org/WAI/WCAG21/Techniques/) has techniques for several different web technologies. *Note that publication of techniques for a specific technology does not imply that the technology can be used in all cases to create accessible content that meets WCAG 2.* Developers need to be aware of the limitations of specific technologies and ensure that they create content in a way that is accessible to all their potential users.
-
-WAI is also developing guidance on [Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)](http://www.w3.org/TR/wcag2ict/).
 
 
 ## Where can I find answers to more of my questions? {#more}

@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: WCAG 2 Translations
 nav_title: "Translations"
 
@@ -15,7 +13,7 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 11 July 2022. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 18 September 2023. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Shadi Abou_Zahra, Xueyuan Jia.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
@@ -53,6 +51,35 @@ Two types of translations are listed on this page:
 -   [Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a formal review process and are endorsed by W3C.
 -   [Unofficial translations](http://www.w3.org/Consortium/Translation/#auth) are not reviewed and are not endorsed by W3C.
 
+## WCAG 2.2 Planned Translations
+
+<table class="langstable dense">
+  <thead>
+    <tr>
+      <th scope="col">Language</th>
+      <th scope="col">Translations available</th>
+      <th scope="col">Notes and e-mail notifications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th id="nl22">Dutch</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023AprJun/0016.html">notification of intent for Dutch Authorized Translation of WCAG&nbsp;2.2 (5 June 2023)</a></td>
+    </tr>
+    <tr>
+      <th id="fr22">French</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0001.html">notification of intent for French Authorized Translation of WCAG&nbsp;2.2 (25 July 2022)</a></td>
+    </tr>
+    <tr>
+      <th id="it22">Italian</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0007.html">notification of intent for Italian Authorized Translation of WCAG&nbsp;2.2 (9 August 2023)</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## WCAG 2.1 Completed and Planned Translations
 
 <table class="langstable dense">
@@ -80,9 +107,14 @@ Two types of translations are listed on this page:
       <td></td>
     </tr>    
     <tr>
-      <th id="zh21">Chinese, Simplified</th>
+      <th id="zh-hans21">Chinese, Simplified</th>
       <td><strong><a href="https://www.w3.org/Translations/WCAG21-zh/">Simplified Chinese Authorized Translation of WCAG 2.1 completed</a></strong></td>
       <td></td>
+    </tr>
+    <tr>
+      <th id="zh-hant21">Chinese, Traditional</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0010.html">notification of intent for Traditional Chinese Authorized Translation of WCAG&nbsp;2.1 (5 September 2023)</a></td>
     </tr>
     <tr>
       <th id="fi21">Finnish</th>
