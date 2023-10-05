@@ -98,6 +98,16 @@ You can link to the latest version or specific versions of WCAG 2.1:
 More info on linking is in [Referencing and Linking to WAI Guidelines](https://www.w3.org/WAI/standards-guidelines/linking/).
 
 
+## What was updated in WCAG 2 for internationalization? {#i18n22}
+
+Updates to WCAG documents will better support accessibility in different languages.
+
+In October 2023, we added Notes to WCAG 2.2 to clarify that differences in languages do not impact conformance:
+* [1.4.8 Visual Presentation, AAA](https://www.w3.org/TR/2023/REC-WCAG22-20231005/#visual-presentation)
+* [1.4.13 Text Spacing, AA](https://www.w3.org/TR/2023/REC-WCAG22-20231005/#text-spacing)
+
+We are updating Understanding WCAG 2.2 documents to address internationalization considerations more thoroughly.
+
 ## What is different in WCAG 2.0, 2.1, and 2.2? {#done} {#v21} {#v22}
 
 See:
