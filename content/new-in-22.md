@@ -393,7 +393,7 @@ Help users avoid and correct mistakes.
 <p class="persona">Persona example &mdash; a <a href="https://www.w3.org/WAI/people-use-web/user-stories/#supermarketassistant">supermarket assistant</a> with cognitive disabilities:</p>
 <dl>
   <dt><span class="issue">Problem</span></dt>
-  <dd><span><q>To get into this app, it's asking me to click on pictues of cats, but I can't tell which are cats.</q></span></dd>
+  <dd><span><q>To get into this app, it's asking me to click on pictures of cats, but I can't tell which are cats.</q></span></dd>
   <dt><span class="issue">Works well</span></dt>
   <dd><span><q>To get into this app, I can copy and paste my password.</q></span></dd>
 </dl>
