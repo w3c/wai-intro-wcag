@@ -18,7 +18,7 @@ github:
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
 footer: >
-  <p><strong>Date:</strong> Updated 27 September 2023.</p>
+  <p><strong>Date:</strong> Updated 5 October 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mike Gower, Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
 inline_css: |
@@ -68,8 +68,6 @@ ref: /standards-guidelines/wcag/new-in-22/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-We plan to publish WCAG 2.2 as a completed web standard in 2023.<br>The latest update is [WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/).
-
 This page lists the new success criteria in WCAG 2.2, with:
 * A brief introduction of what to do and why it's important
 * Quotes from [personas](#about-the-personas) to help you understand some aspects of the success criteria
@@ -91,30 +89,17 @@ This page lists the new success criteria in WCAG 2.2, with:
 {% include toc.html type="end" %}
 {:/}
 
-## Status, Timeline, Changes
+## Introduction
 
-Background: For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0 and 2.1, see the [WCAG Overview](/standards-guidelines/wcag/).
+For an introduction to Web Content Accessibility Guidelines (WCAG) and more about versions 2.0, 2.1, and 2.2, see the [WCAG Overview](/standards-guidelines/wcag/).
 
-**[WCAG 2.2 W3C Proposed Recommendation](https://www.w3.org/TR/WCAG22/)** is the latest update published on 20 July 2023. More about the process for completing WCAG 2.2 is in [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/).
-
-**We expect to publish WCAG 2.2 as a "W3C Recommendation" web standard in 2023.** We are addressing new comments that we received in August 2023. We hope to publish in early October 2023. However, publication may be delayed by the time we need to resolve these comments. We will update information here as soon as we reach consensus and have a more specific expected final publication date.
-
-We are not planning to change the new WCAG 2.2 success criteria. The changes **might** be informative notes:
-* Added to WCAG 2.0 and 2.1 that success criteria 4.1.1 is obsolete with today's technology
-* To clarify that success criteria 1.4.12 (AA) does not require content to use those text settings, only to work when users set those settings; and does not apply to certain language scripts
-* To clarify applicability of success criteria 1.4.8 (AAA)
+[WCAG 2.2](https://www.w3.org/TR/WCAG22/) was published as a "W3C Recommendation" web standard on 5 October 2023.
 
 ### Changes from WCAG 2.1 to WCAG 2.2
 
-The 2.0 and 2.1 success criteria are exactly the same (verbatim, word-for-word) in 2.2, with **one exception**: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in the [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+**WCAG 2.2 provides 9 additional success criteria since WCAG 2.1. They are introduced on this page.**
 
-WCAG 2.2 provides 9 additional success criteria from WCAG 2.1. They are included on this page.
-
-### Changes to 2.2 from May to July
-
-There are no substantive changes from the May 2023 to the July 2023 publication. There are only minor editorial changes to add links and correct punctuation.
-
-Previous changes are listed in the [changelog](https://www.w3.org/TR/WCAG22/#change-log).
+The 2.0 and 2.1 success criteria are essentially the same in 2.2, with one exception: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 includes Notes about different languages; more information is in [WCAG 2 FAQ, internationalization](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22).
 
 ## Guideline 2.4 Navigable
 
