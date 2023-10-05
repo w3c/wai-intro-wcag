@@ -99,7 +99,7 @@ For an introduction to Web Content Accessibility Guidelines (WCAG) and more abou
 
 **WCAG 2.2 provides 9 additional success criteria since WCAG 2.1. They are introduced on this page.**
 
-The 2.0 and 2.1 success criteria are essentially the same in 2.2, with one exception: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 includes Notes about different languages; more information is in [WCAG 2 FAQ, internationalization](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22)
+The 2.0 and 2.1 success criteria are essentially the same in 2.2, with one exception: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 includes Notes about different languages; more information is in [WCAG 2 FAQ, internationalization](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22).
 
 ## Guideline 2.4 Navigable
 
