@@ -86,10 +86,8 @@ With today's technology, accessibility issues that would have failed 4.1.1, will
 
 ## What was updated WCAG 2.1 in September 2023? {#Sept2023}
 
-_We will update this section throughout September 2023 as we publish updates._
-
 **WCAG 2.1:** On 21 September, we published an update to WCAG 2.1. The update:
-* Adds informative notes to success criteria 4.1.1 Parsing. More information is under [Why is success criteria 4.1.1 Parsing obsolete](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
+* Adds informative notes to success criteria 4.1.1 Parsing. More information is above in [Why is success criteria 4.1.1 Parsing obsolete](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411).
 * Incorporates existing errata that are mostly minor wording corrections. The changes are listed in the [WCAG 2.1 changelog](https://www.w3.org/TR/WCAG21/#changelog).
 
 You can link to the latest version or specific versions of WCAG 2.1:
@@ -100,14 +98,14 @@ You can link to the latest version or specific versions of WCAG 2.1:
 More info on linking is in [Referencing and Linking to WAI Guidelines](https://www.w3.org/WAI/standards-guidelines/linking/).
 
 
-## What is different in WCAG 2.0, 2.1, and 2.2? {#done} {#v21 {#v22}
+## What is different in WCAG 2.0, 2.1, and 2.2? {#done} {#v21} {#v22}
 
 See:
 * [WCAG 2.0, 2.1, 2.2 section of WCAG 2 Overview ](https://www.w3.org/WAI/standards-guidelines/wcag/#versions)
 * [What's New in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/)
 * [What's New in WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/)
 
-AThe ccessibility Guidelines Working Group (AG WG) will probably not do another version of WCAG 2, that is, not do WCAG 2.3. AG WG is working on WCAG 3.0.
+The Accessibility Guidelines Working Group (AG WG) will probably not do another version of WCAG 2, that is, not do WCAG 2.3. AG WG is working on WCAG 3.0.
 
 ## What about WCAG 3.0? What about “Silver”? {#next}
 
@@ -131,7 +129,7 @@ We will announce when more information is available on WCAG 2.2 and WCAG 3.0. To
 
 ## Does WCAG 2 apply to documents and non-web software? {#wcag2ict}
 
-For an introduction to “Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT)”, see the  [WCAG2ICT Overview](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
+For an introduction to "Guidance on Applying WCAG 2.2 to Non-Web Information and Communications Technologies (WCAG2ICT)", see the  [WCAG2ICT Overview](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
 
   
 ## Where should I start? {#start}
@@ -211,7 +209,7 @@ W3C has offered our [WCAG 2.0 Authorized Translations](/standards-guidelines/wca
 
 ## Does W3C plan to send WCAG 2.1 or WCAG 2.2 to ISO for endorsement? {#iso212}
 
-**W3C does not plan to send WCAG 2.1** to ISO for endorsement and would not support that action, because WCAG 2.2 is expected to be finalized within 2022 and will be an improvement in several respects.
+W3C does not plan to send WCAG 2.1 to ISO for endorsement and would not support that action, because WCAG 2.2 was finalized on 5 October 2022 and is an improvement in several respects.
 
 **W3C expects to send WCAG 2.2 to ISO for endorsement**, and has started that process by notifying the ISO/IEC Joint Technical Committee 1 (JTC 1) of our intention to do so.
 
