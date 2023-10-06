@@ -14,6 +14,7 @@ footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 13 July 2020.</p>
 ---
 
+  <p><img src="https://www.w3.org/WAI/WCAG22/wcag2.2A-blue-v.png" alt="W3C WAI-A WCAG 2.2" width="88" height="32"> <img src="https://www.w3.org/WAI/WCAG22/wcag2.2A-v.png" alt="W3C WAI-A WCAG 2.2" width="88" height="32"> Web pages with one of these logos claim conformance to WCAG 2.2 at Level A.</p>
   <p><img src="https://www.w3.org/WAI/wcag21/wcag2.1A-blue-v.png" alt="W3C WAI-A WCAG 2.1" width="88" height="32"> <img src="https://www.w3.org/WAI/wcag21/wcag2.1A-v.png" alt="W3C WAI-A WCAG 2.1" width="88" height="32"> Web pages with one of these logos claim conformance to WCAG 2.1 at Level A.</p>
   <p><img src="https://www.w3.org/WAI/wcag2A-blue.png" alt="W3C WAI-A WCAG 2.0" width="88" height="32"> <img src="https://www.w3.org/WAI/wcag2A.png" alt="W3C WAI-A WCAG 2.0" width="88" height="32"> Web pages with one of these logos claim conformance to WCAG 2.0 at Level A.</p>
   <p><strong><em>Important note:</em> Claims are not verified by W3C. Content providers are solely responsible for the use of these logos.</strong></p>
