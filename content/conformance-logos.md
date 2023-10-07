@@ -34,7 +34,7 @@ This page provides information about conformance logos for WCAG 2.
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 
 -   This text will be replaced by the TOC.
 {:toc}
