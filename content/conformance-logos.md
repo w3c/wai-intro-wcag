@@ -34,7 +34,7 @@ This page provides information about conformance logos for WCAG 2.
 {% include_cached toc.html type="start" title="Page Contents" class="simple" %}
 {:/}
 
-{::options toc_levels="2" /}
+{::options toc_levels="2,3" /}
 
 -   This text will be replaced by the TOC.
 {:toc}
@@ -57,6 +57,56 @@ Please see [WCAG 2 Conformance section](https://www.w3.org/TR/WCAG/#conformance)
 ## How to use the logos {#howto}
 
 Place the icon for the appropriate conformance level using the HTML source code below.
+
+### WCAG 2.2
+
+#### WCAG 2.2 Level A Conformance
+
+Put the following HTML markup in your page:
+
+```html
+<a href="https://www.w3.org/WAI/WCAG2A-Conformance"
+   title="Explanation of WCAG 2 Level A Conformance">
+  <img height="32" width="88"
+       src="https://www.w3.org/WAI/WCAG22/wcag2.2A"
+       alt="Level A conformance,
+            W3C WAI Web Content Accessibility Guidelines 2.2">
+</a>
+```
+
+If you would like to use the blue logo, append "-blue" to the image src.
+
+#### WCAG 2.2 Level AA Conformance
+
+Put the following HTML markup in your page:
+
+```html
+<a href="https://www.w3.org/WAI/WCAG2AA-Conformance"
+   title="Explanation of WCAG 2 Level AA conformance">
+  <img height="32" width="88"
+       src="https://www.w3.org/WAI/WCAG22/wcag2.2AA"
+       alt="Level AA conformance,
+            W3C WAI Web Content Accessibility Guidelines 2.2">
+</a>
+```
+
+If you would like to use the blue logo, append "-blue" to the image src.
+
+#### WCAG 2.2 Level AAA Conformance
+
+Put the following HTML markup in your page:
+
+```html
+<a href="https://www.w3.org/WAI/WCAG2AAA-Conformance"
+   title="Explanation of WCAG 2 Level AAA conformance">
+  <img height="32" width="88"
+       src="https://www.w3.org/WAI/WCAG22/wcag2.2AAA"
+       alt="Level AAA conformance,
+            W3C WAI Web Content Accessibility Guidelines 2.2">
+</a>
+```
+
+If you would like to use the blue logo, append "-blue" to the image src.
 
 ### WCAG 2.1
 
@@ -166,6 +216,38 @@ Below are the logos as they will appear in your site.
 
 You may also choose to download and use local copies of the logos, using the links provided for each logo. You will have to adjust the HTML accordingly, and please use the same alternative text and link for the logo.
 
+
+### WCAG 2.2 Logos
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;</th>
+      <th scope="col">A</th>
+      <th scope="col">AA</th>
+      <th scope="col">AAA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Gold</th>
+      <td><img src="https://www.w3.org/WAI/WCAG22/wcag2.2A.png" alt="Level A conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.2" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/WCAG22/wcag2.2A.png" title="PNG version of WCAG 2.2 Level A conformance icon">png</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2A.gif" title="GIF version of WCAG 2.2 Level A conformance icon">gif</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2A.svg" title="SVG version of WCAG 2.2 Level A conformance icon">svg</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2A.eps" title="EPS version of WCAG 2.2 Level A conformance icon">eps</a>)</td>
+      <td><img src="https://www.w3.org/WAI/WCAG22/wcag2.2AA.png" alt="Level AA conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.2" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/WCAG22/wcag2.2AA.png" title="PNG version of WCAG 2.2 Level AA conformance icon">png</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AA.gif" title="GIF version of WCAG 2.2 Level AA conformance icon">gif</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AA.svg" title="SVG version of WCAG 2.2 Level AA conformance icon">svg</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AA.eps" title="EPS version of WCAG 2.2 Level AA conformance icon">eps</a>)</td>
+      <td><img src="https://www.w3.org/WAI/WCAG22/wcag2.2AAA.png" alt="Level AAA conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.2" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/WCAG22/wcag2.2AAA.png" title="PNG version of WCAG 2.2 Level AAA conformance icon">png</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AAA.gif" title="GIF version of WCAG 2.2 Level AAA conformance icon">gif</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AAA.svg" title="SVG version of WCAG 2.2 Level AAA conformance icon">svg</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AAA.eps" title="EPS version of WCAG 2.2 Level AAA conformance icon">eps</a>)</td>
+    </tr>
+    <tr>
+      <th scope="row">Blue</th>
+      <td><img src="https://www.w3.org/WAI/WCAG22/wcag2.2A-blue.png" alt="Level A conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.2 (blue)" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/WCAG22/wcag2.2A-blue.png" title="PNG version of WCAG 2.2 Level A conformance icon (blue)">png</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2A-blue.gif" title="GIF version of WCAG 2.2 Level A conformance icon (blue)">gif</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2A-blue.svg" title="SVG version of WCAG 2.2 Level A conformance icon (blue)">svg</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2A-blue.eps" title="EPS version of WCAG 2.2 Level A conformance icon (blue)">eps</a>)</td>
+      <td><img src="https://www.w3.org/WAI/WCAG22/wcag2.2AA-blue.png" alt="WCAG 2.2 AA (blue)" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/WCAG22/wcag2.2AA-blue.png" title="PNG version of WCAG 2.2 Level AA conformance icon (blue)">png</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AA-blue.gif" title="GIF version of WCAG 2.2 Level AA conformance icon (blue)">gif</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AA-blue.svg" title="SVG version of WCAG 2.2 Level AA conformance icon (blue)">svg</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AA-blue.eps" title="EPS version of WCAG 2.2 Level AA conformance icon (blue)">eps</a>)</td>
+      <td><img src="https://www.w3.org/WAI/WCAG22/wcag2.2AAA-blue.png" alt="Level AAA conformance icon, W3C-WAI Web Content Accessibility Guidelines 2.2 (blue)" width="88" height="31" /><br />
+        (<a href="https://www.w3.org/WAI/WCAG22/wcag2.2AAA-blue.png" title="PNG version of WCAG 2.2 Level AAA conformance icon (blue)">png</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AAA-blue.gif" title="GIF version of WCAG 2.2 Level AAA conformance icon (blue)">gif</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AAA-blue.svg" title="SVG version of WCAG 2.2 Level AAA conformance icon (blue)">svg</a>, <a href="https://www.w3.org/WAI/WCAG22/wcag2.2AAA-blue.eps" title="EPS version of WCAG 2.2 Level AAA conformance icon (blue)">eps</a>)</td>
+    </tr>
+  </tbody>
+</table>
 
 ### WCAG 2.1 Logos
 <table>
