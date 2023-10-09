@@ -377,7 +377,7 @@ Help users avoid and correct mistakes.
       <li>copy and paste to reduce the cognitive burden of re-typing.</li>
     </ol>
 </blockquote>
-<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication">Understanding Accessible Authentication (Minimum)</a></p>
+<p><a href="https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication-minimum">Understanding Accessible Authentication (Minimum)</a></p>
 
 ### 3.3.9 Accessible Authentication (Enhanced) (AAA)
 
