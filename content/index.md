@@ -1,27 +1,39 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
 title: "WCAG 2 Overview"
 nav_title: "Web Content – WCAG 2"
+lang: en  # Change "en" to the translated-language shortcode
+last_updated: 2023-10-05  # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
-description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.
-
-
-lang: en
-last_updated: 2023-10-05
-
-permalink: /standards-guidelines/wcag/
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Translator Name Here" # Add one -name: line for every translator
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/index.md'
+  path: 'content/index.md'  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 
+permalink: /standards-guidelines/wcag/  # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+ref: /standards-guidelines/wcag/  # Do not change this
+
+description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.
+image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
+feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Date:</strong> Updated 5 October 2023. First published July 2005.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
-image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
-feedbackmail: wai@w3.org  
-ref: /standards-guidelines/wcag/
-
 ---
 
 {::nomarkdown}
@@ -30,13 +42,13 @@ ref: /standards-guidelines/wcag/
 
 This page introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.
 
-A different page [introduces WCAG 3](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/).
+A different page [introduces WCAG 3](/standards-guidelines/wcag/wcag3-intro/).
 
 WCAG is not an introduction to accessibility. For introductions, see [Accessibility Fundamentals Overview](/fundamentals/).
 
 Quick links to resources:
 * [How to Meet WCAG 2 (Quick Reference)](http://www.w3.org/WAI/WCAG21/quickref/)
-* [WCAG 2.2 Standard](https://www.w3.org/TR/WCAG22/), [What's New in WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/)
+* [WCAG 2.2 Standard](https://www.w3.org/TR/WCAG22/), [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/)
 * [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
 
 {::nomarkdown}
@@ -149,4 +161,4 @@ See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
 -   **Applying WCAG 2 to [documents and software](/standards-guidelines/wcag/faq/#wcag2ict)**
 -   and more...
 
-For information on the early draft of W3C Accessibility Guidelines 3.0 (formerly known as "Sliver"), see the **[WCAG 3 Introduction](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)**.
+For information on the early draft of W3C Accessibility Guidelines 3.0 (formerly known as "Sliver"), see the **[WCAG 3 Introduction](/standards-guidelines/wcag/wcag3-intro/)**.
