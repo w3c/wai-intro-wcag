@@ -1,26 +1,44 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
 title: "What's New in WCAG 2.2"
 title_html: "What's New in WCAG 2.2"
 nav_title: "New in 2.2"
+lang: en   # Change "en" to the translated-language shortcode
+last_updated: 2023-10-05  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Translator Name Here" # Add one -name: line for every translator
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
+github:
+  repository: w3c/wai-intro-wcag
+  path: 'content/new-in-22.md'  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+
+permalink: /standards-guidelines/wcag/new-in-22/  # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+ref: /standards-guidelines/wcag/new-in-22/  # Do not change this
 
 description: This page lists the new success criteria in Web Content Accessibility Guidelines (WCAG) 2.2. It includes quotes from personas to help you understand some aspects of the success criteria.
 
 teaser_text: WCAG 2.2 has 9 additional requirements ("success criteria") that address the needs of people with cognitive or learning disabilities, mobile devices users, and ebook users. The What’s New in WCAG 2.2 page introduces the new success criteria. It includes quotes from personas to help you understand the issues.
 
-lang: en
-last_updated: 0000-00-00 # update if do translations
-permalink: /standards-guidelines/wcag/new-in-22/
-
-github:
-  repository: w3c/wai-intro-wcag
-  path: 'content/new-in-22.md'
-
 feedbackmail: wai@w3.org
 image: /content-images/wai-intro-wcag/general-social.png
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Date:</strong> Updated 5 October 2023.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mike Gower, Shadi Abou-Zahra,  <a href="https://www.w3.org/groups/wg/eowg/participants">EOWG Participants</a>, and <a href="https://www.w3.org/groups/wg/ag/participants">AG WG Participants</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">AG WG</a>).</p>
+
 inline_css: |
   blockquote {font-style: normal !important;}
   blockquote p:first-of-type:before, blockquote p:last-of-type:after, blockquote dl:last-of-type:after {content: '' !important;margin-left: 0 !important;}
@@ -59,9 +77,6 @@ inline_css: |
   #markdown-toc ul li {
     margin-bottom: 0;
   }
-
-ref: /standards-guidelines/wcag/new-in-22/
-
 ---
 
 {::nomarkdown}
@@ -99,7 +114,7 @@ For an introduction to Web Content Accessibility Guidelines (WCAG) and more abou
 
 **WCAG 2.2 provides 9 additional success criteria since WCAG 2.1. They are introduced on this page.**
 
-The 2.0 and 2.1 success criteria are essentially the same in 2.2, with one exception: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in [WCAG 2 FAQ, 4.1.1 Parsing](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 includes Notes about different languages; more information is in [WCAG 2 FAQ, internationalization](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22).
+The 2.0 and 2.1 success criteria are essentially the same in 2.2, with one exception: 4.1.1 Parsing is obsolete and removed from WCAG 2.2. More information is in [WCAG 2 FAQ, 4.1.1 Parsing](/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 includes Notes about different languages; more information is in [WCAG 2 FAQ, internationalization](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#i18n22).
 
 ## Guideline 2.4 Navigable
 

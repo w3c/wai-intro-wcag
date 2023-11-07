@@ -1,27 +1,34 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
 title: "Vue d'ensemble des Règles pour l'accessibilité des contenus Web,  (WCAG)"
 nav_title: "Web Content – WCAG"
-
-description: Présente le standard international des Règles pour l'accessibilité des contenus web, (WCAG), y compris 2.0 et WCAG 2.1. Les documents des WCAG expliquent comment rendre les contenus web plus accessibles aux personnes handicapées.
-
 lang: fr
-last_updated: 2021-04-06
-permalink: /standards-guidelines/wcag/fr
-translators: 
-- name: "Sylvie Duchateau"
+last_updated: 2021-04-06  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
+translators:
+  - name: "Sylvie Duchateau"
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/index.fr.md'
+  path: 'content/index.fr.md' # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 
+permalink: /standards-guidelines/wcag/fr  # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+ref: /standards-guidelines/wcag/  # Do not change this
+
+description: Présente le standard international des Règles pour l'accessibilité des contenus web, (WCAG), y compris 2.0 et WCAG 2.1. Les documents des WCAG expliquent comment rendre les contenus web plus accessibles aux personnes handicapées.
+image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
+feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Date :</strong> Mis à jour le 3 avril 2021. Première publication en juillet 2005.</p>
   <p><strong>Auteure :</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé avec la contribution du Groupe de travail Éducation et Promotion (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) et le Groupe de travail en charge des règles d'accessibilité (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
-image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
-feedbackmail: wai@w3.org  
-ref: /standards-guidelines/wcag/
-
 ---
 
 {::nomarkdown}
