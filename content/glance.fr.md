@@ -18,8 +18,8 @@ github:
 image: /content-images/wai-intro-wcag/general-social.jpg
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date :</strong> Mis à jour le 5 octobre 2023. Première publication juillet 2008.</p>
-  <p><strong>Auteurs :</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> et Wayne Dick.</p>
+  <p><strong>Date :</strong> Mis à jour le 29 novembre 2023. Première publication juillet 2008.</p>
+  <p><strong>Rédaction :</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> et Wayne Dick.</p>
   <p>Développé avec la collaborationdu groupe de travail Groupe de travail Éducation et Promotion (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) et le groupe de travail <span lang="en">Accessibility Guidelines Working Group</span> (<a href="https://www.w3.org/WAI/GL/">AG WG</a>).</p>
 ref: /standards-guidelines/wcag/glance/
 layout: default
@@ -31,7 +31,7 @@ layout: default
 {% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
-Cette page propose un résumé paraphrasé des règles pour l’accessibilité des contenus web (WCAG) 2.1 et 2.2.
+Cette page propose un résumé paraphrasé des Règles pour l’accessibilité des contenus Web (WCAG) 2.1 et 2.2.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -39,10 +39,9 @@ Cette page propose un résumé paraphrasé des règles pour l’accessibilité d
 
 Veuillez consulter les ressources clés suivantes pour en savoir plus sur les WCAG 2 :
 -   **[[Vue d’ensemble des WCAG]](/standards-guidelines/wcag/)**
--   **[Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG22/quickref/)** – Une référence rapide configurable pour les exigences des règles pour l’accessibilité des contenus web (WCAG) 2 (critères de succès) et techniques
 -   **[[Les documents de WCAG 2]](/standards-guidelines/wcag/docs/)**
 
-Les spécifications techniques sont consultables sur [www.w3.org/TR/WCAG22 (en anglais)](https://www.w3.org/TR/WCAG22/) et [www.w3.org/Translations/WCAG21-fr](https://www.w3.org/Translations/WCAG21-fr/)
+Les spécifications techniques normatives sont consultables sur [www.w3.org/TR/WCAG22](https://www.w3.org/TR/WCAG22/) et [www.w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21/). Une [traduction française agréée des WCAG 2.1.](https://www.w3.org/Translations/WCAG21-fr/) est disponible.
 
 ## Règles
 
@@ -97,8 +96,8 @@ Les spécifications techniques sont consultables sur [www.w3.org/TR/WCAG22 (en a
 
 ## Versions
 
-Cette page inclut des résumés à l'échelle des règles. Les règles sont les mêmes dans WCAG 2.1 et WCAG 2.2. Pour en savoir plus sur les nouveaux critères de succès, consultez [[Quoi de neuf dans WCAG 2.2.]](standards-guidelines/wcag/new-in-22/).
+Cette page inclut des résumés à l'échelle des règles. Les règles sont les mêmes dans WCAG 2.1 et WCAG 2.2. Pour en savoir plus sur les nouveaux critères de succès, consultez [[Quoi de neuf dans WCAG 2.2.]](/standards-guidelines/wcag/new-in-22/).
 
-[[WCAG 2.0 en bref]](/standards-guidelines/wcag/20/glance/) a deux différences par rapport au contenu ci-dessus :
-* « Ne pas concevoir de contenu susceptible de provoquer des crises ou des réactions physiques » ne contient pas « ou des réactions physiques ».
-* Il ne contient pas « faciliter l’utilisation d’autres outils de saisie que le clavier. »
+[[WCAG 2.0 en bref]](/standards-guidelines/wcag/20/glance/) a deux différences par rapport au contenu ci-dessus :
+* « Ne pas concevoir de contenu susceptible de provoquer des crises ou des réactions physiques » ne contient pas « ou des réactions physiques. »
+* Il ne contient pas « faciliter l’utilisation d’autres outils de saisie que le clavier. »
