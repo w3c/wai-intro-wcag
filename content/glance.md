@@ -1,25 +1,39 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "WCAG 2 at a Glance"
 nav_title: "At a Glance"
-
 description: This page provides a paraphrased summary of Web Content Accessibility Guidelines (WCAG) 2.
+lang: en  # Change "en" to the translated-language shortcode
+last_updated: 2023-11-29  # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
-lang: en
-last_updated: 2023-11-29
-permalink: /standards-guidelines/wcag/glance/
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Translator Name Here" # Add one -name: line for every translator
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/glance.md'
+  path: 'content/glance.md' # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+
+permalink: /standards-guidelines/wcag/glance/ # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+ref: /standards-guidelines/wcag/glance/ # Do not change this
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words below, including "Date:" and "Editors:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Date:</strong> Updated 29 November 2023. First published July 2008.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> and Wayne Dick.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/GL/">AG WG</a>).</p>
-ref: /standards-guidelines/wcag/glance/
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-intro-wcag#readme
 ---
