@@ -1,28 +1,36 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
 title: "WCAG 2.1 de un vistazo"
 nav_title: "De un vistazo"
-
 description: Esta página proporciona un resumen no literal de las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1.
-
 lang: es
-last_updated: 2019-07-03
-permalink: /standards-guidelines/wcag/glance/es
+last_updated: 2019-07-03  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
 translators: 
 - name: "Carlos Muncharaz"
   link: "http://www.muncharaz.eu/"
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/glance.es.md'
+  path: 'content/glance.es.md'  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+
+permalink: /standards-guidelines/wcag/glance/es
+ref: /standards-guidelines/wcag/glance/ # Do not change this
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 feedbackmail: wai@w3.org
+layout: default
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words below, including "Date:" and "Editors:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Fecha:</strong> Actualizado el 5 de junio del 2018. Primera publicación en julio del 2008.</p>
   <p><strong>Editores:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> y Wayne Dick.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) y el Grupo de Trabajo de Pautas de Accesibilidad (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
-ref: /standards-guidelines/wcag/glance/
-layout: default
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-intro-wcag#readme
 ---
