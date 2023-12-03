@@ -37,7 +37,7 @@ footer: >
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Shrnutí" class="full" %}
 {:/}
 
 Tato stránka představuje mezinárodní standard Pokyny pro zpřístupnění obsahu webu (WCAG) včetně WCAG 2.0, WCAG 2.1 a WCAG 2.2. WCAG dokumenty vysvětlují, jak udělat obsah webu přístupnější pro lidi s postiženími.
@@ -74,11 +74,11 @@ Pokyny pro zpřístupnění obsahu webu (WCAG) 2 jsou vyvinuté [W3C procesem](/
 WCAG dokumenty vysvětlují, jak udělat obsah webu přístupnější pro lidi s postiženími. „Obsah“ webu obecně označuje informace na webové stránce nebo webové aplikaci, včetně:
 
 -   přirozené informace, jako je text, obrázky a zvuky
--   kód nebo značky, které definují strukturu, prezentaci atd.
+-   kódu nebo značek, které definují strukturu, prezentaci atd.
 
 ## Pro koho je WCAG {#for}
 
-WCAG je pro ty, kteří chtějí technický standard. **Nejedná se o úvod do přístupnosti. Odkazy na základní informace jsou k nalezení v [„Kde mám začít?“ v často kladných otázkách](/standards-guidelines/wcag/faq/#start).**
+WCAG je pro ty, kteří chtějí technický standard. **Nejedná se o úvod do přístupnosti. Odkazy na základní informace jsou k nalezení v [„Kde mám začít?“ v Často kladných otázkách](/standards-guidelines/wcag/faq/#start).**
 
 WCAG je primárně určeno pro:
 
@@ -97,7 +97,7 @@ Pro každý pokyn existují testovatelná *kritéria úspěšnosti*. Kritéria �
 
 Kritéria úspěšnosti určují „soulad“ s WCAG. To znamená, že aby obsah splnil WCAG, musí splňovat kritéria úspěšnosti. Podrobnosti jsou v sekci [Soulad s WCAG](https://www.w3.org/TR/WCAG21/#conformance).
 
-Krátké shrnutí pokynů WCAG 2 naleznete na **[[Náhled na WCAG 2]](/standards-guidelines/wcag/glance/)**.
+Krátké shrnutí pokynů WCAG 2 naleznete v **[[Náhledu na WCAG 2]](/standards-guidelines/wcag/glance/)**.
 
 ### Podpůrné materiály a doplňkové směrnice {#supplement}
 
@@ -115,7 +115,7 @@ Následující zdroje vám pomohou pochopit a implementovat WCAG a zlepšit př�
 Standardy Pokyny pro zpřístupnění obsahu webu (WCAG) jsou stabilní a odkazovatelné, pokud jsou zveřejněny jako webový standard „Doporučení W3C“.
 
 * [WCAG 2.0](https://www.w3.org/TR/WCAG20/) bylo zveřejněno 11. prosince 2008.
-* [WCAG 2.1](https://www.w3.org/TR/WCAG21/) bylo zveřejněno 5. června 2018 a aktualizace byla zveřejněna 21. září 2023. [WCAG 2 Často kladené otázky](https://www.w3.org/WAI/standards-guidelines/wcag/faq/) obsahujé informace o aktualizaci.
+* [WCAG 2.1](https://www.w3.org/TR/WCAG21/) bylo zveřejněno 5. června 2018 a aktualizace byla zveřejněna 21. září 2023. [WCAG 2 Často kladené otázky](https://www.w3.org/WAI/standards-guidelines/wcag/faq/) obsahuje informace o aktualizaci.
 * [WCAG 2.2](https://www.w3.org/TR/WCAG22/) bylo zveřejněno 5. října 2023.
 
 WCAG 2.0, 2.1 a 2.2 jsou navrženy tak, aby byly „zpětně kompatibilní“, což znamená, že obsah, který splňuje WCAG 2.2, splňuje také WCAG 2.1 a WCAG 2.0. Pokud chcete splnit všechny verze, můžete použít zdroje WCAG 2.2 a nemusíte se zabývat hledáním starších verzí.
@@ -125,13 +125,13 @@ Všechna kritéria úspěšnosti z 2.0 jsou zahrnuta v 2.1 a všechna z 2.1 jsou
 * WCAG 2.1 přidává 1 pokyn a 17 kritérií úspěchu, které jsou představeny v [Co je nového v WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
 * WCAG 2.2 přidává 9 kritérií úspěchu, které jsou představeny v [Co je nového v WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
 
-Některé věci se změnily a aktualizace v souvisejících dokumentech jsou zamýšleny s ohledem na podporu zpětné kompatibility v praxi. Hlavní změnou je, že ve WCAG 2.2 je jedno kritérium úspěchu (4.1.1 Analýza syntaxu) zastaralé. Poznámky přidané k seznamu chyb ve WCAG 2.1 a WCAG 2.0 to řeší, jak je vysvětleno v [WCAG 2 Často kladených otázkách, 4.1.1 Analýza syntaxu](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 také obsahuje poznámky o různých jazycích, více informací naleznete ve [WCAG 2 Často kladených otázkách, internacionalizace](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22).
+Některé věci se změnily a aktualizace v souvisejících dokumentech jsou zamýšleny s ohledem na podporu zpětné kompatibility v praxi. Hlavní změnou je, že ve WCAG 2.2 je jedno kritérium úspěchu (4.1.1 Analýza syntaxu) zastaralé. Poznámky přidané k seznamu chyb v WCAG 2.1 a WCAG 2.0 to řeší, jak je vysvětleno v [WCAG 2 Často kladených otázkách, 4.1.1 Analýza syntaxu](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 také obsahuje poznámky o různých jazycích, více informací naleznete v [WCAG 2 Často kladených otázkách, internacionalizace](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22).
 
 WCAG 2.0, WCAG 2.1 a WCAG 2.2 jsou existující standardy. WCAG 2.2 nečiní zastaralým ani nenahrazuje WCAG 2.1 a WCAG 2.1 nečiní zastaralým ani nenahrazuje WCAG 2.0. W3C doporučuje používat nejnovější verzi WCAG.
 
 ## Překlady
 
-Autorizované překlady a neoficiální překlady WCAG 2 jsou uvedeny v [[Překlady WCAG 2]](/standards-guidelines/wcag/translations/).
+Autorizované překlady a neoficiální překlady WCAG 2 jsou uvedeny v [[Překladech WCAG 2]](/standards-guidelines/wcag/translations/).
 
 ## WCAG 2.0 je ISO/IEC 40500 {#iso}
 
@@ -139,9 +139,7 @@ WCAG 2.0 je schváleno jako norma ISO: ISO/IEC 40500:2012. ISO/IEC 40500 je pře
 
 Obsah ISO/IEC 40500 je volně dostupný na [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/), je k dispozici ke koupi v [ISO katalogu {% include_cached external.html %}](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625).
 
-Výhody WCAG 2.0 jako normy ISO jsou shrnuty v [ISO v Často kladených otázkách](/standards-guidelines/wcag/faq/#iso). Další informace o W3C a ISO procesu jsou v [W3C PAS FAQ](http://www.w3.org/2010/04/pasfaq).
-
-Benefits of WCAG 2.0 as an ISO standard are summarized in [ISO in the FAQ](/standards-guidelines/wcag/faq/#iso). More information on W3C and the ISO process is in the [Často kladených otázkách W3C PAS](http://www.w3.org/2010/04/pasfaq).
+Výhody WCAG 2.0 jako normy ISO jsou shrnuty v [ISO v Často kladených otázkách](/standards-guidelines/wcag/faq/#iso). Další informace o W3C a ISO procesu jsou v [Často kladených otázkách W3C PAS](http://www.w3.org/2010/04/pasfaq).
 
 **W3C plánuje předložit WCAG 2.2 prostřednictvím procesu ISO.**
 
@@ -160,8 +158,7 @@ WCAG je součástí řady pokynů pro přístupnost, včetně Pokynů pro zpří
 Navštivte [[WCAG 2 Často kladené otázky]](/standards-guidelines/wcag/faq/) pro více informací o:
 
 -   **[mobilní přístupnosti](/standards-guidelines/wcag/faq/#mobile) ve WCAG 2**
--   **WCAG 2 coverage of [mobile accessibility](/standards-guidelines/wcag/faq/#mobile)**
--   **Použití WCAG 2 v [dokumentech a softwaru](/standards-guidelines/wcag/faq/#wcag2ict)**
+-   **použití WCAG 2 v [dokumentech a softwaru](/standards-guidelines/wcag/faq/#wcag2ict)**
 -   a více...
 
 Informace o raném návrhu Pokynů přístupnosti W3C 3.0 (dříve známé jako „Sliver“) naleznete v **[Představení WCAG 3](/standards-guidelines/wcag/wcag3-intro/)**.
