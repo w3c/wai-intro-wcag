@@ -1,22 +1,22 @@
 ---
 title: WCAG 2 Translations
 nav_title: "Translations"
-
-description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
-
 lang: en
-permalink: /standards-guidelines/wcag/translations/
+last_updated: 2023-12-06
+description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
 
 github:
   repository: w3c/wai-intro-wcag
   path: 'content/translations.md'
 
+permalink: /standards-guidelines/wcag/translations/
+ref: /standards-guidelines/wcag/translations/
+
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 5 December 2023. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 6 December 2023. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Shadi Abou_Zahra, Xueyuan Jia, Rémi Bétin.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
-ref: /standards-guidelines/wcag/translations/
+  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 
 ---
 
