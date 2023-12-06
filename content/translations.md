@@ -13,8 +13,8 @@ github:
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 18 September 2023. First published 2 March 2009.</p>
-  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Shadi Abou_Zahra, Xueyuan Jia.</p>
+  <p><strong>Date:</strong> Updated 5 December 2023. First published 2 March 2009.</p>
+  <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Shadi Abou_Zahra, Xueyuan Jia, Rémi Bétin.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/translations/
 
@@ -51,7 +51,7 @@ Two types of translations are listed on this page:
 -   [Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a formal review process and are endorsed by W3C.
 -   [Unofficial translations](http://www.w3.org/Consortium/Translation/#auth) are not reviewed and are not endorsed by W3C.
 
-## WCAG 2.2 Planned Translations
+## WCAG 2.2 Completed and Planned Translations
 
 <table class="langstable dense">
   <thead>
@@ -62,6 +62,16 @@ Two types of translations are listed on this page:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th id="ar22">Arabic</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.html">notification of intent for Arabic Authorized Translation of WCAG&nbsp;2.2 (17 November 2023)</a></td>
+    </tr>
+    <tr>
+      <th id="zh-hans22">Chinese, Simplified</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0006.html">notification of intent for Simplified Chinese Authorized Translation of WCAG&nbsp;2.2 (8 October 2023)</a></td>
+    </tr>
     <tr>
       <th id="nl22">Dutch</th>
       <td></td>
@@ -74,8 +84,13 @@ Two types of translations are listed on this page:
     </tr>
     <tr>
       <th id="it22">Italian</th>
+      <td><strong><a href="https://www.w3.org/Translations/WCAG22-it/">Italian Authorized Translation of WCAG 2.2 completed</a></strong></td>
       <td></td>
-      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0007.html">notification of intent for Italian Authorized Translation of WCAG&nbsp;2.2 (9 August 2023)</a></td>
+    </tr>
+    <tr>
+      <th id="pt22">Portuguese, Brazilian</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0011.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.2 (17 October 2023)</a></td>      
     </tr>
   </tbody>
 </table>
