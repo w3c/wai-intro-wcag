@@ -3,7 +3,7 @@ title: WCAG 2 Translations
 nav_title: "Translations"
 lang: en
 last_updated: 2023-12-06
-description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
+description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.2, 2.1 and 2.0.
 
 github:
   repository: w3c/wai-intro-wcag
@@ -24,7 +24,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0. Translations of other accessibility resources are listed in **[All WAI Translations](https://www.w3.org/WAI/translations/)**.
+This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.2, 2.1 and 2.0. Translations of other accessibility resources are listed in **[All WAI Translations](https://www.w3.org/WAI/translations/)**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -48,8 +48,8 @@ This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 
 
 Two types of translations are listed on this page:
 
--   [Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a formal review process and are endorsed by W3C.
--   [Unofficial translations](http://www.w3.org/Consortium/Translation/#auth) are not reviewed and are not endorsed by W3C.
+-   _[Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy)_ follow a formal review process and are endorsed by W3C.
+-   _Unofficial translations_ are not reviewed and are not endorsed by W3C.
 
 ## WCAG 2.2 Completed and Planned Translations
 
