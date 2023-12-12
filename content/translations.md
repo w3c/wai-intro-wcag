@@ -1,22 +1,22 @@
 ---
 title: WCAG 2 Translations
 nav_title: "Translations"
-
-description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0.
-
 lang: en
-permalink: /standards-guidelines/wcag/translations/
+last_updated: 2023-12-06
+description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.2, 2.1 and 2.0.
 
 github:
   repository: w3c/wai-intro-wcag
   path: 'content/translations.md'
 
+permalink: /standards-guidelines/wcag/translations/
+ref: /standards-guidelines/wcag/translations/
+
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 5 December 2023. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 6 December 2023. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Shadi Abou_Zahra, Xueyuan Jia, Rémi Bétin.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
-ref: /standards-guidelines/wcag/translations/
+  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 
 ---
 
@@ -24,7 +24,7 @@ ref: /standards-guidelines/wcag/translations/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 and 2.0. Translations of other accessibility resources are listed in **[All WAI Translations](https://www.w3.org/WAI/translations/)**.
+This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.2, 2.1 and 2.0. Translations of other accessibility resources are listed in **[All WAI Translations](https://www.w3.org/WAI/translations/)**.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -48,8 +48,8 @@ This page lists translations of Web Content Accessibility Guidelines (WCAG) 2.1 
 
 Two types of translations are listed on this page:
 
--   [Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy) follow a formal review process and are endorsed by W3C.
--   [Unofficial translations](http://www.w3.org/Consortium/Translation/#auth) are not reviewed and are not endorsed by W3C.
+-   _[Authorized Translations](http://www.w3.org/2005/02/TranslationPolicy)_ follow a formal review process and are endorsed by W3C.
+-   _Unofficial translations_ are not reviewed and are not endorsed by W3C.
 
 ## WCAG 2.2 Completed and Planned Translations
 
