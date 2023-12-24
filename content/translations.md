@@ -2,7 +2,7 @@
 title: WCAG 2 Translations
 nav_title: "Translations"
 lang: en
-last_updated: 2023-12-06
+last_updated: 2023-12-13
 description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.2, 2.1 and 2.0.
 
 github:
@@ -14,7 +14,7 @@ ref: /standards-guidelines/wcag/translations/
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 6 December 2023. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 13 December 2023. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Shadi Abou_Zahra, Xueyuan Jia, Rémi Bétin.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 
@@ -66,6 +66,11 @@ Two types of translations are listed on this page:
       <th id="ar22">Arabic</th>
       <td></td>
       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.html">notification of intent for Arabic Authorized Translation of WCAG&nbsp;2.2 (17 November 2023)</a></td>
+    </tr>
+    <tr>
+      <th id="ca22">Catalan</th>
+      <td></td>
+      <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0036.html">notification of intent for Catalan Authorized Translation of WCAG&nbsp;2.2 (13 December 2023)</a></td>
     </tr>
     <tr>
       <th id="zh-hans22">Chinese, Simplified</th>
