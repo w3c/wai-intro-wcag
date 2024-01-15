@@ -47,7 +47,7 @@ Halaman berbeda [memperkenalkan WCAG 3](/standards-guidelines/wcag/wcag3-intro/)
 WCAG bukan berisi pengenalan pada konsep aksesibilitas. Untuk pengenalan konsep, lihat [Gambaran Umum Dasar-Dasar Aksesibilitas](/fundamentals/).
 
 Tautan singkat ke sumber informasi:
-* [Cara Memenuhi Target WCAG (Referensi Singkat)](http://www.w3.org/WAI/WCAG21/quickref/)
+* [Cara Memenuhi Target WCAG (Referensi Cepat)](http://www.w3.org/WAI/WCAG21/quickref/)
 * [Standar WCAG 2.2](https://www.w3.org/TR/WCAG22/), [Yang Baru di WCAG 2.2](/standards-guidelines/wcag/new-in-22/)
 * [Standar WCAG 2.1](http://www.w3.org/TR/WCAG21/)
 
@@ -102,7 +102,7 @@ Untuk ringkasan pedoman WCAG 2, lihat **[[Sekilas Mengenai WCAG 2]](/standards-g
 ### Materi pendukung dan panduan tambahan {#supplement}
 
 Sumber informasi berikut membantu Anda dalam memahami dan menerapkan WCAG, serta meningkatkan aksesibilitas melebihi WCAG:
-* Referensi Singkat / Cara Memenuhi WCAG 2 / Daftar Cek
+* Referensi Cepat / Cara Memenuhi WCAG 2 / Daftar Cek
 * Memahami WCAG 2
 * Teknik-teknik WCAG 2
 * Aturan Tes WCAG 2
