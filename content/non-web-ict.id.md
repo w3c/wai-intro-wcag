@@ -5,7 +5,7 @@ nav_title: "Penerapan pada TIK Nonweb"
 description: "Memperkenalkan dokumen: Panduan Penerapan WCAG 2 pada Teknologi Informasi dan Komunikasi Nonweb (WCAG2ICT)."
 
 lang: id
-last_updated: 2023-08-31
+last_updated: 2024-01-15
 permalink: /standards-guidelines/wcag/non-web-ict/id
 
 translators:
