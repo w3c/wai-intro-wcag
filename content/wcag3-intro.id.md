@@ -7,20 +7,20 @@ image: /content-images/wai-intro-wcag/wcag3_social.png
 
 lang: id
 
-last_updated: 2023-10-10 ## update when have translations
-permalink: /standards-guidelines/wcag/wcag3-intro/
+last_updated: 2024-01-15 ## update when have translations
+permalink: /standards-guidelines/wcag/wcag3-intro/id
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/wcag3-intro.md'
+  path: 'content/wcag3-intro.id.md'
 
 ref: /standards-guidelines/wcag/wcag3-intro/
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date: </strong>Updated 24 July 2023.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Rachael Bradley Montgomery and Jeanne Spellman.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
+  <p><strong>Date: </strong>Diperbarui 24 Juli 2023.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Kontributor: Rachael Bradley Montgomery dan Jeanne Spellman.</p>
+  <p>Dikembangkan dengan masukan dari Kelompok Kerja Edukasi dan Pendampingan (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Kelompok Kerja Pedoman Aksesibilitas (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Satuan Tugas Silver, dan Kelompok Komunitas Silver.</p>
 
 inline_css: |
   #toc li {
@@ -33,21 +33,21 @@ inline_css: |
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Ringkasan" class="full" %}
 {:/}
 
-Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. We published an updated [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) on 24 July 2023.
+Banyak aspek pada Pedoman Aksesibilitas W3C (WCAG) 3 sedang dalam tahap penjajakan dan akan berubah. Kami telah menerbitkan [Rancangan Kerja WCAG 3](https://www.w3.org/TR/wcag-3.0/) yang diperbarui pada tanggal 24 Juli 2023.
 
-WCAG 3 will have similar fundamental and specific accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.
+WCAG 3 akan memiliki syarat aksesibilitas mendasar dan spesifik yang serupa dengan WCAG 2. WCAG 3 akan memiliki struktur yang berbeda, model kesesuaian yang berbeda, dan cakupan yang lebih luas.
 
-Please share this page as the starting point for official information about WCAG 3 now and in the future. short link: w3.org/WAI/wcag3
+Silakan bagikan halaman ini sebagai titik awal informasi resmi terkait WCAG 3 saat ini dan akan datang. Tautan pendek: w3.org/WAI/wcag3
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" class="simple" %}
+{% include_cached toc.html type="start" title="Daftar Isi" class="simple" %}
 {:/}
 
 {::options toc_levels="2,3" /}
@@ -59,133 +59,133 @@ Please share this page as the starting point for official information about WCAG
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction
+## Pengantar
 {:.no_toc}
 
-WCAG 3 is currently an incomplete draft. WCAG 3 is intended to develop into a W3C Standard **in a few years**. The current standard, Web Content Accessibility Guidelines (WCAG 2), is introduced in the [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+WCAG 3 saat ini masih berupa rancangan yang belum lengkap. WCAG 3 dimaksudkan untuk berkembang menjadi Standar W3C **dalam beberapa tahun** ke depan. Standar saat ini, Pedoman Aksesibilitas Konten Web (WCAG 2), telah diperkenalkan di [Gambaran Umum WCAG 2](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-The WCAG 3 documents will explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. 
+Dokumen WCAG 3 akan menjelaskan bagaimana membuat web yang lebih mudah diakses oleh penyandang disabilitas. WCAG 3 berlaku untuk konten web, aplikasi, sarana, penerbitan, dan teknologi baru pada web.
 
-We will update this page regularly as work on the WCAG 3 Draft progresses.
+Kami akan memperbarui halaman ini secara berkala seiring dengan kemajuan pengerjaan Rancangan WCAG 3.
 
-## Status: Exploratory Draft
+## Status: Rancangan Eksploratif
 
-**The July 2023  [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) better communicates that most of the content is a placeholder or exploratory. It removes the previous draft guidance to reduce confusion about whether it was ready to use.**
+**[Rancangan Kerja WCAG 3](https://www.w3.org/TR/wcag-3.0/) di Juli 2023 mengkomunikasikan dengan lebih baik bahwa sebagian besar konten berupa pengganti atau bersifat eksploratif. Dokumen tersebut menghapus rancangan panduan sebelumnya untuk mengurangi kebingungan mengenai kesiapan penggunaannya.**
 
-**There are substantial open issues that are still being discussed, particularly about testing and conformance. This draft provides an updated description of a possible approach to conformance,  along with specific questions that the group is working on.**
+**Ada isu-isu penting yang masih terbuka yang sedang dibahas, khususnya tentang pengujian dan kesesuaian. Rancangan ini memberikan deskripsi terkini tentang pendekatan yang memungkinkan terkait kepatuhan, beserta pertanyaan spesifik yang sedang dikerjakan oleh kelompok ini.**
 
-### Status of Sections
+### Status per Bagian
 
-Each normative section has a status that indicates how far along in the development process this section is, how ready it is for experimental adoption, and what kind of feedback we are looking for.
+Setiap bagian normatif memiliki status yang menunjukkan sejauh mana proses pengembangan bagian tersebut, seberapa siap untuk diadopsi secara eksperimental, dan jenis umpan balik apa yang kami cari.
 
-* **Placeholder:** This content is temporary. It shows the type of content or section to expect. Placeholder text will be replaced. It is hidden by default in the Editor's draft. No feedback is needed on placeholder content.
-* **Exploratory:** The Working Group is exploring what direction to take with this section. This content is not refined; details and definitions may be missing. It is hidden by default in the Editor's draft. We invite feedback on the proposed direction.
-* **Developing:** There is rough agreement on what is needed for this section, although not all high-level concerns have been settled. Details are included, yet they are not all agreed on. We invite general feedback on how understandable, usable, and reasonable the section is generally.
-* **Refining:** The Working Group has reach consensus on this section. It is ready for broad public review and experimental adoption. We seek feedback on feasibility and issues with implementations.
-* **Mature:** The Working Group thinks this content is ready for the final standard. Feedback should be focused on edge case scenarios the Working Group might not have anticipated.
+* **Pengganti:** Konten ini bersifat sementara. Ini menunjukkan jenis konten atau bagian yang diharapkan. Teks pengganti akan diganti. Konten ini disembunyikan secara bawaan pada dokmen rancangan Editor. Tidak ada umpan balik yang diperlukan terkait konten placeholder.
+* **Eksploratif:** Kelompok Kerja sedang menjajaki arah mana yang harus diambil pada bagian ini. Konten ini tidak disempurnakan; detail dan definisi mungkin hilang. Konten ini disembunyikan secara bawaan pada dokumen rangangan Editor. Kami mengundang umpan balik mengenai arah yang diusulkan.
+* **Pengembangan:** Ada kesepakatan kasar mengenai apa yang diperlukan untuk bagian ini, meskipun tidak semua permasalahan tingkat tinggi telah diselesaikan. Detail sudah disertakan, namun tidak semuanya disepakati. Kami mengundang umpan balik umum terkait secara umum seberapa mudah bagian ini dipahami, berguna, dan masuk akal.
+* **Penyempurnaan:** Kelompok Kerja telah mencapai konsensus mengenai bagian ini. Bagian ini siap untuk tinjauan publik secara luas dan diadopsi secara eksperimental. Kami mencari umpan balik terkait kelayakan dan permasalahan dalam penerapannya.
+* **Matang:** Kelompok Kerja menganggap konten ini siap untuk digunakan pada standar akhir. Umpan balik perlu difokuskan pada kasus-kasus ekstrem yang mungkin tidak diantisipasi oleh Kelompok Kerja.
 
 <img src="{{ "/content-images/wai-intro-wcag/dialogs2.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-### Comments
+### Komentar
 
-We welcome input from evaluators, developers, designers, project managers, policy makers, people with disabilities, and others.
+Kami menyambut masukan dari evaluator, pengembang, perancang, manajer proyek, pembuat kebijakan, penyandang disabilitas, dan lainnya.
 
-We also welcome comments on the goals and parameters in [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).
+Kami juga menerima komentar mengenai tujuan dan parameter di [Persyaratan WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).
 
-The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues/new). Alternatively, e-mail public-agwg-comments@w3.org
-Please put each topic in a separate GitHub issue or e-mail.
+Cara terbaik untuk memberikan masukan ini adalah dengan membuka [isu GitHub](https://github.com/w3c/wcag3/issues/new) baru. Alternatifnya, kirimkan email ke public-agwg-comments@w3.org
+Harap masukkan setiap topik dalam terbitan atau email GitHub yang terpisah.
 
-Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, and inclusion in the process of creating WCAG 3. Please e-mail these to group-ag-chairs@w3.org
+Selain itu, kami menyambut baik komentar mengenai bagaimana Kelompok Kerja Pedoman Aksesibilitas dapat lebih mendukung peninjauan, umpan balik, dan keterlibatan Anda dalam proses pembuatan WCAG 3. Silakan kirim email ke group-ag-chairs@w3.org
 
-## WCAG 3 Draft Approach
+## Pendekatan Rancangan WCAG 3
 
 <img src="{{ "/content-images/wai-intro-wcag/brain-icon.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-### Some Similar, Some Different {#compare}
+### Beberapa Mirip, Beberapa Berbeda {#compare}
 
-**Goals** for WCAG 3 include:
-* be easier to understand
-* cover more user needs, including more needs of people with cognitive disabilities
-* be flexible to address different types of web content, apps, tools, and organizations
+**Tujuan** dari WCAG 3 meliputi:
+* membuatnya lebih mudah dipahami
+* mencakup lebih banyak kebutuhan pengguna, termasuk lebih banyak kebutuhan penyandang disabilitas kognitif
+* membuatnya fleksibel dalam menangani berbagai jenis konten web, aplikasi, sarana, dan organisasi
 
-WCAG 3 is **similar** to previous versions in some ways. It has similar:
-* goal of providing guidance on making web content and apps accessible to people with disabilities
-* fundamental and specific accessibility requirements
+WCAG 3 **mirip** dengan versi sebelumnya dalam beberapa hal. Yakni kemiripan:
+* tujuan dalam memberikan panduan untuk membuat konten web dan aplikasi yang dapat diakses oleh penyandang disabilitas
+* persyaratan aksesibilitas mendasar dan spesifik
 
-WCAG 3 is very **different** from previous versions in some ways. It has:
-* different structure
-* different conformance model
-* broader scope, beyond just web content
+WCAG 3 sangat **berbeda** dari versi sebelumnya dalam beberapa hal. Yakni:
+* struktur yang berbeda
+* model kesesuaian yang berbeda
+* cakupan yang lebih luas, lebih dari sekedar konten web
 
-### Structure
+### Struktur
 
-This WCAG 3 draft has:
-* **Guidelines**
-   * Solutions to accessibility problems
-   * More **granular** than the guidelines in WCAG 2
-   * Each guideline has outcomes
-* **Outcomes**
-   * Verifiable statements
-   * Similar to **success criteria** in WCAG 2
-   * More granular and more focused on the desired results than the technical means for achieving them<br>(More _granular_ means they are more specific, instead of broad. That generally makes them simpler. It also means there will be more of WCAG 3 outcomes than WCAG 2 success criteria.)
-* **Assertions**
-   * Formal claim of fact, attributed to a person or organization
-   * Assertions in WCAG 3 state that an organization has completed a procedure that can improve accessibility
-   * Example procedures include usability testing, assistive technology testing, and plain language reviews
-   * Assertions are used when the results of the same usability would be very different between testers
+Rancangan WCAG 3 ini memiliki:
+* **Pedoman**
+    * Solusi untuk masalah aksesibilitas
+    * Lebih **granular** dibandingkan pedoman di WCAG 2
+    * Setiap pedoman memiliki hasil
+* **Hasil**
+    * Pernyataan yang dapat diverifikasi
+    * Mirip dengan **kriteria keberhasilan** di WCAG 2
+    * Lebih terperinci dan lebih fokus pada hasil yang diinginkan daripada cara teknis untuk mencapainya<br>(Lebih _terperinci_ berarti lebih spesifik, bukan luas. Hal ini umumnya membuatnya menjadi lebih sederhana. Ini juga berarti akan ada lebih banyak hasil pada WCAG 3 daripada kriteria sukses pada WCAG 2.)
+* **Penandasan**
+    * Klaim faktual secara formal, yang dikaitkan dengan seseorang atau organisasi
+    * Penandasan dalam WCAG 3 menyatakan bahwa sebuah organisasi telah menyelesaikan prosedur yang dapat meningkatkan aksesibilitas
+    * Contoh prosedur mencakup pengujian ketergunaan, pengujian pada teknologi pendukung, dan tinjauan kesederhanaan bahasa
+    * Penandasan digunakan ketika hasil penilaian dari ketergunaan yang sama akan sangat berbeda antar penguji
 
 <!-- @@ ??? SLH needs more clarity -->
 
-WCAG 3 supporting material includes:
-* **Methods**
-   * Technology-specific ways to achieve an outcome
-   * Tests for the outcome
-   * Similar to **Techniques** for WCAG 2
-* **How-To documents**
-   * Explain more about each guideline, such as how it addresses accessibility needs <!-- @@ each outcome or each guideline ? -->
-   * Information for designers, developers, people new to accessibility, and project planners
-   * Similar to the  **Understanding** documents for WCAG 2
-* **Functional categories** of **functional needs**
-   * Categorized list of needs of people with disabilities
+Materi pendukung WCAG 3 meliputi:
+* **Metode**
+    * Cara yang teknologi-spesifik untuk mencapai suatu hasil
+    * Pengujian untuk hasil
+    * Mirip dengan **Teknik** pada WCAG 2
+* **Dokumen Petunjuk**
+    * Menjelaskan lebih lanjut tentang setiap pedoman, seperti bagaimana pedoman tersebut memenuhi kebutuhan aksesibilitas <!-- @@ setiap hasil atau setiap pedoman ? -->
+    * Informasi untuk desainer, pengembang, yang baru mengenal aksesibilitas, dan perencana proyek
+    * Mirip dengan dokumen **Memahami** pada WCAG 2
+* **Kategori fungsional** dari **kebutuhan fungsional**
+    * Daftar kategori kebutuhan penyandang disabilitas
 
-### Draft Conformance Model {#model}
+### Rancangan Model Kesesuaian {#model}
 
-The _conformance model_ is the way to determine and communicate how well a website (or app, tool, etc.) meets WCAG. The conformance model in this draft of WCAG 3 will be very different from WCAG 2. It is intended to:
-* be more flexible for organizations (that is, owners and developers of websites, apps, tools, etc.)
-* encourage more accessible user experiences
+_Model kesesuaian_ adalah cara untuk menentukan dan mengkomunikasikan seberapa baik situs web (atau aplikasi, sarana, dll.) memenuhi WCAG. Model kesesuaian pada rancangan WCAG 3 ini akan sangat berbeda dengan WCAG 2. Hal ini dimaksudkan agar:
+* lebih fleksibel untuk organisasi (yaitu pemilik dan pengembang situs web, aplikasi, sarana, dll.)
+* mendorong pengalaman pengguna yang lebih aksesibel
 
-We are reworking the conformance model based on feedback and we encourage additional feedback as we iterate. 
+Kami sedang mengerjakan ulang model kesesuaian berdasarkan umpan balik dan kami meminta umpan balik tambahan selama proses iterasi.
 
-## Development
+## Pengembangan
 
-### Timeline
+### Linimasa
 
 <img src="{{ "/content-images/wai-intro-wcag/calandara.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 20%; max-width: 111px">
 
-The First Public Working Draft of WCAG 3.0 was published on 21 January 2021. The July 2023 draft has many changes that resulted from public feedback. We plan to publish updated drafts every 3-6 months.
+Rancangan Kerja Publik WCAG 3.0 yang Pertama diterbitkan pada 21 Januari 2021. Draf Juli 2023 mengalami banyak perubahan yang dihasilkan dari masukan publik. Kami berencana untuk menerbitkan rancangan yang telah diperbarui setiap 3-6 bulan.
 
-**WCAG 3 is not expected to be a completed W3C standard for a few more years.** 
+**WCAG 3 diperkirakan belum akan selesai untuk menjadi standar W3C dalam beberapa tahun ke depan.**
 
-The Working Group will focus on creating an initial set of guidelines and outcomes. Then will focus on refining the structure and conformance model. They will provide updated drafts for review throughout this process. Once the conformance approach is more stable, the Group will focus on refining the accessibility requirements (guidelines, outcomes, assertions, and support material). We will then provide material to help those wanting to transition to WCAG 3; for example, mapping between WCAG 2 and 3 requirements.
+Kelompok Kerja akan fokus pada pembuatan serangkaian pedoman dan hasil awal. Kemudian akan fokus pada penyempurnaan struktur dan model kesesuaian. Mereka akan memberikan rancangan yang telah diperbarui untuk ditinjau selama proses ini. Ketika pendekatan kesesuaian sudah lebih stabil, Kelompok Kerja akan fokus pada penyempurnaan persyaratan aksesibilitas (pedoman, hasil, penandasan, dan materi pendukung). Kami kemudian akan memberikan materi untuk membantu mereka yang ingin melakukan transisi ke WCAG 3; misalnya, pemetaan antara persyaratan WCAG 2 dan 3.
 
-WCAG 3 will not supersede WCAG 2, and WCAG 2 will not be deprecated, for at least several years after WCAG 3 is finalized.
+WCAG 3 tidak akan menggantikan WCAG 2, dan WCAG 2 tidak akan dihentikan, setidaknya selama beberapa tahun setelah WCAG 3 diselesaikan.
 
-We will update this section with more specific timeline information as it is available.
+Kami akan memperbarui bagian ini dengan informasi linimasa yang lebih spesifik jika tersedia.
 
-### WCAG 3 Name (formerly "Silver" project)
+### Nama WCAG 3 (sebelumnya proyek "Silver")
 
-The name of WCAG 3 is different from WCAG 2:
-* WCAG **3** is W3C Accessibility Guidelines
-* WCAG **2** is Web Content Accessibility Guidelines
+Nama WCAG 3 berbeda dari WCAG 2:
+* WCAG **3** adalah Pedoman Aksesibilitas W3C
+* WCAG **2** adalah Pedoman Aksesibilitas Web
  
-“W3C Accessibility Guidelines (WCAG) 3.0” was chosen:
-* because of wide-spread familiarity with the “WCAG” acronym
-* to encompass the broader scope beyond “content”
+"Pedoman Aksesibilitas W3C (WCAG) 3.0” dipilih:
+* karena keakraban yang luas dengan akronim “WCAG”.
+* untuk merangkul cakupan yang lebih luas dari “konten”
 
-### Who Develops WCAG 3
+### Siapa yang mengembangkan WCAG 3
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) (previously under the Silver Task Force) with the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
+Dokumen teknis WCAG dikembangkan oleh Kelompok Kerja Pedoman Aksesibilitas ([AG WG](https://www.w3.org/WAI/GL/)) (sebelumnya berada di bawah Satuan Tugas Silver) dengan Kelompok Komunitas Silver. Kelompok-kelompok ini adalah bagian dari Inisiatif Aksesibilitas Web ([WAI](https://www.w3.org/WAI/)) Konsorsium World Wide Web ([W3C](http://www.w3.org)). Anda dapat mempelajari proses pengembangannya di [[Bagaimana WAI Mengembangkan Standar Aksesibilitas melalui Proses W3C: Pencapaian dan Peluang Berkontribusi]](/standards-guidelines/w3c-process/).
 
-We welcome your comments on WCAG 3 Working Drafts. The best way to provide feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues). Alternatively, e-mail public-agwg-comments@w3.org
+Kami menyambut komentar Anda pada Rancangan Kerja WCAG 3. Cara terbaik untuk memberikan masukan adalah dengan membuka [isu GitHub](https://github.com/w3c/wcag3/issues) baru. Alternatifnya, kirimkan email ke public-agwg-comments@w3.org
 
-Opportunities for contributing more directly to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
+Peluang untuk berkontribusi lebih banyak secara langsung ke WCAG dan pekerjaan WAI lainnya diperkenalkan di [[Berpartisipasi di WAI]](/about/participating/).
