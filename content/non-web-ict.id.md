@@ -27,10 +27,10 @@ ref: /standards-guidelines/wcag/non-web-ict/
 {% include box.html type="start" h="2" title="Ringkasan" class="full" %}
 {:/}
 
-Halaman ini memperkenalkan draf dokumen: "Panduan Penerapan WCAG 2.2 pada Teknologi Informasi dan Komunikasi Nonweb (WCAG2ICT)". Dokumen tersebut adalah pembaruan berjalan dari Catatan WCAG2ICT sebelumnya yang mencakup WCAG 2.0.
+Halaman ini memperkenalkan rancangan dokumen: "Panduan Penerapan WCAG 2.2 pada Teknologi Informasi dan Komunikasi Nonweb (WCAG2ICT)". Dokumen tersebut adalah pembaruan berjalan dari Catatan WCAG2ICT sebelumnya yang mencakup WCAG 2.0.
 
 **Tautan Cepat:**
-* [Draf WCAG2ICT untuk WCAG 2.2](https://www.w3.org/TR/wcag2ict-22/)
+* [Rancangan WCAG2ICT untuk WCAG 2.2](https://www.w3.org/TR/wcag2ict-22/)
 * [Catatan WCAG2ICT untuk WCAG 2.0, September 2013](https://www.w3.org/TR/wcag2ict-20/)
 * _URI https://www.w3.org/TR/wcag2ict/ mengarah ke versi rampung terakhir. Yang saat ini adalah versi 2.0. Ketika versi 2.2 telah difinalisasi, URI akan menunjuk ke versi 2.2._
 
@@ -59,7 +59,7 @@ Halaman ini memperkenalkan draf dokumen: "Panduan Penerapan WCAG 2.2 pada Teknol
 
 *Dokumen ini:* **WCAG2ICT** adalah Catatan Grup W3C yang informatif — tidak normatif dan tidak menetapkan persyaratan. Panduan ini memberikan panduan penerapan prinsip, pedoman, dan kriteria sukses WCAG 2 pada dokumen dan perangkat lunak nonweb. WCAG2ICT dikembangkan untuk memberikan interpretasi resmi tentang bagaimana WCAG 2 dapat diterapkan dalam konteks yang berbeda. Untuk informasi tentang cakupan WCAG2ICT, lihat [Bagian Pengenalan WCAG2ICT](https://www.w3.org/TR/wcag2ict/#intro).
 
-*Pembaruan berjalan:* [Catatan WCAG2ICT 2.0 sebelumnya](https://www.w3.org/TR/wcag2ict-20/) mencakup WCAG 2.0. **[Catatan WCAG2ICT 2.2](https://www.w3.org/TR/wcag2ict-22/) akan mencakup WCAG 2.2**. Saat ini mencakup panduan untuk kriteria sukses WCAG 2.1. Pembaruan selanjutnya akan mencakup panduan untuk kriteria sukses WCAG 2.2. [Draf Editor WCAG2ICT](https://w3c.github.io/wcag2ict) mungkin berisi usulan pembaruan yang belum disetujui dan dipublikasikan.
+*Pembaruan berjalan:* [Catatan WCAG2ICT 2.0 sebelumnya](https://www.w3.org/TR/wcag2ict-20/) mencakup WCAG 2.0. **[Catatan WCAG2ICT 2.2](https://www.w3.org/TR/wcag2ict-22/) akan mencakup WCAG 2.2**. Saat ini mencakup panduan untuk kriteria sukses WCAG 2.1. Pembaruan selanjutnya akan mencakup panduan untuk kriteria sukses WCAG 2.2. [Rancangan Editor WCAG2ICT](https://w3c.github.io/wcag2ict) mungkin berisi usulan pembaruan yang belum disetujui dan dipublikasikan.
 
 ## Untuk siapa WCAG2ICT? {#for}
 

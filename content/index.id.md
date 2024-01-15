@@ -162,4 +162,4 @@ Lihat [[FAQ WCAG 2]](/standards-guidelines/wcag/faq/) untuk informasi lebih lanj
 - **Menerapkan WCAG 2 pada [dokumen dan perangkat lunak](/standards-guidelines/wcag/faq/#wcag2ict)**
 - dan banyak lagi...
 
-Untuk informasi mengenai draf awal Pedoman Aksesibilitas W3C 3.0 (sebelumnya dikenal sebagai "Sliver"), lihat **[Pengenalan WCAG 3](/standards-guidelines/wcag/wcag3-intro/)**.
+Untuk informasi mengenai rancangan awal Pedoman Aksesibilitas W3C 3.0 (sebelumnya dikenal sebagai "Sliver"), lihat **[Pengenalan WCAG 3](/standards-guidelines/wcag/wcag3-intro/)**.
