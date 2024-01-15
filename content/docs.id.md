@@ -71,15 +71,15 @@ Saat mengembangkan konten dan sarana web, kebanyakan orang akan menggunakan doku
 
 **Sumber informasi utama bagi desainer dan pengembang untuk menggunakan WCAG 2 adalah [Cara Memenuhi WCAG 2 (Referensi Cepat): Referensi cepat yang dapat disesuaikan terkait persyaratan (Kriteria Sukses) dan teknik WCAG 2](http://www.w3.org/WAI/WCAG21/quickref/).** Sumber informasi tersebut mencakup semua pedoman dan kriteria sukses WCAG 2. Sumber informasi tersebut pada dasarnya sama dengan [Ceklis WCAG 2](http://www.w3.org/WAI/WCAG21/quickref/).
 
-Anda dapat menyesuaikan referensi tersebut untuk menunjukkan informasi yang Anda perlukan saat itu. Terdapat "filter" untuk berbagai peran, topik, dan teknologi (seperti HTML, CSS, ARIA). Juga filter untuk [kriteria keberhasilan Level A, AA, atau AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
+Anda dapat menyesuaikan referensi tersebut untuk menunjukkan informasi yang Anda perlukan saat itu. Terdapat "filter" untuk berbagai peran, topik, dan teknologi (seperti HTML, CSS, ARIA). Juga filter untuk [kriteria sukses Level A, AA, atau AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
 ## Dokumen Pendukung
 
-Dokumen pendukung berhubungan langsung dengan pedoman dan kriteria keberhasilan WCAG. Mereka **tidak diwajibkan** untuk memenuhi WCAG; namun bersifat "informatif" atau pun "non-normatif".
+Dokumen pendukung berhubungan langsung dengan pedoman dan kriteria sukses WCAG. Mereka **tidak diwajibkan** untuk memenuhi WCAG; namun bersifat "informatif" atau pun "non-normatif".
 
 ### Memahami
 
-<cite>Memahami WCAG</cite> adalah panduan untuk memahami dan menerapkan WCAG. Dokumen ini berisi rincian untuk orang-orang yang ingin memahami pedoman dan kriteria keberhasilan secara lebih menyeluruh. Termasuk:
+<cite>Memahami WCAG</cite> adalah panduan untuk memahami dan menerapkan WCAG. Dokumen ini berisi rincian untuk orang-orang yang ingin memahami pedoman dan kriteria sukses secara lebih menyeluruh. Termasuk:
 
 *  intensi
 *  bagaimana hal ini membantu orang-orang dengan disabilitas yang berbeda
