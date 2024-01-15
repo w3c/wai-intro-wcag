@@ -110,6 +110,6 @@ Spesifikasi teknis normatif dicantumkan di [www.w3.org/TR/WCAG22](https://www.w3
 
 Halaman ini berisi ringkasan pada level pedoman. Isi pedoman tersebut sama pada WCAG 2.1 dan WCAG 2.2. Untuk mempelajari kriteria sukses yang baru, lihat [[Yang Baru di WCAG 2.2]](/standards-guidelines/wcag/new-in-22/).
 
-[[Sekilas WCAG 2.0]](/standards-guidelines/wcag/20/glance/) memiliki dua perbedaan dari yang tertera di atas:
+[[Sekilas tentang WCAG 2.0]](/standards-guidelines/wcag/20/glance/) memiliki dua perbedaan dari yang tertera di atas:
 * "Jangan gunakan konten yang menyebabkan kejang atau reaksi fisik." tidak menyertakan "atau reaksi fisik".
 * Tidak menyertakan "Permudah penggunaan input selain keyboard."

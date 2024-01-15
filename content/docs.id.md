@@ -81,7 +81,7 @@ Dokumen pendukung berhubungan langsung dengan pedoman dan kriteria sukses WCAG. 
 
 <cite>Memahami WCAG</cite> adalah panduan untuk memahami dan menerapkan WCAG. Dokumen ini berisi rincian untuk orang-orang yang ingin memahami pedoman dan kriteria sukses secara lebih menyeluruh. Termasuk:
 
-*  intensi
+*  maksud
 *  bagaimana hal ini membantu orang-orang dengan disabilitas yang berbeda
 *  catatan terkait dukungan pada browser dan teknologi pendukung
 *  contoh
@@ -167,7 +167,7 @@ Empat kotak terhubung:
    * Sumber informasi
    * Prosedur pengujian
 * Kanan: _Referensi Lengkap_ ; **Memahami WCAG 2.0**
-   * Intensi
+   * Maksud
    * Manfaat bagi penyandang disabilitas
    * Contoh skenario
    * Sumber informasi
