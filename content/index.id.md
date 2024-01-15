@@ -91,7 +91,7 @@ Untuk memenuhi kebutuhan pihak lainnya &mdash; termasuk pembuat kebijakan, manaj
 
 ## Apa isi dari WCAG 2 {#whatis2}
 
-WCAG 2.2 berisi 13 pedoman. Pedoman ini disusun berdasarkan [4 prinsip: dapat diterima indra, dapat dioperasikan, dapat dimengerti, dan kukuh](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility).
+WCAG 2.2 berisi 13 pedoman. Pedoman ini disusun berdasarkan [4 prinsip: dapat diterima indra, dapat dioperasikan, dapat dimengerti, dan tangguh](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility).
 
 Untuk setiap pedoman, terdapat *kriteria sukses* yang dapat diuji. Kriteria sukses terdiri dari [tiga level: A, AA, dan AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
