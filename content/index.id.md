@@ -91,11 +91,11 @@ Untuk memenuhi kebutuhan pihak lainnya &mdash; termasuk pembuat kebijakan, manaj
 
 ## Apa isi dari WCAG 2 {#whatis2}
 
-WCAG 2.2 berisi 13 pedoman. Pedoman ini disusun berdasarkan [4 prinsip: dapat diterima indra, dapat dioperasikan, dapat dimengerti, dan tangguh](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility).
+WCAG 2.2 berisi 13 pedoman. Pedoman ini disusun berdasarkan [4 prinsip: bisa ditangkap, bisa dioperasikan, bisa dimengerti, dan tangguh](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility).
 
-Untuk setiap pedoman, terdapat *kriteria sukses* yang dapat diuji. Kriteria sukses terdiri dari [tiga level: A, AA, dan AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
+Untuk setiap pedoman, terdapat *kriteria sukses* yang bisa diuji. Kriteria sukses terdiri dari [tiga level: A, AA, dan AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
-kritaria sukses inilah yang menentukan “kesesuaian” pada WCAG. Artinya, untuk memenuhi WCAG, konten harus memenuhi kriteria sukses tersebut. Detail dapat dilihat di [bagian Kesesuaian pada WCAG](https://www.w3.org/TR/WCAG21/#conformance).
+kritaria sukses inilah yang menentukan “kesesuaian” pada WCAG. Artinya, untuk memenuhi WCAG, konten harus memenuhi kriteria sukses tersebut. Detail bisa dilihat di [bagian Kesesuaian pada WCAG](https://www.w3.org/TR/WCAG21/#conformance).
 
 Untuk ringkasan pedoman WCAG 2, lihat **[[Sekilas Mengenai WCAG 2]](/standards-guidelines/wcag/glance/)**.
 
@@ -113,7 +113,7 @@ Sumber informasi berikut membantu Anda dalam memahami dan menerapkan WCAG, serta
 
 ## WCAG 2.0, 2.1, 2.2 {#versions}
 
-Standar Pedoman Aksesibilitas Konten Web (WCAG) sudah stabil dan dapat dijadikan referensi ketika sudah dipublikasikan sebagai 'Rekomendasi W3C' untuk standar web.
+Standar Pedoman Aksesibilitas Konten Web (WCAG) sudah stabil dan bisa dijadikan referensi ketika sudah dipublikasikan sebagai 'Rekomendasi W3C' untuk standar web.
 
 * [WCAG 2.0](https://www.w3.org/TR/WCAG20/) dipublikasikan pada 11 Desember 2008.
 * [WCAG 2.1](https://www.w3.org/TR/WCAG21/) dipublikasikan pada 5 Juni 2018, dan pembaruannya dipublikasikan pada 21 September 2023. [Pertanyaan yang Sering Diajukan (FAQ) untuk WCAG 2](https://www.w3.org/WAI/standards-guidelines/wcag/faq/) berisi informasi terkait pembaruan.
@@ -150,7 +150,7 @@ Dokumen teknis WCAG dikembangkan oleh Kelompok Kerja Pedoman Aksesibilitas ([AG 
 
 WAI memperbarui dokumen Teknik-teknik WCAG 2 dan Memahami WCAG 2 secara berkala. Kami menyambut [komentar](/standards-guidelines/wcag/commenting/) dan [pengajuan teknik baru](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
 
-Peluang untuk berkontribusi pada WCAG dan pekerjaan WAI lainnya dapat dilihat di [[Berpartisipasi di WAI]](/about/participating/).
+Peluang untuk berkontribusi pada WCAG dan pekerjaan WAI lainnya bisa dilihat di [[Berpartisipasi di WAI]](/about/participating/).
 
 ## WCAG 3 dan informasi lebih lanjut {#more}
 

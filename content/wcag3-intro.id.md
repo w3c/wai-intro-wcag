@@ -80,7 +80,7 @@ Setiap bagian normatif memiliki status yang menunjukkan sejauh mana proses penge
 
 * **Pengganti:** Konten ini bersifat sementara. Ini menunjukkan jenis konten atau bagian yang diharapkan. Teks pengganti akan diganti. Konten ini disembunyikan secara bawaan pada dokmen rancangan Editor. Tidak ada umpan balik yang diperlukan terkait konten placeholder.
 * **Eksploratif:** Kelompok Kerja sedang menjajaki arah mana yang harus diambil pada bagian ini. Konten ini tidak disempurnakan; detail dan definisi mungkin hilang. Konten ini disembunyikan secara bawaan pada dokumen rangangan Editor. Kami mengundang umpan balik mengenai arah yang diusulkan.
-* **Pengembangan:** Ada kesepakatan kasar mengenai apa yang diperlukan untuk bagian ini, meskipun tidak semua permasalahan tingkat tinggi telah diselesaikan. Detail sudah disertakan, namun tidak semuanya disepakati. Kami mengundang umpan balik umum terkait secara umum seberapa mudah bagian ini dipahami, berguna, dan masuk akal.
+* **Pengembangan:** Ada kesepakatan kasar mengenai apa yang diperlukan untuk bagian ini, meskipun tidak semua permasalahan tingkat tinggi telah diselesaikan. Detail sudah disertakan, namun tidak semuanya disepakati. Kami mengundang umpan balik umum terkait secara umum seberapa mudah bagian ini dimengerti, berguna, dan masuk akal.
 * **Penyempurnaan:** Kelompok Kerja telah mencapai konsensus mengenai bagian ini. Bagian ini siap untuk tinjauan publik secara luas dan diadopsi secara eksperimental. Kami mencari umpan balik terkait kelayakan dan permasalahan dalam penerapannya.
 * **Matang:** Kelompok Kerja menganggap konten ini siap untuk digunakan pada standar akhir. Umpan balik perlu difokuskan pada kasus-kasus ekstrem yang mungkin tidak diantisipasi oleh Kelompok Kerja.
 
@@ -104,12 +104,12 @@ Selain itu, kami menyambut baik komentar mengenai bagaimana Kelompok Kerja Pedom
 ### Beberapa Mirip, Beberapa Berbeda {#compare}
 
 **Tujuan** dari WCAG 3 meliputi:
-* membuatnya lebih mudah dipahami
+* membuatnya lebih mudah dimengerti
 * mencakup lebih banyak kebutuhan pengguna, termasuk lebih banyak kebutuhan penyandang disabilitas kognitif
 * membuatnya fleksibel dalam menangani berbagai jenis konten web, aplikasi, sarana, dan organisasi
 
 WCAG 3 **mirip** dengan versi sebelumnya dalam beberapa hal. Yakni kemiripan:
-* tujuan dalam memberikan panduan untuk membuat konten web dan aplikasi yang dapat diakses oleh penyandang disabilitas
+* tujuan dalam memberikan panduan untuk membuat konten web dan aplikasi yang bisa diakses oleh penyandang disabilitas
 * persyaratan aksesibilitas mendasar dan spesifik
 
 WCAG 3 sangat **berbeda** dari versi sebelumnya dalam beberapa hal. Yakni:
@@ -125,7 +125,7 @@ Rancangan WCAG 3 ini memiliki:
     * Lebih **granular** dibandingkan pedoman di WCAG 2
     * Setiap pedoman memiliki hasil
 * **Hasil**
-    * Pernyataan yang dapat diverifikasi
+    * Pernyataan yang bisa diverifikasi
     * Mirip dengan **kriteria keberhasilan** di WCAG 2
     * Lebih terperinci dan lebih fokus pada hasil yang diinginkan daripada cara teknis untuk mencapainya<br>(Lebih _terperinci_ berarti lebih spesifik, bukan luas. Hal ini umumnya membuatnya menjadi lebih sederhana. Ini juga berarti akan ada lebih banyak hasil pada WCAG 3 daripada kriteria sukses pada WCAG 2.)
 * **Penandasan**

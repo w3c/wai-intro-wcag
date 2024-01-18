@@ -53,17 +53,17 @@ Halaman ini memperkenalkan rancangan dokumen: "Panduan Penerapan WCAG 2.2 pada T
 
 ## Pengantar {#intro}
 
-<cite>Panduan Penerapan WCAG 2 pada Teknologi Informasi dan Komunikasi Nonweb (WCAG2ICT)</cite> menjelaskan bagaimana Pedoman Aksesibilitas Konten Web (WCAG) dapat diterapkan pada teknologi informasi dan komunikasi (TIK) nonweb, termasuk dokumen dan perangkat lunak. Dokumen tersebut mendukung solusi aksesibilitas yang selaras di berbagai teknologi.
+<cite>Panduan Penerapan WCAG 2 pada Teknologi Informasi dan Komunikasi Nonweb (WCAG2ICT)</cite> menjelaskan bagaimana Pedoman Aksesibilitas Konten Web (WCAG) bisa diterapkan pada teknologi informasi dan komunikasi (TIK) nonweb, termasuk dokumen dan perangkat lunak. Dokumen tersebut mendukung solusi aksesibilitas yang selaras di berbagai teknologi.
 
 *Latar belakang:* **WCAG 2.0** adalah standar web normatif — yang adalah Rekomendasi W3C dan Standar Internasional ISO ([ISO/IEC 40500:2012](https://www.w3.org/QA/2012/10/wcag_20_is_now_also_isoiec_405.html)) — yang menjelaskan cara membuat konten web (termasuk halaman web statis, aplikasi web dinamis, dll.) yang lebih mudah diakses oleh penyandang disabilitas. WCAG 2.1 diterbitkan pada tahun 2018 dan **WCAG 2.2** direncanakan diterbitkan pada tahun 2023. [Gambaran Umum WCAG](/standards-guidelines/wcag/) memperkenalkan dokumen WCAG dan tautan ke sumber informasi pendukung seperti [[Sekilas tentang WCAG 2.0]](/standards-guidelines/wcag/20/glance/) dan [Cara Memenuhi WCAG 2 (Referensi Cepat)](https://www.w3.org/WAI/WCAG20/quickref/).
 
-*Dokumen ini:* **WCAG2ICT** adalah Catatan Grup W3C yang informatif — tidak normatif dan tidak menetapkan persyaratan. Panduan ini memberikan panduan penerapan prinsip, pedoman, dan kriteria sukses WCAG 2 pada dokumen dan perangkat lunak nonweb. WCAG2ICT dikembangkan untuk memberikan interpretasi resmi tentang bagaimana WCAG 2 dapat diterapkan dalam konteks yang berbeda. Untuk informasi tentang cakupan WCAG2ICT, lihat [Bagian Pengenalan WCAG2ICT](https://www.w3.org/TR/wcag2ict/#intro).
+*Dokumen ini:* **WCAG2ICT** adalah Catatan Grup W3C yang informatif — tidak normatif dan tidak menetapkan persyaratan. Panduan ini memberikan panduan penerapan prinsip, pedoman, dan kriteria sukses WCAG 2 pada dokumen dan perangkat lunak nonweb. WCAG2ICT dikembangkan untuk memberikan interpretasi resmi tentang bagaimana WCAG 2 bisa diterapkan dalam konteks yang berbeda. Untuk informasi tentang cakupan WCAG2ICT, lihat [Bagian Pengenalan WCAG2ICT](https://www.w3.org/TR/wcag2ict/#intro).
 
 *Pembaruan berjalan:* [Catatan WCAG2ICT 2.0 sebelumnya](https://www.w3.org/TR/wcag2ict-20/) mencakup WCAG 2.0. **[Catatan WCAG2ICT 2.2](https://www.w3.org/TR/wcag2ict-22/) akan mencakup WCAG 2.2**. Saat ini mencakup panduan untuk kriteria sukses WCAG 2.1. Pembaruan selanjutnya akan mencakup panduan untuk kriteria sukses WCAG 2.2. [Rancangan Editor WCAG2ICT](https://w3c.github.io/wcag2ict) mungkin berisi usulan pembaruan yang belum disetujui dan dipublikasikan.
 
 ## Untuk siapa WCAG2ICT? {#for}
 
-WCAG2ICT diperuntukkan bagi para manajer ICT, pengembang ICT, pembuat kebijakan, dan pihak lain yang ingin memahami bagaimana WCAG 2 dapat diterapkan pada dokumen dan perangkat lunak nonweb.
+WCAG2ICT diperuntukkan bagi para manajer ICT, pengembang ICT, pembuat kebijakan, dan pihak lain yang ingin memahami bagaimana WCAG 2 bisa diterapkan pada dokumen dan perangkat lunak nonweb.
 
 ## Apa yang dicakup dalam WCAG2ICT? {#whatis}
 

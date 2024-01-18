@@ -63,13 +63,13 @@ Halaman ini menjelaskan dokumen pendukung dan panduan tambahan WCAG 2. Halaman i
 
 ## Standar WCAG 2
 
-Pedoman Aksesibilitas Konten Web (WCAG) 2 adalah standar teknis yang stabil dan dapat dijadikan referensi. Pelajari lebih lanjut pada [[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)]](/standards-guidelines/wcag/).
+Pedoman Aksesibilitas Konten Web (WCAG) 2 adalah standar teknis yang stabil dan bisa dijadikan referensi. Pelajari lebih lanjut pada [[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)]](/standards-guidelines/wcag/).
 
 Saat mengembangkan konten dan sarana web, kebanyakan orang akan menggunakan dokumen yang diperkenalkan di bawah ini, bukan dokumen standar sebenarnya.
 
 ## Referensi Cepat / Cara Memenuhi WCAG 2 / Ceklis WCAG 2
 
-**Sumber informasi utama bagi desainer dan pengembang untuk menggunakan WCAG 2 adalah [Cara Memenuhi WCAG 2 (Referensi Cepat): Referensi cepat yang dapat disesuaikan terkait persyaratan (Kriteria Sukses) dan teknik WCAG 2](http://www.w3.org/WAI/WCAG21/quickref/).** Sumber informasi tersebut mencakup semua pedoman dan kriteria sukses WCAG 2. Sumber informasi tersebut pada dasarnya sama dengan [Ceklis WCAG 2](http://www.w3.org/WAI/WCAG21/quickref/).
+**Sumber informasi utama bagi desainer dan pengembang untuk menggunakan WCAG 2 adalah [Cara Memenuhi WCAG 2 (Referensi Cepat): Referensi cepat yang bisa disesuaikan terkait persyaratan (Kriteria Sukses) dan teknik WCAG 2](http://www.w3.org/WAI/WCAG21/quickref/).** Sumber informasi tersebut mencakup semua pedoman dan kriteria sukses WCAG 2. Sumber informasi tersebut pada dasarnya sama dengan [Ceklis WCAG 2](http://www.w3.org/WAI/WCAG21/quickref/).
 
 Anda dapat menyesuaikan referensi tersebut untuk menunjukkan informasi yang Anda perlukan saat itu. Terdapat "filter" untuk berbagai peran, topik, dan teknologi (seperti HTML, CSS, ARIA). Juga filter untuk [kriteria sukses Level A, AA, atau AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
 
@@ -152,7 +152,7 @@ Tidak termasuk pada diagram lama:
 **Deskripsi panjang:**
 
 Empat kotak terhubung:
-* Atas: _Referensi Cepat yang Dapat Disesuaikan_ ; **Cara Memenuhi WCAG 2.0**
+* Atas: _Referensi Cepat yang Bisa Disesuaikan_ ; **Cara Memenuhi WCAG 2.0**
    * Pedoman
      * Kriteria Sukses
        * Teknik

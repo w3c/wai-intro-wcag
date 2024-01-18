@@ -57,7 +57,7 @@ Spesifikasi teknis normatif dicantumkan di [www.w3.org/TR/WCAG22](https://www.w3
 ## Pedoman
 
 {::nomarkdown}
-{% include box.html type="start" title="Dapat Diterima Indra" h=3 class="large" %}
+{% include box.html type="start" title="Bisa Ditangkap" h=3 class="large" %}
 {:/}
 
 -   Sediakan **[alternatif teks](https://www.w3.org/WAI/WCAG22/quickref/#text-equiv)** untuk konten nonteks.
@@ -71,7 +71,7 @@ Spesifikasi teknis normatif dicantumkan di [www.w3.org/TR/WCAG22](https://www.w3
 
 
 {::nomarkdown}
-{% include box.html type="start" title="Dapat Dioperasikan" h=3 class="large" %}
+{% include box.html type="start" title="Bisa Dioperasikan" h=3 class="large" %}
 {:/}
 
 -   Buat semua fungsionalitas tersedia melalui **[kibor](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-operation)**.
@@ -85,11 +85,11 @@ Spesifikasi teknis normatif dicantumkan di [www.w3.org/TR/WCAG22](https://www.w3
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Dapat Dipahami" h=3 class="large" %}
+{% include box.html type="start" title="Bisa Dimengerti" h=3 class="large" %}
 {:/}
 
--   Buat teks **[dapat dibaca dan dipahami](https://www.w3.org/WAI/WCAG22/quickref/#meaning)**.
--   Buat konten tampil dan bekerja dengan cara yang **[dapat diprediksi](https://www.w3.org/WAI/WCAG22/quickref/#consistent-behavior)** ways.
+-   Buat teks **[bisa dibaca dan dimengerti](https://www.w3.org/WAI/WCAG22/quickref/#meaning)**.
+-   Buat konten tampil dan bekerja dengan cara yang **[bisa diprediksi](https://www.w3.org/WAI/WCAG22/quickref/#consistent-behavior)** ways.
 -   Bantu pengguna **[menghindari dan memperbaiki kesalahan](https://www.w3.org/WAI/WCAG22/quickref/#minimize-error)**.
 
 {::nomarkdown}
