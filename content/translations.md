@@ -2,7 +2,7 @@
 title: WCAG 2 Translations
 nav_title: "Translations"
 lang: en
-last_updated: 2023-12-13
+last_updated: 2024-01-29
 description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.2, 2.1 and 2.0.
 
 github:
@@ -96,6 +96,11 @@ Two types of translations are listed on this page:
       <th id="pt22">Portuguese, Brazilian</th>
       <td></td>
       <td>Authorized Translation — <a href="https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0011.html">notification of intent for Brazilian Portuguese Authorized Translation of WCAG 2.2 (17 October 2023)</a></td>      
+    </tr>
+    <tr>
+      <th id="ru22">Russian</th>
+      <td></td>
+      <td><a href="https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0006.html">Notification of intent for Russian Translation of WCAG 2.2 (18 January 2024)</a></td>      
     </tr>
   </tbody>
 </table>
