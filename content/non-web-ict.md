@@ -5,7 +5,7 @@ nav_title: "Applying to Non-Web ICT"
 description: "Introduces the document: Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)."
 
 lang: en
-last_updated: 2023-08-31
+last_updated: 2024-02-02
 permalink: /standards-guidelines/wcag/non-web-ict/
 
 github:
@@ -14,7 +14,7 @@ github:
 
 image: /content-images/wai-intro-wcag/general-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 31 August 2023.</p>
+  <p><strong>Date:</strong> Updated 2 February 2024</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Mary Jo Mueller, Judy Brewer, and Daniel Montalvo.</p>
   <p>Developed with input from the <a href="https://www.w3.org/groups/tf/wcag2ict/">WCAG2ICT Task Force</a> and the Education and Outreach Working Group (<a href="https://www.w3.org/groups/wg/eowg/">EOWG</a>).</p>
 ref: /standards-guidelines/wcag/non-web-ict/
@@ -52,7 +52,7 @@ This page introduces the draft document: "Guidance on Applying WCAG 2.2 to Non-W
 
 <cite>Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)</cite> describes how the Web Content Accessibility Guidelines (WCAG) can be applied to non-web information and communications technologies (ICT), including documents and software. It supports harmonized accessibility solutions across a range of technologies.
 
-*Background:* **WCAG 2.0** is a normative web standard — it is a W3C Recommendation and an ISO International Standard ([ISO/IEC 40500:2012](https://www.w3.org/QA/2012/10/wcag_20_is_now_also_isoiec_405.html)) — that explains how to make web content (including static web pages, dynamic web applications, etc.) more accessible to people with disabilities. WCAG 2.1 was published in 2018 and **WCAG 2.2** may be published in 2023. The [WCAG Overview](/standards-guidelines/wcag/) introduces the WCAG documents and links to supporting resources such as [[WCAG 2.0 at a Glance]](/standards-guidelines/wcag/20/glance/) and [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/).
+*Background:* **WCAG 2.0** is a normative web standard — it is a W3C Recommendation and an ISO International Standard ([ISO/IEC 40500:2012](https://www.w3.org/QA/2012/10/wcag_20_is_now_also_isoiec_405.html)) — that explains how to make web content (including static web pages, dynamic web applications, etc.) more accessible to people with disabilities. WCAG 2.1 was published in 2018 and **WCAG 2.2** was published 2023. The [WCAG Overview](/standards-guidelines/wcag/) introduces the WCAG documents and links to supporting resources such as [[WCAG 2.0 at a Glance]](/standards-guidelines/wcag/20/glance/) and [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG20/quickref/).
 
 *This document:* **WCAG2ICT** is a W3C Group Note that is informative — it is not normative and does not set requirements. It provides guidance on the application of WCAG 2 principles, guidelines, and success criteria to non-web documents and software. WCAG2ICT was developed to provide an authoritative interpretation of how WCAG 2 can apply in different contexts. For information on the scope of WCAG2ICT, see the [Introduction section of WCAG2ICT](https://www.w3.org/TR/wcag2ict/#intro).
 
