@@ -2,7 +2,7 @@
 title: WCAG 2 Translations
 nav_title: "Translations"
 lang: en
-last_updated: 2024-02-05
+last_updated: 2024-02-06
 description: Links to translations of Web Content Accessibility Guidelines (WCAG) 2.2, 2.1 and 2.0.
 
 github:
@@ -14,7 +14,7 @@ ref: /standards-guidelines/wcag/translations/
 
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 footer: >
-  <p><strong>Date:</strong> Updated 5 February 2023. First published 2 March 2009.</p>
+  <p><strong>Date:</strong> Updated 6 February 2023. First published 2 March 2009.</p>
   <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, Shadi Abou_Zahra, Xueyuan Jia, Rémi Bétin.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>). Updated as part of the <a href="https://www.w3.org/WAI/about/projects/wai-coop/">WAI-CooP project</a>, co-funded by the European Commission.</p>
 
@@ -33,7 +33,7 @@ inline_css: |
   }
 
   .translation-level--unofficial {
-    background-color: var(--cloudy);
+    background-color: var(--cloudy-subtle);
     color: #000;
   }
   .translations-table p{
@@ -218,75 +218,6 @@ Two types of translations are listed on this page:
   {%- endfor -%}
   </tbody>
 </table>
-
-{::nomarkdown}
-{% include excol.html type="start" %}
-{:/}
-
-### Translations of Other WCAG 2.0 Documents
-
-{::nomarkdown}
-{% include excol.html type="middle" %}
-
-<table class="quiet translations-table">
-  <thead>
-     <tr>
-        <th scope="col">Language</th>
-        <th scope="col">Translations</th>
-     </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <th>French (<span lang="fr">français</span>)</th>
-      <td>
-        <div class="translation_item">
-            <span class="translation-level translation-level--authorized">Authorized Translation</span> – 06 July 2011
-            <p><strong><a href="https://www.w3.org/Translations/NOTE-UNDERSTANDING-WCAG20-fr/" lang="fr" hreflang="fr">Comprendre les WCAG 2.0 {% include_cached external.html %}</a> (outdated version)</strong></p>
-            <p>Lead Translating Organization: Association BrailleNet</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <th>German (<span lang="de">Deutsch</span>)</th>
-      <td>
-        <div class="translation_item">
-            <span class="translation-level translation-level--unofficial">Unofficial Translation</span> – 15 January 2010
-            <p><strong><a href="https://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0013.html">Translations of various WCAG 2.0-related Documents</a></strong></p>
-            <p>Lead Translating Organization: Association BrailleNet</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-    <th>European Portuguese (<span lang="pt">Português Europeu</span>)</th>
-    <td>
-      <div class="translation_item">
-          <span class="translation-level translation-level--unofficial">Unofficial Translation</span>
-          <p><strong><a href="https://web.archive.org/web/20120114200525/http://www.acesso.umic.pt/w3/TR/UNDERSTANDING-WCAG20/" lang="pt" hreflang="pt">Noções sobre as WCAG 2.0 {% include_cached external.html %}</a></strong></p>
-      </div>
-      <div class="translation_item">
-          <span class="translation-level translation-level--unofficial">Unofficial Translation</span>
-          <p><strong><a href="https://web.archive.org/web/20160214002035/http://www.acessibilidade.gov.pt/w3/TR/WCAG20-TECHS/" lang="pt" hreflang="pt">Técnicas para as WCAG 2.0 {% include_cached external.html %}</a></strong></p>
-      </div>
-      <div class="translation_item">
-          <span class="translation-level translation-level--unofficial">Unofficial Translation</span>
-          <p><strong><a href="https://web.archive.org/web/20160214093311/http://www.acessibilidade.gov.pt/w3/TR/WCAG20-quickref/" lang="pt" hreflang="pt">Como Cumprir as WCAG 2.0 {% include_cached external.html %}</a></strong></p>
-      </div>
-    </td>
-    </tr>
-    <tr>
-      <th>Spanish (<span lang="es">español</span>)</th>
-      <td>
-        <div class="translation_item">
-            <span class="translation-level">Planned Unofficial Translation</span>
-            <p><a href="https://lists.w3.org/Archives/Public/w3c-translators/2012OctDec/0019.html">Notification of intent (1 November 2012)</a></p>
-        </div>
-      </td>
-    </tr>  </tbody>
-</table>
-
-{% include excol.html type="end" %}
-{:/}
-
 
 ## More Information
 
