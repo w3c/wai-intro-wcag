@@ -78,13 +78,14 @@ Two types of translations are listed on this page:
 -   _[Authorized Translations](https://www.w3.org/2005/02/TranslationPolicy)_ follow a formal review process and are endorsed by W3C.
 -   _Unofficial translations_ are not reviewed and are not endorsed by W3C.
 
-{% assign wcag = site.data.standards-translations | where_exp: "item", "item.standard == 'wcag'" | map: "versions" %}
-{% assign wcag20 = wcag[0] | where_exp: "item", "item.version == 2.0" | first %}
-{% assign wcag21 = wcag[0] | where_exp: "item", "item.version == 2.1" | first %}
-{% assign wcag22 = wcag[0] | where_exp: "item", "item.version == 2.2" | first %}
-{% assign wcag20_trans = wcag20.translations | group_by: "lang" %}
-{% assign wcag21_trans = wcag21.translations | group_by: "lang" %}
-{% assign wcag22_trans = wcag22.translations | group_by: "lang" %}
+{% assign wcag_trans = site.data.standards-translations | where_exp: "item", "item.standard == 'wcag'" %}
+{% assign wcag20 = site.data.standards | where_exp: "item", "item.standard == 'wcag' and item.standard_version == '2.0'" | first %}
+{% assign wcag21 = site.data.standards | where_exp: "item", "item.standard == 'wcag' and item.standard_version == '2.1'" | first  %}
+{% assign wcag22 = site.data.standards | where_exp: "item", "item.standard == 'wcag' and item.standard_version == '2.2'" | first  %}
+
+{% assign wcag20_trans = wcag_trans | where_exp: "item", "item.standard_version == '2.0'" | group_by: "lang" %}
+{% assign wcag21_trans = wcag_trans | where_exp: "item", "item.standard_version == '2.1' or item.standard_version == '2.1_2018'" | group_by: "lang" %}
+{% assign wcag22_trans = wcag_trans | where_exp: "item", "item.standard_version == '2.2'" | group_by: "lang" %}
 
 ## WCAG 2.2
 
@@ -102,18 +103,18 @@ Two types of translations are listed on this page:
       <td>
         {%- for trans in trans_lang.items -%}
           <div class="translation_item">
-          {% case trans.type %} 
+          {% case trans.type %}
             {% when "authorized" %}
               <span class="translation-level translation-level--authorized">Authorized Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag22.en_title }}{%- endif -%}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag22.title }}{%- endif -%}</a></strong></p>
               {% if trans.translator %}<p>Lead Translating Organization: {{ trans.translator}}</p>{% endif %}
-            {% when "external" %}
+            {% when "unofficial" %}
               <span class="translation-level translation-level--unofficial">Unofficial Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag22.en_title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag22.title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
               {% if trans.translator %} <p>Volunteer translator: {{ trans.translator}}</p>{% endif %}
             {% when "cat" %}
               <span class="translation-level">Candidate Authorized Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag22.en_title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag22.title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
               {% if trans.translator %}<p>Lead Translating Organization: {{ trans.translator}}</p>{% endif %}
             {% when "intent-unofficial" %}
               <span class="translation-level">Planned Unofficial Translation</span>
@@ -149,15 +150,15 @@ Two types of translations are listed on this page:
           {% case trans.type %} 
             {% when "authorized" %}
               <span class="translation-level translation-level--authorized">Authorized Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag21.en_title }}{%- endif -%}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag21.title }}{%- endif -%}</a></strong></p>
               {% if trans.translator %}<p>Lead Translating Organization: {{ trans.translator}}</p>{% endif %}
-            {% when "external" %}
+            {% when "unofficial" %}
               <span class="translation-level translation-level--unofficial">Unofficial Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag21.en_title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag21.title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
               {% if trans.translator %} <p>Volunteer translator: {{ trans.translator}}</p>{% endif %}
             {% when "cat" %}
               <span class="translation-level">Candidate Authorized Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag21.en_title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag21.title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
               {% if trans.translator %}<p>Lead Translating Organization: {{ trans.translator}}</p>{% endif %}
             {% when "intent-unofficial" %}
               <span class="translation-level">Planned Unofficial Translation</span>
@@ -194,15 +195,15 @@ Two types of translations are listed on this page:
           {% case trans.type %} 
             {% when "authorized" %}
               <span class="translation-level translation-level--authorized">Authorized Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag20.en_title }}{%- endif -%}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag20.title }}{%- endif -%}</a></strong></p>
               {% if trans.translator %}<p>Lead Translating Organization: {{ trans.translator}}</p>{% endif %}
-            {% when "external" %}
+            {% when "unofficial" %}
               <span class="translation-level translation-level--unofficial">Unofficial Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag20.en_title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag20.title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
               {% if trans.translator %} <p>Volunteer translator: {{ trans.translator}}</p>{% endif %}
             {% when "cat" %}
               <span class="translation-level">Candidate Authorized Translation</span> {% if trans.date %}– {{ trans.date | date: "%-d %B %Y"}}{% endif %}
-              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag20.en_title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
+              <p {% if trans.title %} lang="{{ trans_lang.name }}"{% endif %}><strong><a href="{{ trans.url }}" hreflang="{{ trans_lang.name }}">{%- if trans.title -%}{{ trans.title}}{%- else -%}{{ wcag20.title }}{%- endif -%} {% include_cached external.html %}</a></strong></p>
               {% if trans.translator %}<p>Lead Translating Organization: {{ trans.translator}}</p>{% endif %}
             {% when "intent-unofficial" %}
               <span class="translation-level">Planned Unofficial Translation</span>
