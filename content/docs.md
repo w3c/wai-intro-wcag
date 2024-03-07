@@ -6,7 +6,7 @@ title: "The WCAG 2 Documents"
 nav_title: "The Documents"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2023-10-05 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-03-07 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -31,8 +31,8 @@ description:  Describes Web Content Accessibility Guidelines (WCAG) 2 supporting
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 5 October 2023. First published July 2005.</p>
-   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="http://www.w3.org/People/hidde/">Hidde de Vries</a> and <a href="http://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
+   <p><strong>Date:</strong> Updated 7 March 2024. First published July 2005.</p>
+   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/hidde/">Hidde de Vries</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
    <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
 ---
@@ -63,15 +63,15 @@ This page describes WCAG 2 supporting documents and supplemental guidance. It he
 
 ## WCAG 2 Standard
 
-Web Content Accessibility Guidelines (WCAG) 2 is a stable, referenceable technical standard. Learn more from the [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/).
+Web Content Accessibility Guidelines (WCAG) 2 is a stable, referenceable technical standard. Learn more from the [[WCAG 2 Overview]](/standards-guidelines/wcag/).
 
 When developing web content and web tools, most people will use the documents introduced below, instead of the actual standard document.
 
 ## Quick Reference / How to Meet WCAG 2 / WCAG 2 Checklist
 
-**A key resource for designers and developers using WCAG 2 is [How to Meet WCAG 2 (Quick Reference): A customizable quick reference to WCAG 2 requirements (Success Criteria) and techniques](http://www.w3.org/WAI/WCAG21/quickref/).** It includes all the WCAG 2 guidelines and success criteria. It is essentially the [WCAG 2 checklist](http://www.w3.org/WAI/WCAG21/quickref/).
+**A key resource for designers and developers using WCAG 2 is [How to Meet WCAG 2 (Quick Reference): A customizable quick reference to WCAG 2 requirements (Success Criteria) and techniques](https://www.w3.org/WAI/WCAG22/quickref/).** It includes all the WCAG 2 guidelines and success criteria. It is essentially the WCAG 2 checklist.
 
-You can customize it so it shows what you are interested in at the time. There are "filters" for different roles, topics, and technologies (such as HTML, CSS, ARIA). And filers for [Level A, AA, or AAA success criteria](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
+You can customize it so it shows what you are interested in at the time. There are "filters" for different roles, topics, and technologies (such as HTML, CSS, ARIA). And filters for [Level A, AA, or AAA success criteria](https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels).
 
 ## Supporting Documents
 
@@ -107,12 +107,12 @@ More:
 * [2.1 Techniques List](https://www.w3.org/WAI/WCAG21/Techniques/)
 * [2.0 Techniques List](https://www.w3.org/TR/WCAG20-TECHS/)
 
-### Test Rules
+### Accessibility Conformance Testing (ACT) Rules
 
-Test Rules describe how to test conformance to WCAG success criteria. They are primarily for developing evaluation tools and test methodologies. (They are more robust than the tests in the techniques.)
+<cite>Accessibility Conformance Testing (ACT) Rules</cite> describe how to test conformance to WCAG success criteria. They are primarily for developing evaluation tools and test methodologies. (They are more robust than the tests in the techniques.)
 
-* [About WCAG 2 Test Rules](/standards-guidelines/act/rules/about/)
-* [All WCAG 2 Test Rules List](/standards-guidelines/act/rules/)
+* [About WCAG 2 ACT Rules](/standards-guidelines/act/rules/about/)
+* [All WCAG 2 ACT Rules List](/standards-guidelines/act/rules/)
 
 ## Supplemental Guidance {#supplement}
 
@@ -129,7 +129,7 @@ Supplemental guidance goes beyond the requirements of WCAG. It is **not required
 * [[Web Content Accessibility Guidelines (WCAG) Overview]](/standards-guidelines/wcag/)
 
 Other resources cover specific topics, for example: 
-* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) cover page structure, menus, images, tables, carousels, forms
+* [Web Accessibility Tutorials](/WAI/tutorials/) cover page structure, menus, images, tables, carousels, forms
 * [[Making Audio and Video Media Accessible]](/media/av/) covers multimedia
 
 We encourage you to look around the W3C WAI website to find other information that you might be interested in reading or sharing with others.
@@ -146,7 +146,7 @@ The diagram below shows the different WCAG 2 documents for different purposes. I
 {% include image.html src="wcag20docs.png" alt="" %}
 
 Not included in the old diagram:
-* Test Rules
+* ACT Rules
 * Supplemental Guidance
 
 **Long description:**
@@ -161,7 +161,7 @@ Four connected boxes:
     * Guidelines
       * Success Criteria
   * Conformance
-* Left: _Instructions for Developers_ ; **Techniques for WCAG 2.0** _ ; (HTML, CSS, scripting, ...)_
+* Left: _Instructions for Developers_ ; **Techniques for WCAG 2.0** ; (HTML, CSS, scripting, ...)_
   * Browser and assistive technology support notes
   * Examples, code
   * Resources
@@ -169,7 +169,7 @@ Four connected boxes:
 * Right: _Detailed Reference_ ; **Understanding WCAG 2.0**
   * Intent
   * Benefits to people with disabilities
-  * Examples scenarios
+  * Example scenarios
   * Resources
   * Techniques
 
