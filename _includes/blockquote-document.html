@@ -1,0 +1,4 @@
+{%- if include.type == 'start' -%}
+<blockquote {% if include.class %}class="{{ include.class }}"{% endif %}{% if include.href %} cite="{{ include.href }}"{% endif %}>
+{%- endif -%}
+{%- if include.type == 'end' -%}</blockquote>{%- endif -%}
