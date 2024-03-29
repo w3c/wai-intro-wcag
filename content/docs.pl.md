@@ -79,32 +79,32 @@ Dokumenty pomocnicze odnoszą się bezpośrednio do wytycznych WCAG i kryteriów
 
 <cite>Objaśnienia WCAG</cite> to przewodnik pomagający zrozumieć i wdrożyć WCAG.  Zawiera dodatkowe informacje dla osób, które chcą dokładniej zrozumieć wytyczne i kryteria sukcesu. Przedstawia on:
 
-*  intencje
-*  jak wymagania WCAG pomagają osobom z różnymi niepełnosprawnościami
-*  uwagi o wsparciu przeglądarek i technologii wspomagających
-*  przykłady
-*  materiały
+- intencje
+- jak wymagania WCAG pomagają osobom z różnymi niepełnosprawnościami
+- uwagi o wsparciu przeglądarek i technologii wspomagających
+- przykłady
+- materiały
 
 Więcej informacji:
-* **[O dokumentach objaśniających](https://www.w3.org/WAI/WCAG22/Understanding/intro)**
-* **[Lista dokumentów objaśniających WCAG 2.2](https://www.w3.org/WAI/WCAG22/Understanding/)**
-* [Lista dokumentów objaśniających WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/)
-* [Lista dokumentów objaśniających WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
+- **[O dokumentach objaśniających](https://www.w3.org/WAI/WCAG22/Understanding/intro)**
+- **[Lista dokumentów objaśniających WCAG 2.2](https://www.w3.org/WAI/WCAG22/Understanding/)**
+- [Lista dokumentów objaśniających WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/)
+- [Lista dokumentów objaśniających WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
 
-### Techniques
+### Techniki
 
 <cite>Techniki dla WCAG 2</cite> podają konkretne wskazówki **dla programistów**, jak tworzyć dostępne treści internetowe. Zawierają ogólne i specyficzne dla technologii przykłady, w tym dla HTML / XHTML, CSS, skryptów, multimediów oraz WAI-ARIA.
 
 
-* **Techniki wystarczające ** są przykładami sposobów spełnienia kryteriów sukcesu. Jeśli zastosujesz techniki wystarczające, spełnisz kryteria sukcesu.
-* **Techniki pomocnicze** to sugerowane sposoby poprawy dostępności. Są one bardzo pomocne dla niektórych użytkowników i czasem stanowią jedyny sposób, w jaki niektórzy użytkownicy mogą uzyskać dostęp do niektórych typów treści.
-* **Błędy** to rzeczy, które powodują bariery dostępności i nie spełniają określonych kryteriów sukcesu.
+- **Techniki wystarczające** są przykładami sposobów spełnienia kryteriów sukcesu. Jeśli zastosujesz techniki wystarczające, spełnisz kryteria sukcesu.
+- **Techniki pomocnicze** to sugerowane sposoby poprawy dostępności. Są one bardzo pomocne dla niektórych użytkowników i czasem stanowią jedyny sposób, w jaki niektórzy użytkownicy mogą uzyskać dostęp do niektórych typów treści.
+- **Błędy** to rzeczy, które powodują bariery dostępności i nie spełniają określonych kryteriów sukcesu.
 
 Więcej informacji:
-* **[O technikach](https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques)**
-* **[Lista technik dla WCAG 2.2](https://www.w3.org/WAI/WCAG22/Techniques/)**
-* [Lista technik dla WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
-* [Lista technik dla WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)
+- **[O technikach](https://www.w3.org/WAI/WCAG22/Understanding/understanding-techniques)**
+- **[Lista technik dla WCAG 2.2](https://www.w3.org/WAI/WCAG22/Techniques/)**
+- [Lista technik dla WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
+- [Lista technik dla WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)
 
 ### Zasady testowania zgodności (ACT)
 
@@ -160,12 +160,12 @@ Cztery połączone prostokąty:
     * Wytyczne
       * Kryteria sukcesu
   * Zgodność
-* Po lewej: _Instrukcje dla programistów_ ; **Techniki dla WCAG 2.0** _ ; (HTML, CSS, skrypty, ...)_
+* Po lewej: _Instrukcje dla programistów_; **Techniki dla WCAG 2.0** _; (HTML, CSS, skrypty, ...)_
   * Obsługa przeglądarek i technologii wspomagających
   * Przykłady, kod
   * Materiały
   * Procedury testowania
-* Po prawej: _Materiały szczegółowe_ ; **Objaśnienia WCAG 2.0**
+* Po prawej: _Materiały szczegółowe_; **Objaśnienia WCAG 2.0**
   * Intencje
   * Korzyści dla osób z niepełnosprawnościami
   * Przykłady scenariuszy
