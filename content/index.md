@@ -161,4 +161,4 @@ See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
 -   **Applying WCAG 2 to [documents and software](/standards-guidelines/wcag/faq/#wcag2ict)**
 -   and more...
 
-For information on the early draft of W3C Accessibility Guidelines 3.0 (formerly known as "Sliver"), see the **[WCAG 3 Introduction](/standards-guidelines/wcag/wcag3-intro/)**.
+For information on the early draft of W3C Accessibility Guidelines 3.0 (formerly known as "Silver"), see the **[WCAG 3 Introduction](/standards-guidelines/wcag/wcag3-intro/)**.
