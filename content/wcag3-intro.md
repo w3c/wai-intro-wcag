@@ -1,35 +1,39 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
 title: "WCAG 3 Introduction"
 nav_title: "WCAG 3 Draft"
+lang: en  # Change "en" to the translated-language shortcode
+last_updated: 2023-07-24 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
-description: Introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. WCAG documents explain how to make the web more accessible to people with disabilities.
-image: /content-images/wai-intro-wcag/wcag3_social.png
-
-lang: en
-
-last_updated: 2023-10-10 ## update when have translations
-permalink: /standards-guidelines/wcag/wcag3-intro/
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Translator Name Here" # Add one -name: line for every translator
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/wcag3-intro.md'
+  path: 'content/wcag3-intro.md'  # Add the language shortcode to the middle of the filename, for example: content/index.fr.m
 
-ref: /standards-guidelines/wcag/wcag3-intro/
+permalink: /standards-guidelines/wcag/wcag3-intro/  # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+ref: /standards-guidelines/wcag/wcag3-intro/    # Do not change this
 
+description: Introduces the W3C Accessibility Guidelines (WCAG) 3.0 Working Draft. WCAG documents explain how to make the web more accessible to people with disabilities.
+image: /content-images/wai-intro-wcag/wcag3_social.png
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Date: </strong>Updated 24 July 2023.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Rachael Bradley Montgomery and Jeanne Spellman.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Rachael Bradley Montgomery and Jeanne Spellman.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
-
-inline_css: |
-  #toc li {
-    padding-top:0; padding-bottom:0;
-    margin-top:0; margin-bottom:0;  }
-  .smalltext {
-    font-size: .875rem;
-  }
-
 ---
 
 {::nomarkdown}
@@ -62,7 +66,7 @@ Please share this page as the starting point for official information about WCAG
 ## Introduction
 {:.no_toc}
 
-WCAG 3 is currently an incomplete draft. WCAG 3 is intended to develop into a W3C Standard **in a few years**. The current standard, Web Content Accessibility Guidelines (WCAG 2), is introduced in the [WCAG 2 Overview](https://www.w3.org/WAI/standards-guidelines/wcag/).
+WCAG 3 is currently an incomplete draft. WCAG 3 is intended to develop into a W3C Standard **in a few years**. The current standard, Web Content Accessibility Guidelines (WCAG 2), is introduced in the [WCAG 2 Overview](/standards-guidelines/wcag/).
 
 The WCAG 3 documents will explain how to make the web more accessible to people with disabilities. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web. 
 
@@ -184,7 +188,7 @@ The name of WCAG 3 is different from WCAG 2:
 
 ### Who Develops WCAG 3
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) (previously under the Silver Task Force) with the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](http://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
+The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](https://www.w3.org/WAI/GL/)) (previously under the Silver Task Force) with the Silver Community Group. These Groups are part of the World Wide Web Consortium ([W3C](https://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)). You can learn about the development process from [[How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/).
 
 We welcome your comments on WCAG 3 Working Drafts. The best way to provide feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues). Alternatively, e-mail public-agwg-comments@w3.org
 
