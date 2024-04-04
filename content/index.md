@@ -2,27 +2,25 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "WCAG 2 Overview"
+title: "WCAG 2 概要"
 nav_title: "Web Content – WCAG 2"
-lang: en  # Change "en" to the translated-language shortcode
-last_updated: 2024-03-07  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+lang: ja  # Change "en" to the translated-language shortcode
+last_updated: 2024-04-04  # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Translator Name Here" # Add one -name: line for every translator
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# - name: "Makoto Ueki" # Add one -name: line for every translator
+# - name: "Makoto Ueki"   # Replace Jan Doe with translator name
 # contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
-# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
 
 github:
   repository: w3c/wai-intro-wcag
-  path: 'content/index.md'  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
+  path: 'content/index.ja.md'  # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 
-permalink: /standards-guidelines/wcag/  # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+permalink: /standards-guidelines/wcag/ja  # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 ref: /standards-guidelines/wcag/  # Do not change this
 
-description: Introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.
+description: WCAG2.0、WCAG2.1、WCAG2.2を含む、国際標準のウェブコンテンツアクセシビリティガイドライン（WCAG）を紹介。WCAG文書は、ウェブコンテンツを障害がある人にとってよりアクセシブルにする方法を説明しています。
 image: /content-images/wai-intro-wcag/wcag-intro-social.jpg
 feedbackmail: wai@w3.org
 
@@ -31,25 +29,25 @@ feedbackmail: wai@w3.org
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date:</strong> Updated 7 March 2024. First published July 2005.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) and the Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
+  <p><strong>最終更新日：</strong> 7 March 2024、初版公開 July 2005</p>
+  <p><strong>編集者：</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a></p>
+  <p>教育・啓発ワーキンググループ (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>)及びアクセシビリティガイドライン ワーキンググループ (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>)の協力を得て作成されました。</p>
 ---
 
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the Web Content Accessibility Guidelines (WCAG) international standard, including WCAG 2.0, WCAG 2.1, and WCAG 2.2. WCAG documents explain how to make web content more accessible to people with disabilities.
+このページでは、WCAG 2.0、WCAG 2.1、およびWCAG 2.2を含む、国際標準であるWebコンテンツ・アクセシビリティ・ガイドライン（WCAG）について紹介します。WCAG文書は、Webコンテンツを障害がある人にとってよりアクセシブルにする方法を説明しています。
 
-A different page [introduces WCAG 3](/standards-guidelines/wcag/wcag3-intro/).
+関連ページ [introduces WCAG 3＜英語＞](/standards-guidelines/wcag/wcag3-intro/).
 
-WCAG is not an introduction to accessibility. For introductions, see [Accessibility Fundamentals Overview](/fundamentals/).
+WCAGはアクセシビリティの入門書ではありません。入門書のようなドキュメントとしては、[Accessibility Fundamentals Overview＜英語＞](/fundamentals/) を参照してください。
 
-Quick links to resources:
-* [How to Meet WCAG 2 (Quick Reference)](https://www.w3.org/WAI/WCAG22/quickref/)
-* [WCAG 2.2 Standard](https://www.w3.org/TR/WCAG22/), [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/)
-* [WCAG 2.1 Standard](http://www.w3.org/TR/WCAG21/)
+リソースへのクイックリンク：
+* [How to Meet WCAG 2 (Quick Reference)＜英語＞](https://www.w3.org/WAI/WCAG22/quickref/)
+* [WCAG 2.2 Standard＜英語＞](https://www.w3.org/TR/WCAG22/), [What's New in WCAG 2.2＜英語＞](/standards-guidelines/wcag/new-in-22/)
+* [WCAG 2.1 Standard＜英語＞](http://www.w3.org/TR/WCAG21/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -67,98 +65,98 @@ Quick links to resources:
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Introduction {#intro}
+## イントロダクション {#intro}
 
-Web Content Accessibility Guidelines (WCAG) 2 is developed through the [W3C process](/standards-guidelines/w3c-process/) in cooperation with individuals and organizations around the world, with a goal of providing a single shared standard for web content accessibility that meets the needs of individuals, organizations, and governments internationally.
+ウェブコンテンツ・アクセシビリティ・ガイドライン（WCAG）2は、個人、組織、政府のニーズを国際的に満たすウェブコンテンツのアクセシビリティに関する標準を単一で共有可能なものとして提供することを目的とし、[W3C process＜英語＞](/standards-guidelines/w3c-process/)を通じて、世界中の個人および組織と協力して作成されています。
 
-The WCAG documents explain how to make web content more accessible to people with disabilities. Web "content" generally refers to the information in a web page or web application, including:
+WCAG文書は、ウェブコンテンツを障害がある人にとってよりアクセシブルにする方法を説明しています。ウェブの「コンテンツ」とは、一般的にウェブページやウェブアプリケーションに含まれる情報を指しており、次に挙げるものを含みます：
 
--   natural information such as text, images, and sounds
--   code or markup that defines structure, presentation, etc.
+- テキスト、画像、音声などの情報
+- 構造や提示などを定義するコードやマークアップ
 
-## Who WCAG is for {#for}
+## WCAGは誰のためのものか {#for}
 
-WCAG is for those who want a technical standard. **It is not an introduction to accessibility. For links to introductory material, see [“Where should I start?” in the FAQ](/standards-guidelines/wcag/faq/#start).**
+WCAGは技術的な標準を求める人のためのものです。**アクセシビリティの入門書ではありません。入門書のような資料へのリンクは、[FAQの “Where should I start?” ＜英語＞](/standards-guidelines/wcag/faq/#start)にあります。**
 
-WCAG is primarily intended for:
+WCAGの主な対象者：
 
--   Web content developers (page authors, site designers, etc.)
--   Web authoring tool developers
--   Web accessibility evaluation tool developers
--   Others who want or need a standard for web accessibility, including for mobile accessibility
+-   ウェブコンテンツ開発者（ページの制作者、サイトのデザイナーなど）
+-   ウェブオーサリングツール開発者
+-   ウェブアクセシビリティ評価ツールの開発者
+-   モバイル・アクセシビリティを含め、ウェブ・アクセシビリティの標準を望む、または必要とするその他の人々
 
-To meet the needs of others &mdash; including policy makers, managers, and researchers &mdash; there are many different [[WAI Resources]](/resources/).
+ポリシー立案者、管理職、研究者など、その他の人たちのニーズに応えるため、さまざまな[WAI Resources＜英語＞](/resources/)があります。
 
-## What is in WCAG 2 {#whatis2}
+## WCAG 2の内容 {#whatis2}
 
-The WCAG 2.2 has 13 guidelines. The guidelines are organized under [4 principles: perceivable, operable, understandable, and robust](https://www.w3.org/WAI/WCAG22/Understanding/intro#understanding-the-four-principles-of-accessibility).
+WCAG 2.2には13のガイドラインがあり、ガイドラインは、[知覚可能、操作可能、理解可能、堅牢という4つの原則＜英語＞](https://www.w3.org/WAI/WCAG22/Understanding/intro#understanding-the-four-principles-of-accessibility)のもとに構成されています。
 
-For each guideline, there are testable *success criteria*. The success criteria are at [three levels: A, AA, and AAA](https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels).
+各ガイドラインにはテスト可能な達成基準があり、達成基準は[A、AA、AAA という3つのレベル](https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels)に分かれています。
 
-The success criteria are what determine "conformance" to WCAG. That is, in order to meet WCAG, the content needs to meet the success criteria. Details are in the [Conformance section of WCAG](https://www.w3.org/TR/WCAG22/#conformance).
+達成基準は、WCAGへの「適合性」を決定するものです。つまり、WCAGに適合するためには、コンテンツが達成基準を満たしている必要があります。詳細は、[WCAGの「適合性」のセクション＜英語＞](https://www.w3.org/TR/WCAG22/#conformance)に記載されています。
 
-For a short summary of the WCAG 2 guidelines, see **[[WCAG 2 at a Glance]](/standards-guidelines/wcag/glance/)**.
+WCAG 2ガイドラインの簡潔なサマリーは、**[WCAG 2 at a Glance＜英語＞](/standards-guidelines/wcag/glance/)**を参照してください。
 
-### Supporting material and supplemental guidance {#supplement}
+### サポート資料および補足ガイダンス {#supplement}
 
-The following resources help you understand and implement WCAG, and improve accessibility beyond WCAG:
+以下のリソースは、WCAGを理解して実装し、WCAGを超えてアクセシビリティを高めるのに役立ちます：
 * Quick Reference / How to Meet WCAG 2 / Checklist
 * Understanding WCAG 2
 * Techniques for WCAG 2
 * Test Rules for WCAG 2
 * Supplemental Guidance
 
-**Please read about these WCAG 2 resources from [WCAG 2 Documents](/standards-guidelines/wcag/docs/).**
+**これらのWCAG 2に関するリソースについては、[WCAG 2 Documents＜英語＞](/standards-guidelines/wcag/docs/)をお読みください。**
 
-## WCAG 2.0, 2.1, 2.2 {#versions}
+## WCAG 2.0、2.1、2.2 {#versions}
 
-The Web Content Accessibility Guidelines (WCAG) standards are stable and referenceable when they are published as a 'W3C Recommendation' web standard.
+ウェブコンテンツ アクセシビリティガイドライン（WCAG）は、「W3C勧告」のウェブ標準として公開された時点で、安定性があり参照可能な標準となります。
 
-* [WCAG 2.0](https://www.w3.org/TR/WCAG20/) was published on 11 December 2008.
-* [WCAG 2.1](https://www.w3.org/TR/WCAG21/) was published on 5 June 2018, and an update was published on 21 September 2023. The [WCAG 2 FAQ](/standards-guidelines/wcag/faq/) has information about the update.
-* [WCAG 2.2](https://www.w3.org/TR/WCAG22/) was published on 5 October 2023.
+* [WCAG 2.0＜英語＞](https://www.w3.org/TR/WCAG20/) は2008年12月11日に公開されました。
+* [WCAG 2.1＜英語＞](https://www.w3.org/TR/WCAG21/) は2018年6月5日に公開され、更新版は2023年9月21日に公開されました。[WCAG 2 FAQ＜英語＞](/standards-guidelines/wcag/faq/)にアップデートに関する情報が掲載されています。
+* [WCAG 2.2＜英語＞](https://www.w3.org/TR/WCAG22/) は2023年10月5日に公開されました。
 
-WCAG 2.0, 2.1, and 2.2 are designed to be "backwards compatible", which means content that conforms to WCAG 2.2 also conforms to WCAG 2.1 and WCAG 2.0. If you want to meet the all versions, you can use the WCAG 2.2 resources and you don’t need to bother looking earlier versions.
+WCAG 2.0、2.1、2.2は「後方互換性」があるように設計されており、WCAG 2.2に適合するコンテンツはWCAG 2.1やWCAG 2.0にも適合します。すべてのバージョンを満たしたい場合は、WCAG 2.2のリソースを使用することができ、わざわざ以前のバージョンを探す必要はありません。
 
-All the success criteria from 2.0 are included in 2.1, and all from 2.1 are in 2.2 (except 4.1.1, explained in the next paragraph).
-* WCAG 2.0 has 12 guidelines.
-* WCAG 2.1 adds 1 guideline and 17 success criteria. They are introduced in [What's New in WCAG 2.1](/standards-guidelines/wcag/new-in-21/).
-* WCAG 2.2 adds 9 success criteria. They are introduced in [What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/).
+2.0の達成基準はすべて2.1に含まれ、2.1の達成基準はすべて2.2に含まれています（ただし、次の段落で説明する達成基準 4.1.1を除く）。
+* WCAG 2.0 には12のガイドラインがあります。
+* WCAG 2.1 は1つのガイドラインと17の達成基準を追加しており、[What's New in WCAG 2.1＜英語＞](/standards-guidelines/wcag/new-in-21/)で紹介されています。
+* WCAG 2.2 はさらに9つの達成基準を追加しており、[What's New in WCAG 2.2](/standards-guidelines/wcag/new-in-22/)で紹介されています。
 
-A few things have changed, and we intend the updates in the related documents to support backwards compatibility in practice. The main change is that in WCAG 2.2, one success criteria (4.1.1 Parsing) is obsolete. Notes added to WCAG 2.1 and WCAG 2.0 errata address this, as explained in [WCAG 2 FAQ, 4.1.1 Parsing](/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 also includes Notes about different languages; more information is in [WCAG 2 FAQ, internationalization](/standards-guidelines/wcag/faq/#i18n22).
+いくつかの変更点があり、実際に後方互換性をサポートするために関連文書を更新しています。主な変更点は、WCAG 2.2において、1つの達成基準（4.1.1 構文解析）が廃止されたことです。WCAG 2.1とWCAG 2.0の正誤表に追加された注記は、[WCAG 2 FAQ, 4.1.1 Parsing＜英語＞](/standards-guidelines/wcag/faq/#parsing411)で説明されているように、これに対処しています。WCAG 2.2には、異なる言語に関する注記も含まれています。詳細は、[WCAG 2 FAQ, internationalization＜英語＞](/standards-guidelines/wcag/faq/#i18n22)にあります。
 
-WCAG 2.0, WCAG 2.1, and WCAG 2.2 are all existing standards. WCAG 2.2 does not deprecate or supersede WCAG 2.1, and WCAG 2.1 does not deprecate or supersede WCAG 2.0. W3C encourages you to use the most recent version of WCAG.
+WCAG 2.0、WCAG 2.1、WCAG 2.2はすべて存在している標準です。WCAG 2.2は、WCAG 2.1を非推奨にしたり、WCAG 2.1にとって代わったりするものではありません。そして、WCAG 2.1はWCAG 2.0を非推奨にするものでもなければ、WCAG 2.0にとって代わるものでもありません。ただ、W3CはWCAGの最新版を使用することを推奨しています。
 
-## Translations
+## 翻訳
 
-Authorized Translations and unofficial translations of WCAG 2 are listed in [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/).
+WCAG 2の公認翻訳と非公式翻訳の一覧が、[WCAG 2 Translations](/standards-guidelines/wcag/translations/)にあります。
 
-## WCAG 2.0 is ISO/IEC 40500 {#iso}
+## WCAG 2.0 は ISO/IEC 40500である {#iso}
 
-WCAG 2.0 is approved as an ISO standard: ISO/IEC 40500:2012. ISO/IEC 40500 is exactly the same as the original WCAG 2.0, which is introduced above along with supporting resources.
+WCAG2.0は、ISO規格：ISO/IEC 40500:2012として承認されています。ISO/IEC 40500は、上記で関連リソースとともに紹介したオリジナルのWCAG 2.0と全く同じものです。
 
-The content of ISO/IEC 40500 is freely available from [www.w3.org/TR/WCAG20](https://www.w3.org/TR/WCAG20/); it is available for purchase from the [ISO catalogue {% include_cached external.html %}](https://www.iso.org/standard/58625.html).
+ISO/IEC 40500の内容は、[www.w3.org/TR/WCAG20](https://www.w3.org/TR/WCAG20/) から自由に入手できます。また、[ISO catalogue {% include_cached external.html %}](https://www.iso.org/standard/58625.html)から購入することもできます。
 
-Benefits of WCAG 2.0 as an ISO standard are summarized in [ISO in the FAQ](/standards-guidelines/wcag/faq/#iso). More information on W3C and the ISO process is in the [W3C PAS FAQ](https://www.w3.org/2010/04/pasfaq).
+ISO規格としてのWCAG 2.0の利点は、[FAQのISO＜英語＞](/standards-guidelines/wcag/faq/#iso)にまとめられています。W3CとISOプロセスに関する詳細は、[W3C PAS FAQ](https://www.w3.org/2010/04/pasfaq)にあります。
 
-**W3C plans to submit WCAG 2.2 through the ISO process.**
+**W3Cは、ISOプロセスを通じてWCAG 2.2を提出する予定です。**
 
-## Who develops WCAG {#wg}
+## 誰がWCAGを作成しているのか {#wg}
 
-The WCAG technical documents are developed by the Accessibility Guidelines Working Group ([AG WG](/GL/)) *(formerly the Web Content Accessibility Guidelines Working Group)*, which is part of the World Wide Web Consortium ([W3C](https://www.w3.org)) Web Accessibility Initiative ([WAI](https://www.w3.org/WAI/)).
+WCAGの技術文書は、ワールド・ワイド・ウェブ・コンソーシアム([W3C](https://www.w3.org))のウェブ・アクセシビリティ・イニシアティブ([WAI](https://www.w3.org/WAI/))に属するアクセシビリティガイドライン ワーキンググループ([AG WG](/GL/))（旧ウェブコンテンツ アクセシビリティガイドライン ワーキンググループ）によって開発されています。
 
-WAI updates Techniques for WCAG 2 and Understanding WCAG 2 periodically. We welcome [comments](/standards-guidelines/wcag/commenting/) and [submission of new techniques](https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
+WAIは、「WCAG 2 達成方法集」と「WCAG 2 解説書」を定期的に更新しています。私たちは[コメント](/standards-guidelines/wcag/commenting/)や[新しい達成方法の提案](https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/)を歓迎しています。
 
-Opportunities for contributing to WCAG and other WAI work are introduced in [[Participating in WAI]](/about/participating/).
+WCAGやその他のWAIにおける作業への参加のしかたは、[Participating in WAI＜英語＞](/about/participating/)でご紹介しています。
 
-## WCAG 3 and more information {#more}
+## WCAG 3とその他の情報 {#more}
 
-WCAG is part of a series of accessibility guidelines, including the Authoring Tool Accessibility Guidelines (ATAG) and the User Agent Accessibility Guidelines (UAAG). [[Essential Components of Web Accessibility]](/fundamentals/components/) explains the relationship between the different guidelines.
+WCAGは、オーサリングツール アクセシビリティガイドライン（ATAG）やユーザーエージェント アクセシビリティガイドライン（UAAG）を含む一連のアクセシビリティガイドラインの1つです。[Essential Components of Web Accessibility＜英語＞](/fundamentals/components/)では、さまざまなガイドライン間の関係性について説明しています。
 
-See the [[WCAG 2 FAQ]](/standards-guidelines/wcag/faq/) for more information on:
+以下に関する詳細については、[WCAG 2 FAQ](/standards-guidelines/wcag/faq/)を参照してください：
 
--   **WCAG 2 coverage of [mobile accessibility](/standards-guidelines/wcag/faq/#mobile)**
--   **Applying WCAG 2 to [documents and software](/standards-guidelines/wcag/faq/#wcag2ict)**
--   and more...
+-   ** [mobile accessibility＜英語＞](/standards-guidelines/wcag/faq/#mobile)**においてWCAG 2がカバーする範囲
+-   **  [documents and software＜英語＞](/standards-guidelines/wcag/faq/#wcag2ict)**へのWCAG 2の適用
+-   その他
 
-For information on the early draft of W3C Accessibility Guidelines 3.0 (formerly known as "Sliver"), see the **[WCAG 3 Introduction](/standards-guidelines/wcag/wcag3-intro/)**.
+W3C アクセシビリティガイドライン3.0（旧称「Sliver」）の初期ドラフトに関する情報は、**[WCAG 3 Introduction](/standards-guidelines/wcag/wcag3-intro/)**をご覧ください。
