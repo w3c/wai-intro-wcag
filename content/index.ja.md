@@ -135,7 +135,7 @@ WCAG 2の公認翻訳と非公式翻訳の一覧が、[WCAG 2 翻訳](/standards
 
 WCAG2.0は、ISO規格：ISO/IEC 40500:2012として承認されています。ISO/IEC 40500は、上記で関連リソースとともに紹介したオリジナルのWCAG 2.0と全く同じものです。
 
-ISO/IEC 40500の内容は、[www.w3.org/TR/WCAG20](https://www.w3.org/TR/WCAG20/) から自由に入手できます。また、[ISO catalogue {% include_cached external.html %}](https://www.iso.org/standard/58625.html)から購入することもできます。
+ISO/IEC 40500の内容は、[www.w3.org/TR/WCAG20](https://www.w3.org/TR/WCAG20/) から自由に入手できます。また、[ISOのサイト {% include_cached external.html %}](https://www.iso.org/standard/58625.html)から購入することもできます。
 
 ISO規格としてのWCAG 2.0の利点は、[FAQのISO](/standards-guidelines/wcag/faq/#iso)にまとめられています。W3CとISOプロセスに関する詳細は、[W3C PAS FAQ](https://www.w3.org/2010/04/pasfaq)にあります。
 
