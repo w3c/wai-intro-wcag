@@ -155,8 +155,8 @@ WCAGは、オーサリングツール アクセシビリティガイドライン
 
 以下に関する詳細については、[WCAG 2 FAQ](/standards-guidelines/wcag/faq/)を参照してください：
 
--   ** [モバイルアクセシビリティ](/standards-guidelines/wcag/faq/#mobile)**においてWCAG 2がカバーする範囲
--   **  [ドキュメントとソフトウェア](/standards-guidelines/wcag/faq/#wcag2ict)**へのWCAG 2の適用
+-   **[モバイルアクセシビリティ](/standards-guidelines/wcag/faq/#mobile)** においてWCAG 2がカバーする範囲
+-   ** [ドキュメントとソフトウェア](/standards-guidelines/wcag/faq/#wcag2ict)** へのWCAG 2の適用
 -   その他
 
 W3C アクセシビリティガイドライン3.0（旧称「Silver」）の初期ドラフトに関する情報は、**[WCAG 3 イントロダクション](/standards-guidelines/wcag/wcag3-intro/)**をご覧ください。
