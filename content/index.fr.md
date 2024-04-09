@@ -5,7 +5,7 @@
 title: "Règles pour l’accessibilité des contenus Web (WCAG) 2 – Vue d’ensemble"
 nav_title: "Contenus Web – WCAG 2"
 lang: fr
-last_updated: 2023-11-30 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-04-09 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators:
   - name: "Rémi Bétin"
@@ -27,8 +27,8 @@ feedbackmail: wai@w3.org
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date :</strong> Mis à jour le 5 octobre 2023. Première publication en juillet 2005.</p>
-  <p><strong>Rédaction :</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p><strong>Date :</strong> Mis à jour le 7 mars 2024. Première publication en juillet 2005.</p>
+  <p><strong>Rédaction :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé avec la contribution du Groupe de travail Éducation et Promotion (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) et le Groupe de travail en charge des règles d’accessibilité (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>).</p>
 ---
 
@@ -43,15 +43,14 @@ Une page différente [présente les WCAG 3](/standards-guidelines/wcag/wcag3-in
 Les WCAG ne sont pas une introduction à l’accessibilité. Pour des informations introductives, consultez [[Principes fondamentaux de l’accessibilité – Vue d’ensemble]](/fundamentals/).
 
 Accès rapides vers les ressources :
-* [Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG21/quickref/)
+* [Comment satisfaire aux WCAG 2 (référence rapide)](https://www.w3.org/WAI/WCAG22/quickref/)
 * [Standard WCAG 2.2](https://www.w3.org/TR/WCAG22/), [Quoi de neuf dans les WCAG 2.2](/standards-guidelines/wcag/new-in-22/)
-* [Standard WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+* [Standard WCAG 2.1](https://www.w3.org/Translations/WCAG21-fr/)
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
-{::nomarkdown}
 {% include_cached toc.html type="start" title="Contenu de la page" class="simple" %}
 {:/}
 
@@ -88,11 +87,11 @@ Pour répondre aux besoins d’autres personnes – notamment les responsables
 
 ## Que contiennent les WCAG 2 {#whatis2}
 
-Les WCAG 2.2 contiennent 13 règles. Les règles sont organisées en [4 principes : perceptible, utilisable, compréhensible et robuste](https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility).
+Les WCAG 2.2 contiennent 13 règles. Les règles sont organisées en [4 principes : perceptible, utilisable, compréhensible et robuste](https://www.w3.org/WAI/WCAG22/Understanding/intro#understanding-the-four-principles-of-accessibility).
 
-À chaque règle sont associés des *critères de succès* évaluables. Les critères de succès sont positionnés sur [trois niveaux : A, AA, et AAA](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels).
+À chaque règle sont associés des *critères de succès* évaluables. Les critères de succès sont positionnés sur [trois niveaux : A, AA, et AAA](https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels).
 
-Les critères de succès déterminent la « conformité » aux WCAG. En d’autres termes, pour satisfaire aux WCAG, le contenu doit satisfaire aux critères de succès. Plus de détails dans la [section Conformité des WCAG](https://www.w3.org/TR/WCAG21/#conformance).
+Les critères de succès déterminent la « conformité » aux WCAG. En d’autres termes, pour satisfaire aux WCAG, le contenu doit satisfaire aux critères de succès. Plus de détails dans la [section Conformité des WCAG](https://www.w3.org/TR/WCAG22/#conformance).
 
 Pour un court résumé des règles des WCAG 2, consultez **[[WCAG 2 en bref]](/standards-guidelines/wcag/glance/)**.
 
@@ -112,16 +111,16 @@ Les ressources suivantes vous aident à comprendre et mettre en œuvre les WCAG,
 Les standards des Règles pour l’accessibilité des contenus Web (WCAG) sont stables et référençables lorsqu’ils sont publiés comme standard du Web « Recommandation du W3C ».
 
 * Les [WCAG 2.0](https://www.w3.org/TR/WCAG20/) ont été publiées le 11 décembre 2008.
-* Les [WCAG 2.1](https://www.w3.org/TR/WCAG21/) ont été publiées le 5 juin 2018, et une mise à jour a été publiée le 21 septembre 2023. La [FAQ des WCAG 2](https://www.w3.org/WAI/standards-guidelines/wcag/faq/) contient des informations sur cette mise à jour.
+* Les [WCAG 2.1](https://www.w3.org/TR/WCAG21/) ont été publiées le 5 juin 2018, et une mise à jour a été publiée le 21 septembre 2023. La [FAQ des WCAG 2](/standards-guidelines/wcag/faq/) contient des informations sur cette mise à jour.
 
 Les WCAG 2.0, 2.1, et 2.2 sont conçues pour être « rétro-compatibles », ce qui signifie qu’un contenu conforme aux WCAG 2.2 est aussi conforme aux WCAG 2.1 et aux WCAG 2.0. Si vous souhaitez satisfaire à toutes les versions, vous pouvez utiliser les WCAG 2.2 et vous n’avez pas besoin de vous préoccuper de regarder les versions précédentes.
 
 Tous les critères de succès de la version 2.0 sont inclus dans la version 2.1, et tous ceux de la version 2.1. sont inclus dans la version 2.2 (sauf 4.1.1, comme expliqué dans le prochain paragraphe).
 * Les WCAG 2.0 ont 12 règles.
-* Les WCAG 2.1 ajoutent 1 règle et 17 critères de succès. Ils sont présentés dans [Quoi de neuf dans les WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
-* Les WCAG 2.2 ajoutent 9 critères de succès. Ils sont présentés dans [Quoi de neuf dans les WCAG 2.2](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/).
+* Les WCAG 2.1 ajoutent 1 règle et 17 critères de succès. Ils sont présentés dans [Quoi de neuf dans les WCAG 2.1](/standards-guidelines/wcag/new-in-21/).
+* Les WCAG 2.2 ajoutent 9 critères de succès. Ils sont présentés dans [Quoi de neuf dans les WCAG 2.2](/standards-guidelines/wcag/new-in-22/).
 
-Quelques changements sont intervenus, et nous avons l’intention que les mises à jour dans les documents correspondants assurent la rétro-compatibilité en pratique. Le principal changement est qu’un critère de succès (4.1.1  Analyse syntaxique) est obsolète dans les WCAG 2.2. Les notes ajoutées dans les erratas des WCAG 2.1. et WCAG 2.0 abordent ce sujet, comme indiqué dans [FAQ des WCAG, 4.1.1 Analyse syntaxique](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411). Les WCAG 2.2 incluent également des notes au sujet des différentes langues ; plus d’information dans [FAQ des WCAG, Internationalisation](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#118n22).
+Quelques changements sont intervenus, et nous avons l’intention que les mises à jour dans les documents correspondants assurent la rétro-compatibilité en pratique. Le principal changement est qu’un critère de succès (4.1.1  Analyse syntaxique) est obsolète dans les WCAG 2.2. Les notes ajoutées dans les erratas des WCAG 2.1. et WCAG 2.0 abordent ce sujet, comme indiqué dans [FAQ des WCAG, 4.1.1 Analyse syntaxique](/standards-guidelines/wcag/faq/#parsing411). Les WCAG 2.2 incluent également des notes au sujet des différentes langues ; plus d’information dans [FAQ des WCAG, Internationalisation](/standards-guidelines/wcag/faq/#i18n22).
 
 Les WCAG 2.0, WCAG 2.1 et WCAG 2.2 sont toutes des standards en vigueur. Les WCAG 2.2 ne déprécient ni ne remplacent les WCAG 2.1, et les WCAG 2.1 ne déprécient ni ne remplacent les WCAG 2.0. W3C vous encourage à utiliser la version la plus récente des WCAG.
 
@@ -133,17 +132,17 @@ Les traductions agréées et les traductions non officielles des WCAG 2 sont ré
 
 Les WCAG 2.0 ont été approuvées comme norme ISO : ISO/IEC 40500:2012. ISO/IEC 40500 est exactement la même norme que les WCAG 2.0 d’origine, qui sont présentées ci-dessus avec des ressources d’accompagnement.
 
-Le contenu d’ISO/IEC 40500 est disponible gratuitement à l’adresse [www.w3.org/TR/WCAG20](http://www.w3.org/TR/WCAG20/) ; il peut être acheté dans le [catalogue ISO {% include_cached external.html %}](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625).
+Le contenu d’ISO/IEC 40500 est disponible gratuitement à l’adresse [www.w3.org/TR/WCAG20](https://www.w3.org/TR/WCAG20/) ; il peut être acheté dans le [catalogue ISO {% include_cached external.html %}](https://www.iso.org/standard/58625.html).
 
-Les avantages des WCAG 2.0 en tant que norme ISO sont résumés dans [la section ISO de la FAQ](/standards-guidelines/wcag/faq/#iso). Plus d’informations sur W3C et le processus ISO sont consultables dans [la FAQ W3C PAS](http://www.w3.org/2010/04/pasfaq).
+Les avantages des WCAG 2.0 en tant que norme ISO sont résumés dans [la section ISO de la FAQ](/standards-guidelines/wcag/faq/#iso). Plus d’informations sur W3C et le processus ISO sont consultables dans [la FAQ W3C PAS](https://www.w3.org/2010/04/pasfaq).
 
 **W3C prévoit de soumettre les WCAG 2.2 au processus ISO.**
 
 ## Qui développe les WCAG {#wg}
 
-Les documents techniques des WCAG sont développés par le groupe de travail <span lang="en">Accessibility Guidelines Working Group</span> ([AG WG](https://www.w3.org/WAI/GL/)) *(anciennement le <span lang="en">Web Content Accessibility Guidelines Working Group</span>)*, qui fait partie de l’Initiative pour l’accessibilité du Web ([WAI](https://www.w3.org/WAI/)) du <span lang="en">World Wide Web Consortium</span> ([W3C](http://www.w3.org)).
+Les documents techniques des WCAG sont développés par le groupe de travail <span lang="en">Accessibility Guidelines Working Group</span> ([AG WG](/GL/)) *(anciennement le <span lang="en">Web Content Accessibility Guidelines Working Group</span>)*, qui fait partie de l’Initiative pour l’accessibilité du Web ([WAI](https://www.w3.org/WAI/)) du <span lang="en">World Wide Web Consortium</span> ([W3C](https://www.w3.org)).
 
-WAI met à jour les techniques pour les WCAG 2 et Comprendre les WCAG 2 régulièrement. Tous [commentaires](/standards-guidelines/wcag/commenting/) et [envoi de nouvelles techniques](http://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/) sont les bienvenus.
+WAI met à jour les techniques pour les WCAG 2 et Comprendre les WCAG 2 régulièrement. Tous [commentaires](/standards-guidelines/wcag/commenting/) et [envoi de nouvelles techniques](https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/) sont les bienvenus.
 
 Les possibilités de contribuer aux WCAG et aux autres travaux de WAI sont présentées dans [[Participer à WAI]](/about/participating/).
 
