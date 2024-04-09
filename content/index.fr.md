@@ -51,6 +51,7 @@ Accès rapides vers les ressources :
 {% include box.html type="end" %}
 {:/}
 
+{::nomarkdown}
 {% include_cached toc.html type="start" title="Contenu de la page" class="simple" %}
 {:/}
 
