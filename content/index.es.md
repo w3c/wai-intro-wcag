@@ -127,7 +127,7 @@ Algunas cosas han cambiado y queremos que las novedades en los documentos mencio
 
 WCAG 2.0, WCAG 2.1 y WCAG 2.2 son estándares actuales. WCAG 2.2 no elimina ni deja sin efecto WCAG 2.1, de la misma forma que WCAG 2.1 no deja sin efecto WCAG 2.0. El W3C recomienda usar la última versión de las WCAG.
 
-### Traducciones
+## Traducciones
 
 Las traducciones autorizadas y no oficiales de WCAG 2 se enumeran en [["Traducciones de WCAG 2"]](/standards-guidelines/wcag/translations/).
 
