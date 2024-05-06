@@ -40,7 +40,7 @@ Esta página introduce el estándar internacional de las Pautas de Accesibilidad
 
 Una página diferente [introduce WCAG 3](/standards-guidelines/wcag/wcag3-intro/).
 
-Las WCAG no son una introducción a la accesibilidad. Para material introductorio, consultar la [introducción a los fundamentos de la accesibilidad](/fundamentals/es)
+Las WCAG no son una introducción a la accesibilidad. Para material introductorio, consultar la [introducción a los fundamentos de la accesibilidad](/fundamentals/)
 
 Enlaces rápidos a recursos:
 * [Cómo cumplir con las WCAG 2 (Referencia rápida)](http://www.w3.org/WAI/WCAG22/quickref/)
@@ -94,7 +94,7 @@ Para cada pauta existen *criterios de conformidad* que se pueden comprobar. Esto
 
 Los criterios determinan la "conformidad" con las WCAG. Es decir, que para cumplir con las WCAG, el contenido tiene que cumplir con los criterios. Puede encontrar más detalles en la [sección sobre la conformidad de las WCAG](https://www.w3.org/TR/WCAG22/#conformance).
 
-Para un resumen breve sobre las pautas WCAG 2, consulte **[["WCAG 2 de un vistazo"]](/standards-guidelines/wcag/glance/es)**.
+Para un resumen breve sobre las pautas WCAG 2, consulte **[["WCAG 2 de un vistazo"]](/standards-guidelines/wcag/glance/)**.
 
 ### Material de apoyo y orientación adicional {#supplement}
 
@@ -120,7 +120,7 @@ Las WCAG 2.0, 2.1 y 2.2 están diseñadas para ser compatibles con versiones ant
 Todos los criterios de conformidad de la versión 2.0 están incluidos en 2.1, y todos los de la versión 2.1 están en 2.2 (con la excepción de 4.1.1 que se explica en el siguiente párrafo).
 
 * WCAG 2.0 tiene 12 pautas.
-* WCAG 2.1 añade una pauta y 17 criterios de conformidad. Vea una introducción en [Novedades en WCAG 2.1](/standards-guidelines/wcag/new-in-21/es).
+* WCAG 2.1 añade una pauta y 17 criterios de conformidad. Vea una introducción en [Novedades en WCAG 2.1](/standards-guidelines/wcag/new-in-21/).
 * WCAG 2.2 añade 9 criterios de conformidad. Vea una introducción en [Novedades en WCAG 2.2](/standards-guidelines/wcag/new-in-22/).
 
 Algunas cosas han cambiado y queremos que las novedades en los documentos mencionados sean compatibles con versiones anteriores en la práctica. El cambio más importante es que, en WCAG 2.2, un criterio (4.1.1, validación del código) ha quedado obsoleto. Las notas incorporadas a la errata de WCAG 2.1 y WCAG 2.0 recogen este cambio, tal y como se informa en las [preguntas frecuentes sobre las WCAG 2, 4.1.1 validación del código](/standards-guidelines/wcag/faq/#parsing411). Las WCAG 2.2 también incluyen notas relacionadas con diferentes idiomas; lea más información en las [preguntas frecuentes sobre las WCAG 2, internacionalización](/standards-guidelines/wcag/faq/#i18n22).
