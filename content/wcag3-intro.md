@@ -5,7 +5,7 @@
 title: "WCAG 3 Introduction"
 nav_title: "WCAG 3 Draft"
 lang: en  # Change "en" to the translated-language shortcode
-last_updated: 2023-07-24 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-05-16 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Translator Name Here" # Add one -name: line for every translator
@@ -40,11 +40,11 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. We published an updated [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) on 24 July 2023.
+Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. We published an updated [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) on 16 May 2024.
 
 WCAG 3 will have similar fundamental and specific accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.
 
-Please share this page as the starting point for official information about WCAG 3 now and in the future. short link: w3.org/WAI/wcag3
+Please share this page as the starting point for official information about WCAG 3 now and in the future.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -74,9 +74,17 @@ We will update this page regularly as work on the WCAG 3 Draft progresses.
 
 ## Status: Exploratory Draft
 
-**The July 2023  [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) better communicates that most of the content is a placeholder or exploratory. It removes the previous draft guidance to reduce confusion about whether it was ready to use.**
+The May 2024 [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) includes an updated list of the potential outcomes which we are exploring.
 
-**There are substantial open issues that are still being discussed, particularly about testing and conformance. This draft provides an updated description of a possible approach to conformance,  along with specific questions that the group is working on.**
+The list of outcomes is longer than the list of Success Criteria WCAG 2.2. The intent at this stage is to be as inclusive as possible of potential outcomes. The final set of outcomes in WCAG 3 will be different than the list in this draft. Outcomes will be added, combined, and removed. We also expect changes to the text of the Outcomes. Only some of the Outcomes will be required at the base level of conformance.
+
+The purpose of publishing this initial list is to:
+
+* better understand the scope of needs,
+* request assistance in identifying gaps, and
+* request assistance locating and conducting research to validate or invalidate the outcomes listed.
+
+**There are substantial open issues that are still being discussed, particularly about testing and conformance.**
 
 ### Status of Sections
 
@@ -96,7 +104,8 @@ We welcome input from evaluators, developers, designers, project managers, polic
 
 We also welcome comments on the goals and parameters in [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).
 
-The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues/new). Alternatively, e-mail public-agwg-comments@w3.org
+The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues/new). Alternatively, e-mail public-agwg-comments@w3.org.
+
 Please put each topic in a separate GitHub issue or e-mail.
 
 Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, and inclusion in the process of creating WCAG 3. Please e-mail these to group-ag-chairs@w3.org
