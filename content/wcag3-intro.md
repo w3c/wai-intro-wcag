@@ -81,7 +81,7 @@ The purpose of this draft is to:
 * request assistance in identifying gaps, and
 * request assistance locating and conducting research to validate or invalidate the drafted outcomes.
 
-Some of the outcomes are marked as needing research. We are particularly interested in assistance identifying or conducting to support or refute them.
+Some of the outcomes are marked as needing research. We are particularly interested in assistance identifying or conducting research to support or refute them.
 
 ### For your review
 
@@ -92,7 +92,7 @@ Please consider the following questions when reviewing the outcomes in this draf
 * What research supports or refutes these outcomes?
 * Are any of these outcomes out of scope for accessibility standards? If so, please explain why.
 
-To provide input, please file GitHub issues at: https://raw.githack.com/w3c/wcag3/30-april-meeting/guidelines/index.html
+To provide input, please file GitHub issues at: [https://raw.githack.com/w3c/wcag3/30-april-meeting/guidelines/index.html](https://raw.githack.com/w3c/wcag3/30-april-meeting/guidelines/index.html)<br>
 Or, if you are unable to use GitHub, send email to public-agwg-comments@w3.org
 
 Please create separate GitHub issues or email messages for each topic (rather than putting multiple topics in a single issue or email).
