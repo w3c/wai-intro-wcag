@@ -5,7 +5,7 @@
 title: "WCAG 3 Introduction"
 nav_title: "WCAG 3 Draft"
 lang: en  # Change "en" to the translated-language shortcode
-last_updated: 2023-07-24 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-05-16 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Translator Name Here" # Add one -name: line for every translator
@@ -31,8 +31,8 @@ feedbackmail: wai@w3.org
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Date: </strong>Updated 24 July 2023.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Rachael Bradley Montgomery and Jeanne Spellman.</p>
+  <p><strong>Date: </strong>Updated 16 May 2024.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: Rachael Bradley Montgomery, Jeanne Spellman, Kevin White.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>), Accessibility Guidelines Working Group (<a href="https://www.w3.org/WAI/about/groups/agwg/">AG WG</a>), Silver Task Force, and Silver Community Group.</p>
 ---
 
@@ -40,7 +40,7 @@ footer: >
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. We published an updated [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) on 24 July 2023.
+Many aspects of W3C Accessibility Guidelines (WCAG) 3 are in an exploratory phase, and will change. We published an updated [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) on 16 May 2024.
 
 WCAG 3 will have similar fundamental and specific accessibility requirements as WCAG 2. WCAG 3 will have a different structure, different conformance model, and broader scope.
 
@@ -74,9 +74,28 @@ We will update this page regularly as work on the WCAG 3 Draft progresses.
 
 ## Status: Exploratory Draft
 
-**The July 2023  [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) better communicates that most of the content is a placeholder or exploratory. It removes the previous draft guidance to reduce confusion about whether it was ready to use.**
+The May 2024 [WCAG 3 Working Draft](https://www.w3.org/TR/wcag-3.0/) includes **potential** outcomes that we are exploring. The final set of outcomes in WCAG 3 will be different from this draft. Outcomes will be edited, added, combined, and removed.
 
-**There are substantial open issues that are still being discussed, particularly about testing and conformance. This draft provides an updated description of a possible approach to conformance,  along with specific questions that the group is working on.**
+The purpose of this draft is to:
+* better understand the scope of user needs and how they could be addressed in an accessibility standard,
+* request assistance in identifying gaps, and
+* request assistance locating and conducting research to validate or invalidate the drafted outcomes.
+
+Some of the outcomes are marked as needing research. We are particularly interested in assistance identifying or conducting research to support or refute them.
+
+### For your review
+
+When reviewing this update, please focus on the Guidelines section. We did not make changes to conformance related sections.
+
+Please consider the following questions when reviewing the outcomes in this draft:
+* What outcomes needed to make web content accessible are missing?
+* What research supports or refutes these outcomes?
+* Are any of these outcomes out of scope for accessibility standards? If so, please explain why.
+
+To provide input, please file GitHub issues at: [https://raw.githack.com/w3c/wcag3/30-april-meeting/guidelines/index.html](https://raw.githack.com/w3c/wcag3/30-april-meeting/guidelines/index.html)<br>
+Or, if you are unable to use GitHub, send email to public-agwg-comments@w3.org
+
+Please create separate GitHub issues or email messages for each topic (rather than putting multiple topics in a single issue or email).
 
 ### Status of Sections
 
@@ -90,16 +109,21 @@ Each normative section has a status that indicates how far along in the developm
 
 <img src="{{ "/content-images/wai-intro-wcag/dialogs2.svg" | relative_url }}" alt="" style="float: right; margin-left: 2rem; width: 30%; max-width: 220px">
 
-### Comments
+**There are substantial open issues that are still being discussed, particularly about testing and conformance.**
+
+<!--
+### Review and Comments
 
 We welcome input from evaluators, developers, designers, project managers, policy makers, people with disabilities, and others.
 
 We also welcome comments on the goals and parameters in [Requirements for WCAG 3.0](https://www.w3.org/TR/wcag-3.0-requirements/).
 
 The best way to provide this feedback is by opening new [GitHub issues](https://github.com/w3c/wcag3/issues/new). Alternatively, e-mail public-agwg-comments@w3.org
+
 Please put each topic in a separate GitHub issue or e-mail.
 
 Additionally, we welcome comments on ways that the Accessibility Guidelines Working Group can better support your review, feedback, and inclusion in the process of creating WCAG 3. Please e-mail these to group-ag-chairs@w3.org
+-->
 
 ## WCAG 3 Draft Approach
 
@@ -181,7 +205,7 @@ We will update this section with more specific timeline information as it is ava
 The name of WCAG 3 is different from WCAG 2:
 * WCAG **3** is W3C Accessibility Guidelines
 * WCAG **2** is Web Content Accessibility Guidelines
- 
+
 “W3C Accessibility Guidelines (WCAG) 3.0” was chosen:
 * because of wide-spread familiarity with the “WCAG” acronym
 * to encompass the broader scope beyond “content”
