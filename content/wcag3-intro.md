@@ -92,7 +92,7 @@ Please consider the following questions when reviewing the outcomes in this draf
 * What research supports or refutes these outcomes?
 * Are any of these outcomes out of scope for accessibility standards? If so, please explain why.
 
-To provide input, please file GitHub issues at: [https://raw.githack.com/w3c/wcag3/30-april-meeting/guidelines/index.html](https://raw.githack.com/w3c/wcag3/30-april-meeting/guidelines/index.html)<br>
+To provide input, please file GitHub issues at: [https://github.com/w3c/wcag3/issues](https://github.com/w3c/wcag3/issues)<br>
 Or, if you are unable to use GitHub, send email to public-agwg-comments@w3.org
 
 Please create separate GitHub issues or email messages for each topic (rather than putting multiple topics in a single issue or email).
