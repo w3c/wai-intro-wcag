@@ -1,3 +1,13 @@
+![quant-network](https://github.com/w3c/wai-intro-wcag/assets/140883970/b6b1f24b-77e3-4002-a8ce-1d1d179df559)
+![cryptokek](https://github.com/w3c/wai-intro-wcag/assets/140883970/3c4a9440-8743-47b7-998a-c28b815de7aa)
+![ArCoin](https://github.com/w3c/wai-intro-wcag/assets/140883970/d4e8d0f5-2d52-4b9d-ab98-874c8f09aff2)
+![Bit](https://github.com/w3c/wai-intro-wcag/assets/140883970/99117faa-8e4c-47f3-bcf3-66bda72893f2)
+![wallet-card 2](https://github.com/w3c/wai-intro-wcag/assets/140883970/e8d920a8-775f-41da-960f-20141e15e726)
+![bnb](https://github.com/w3c/wai-intro-wcag/assets/140883970/0e0f96ad-f12c-4fe6-9f50-5b4b1edf499f)
+![upload](https://github.com/w3c/wai-intro-wcag/assets/140883970/65810a4d-d529-4937-8fb0-840b5d940df0)
+![222 5 Background Removed](https://github.com/w3c/wai-intro-wcag/assets/140883970/8e74da40-5f7b-4be7-a675-643b5be16e31)
+![mask](https://github.com/w3c/wai-intro-wcag/assets/140883970/3cdd355a-8e19-47b8-a0f4-6bf75c6233dc)
+![wallet-card](https://github.com/w3c/wai-intro-wcag/assets/140883970/5c57c538-7dd6-43ae-b67c-5222df37131a)
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
