@@ -6,7 +6,7 @@ title: "Dokumenty WCAG 2"
 nav_title: "Dokumenty"
 
 lang: pl   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2024-02-25 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-06-21 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators:
   - name: "Stefan Wajda"
@@ -136,7 +136,7 @@ Zachęcamy Cię do rozejrzenia się po witrynie W3C WAI, aby znaleźć inne info
 
 {% include_cached excol.html type="start" id="diagram" %}
 
-## Diagram
+## Stary diagram
 
 {% include_cached excol.html type="middle" %}
 
