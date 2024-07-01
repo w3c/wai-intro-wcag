@@ -1,6 +1,5 @@
 ---
 title: "WCAG2ICT Overview"
-nav_title: "Applying to Non-Web ICT"
 
 description: "Introduces the document: Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)."
 
@@ -24,10 +23,10 @@ ref: /standards-guidelines/wcag/non-web-ict/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-This page introduces the draft document: "Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)". It is an in-progress update of the previous WCAG2ICT Note that covered WCAG 2.0.
+This page introduces the document: "Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)". The 2013 version covered WCAG 2.0. The in-progress update will cover WCAG 2.0, 2.1, and 2.2.
 
 **Quick links:**
-* [WCAG2ICT for WCAG 2.2 Draft](https://www.w3.org/TR/wcag2ict-22/)
+* [WCAG2ICT for WCAG 2.0, 2.1, 2.2 Draft](https://www.w3.org/TR/wcag2ict-22/)
 * [WCAG2ICT for WCAG 2.0 Note, September 2013](https://www.w3.org/TR/wcag2ict-20/)
 * _The URI https://www.w3.org/TR/wcag2ict/ points to the latest completed version. Currently that is the 2.0 version. When the 2.2 version is finalized, that URI will point to the 2.2 version._
 
@@ -56,7 +55,7 @@ This page introduces the draft document: "Guidance on Applying WCAG 2 to Non-Web
 
 *This document:* **WCAG2ICT** is a W3C Group Note that is informative — it is not normative and does not set requirements. It provides guidance on the application of WCAG 2 principles, guidelines, and success criteria to non-web documents and software. WCAG2ICT was developed to provide an authoritative interpretation of how WCAG 2 can apply in different contexts. For information on the scope of WCAG2ICT, see the [Introduction section of WCAG2ICT](https://www.w3.org/TR/wcag2ict/#intro).
 
-*Update in progress:* The [previous WCAG2ICT 2.0 Note](https://www.w3.org/TR/wcag2ict-20/) covered WCAG 2.0. The **[2024 WCAG2ICT Note ](https://www.w3.org/TR/wcag2ict-22/) will cover WCAG 2.1 and 2.2**. The [WCAG2ICT Editor's Draft](https://w3c.github.io/wcag2ict) may include proposed updates that are not yet approved and published.
+*Update in progress:* The [previous WCAG2ICT 2.0 Note](https://www.w3.org/TR/wcag2ict-20/) covered WCAG 2.0. The **[2024 WCAG2ICT Note ](https://www.w3.org/TR/wcag2ict-22/) will cover WCAG 2.0, 2.1, and 2.2**. The [WCAG2ICT Editor's Draft](https://w3c.github.io/wcag2ict) may include proposed updates that are not yet approved and published.
 
 ## Who WCAG2ICT is for {#for}
 
