@@ -28,7 +28,7 @@ This page introduces the document: "Guidance on Applying WCAG 2 to Non-Web Infor
 **Quick links:**
 * [WCAG2ICT for WCAG 2.0, 2.1, 2.2 Draft](https://www.w3.org/TR/wcag2ict-22/)
 * [WCAG2ICT for WCAG 2.0 Note, September 2013](https://www.w3.org/TR/wcag2ict-20/)
-* _The URI https://www.w3.org/TR/wcag2ict/ points to the latest completed version. Currently that is the 2.0 version. When the 2.2 version is finalized, that URI will point to the 2.2 version._
+* _The URI https://www.w3.org/TR/wcag2ict/ points to the latest completed version. Currently that is the 2.0 version. When the new version is finalized, that URI will point to the version that covers 2.0, 2.1, and 2.2._
 
 {::nomarkdown}
 {% include box.html type="end" %}
