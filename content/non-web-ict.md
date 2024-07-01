@@ -57,6 +57,8 @@ This page introduces the document: "Guidance on Applying WCAG 2 to Non-Web Infor
 
 *Update in progress:* The [previous WCAG2ICT 2.0 Note](https://www.w3.org/TR/wcag2ict-20/) covered WCAG 2.0. The **[2024 WCAG2ICT Note ](https://www.w3.org/TR/wcag2ict-22/) will cover WCAG 2.0, 2.1, and 2.2**. The [WCAG2ICT Editor's Draft](https://w3c.github.io/wcag2ict) may include proposed updates that are not yet approved and published.
 
+*Scope*: WCAG2ICT does not include techniques for how to meet WCAG success criteria in specific technologies. More information is in the [Excluded from Scope section](https://www.w3.org/TR/wcag2ict-22/#excluded-from-scope).
+
 ## Who WCAG2ICT is for {#for}
 
 WCAG2ICT is for ICT managers, ICT developers, policy makers, and others wanting to understand how WCAG 2 can be applied to non-web documents and software.
