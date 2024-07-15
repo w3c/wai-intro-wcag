@@ -235,6 +235,7 @@ For other translations lists, see:
 ### About Translating
 
 For information on translating W3C documents, see:
+* [[How to Translate WCAG 2]](/about/translating/wcag/) for WCAG 2
 * [Translating WAI Resources](/about/translating/) for accessibility resources
 * [Contributing to W3C Translations](https://www.w3.org/Consortium/Translation/) for W3C Technical Reports
 
