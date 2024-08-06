@@ -36,7 +36,7 @@ footer: >
 {% include box.html type="start" h="2" title="Podsumowanie" class="full" %}
 {:/}
 
-Przedstawia sparafrazowane streszczenie Wytycznych dla dostępności treści internetowych 2.1 i 2.2.
+Przedstawia sparafrazowane streszczenie Wytycznych dla dostępności treści internetowych (WCAG) 2.1 i 2.2.
 
 {::nomarkdown}
 {% include box.html type="end" %}
