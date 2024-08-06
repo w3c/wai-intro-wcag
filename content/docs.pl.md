@@ -39,7 +39,7 @@ footer: >
 {% include box.html type="start" h="2" title="Podsumowanie" class="full" %}
 {:/}
 
-Ta strona przedstawia różne dokumenty pomocnicze (WCAG) 2 i dodatkowe wytyczne.  Pomaga się zorientować, gdzie szukać odpowiednich informacji.
+Ta strona przedstawia różne dokumenty pomocnicze WCAG 2 i dodatkowe wytyczne.  Pomaga się zorientować, gdzie szukać odpowiednich informacji.
 
 {::nomarkdown}
 {% include box.html type="end" %}
