@@ -93,7 +93,7 @@ Więcej informacji:
 
 ### Techniki
 
-<cite>Techniki dla WCAG 2</cite> podają konkretne wskazówki **dla programistów**, jak tworzyć dostępne treści internetowe. Zawierają ogólne i specyficzne dla technologii przykłady, w tym dla HTML / XHTML, CSS, skryptów, multimediów oraz WAI-ARIA.
+<cite>Techniki dla WCAG 2</cite> podają konkretne wskazówki **dla programistów**, jak tworzyć dostępne treści internetowe. Zawierają ogólne i specyficzne dla technologii przykłady, w tym dla HTML, CSS, skryptów, multimediów oraz WAI-ARIA.
 
 
 - **Techniki wystarczające** są przykładami sposobów spełnienia kryteriów sukcesu. Jeśli zastosujesz techniki wystarczające, spełnisz kryteria sukcesu.
