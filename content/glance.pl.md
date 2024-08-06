@@ -44,7 +44,7 @@ Przedstawia sparafrazowane streszczenie Wytycznych dla dostępności treści int
 
 Zapoznaj się z następującymi kluczowymi materiałami do nauki i korzystania z WCAG 2:
 -   **[[Omówienie WCAG]](/standards-guidelines/wcag/)**
--   **[[Dokumenty WCAG 2]](/standards-guidelines/wcag/docs/pl)**
+-   **[[Dokumenty WCAG 2]](/standards-guidelines/wcag/docs/)**
 
 Normatywne specyfikacje techniczne są na stronach [www.w3.org/TR/WCAG22](https://www.w3.org/TR/WCAG22/) (oryginalna wersja angielska) i [https://www.w3.org/Translations/WCAG21-pl/](https://www.w3.org/Translations/WCAG21-pl/) (autoryzowane tłumaczenie WCAG 2.1 na język polski)
 
