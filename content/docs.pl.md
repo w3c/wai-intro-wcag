@@ -69,7 +69,7 @@ Podczas tworzenia treści internetowych i narzędzi internetowych większość o
 
 **Kluczowym zasobem dla projektantów i programistów korzystających z WCAG 2 jest [Jak spełnić WCAG 2 (Krótki przewodnik): Konfigurowalne szybkie odniesienie do wymagań WCAG 2 (kryteria sukcesu) i technik](https://www.w3.org/WAI/WCAG22/quickref/).** Zawiera wszystkie wytyczne WCAG 2 i kryteria sukcesu. Zasadniczo jest to lista kontrolna WCAG 2.
 
-Możesz dostosować Jak spełnić WCAG 2, aby pokazać, co Cię interesuje w tym czasie. Istnieją „filtry” dla różnych ról, tematów i technologii (takich jak HTML, CSS, ARIA). Możesz także wybrać wyświetlanie [kryteriów sukcesu na poziomie A, AA lub AAA](https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels)).
+Możesz dostosować Jak spełnić WCAG 2, aby pokazać, co Cię interesuje w tym czasie. Istnieją „filtry” dla różnych ról, tematów i technologii (takich jak HTML, CSS, ARIA). Możesz także wybrać wyświetlanie [kryteriów sukcesu na poziomie A, AA lub AAA](https://www.w3.org/WAI/WCAG22/Understanding/conformance#levels).
 
 ## Dokumenty pomocnicze
 
