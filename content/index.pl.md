@@ -160,4 +160,4 @@ Zapoznaj się z [[FAQ dla WCAG 2]](/standards-guidelines/wcag/faq/), aby uzyska�
 -   **Zastosowanie WCAG 2 [dokumentów i oprogramowania](/standards-guidelines/wcag/faq/#wcag2ict)**
 -   i inne...
 
-Informacje na temat wczesnej wersji roboczej W3C Accessibility Guidelines 3.0 (dawniej znanej jako "Sliver") można znaleźć na stronie **[Wprowadzenie do WCAG 3](/standards-guidelines/wcag/wcag3-intro/)**.
+Informacje na temat wczesnej wersji roboczej W3C Accessibility Guidelines 3.0 (dawniej znanej jako "Silver") można znaleźć na stronie **[Wprowadzenie do WCAG 3](/standards-guidelines/wcag/wcag3-intro/)**.
