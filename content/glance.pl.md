@@ -46,12 +46,13 @@ Zapoznaj się z następującymi kluczowymi materiałami do nauki i korzystania z
 -   **[[Omówienie WCAG]](/standards-guidelines/wcag/)**
 -   **[[Dokumenty WCAG 2]](/standards-guidelines/wcag/docs/)**
 
-Normatywne specyfikacje techniczne są na stronach [www.w3.org/TR/WCAG22](https://www.w3.org/TR/WCAG22/) (oryginalna wersja angielska) i [https://www.w3.org/Translations/WCAG21-pl/](https://www.w3.org/Translations/WCAG21-pl/) (autoryzowane tłumaczenie WCAG 2.1 na język polski)
+Normatywne specyfikacje techniczne są na stronach [www.w3.org/TR/WCAG22](https://www.w3.org/TR/WCAG22/)
+i [www.w3.org/TR/WCAG21](https://www.w3.org/TR/WCAG21). Istnieje również [autoryzowane tłumaczenie WCAG 2.1 na język polski](https://www.w3.org/Translations/WCAG21-pl/). 
 
 ## Wytyczne
 
 {::nomarkdown}
-{% include box.html type="start" title="Postrzegalne" h=3 class="large" %}
+{% include box.html type="start" title="Postrzegalność" h=3 class="large" %}
 {:/}
 
 -   Zapewnij **[alternatywy tekstowe](https://www.w3.org/WAI/WCAG22/quickref/#text-equiv)** dla treści nietekstowych.
@@ -65,7 +66,7 @@ Normatywne specyfikacje techniczne są na stronach [www.w3.org/TR/WCAG22](https:
 
 
 {::nomarkdown}
-{% include box.html type="start" title="Funkcjonalne" h=3 class="large" %}
+{% include box.html type="start" title="Funkcjonalność" h=3 class="large" %}
 {:/}
 
 -   Zapewnij dostępność wszystkich funkcjonalności za pomocą **[klawiatury](https://www.w3.org/WAI/WCAG22/quickref/#keyboard-operation)**.
@@ -79,7 +80,7 @@ Normatywne specyfikacje techniczne są na stronach [www.w3.org/TR/WCAG22](https:
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Zrozumiałe" h=3 class="large" %}
+{% include box.html type="start" title="Zrozumiałość" h=3 class="large" %}
 {:/}
 
 -   Dbaj, aby tekst był **[czytelny i zrozumiały](https://www.w3.org/WAI/WCAG22/quickref/#meaning)**.
@@ -91,7 +92,7 @@ Normatywne specyfikacje techniczne są na stronach [www.w3.org/TR/WCAG22](https:
 {:/}
 
 {::nomarkdown}
-{% include box.html type="start" title="Solidne" h=3 class="large" %}
+{% include box.html type="start" title="Solidność" h=3 class="large" %}
 {:/}
 
 -   Zapewnij jak największą **[kompatybilność](https://www.w3.org/WAI/WCAG22/quickref/#ensure-compat)** z aktualnymi i przyszłymi narzędziami użytkownika.
@@ -102,7 +103,7 @@ Normatywne specyfikacje techniczne są na stronach [www.w3.org/TR/WCAG22](https:
 
 ## Wersje
 
-Ta strona podsumowuje WCAG na poziomie wytycznych. Wytyczne są takie same w WCAG 2.1 i WCAG 2.2. Aby dowiedzieć się więcej o nowych kryteriach sukcesu, zobacz [[Nowe w WCAG 2.2]](/standards-guidelines/wcag/new-in-22/pl).
+Ta strona podsumowuje WCAG na poziomie wytycznych. Wytyczne są takie same w WCAG 2.1 i WCAG 2.2. Aby dowiedzieć się więcej o nowych kryteriach sukcesu, zobacz [[Nowe w WCAG 2.2]](/standards-guidelines/wcag/new-in-22/).
 
 [[WCAG 2.0 w skrócie]](/standards-guidelines/wcag/20/glance/) różnią się w dwóch miejscach w stosunku do powyższych:
 * „Nie używaj treści, które powodują drgawki lub dolegliwości fizyczne.” nie zawierają słów „lub dolegliwości fizyczne”.

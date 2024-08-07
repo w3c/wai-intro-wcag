@@ -77,10 +77,10 @@ Dokumenty pomocnicze odnoszą się bezpośrednio do wytycznych WCAG i kryteriów
 
 ### Objaśnienia
 
-<cite>Objaśnienia WCAG</cite> to przewodnik pomagający zrozumieć i wdrożyć WCAG.  Zawiera dodatkowe informacje dla osób, które chcą dokładniej zrozumieć wytyczne i kryteria sukcesu. Przedstawia on:
+<cite>Objaśnienia WCAG</cite> to przewodnik pomagający zrozumieć i wdrożyć WCAG. Zawiera dodatkowe informacje dla osób, które chcą dokładniej zrozumieć wytyczne i kryteria sukcesu. Przedstawia on:
 
 - intencje
-- jak wymagania WCAG pomagają osobom z różnymi niepełnosprawnościami
+- jak pomagają osobom z różnymi niepełnosprawnościami
 - uwagi o wsparciu przeglądarek i technologii wspomagających
 - przykłady
 - materiały
@@ -106,18 +106,18 @@ Więcej informacji:
 - [Lista technik dla WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
 - [Lista technik dla WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)
 
-### Zasady testowania zgodności (ACT)
+### Zasady testowania zgodności dostępności (ACT)
 
-<cite>Zasady testowania zgodności (ACT)</cite> opisują sposoby sprawdzania zgodności z kryteriami sukcesu WCAG. Ich zadaniem jest przede wszystkim opracowywanie narzędzi ewaluacyjnych i metodologii testów. (Są one bardziej niezawodne niż testy przedstawiane w omówieniach technik.)
+<cite>Zasady testowania zgodności dostępności (ACT)</cite> opisują sposoby sprawdzania zgodności z kryteriami sukcesu WCAG. Ich zadaniem jest przede wszystkim opracowywanie narzędzi ewaluacyjnych i metodologii testów. (Są one bardziej niezawodne niż testy przedstawiane w omówieniach technik.)
 
 * [O zasadach testowania zgodności (ACT) WCAG 2](/standards-guidelines/act/rules/about/)
 * [Lista wszystkich zasad testowania zgodności (ACT) WCAG 2](/standards-guidelines/act/rules/)
 
-## Dodatkowe wytyczne {#supplement}
+## Wytyczne uzupełniające {#supplement}
 
-Dodatkowe wytyczne wykraczają poza wymagania WCAG. **Nie są wymagane**, aby spełnić wymagania WCAG. Ale zastosowanie wielu z tych wskazówek jest niezbędne, aby zapewnić dostępność ososobom z pewnymi zaburzeniami, w tym z trudnościami poznawczymi i trudnościami w uczeniu się.
+Wytyczne uzupełniające wykraczają poza wymagania WCAG. **Nie są wymagane**, aby spełnić wymagania WCAG. Ale zastosowanie wielu z tych wskazówek jest niezbędne, aby zapewnić dostępność ososobom z pewnymi zaburzeniami, w tym z trudnościami poznawczymi i trudnościami w uczeniu się.
 
-* **[O dodatkowych wytycznych](/WCAG2/supplemental/about/)**
+* **[O uzupełniających wytycznych](/WCAG2/supplemental/about/)**
 * **[Lista wszystkich dodatkowych wytycznych](/WCAG2/supplemental/)**
 
 ## Dodatkowe materiały
@@ -142,11 +142,11 @@ Zachęcamy Cię do rozejrzenia się po witrynie W3C WAI, aby znaleźć inne info
 
 Diagram poniżej przedstawia różne dokumenty WCAG 2 przeznaczone do różnych celów. Wykorzystuje „WCAG 2.0”, ale nadal ma zastosowanie do WCAG 2.1 i WCAG 2.2.
 
-{% include image.html src="wcag20docs-pl.svg" alt="" %}
+{% include image.html src="wcag20docs.png" alt="" %}
 
 Nieuwzględnione na starym schemacie:
 * Zasady testowania
-* Dodatkowe wytyczne
+* Wytyczne uzupełniające
 
 **Długi opis:**
 

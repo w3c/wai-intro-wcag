@@ -75,7 +75,7 @@ Dokumenty WCAG wyjaśniają, jak zwiększyć dostępność treści internetowych
 
 ## Dla kogo są WCAG {#for}
 
-WCAG są dla tych, którzy potrzebują standardu technicznego. **To nie jest wprowadzenie do dostępności. Łącza do materiałów wprowadzających można znaleźć w sekcji [“Where should I start?” w FAQ FAQ](/standards-guidelines/wcag/faq/#start).**
+WCAG są dla tych, którzy potrzebują standardu technicznego. **To nie jest wprowadzenie do dostępności. Łącza do materiałów wprowadzających można znaleźć w sekcji [<q>Od czego zacząć?</q> w FAQ FAQ](/standards-guidelines/wcag/faq/#start).**
 
 WCAG są przeznaczone przede wszystkim dla:
 
@@ -84,7 +84,7 @@ WCAG są przeznaczone przede wszystkim dla:
 -   twórców narzędzi do oceny dostępności internetowej
 -   innych osób, które potrzebują standardu dostępności internetowej, w tym dostępności aplikacji mobilnych.
 
-Aby zaspokoić potrzeby wielu różnych osób, w tym decydentów, menedżerów, badaczy i innych - istnieje wiele różnych  [[materiałów WAI]](/resources/).
+Aby zaspokoić potrzeby wielu innych osób, w tym decydentów, menedżerów i badaczy - istnieje wiele różnych  [[materiałów WAI]](/resources/).
 
 ## Co jest w WCAG 2 {#whatis2}
 
@@ -96,20 +96,21 @@ Kryteria sukcesu określają „zgodność” z WCAG. Oznacza to, że aby spełn
 
 Krótkie podsumowanie wytycznych WCAG 2 można znaleźć w artykule **[[WCAG 2 w skrócie]](/standards-guidelines/wcag/glance/)**.
 		
-### Materiały pomocnicze i dodatkowe wskazówki {#supplement}
+### Materiały pomocnicze i wytyczne uzupełniające {#supplement}
 
 Poza WCAG, poniższe materiały pomagają zrozumieć i wdrażać WCAG oraz poprawiać dostępność:
 * Krótki przewodnik / Jak spełnić WCAG 2 / Lista kontrolna
 * Objaśnienia WCAG 2
 * Techniki dla WCAG 2
 * Zasady testowania dla WCAG 2
-* Dodatkowe wytyczne
+* Wytyczne uzupełniające
 
 **Zapoznaj się z tymi zasobami WCAG 2 w [dokumentacji WCAG 2](/standards-guidelines/wcag/docs/).**
 
 ## WCAG 2.0, 2.1, 2.2 {#versions}
 
-Standardy Wytyczne dla dostępności treści internetowych (WCAG) są stabilne i można się do nich odwoływać,  kiedy są opublikowane jako 'Rekomendacja W3C'.
+Standardy <q>Wytyczne dla dostępności treści internetowych</q> (WCAG) są stabilne i można się do nich odwoływać, kiedy standard internetowy jest opublikowany jako 'Rekomendacja W3C'.
+
 
 * [WCAG 2.0](https://www.w3.org/TR/WCAG20/) zostały opublikowane 11 grudnia 2008 roku.
 * [WCAG 2.1](https://www.w3.org/TR/WCAG21/) zostały opublikowane 5 czerwca 2018 r., a ich aktualizacja została opublikowana 21 września 2023 r. Artykuł [WCAG 2 FAQ](https://www.w3.org/WAI/standards-guidelines/wcag/faq/) zawiera informacje na temat aktualizacji.
@@ -125,12 +126,12 @@ Wszystkie kryteria sukcesu z 2.0 są zawarte w 2.1, a wszystkie z 2.1 są zawart
 		
 Kilka rzeczy uległo zmianie, a aktualizacje w odpowiednich dokumentach mają zapewnić kompatybilność wsteczną w praktyce. Główną zmianą jest to, że w WCAG 2.2 jedno kryterium sukcesu (4.1.1 Poprawność kodu) jest przestarzałe. Uwagi dodane do errat WCAG 2.1 i WCAG 2.0 odnoszą się do tego, jak wyjaśniono w [FAQ dla WCAG 2, 4.1.1 Poprawność kodu](/standards-guidelines/wcag/faq/#parsing411). WCAG 2.2 zawiera również uwagi dotyczące różnych języków; więcej informacji można znaleźć w [FAQ dla WCAG 2, internationalizacja](/standards-guidelines/wcag/faq/#i18n22).
 
-WCAG 2.0, WCAG 2.1 i WCAG 2.2  to obowiązujące standardy.  WCAG 2.2 nie deprecjonuje ani nie zastępuje WCAG 2.1, a WCAG 2.1 nie deprecjonuje ani nie zastępuje WCAG 2.0. W3C zachęca do korzystania z najnowszej wersji WCAG.
+WCAG 2.0, WCAG 2.1 i WCAG 2.2  to istniejące standardy.  WCAG 2.2 nie deprecjonuje, ani nie zastępuje WCAG 2.1, a WCAG 2.1 nie deprecjonuje, ani nie zastępuje WCAG 2.0. W3C zachęca do korzystania z najnowszej wersji WCAG.
 
 
 ## Tłumaczenia {#translations}
 
-Autoryzowane tłumaczenia i nieoficjalne tłumaczenia WCAG 2 są wymienione w sekcji [[Tłumaczenia WCAG 2]](/standards-guidelines/wcag/translations/).
+Autoryzowane tłumaczenia i nieoficjalne tłumaczenia WCAG 2 są wymienione na stronie [[Tłumaczenia WCAG 2]](/standards-guidelines/wcag/translations/).
 
 ## WCAG 2.0 to norma ISO/IEC 40500 {#iso}
 
