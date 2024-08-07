@@ -5,7 +5,7 @@
 title: "Omówienie WCAG 2"
 nav_title: "Treść Web – WCAG 2"
 lang: pl  # Change "en" to the translated-language shortcode
-last_updated: 2024-03-28  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-08-07  # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators:
   - name: "Stefan Wajda"
