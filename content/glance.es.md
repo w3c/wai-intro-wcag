@@ -32,7 +32,7 @@ footer: >
   <p><strong>Editores:</strong> <a href="http://www.w3.org/People/Shawn">Shawn Lawton Henry</a> y Wayne Dick.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) y el Grupo de Trabajo de Pautas de Accesibilidad (<a href="http://www.w3.org/WAI/GL/">AG WG</a>).</p>
 
-# Read Translations Notes for this resource at https://github.com/w3c/wai-intro-wcag#readme
+# Read Translations Notes for this resource at https://www.w3.org/WAI/about/translating/resources/resource-specific-instructions/
 ---
 
 {::nomarkdown}

@@ -29,7 +29,7 @@ footer: >
   <p><strong>Redaktorzy:</strong> <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a> i Wayne Dick.</p>
   <p>Opracowane z udziałem Grupy Roboczej ds. Edukacji i Kontaktów Zewnętrznych (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>) oraz Grupy Roboczej ds. wytycznych dla dostępności (<a href="https://www.w3.org/WAI/GL/">AG WG</a>).</p>
 
-# Przeczytaj uwagi dotyczące tłumaczenia tego zasobu na stronie https://github.com/w3c/wai-intro-wcag#readme
+# Przeczytaj uwagi dotyczące tłumaczenia tego zasobu na stronie https://www.w3.org/WAI/about/translating/resources/resource-specific-instructions/
 ---
 
 {::nomarkdown}

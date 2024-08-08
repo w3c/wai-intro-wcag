@@ -10,8 +10,8 @@ last_updated: 2024-08-07 # Put the date of this translation YYYY-MM-DD (with mon
 
 translators:
   - name: "Stefan Wajda"
-# contributors:
-# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+contributors:
+  - name: "Jakub Cabak"
 
 github:
   repository: w3c/wai-intro-wcag
@@ -33,6 +33,7 @@ footer: >
    <p><strong>Redaktor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Współpraca: <a href="https://www.w3.org/People/hidde/">Hidde de Vries</a> i <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
    <p>Opracowane z udziałem Grupy Roboczej ds. Edukacji i Promocji (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
+# Przeczytaj uwagi dotyczące tłumaczenia tego zasobu na stronie https://www.w3.org/WAI/about/translating/resources/resource-specific-instructions/
 ---
 
 {::nomarkdown}
