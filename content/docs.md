@@ -35,6 +35,7 @@ footer: >
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributors: <a href="https://www.w3.org/People/hidde/">Hidde de Vries</a> and <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.</p>
    <p>Developed with input from the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/about/groups/eowg/">EOWG</a>).</p>
 
+# Read Translations Notes for this resource at https://www.w3.org/WAI/about/translating/resources/resource-specific-instructions/
 ---
 
 {::nomarkdown}
