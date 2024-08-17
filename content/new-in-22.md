@@ -430,4 +430,4 @@ Help users avoid and correct mistakes.
 
 These personas are representations of people with disabilities developed from qualitative data on real people.
 
-The linked persona roles go to the [[Stories of Web Users]](/people-use-web/user-stories/archived). That page has other personas with different disabilities.
+The linked persona roles go to the [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/archived). That page has other personas with different disabilities.
