@@ -1,9 +1,12 @@
-# wai-intro-wcag
+> [!IMPORTANT]
+> This repository has been archived 19 August 2024.
+>
+> [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) introductory resources are now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
+>
+> WCAG standard and associated understanding documents and techniques are developed in the [wcag](https://github.com/w3c/wcag) repository.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/08faf26f-af6b-433f-a4dc-2745abc2402e/deploy-status)](https://app.netlify.com/sites/wai-intro-wcag/deploys)
+## Archived info
 
-Preview: https://wai-intro-wcag.netlify.com/
-
-## Translation Notes
+### Translation Notes
 
 See [Resource-Specific Translation Instructions](https://www.w3.org/WAI/about/translating/resources/resource-specific-instructions/)
