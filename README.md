@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repository has been archived 19 August 2024.
+> This repository has been archived 20 August 2024.
 >
 > [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) introductory resources are now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
 >
